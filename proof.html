@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Technical Proof Path - Alex Gerlitz</title>
+  <meta name="description" content="My fast technical proof path: public demo, CI, role evidence, runbooks, incident surface, proof repositories, and review links.">
+  <link rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/proof.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Technical Proof Path - Alex Gerlitz">
+  <meta property="og:description" content="Public demo, CI, role evidence, runbooks, incident surface, proof repositories, and review links.">
+  <meta property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/proof.html">
+  <meta property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Technical Proof Path - Alex Gerlitz">
+  <meta name="twitter:description" content="A fast route for technical reviewers to inspect public proof, CI, docs, runbooks, and recovery behavior.">
+  <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <style>
+    :root { --ink: #18202a; --muted: #52616f; --line: #d8e0e7; --paper: #f7f8fa; --panel: #fff; --accent: #0f766e; --blue: #1d4ed8; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: var(--ink); background: var(--paper); line-height: 1.55; }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .shell { max-width: 980px; margin: 0 auto; padding: 28px 20px 48px; }
+    .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+    .nav a, .button { display: inline-flex; align-items: center; justify-content: center; min-height: 38px; border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; background: var(--panel); color: var(--ink); font-weight: 650; }
+    .button.primary { border-color: var(--accent); background: var(--accent); color: #fff; }
+    .hero, .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 16px 34px rgba(24, 32, 42, 0.08); }
+    .hero { padding: 28px; margin-bottom: 18px; }
+    .panel { padding: 22px; margin-top: 16px; }
+    .eyebrow { color: var(--accent); font-weight: 760; text-transform: uppercase; font-size: 0.78rem; }
+    h1 { margin: 8px 0 10px; font-size: clamp(2rem, 5vw, 3.1rem); line-height: 1.05; letter-spacing: 0; }
+    h2 { margin: 0 0 12px; font-size: 1.25rem; }
+    p { margin: 0 0 12px; }
+    .lead { max-width: 780px; color: var(--muted); font-size: 1.08rem; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    ul, ol { margin: 0; padding-left: 20px; }
+    li { margin: 7px 0; }
+    @media (max-width: 760px) { .grid { grid-template-columns: 1fr; } h1 { font-size: 2rem; } }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <nav class="nav" aria-label="Profile navigation">
+      <a href="./">Portfolio</a>
+      <a href="./one-page-brief.html">Short proof</a>
+      <a href="./fixed-scope-offers.html">Fixed-scope offers</a>
+      <a href="./resume.html">Resume</a>
+      <a href="./drivedesk-core-review.html">DriveDesk review</a>
+      <a href="https://github.com/AlexGerlitz">GitHub</a>
+    </nav>
+    <section class="hero">
+      <div class="eyebrow">Technical proof</div>
+      <h1>Proof that can be inspected, not just claimed.</h1>
+      <p class="lead">A fast route for reviewers to check public demos, CI, backend/platform work, AI workflow systems, DevOps discipline, docs, runbooks, incident handling, and recovery behavior.</p>
+      <p><a class="button primary" href="./verification-pack.html">Open full technical pack</a></p>
+    </section>
+    <section class="grid">
+      <div class="panel">
+        <h2>Start Here</h2>
+        <ol>
+          <li>Open <a href="./drivedesk-core-review.html">DriveDesk Core review</a>.</li>
+          <li>Open the public demo and latest CI/Pages runs.</li>
+          <li>Scan the role evidence and proof repository matching the role.</li>
+          <li>Check tests, docs, demo paths, runbooks, and recovery notes.</li>
+        </ol>
+      </div>
+      <div class="panel">
+        <h2>Proof Repositories</h2>
+        <ul>
+          <li><a href="./drivedesk-core-review.html">DriveDesk Core</a>: backend/platform and integration foundation.</li>
+          <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md">AI Ops offer demo</a>: RAG, transcript analysis, scoring, approval queue, Telegram callback approval, dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight, idempotent outbox drain, and opt-in worker.</li>
+          <li><a href="https://github.com/AlexGerlitz/deploymate">DeployMate</a>: DevOps, release, and recovery discipline.</li>
+          <li><a href="https://github.com/AlexGerlitz/MPlusForm">MPlusForm</a>: validation and trust-boundary work.</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

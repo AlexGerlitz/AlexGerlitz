@@ -1,0 +1,107 @@
+# Work With Me
+
+I build remote-first backend, AI automation, integration, and DevOps systems for business operations.
+
+The strongest fit is a real workflow with unclear requirements, scattered data, manual operator work,
+or fragile deployment/recovery. I use AI heavily to move faster, but the deliverable still has to be
+engineered: tested, documented, deployed, observable, and understandable after the first demo.
+
+For the shortest service overview, see [Remote AI Automation Services](./SERVICES.md).
+For the fastest contact route, see [Start Here](./START_HERE.md).
+For concrete project packages and budget signals, see
+[Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
+For useful first context, see [Inbound Brief](./INTAKE_BRIEF.md).
+
+## Best Entry Points
+
+### 1. Workflow Teardown + Working Slice
+
+Best when the problem is still messy.
+
+Input:
+
+- A process description, chat history, spreadsheet, screenshots, CRM export, or existing docs.
+- A clear success condition, even if the implementation path is unclear.
+
+Output:
+
+- Process breakdown and risky assumptions.
+- Minimal data model and integration map.
+- First working slice that proves the direction.
+- Next-step implementation plan with tradeoffs.
+
+### 2. AI Ops / RAG Workflow MVP
+
+Best when people waste time reading, searching, routing, summarizing, scoring, or approving work.
+
+Output can include:
+
+- Document/transcript/ticket ingestion.
+- Retrieval and answer workflow.
+- Summaries, classification, scoring, routing, or approval queues.
+- Operator-facing API/admin flow.
+- Tests, smoke checks, and a runbook.
+
+### 3. Integration Adapter
+
+Best when systems need to exchange business data reliably.
+
+Targets can include 1C, CRM/ERP, banking/accounting boundaries, custom databases, webhooks, or public
+APIs.
+
+Output can include:
+
+- Source/target contract.
+- Mapping and validation rules.
+- Sync/retry/logging path.
+- Smoke checks and rollout notes.
+- Operational documentation for debugging and extension.
+
+### 4. Internal Operations Platform
+
+Best when a business needs a small, owned system instead of another spreadsheet or chat process.
+
+Output can include:
+
+- FastAPI/PostgreSQL backend.
+- Roles, permissions, audit trail, records, tasks, notifications, or admin workflows.
+- Docker deployment path.
+- Health checks, tests, docs, and recovery notes.
+
+### 5. DevOps / Release / Recovery Hardening
+
+Best when a service exists but is painful to deploy, observe, back up, or recover.
+
+Output can include:
+
+- Docker Compose/service cleanup.
+- CI/release gates.
+- Logs, health checks, smoke checks, and evidence capture.
+- Backup/restore and rollback path.
+- Runbook for future operators.
+
+## How I Price Scope
+
+I prefer fixed-scope work when the expected output can be clearly described. The quote depends on:
+
+- Business outcome and urgency.
+- Data sources and system boundaries.
+- Whether credentials, APIs, test data, and deployment access are available.
+- Required reliability, docs, tests, and handoff depth.
+
+If the scope is unclear, the first paid step should be a small discovery/build slice with a concrete
+success condition. That gives both sides real evidence before committing to a bigger build.
+
+For common project shapes, timeboxes, and budget signals, use the
+[Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
+
+## What I Need From You
+
+Send:
+
+- The business process or problem.
+- The current tools/data/systems involved.
+- What "done" means in practical terms.
+- Any hard constraints: budget, deadline, stack, hosting, compliance, language, access limits.
+
+I will respond with the smallest responsible path to a working result.

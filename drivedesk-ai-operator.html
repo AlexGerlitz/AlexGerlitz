@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DriveDesk AI Operator - Alex Gerlitz</title>
+  <meta name="description" content="DriveDesk AI Operator: AI sales and support workflow platform with document/transcript/lead intake, RAG, OpenAI/Claude/Gemini provider boundary, call-audio transcription, transcript analysis, Telegram approval, n8n orchestration, CRM adapter contracts, FastAPI, PostgreSQL, Docker, CI, audit logs, and runbooks.">
+  <link rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DriveDesk AI Operator - AI Sales & Support Workflow Platform">
+  <meta property="og:description" content="A flagship AI workflow demo direction: document/transcript/lead intake, RAG, OpenAI/Claude/Gemini provider boundary, call-audio transcription, call analysis, lead scoring, Telegram approval, n8n orchestration, CRM adapter contracts, audit logs, retries, and production proof.">
+  <meta property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html">
+  <meta property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="DriveDesk AI Operator - Alex Gerlitz">
+  <meta name="twitter:description" content="AI sales/support workflow platform direction with backend-owned state, document intake, RAG, approvals, n8n, Telegram, CRM adapters, Docker, CI and runbooks.">
+  <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "@id": "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html#article",
+      "url": "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html",
+      "headline": "DriveDesk AI Operator",
+      "description": "AI sales and support workflow platform direction with document/transcript/lead intake, RAG, OpenAI/Claude/Gemini provider boundary, call-audio transcription, transcript analysis, approvals, n8n, Telegram, CRM adapter contracts, audit logs, retries, Docker, CI, and runbooks.",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Gerlitz",
+        "url": "https://alexgerlitz.github.io/AlexGerlitz/"
+      }
+    }
+  </script>
+  <style>
+    :root {
+      --ink: #18202a;
+      --muted: #52616f;
+      --line: #d8e0e7;
+      --paper: #f7f8fa;
+      --panel: #ffffff;
+      --accent: #0f766e;
+      --accent-strong: #0b4f4a;
+      --blue: #1d4ed8;
+      --blue-soft: #eef4ff;
+      --green-soft: #e9f7f4;
+      --amber-soft: #fff4e5;
+      --amber: #b45309;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: var(--paper);
+      line-height: 1.55;
+    }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .shell { max-width: 1120px; margin: 0 auto; padding: 28px 20px 48px; }
+    .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+    .nav a,
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 8px 12px;
+      background: var(--panel);
+      color: var(--ink);
+      font-weight: 650;
+    }
+    .button.primary { border-color: var(--accent); background: var(--accent); color: #fff; }
+    .button.primary:hover { background: var(--accent-strong); color: #fff; text-decoration: none; }
+    .hero,
+    .panel,
+    .step,
+    .proof {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: 0 16px 34px rgba(24, 32, 42, 0.08);
+    }
+    .hero { padding: 30px; margin-bottom: 18px; }
+    .eyebrow { color: var(--accent); font-weight: 760; text-transform: uppercase; font-size: 0.78rem; letter-spacing: 0; }
+    h1 { margin: 8px 0 10px; font-size: clamp(2rem, 5vw, 3.35rem); line-height: 1.05; letter-spacing: 0; }
+    h2 { margin: 0 0 12px; font-size: 1.25rem; }
+    h3 { margin: 0 0 8px; font-size: 1rem; }
+    p { margin: 0 0 12px; }
+    .lead { max-width: 900px; color: var(--muted); font-size: 1.08rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    .section { margin-top: 18px; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+    .two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    .panel,
+    .step,
+    .proof { padding: 20px; }
+    .panel p,
+    .step p,
+    .proof p { color: var(--muted); }
+    ul, ol { margin: 0; padding-left: 20px; }
+    li { margin: 7px 0; }
+    .tagline { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+    .tag {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 5px 9px;
+      background: var(--green-soft);
+      color: var(--accent-strong);
+      font-size: 0.86rem;
+      font-weight: 700;
+    }
+    .tag.blue { background: var(--blue-soft); color: var(--blue); }
+    .tag.amber { background: var(--amber-soft); color: var(--amber); }
+    pre {
+      margin: 0;
+      padding: 14px;
+      overflow: auto;
+      white-space: pre-wrap;
+      background: var(--blue-soft);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    @media (max-width: 920px) {
+      .grid,
+      .two { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 640px) {
+      .shell { padding: 18px 14px 32px; }
+      .hero { padding: 22px; }
+      .actions { display: grid; }
+      .button,
+      .nav a { width: 100%; }
+      h1 { font-size: 2rem; }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <nav class="nav" aria-label="Profile navigation">
+      <a href="./">Portfolio</a>
+      <a href="./flagship-platform.html">DriveDesk</a>
+      <a href="./drivedesk-core-review.html">Core review</a>
+      <a href="./application-pack.html">Role fit pack</a>
+      <a href="./role-fit.html">Role fit</a>
+      <a href="./fixed-scope-offers.html">Offers</a>
+      <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md">AI Ops role proof</a>
+    </nav>
+
+    <section class="hero">
+      <div class="eyebrow">Flagship killer-demo direction</div>
+      <h1>DriveDesk AI Operator: AI sales and support workflow platform.</h1>
+      <p class="lead">A company uploads documents, sends call audio, imports a transcript, or sends a CRM lead. The system runs RAG over the knowledge base, analyzes the conversation, scores the lead, extracts tasks, drafts a follow-up, asks for Telegram approval, and then creates a CRM task or comment through an adapter contract.</p>
+      <div class="actions">
+        <a class="button primary" href="./start-conversation.html">Start conversation</a>
+        <a class="button" href="./DRIVEDESK_AI_OPERATOR.md">GitHub-readable case</a>
+        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md">AI Ops role proof</a>
+        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md">AI Ops acceptance</a>
+        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md">Live owner proof</a>
+        <a class="button" href="./drivedesk-core-review.html">DriveDesk Core review</a>
+      </div>
+      <div class="tagline" aria-label="Stack">
+        <span class="tag">FastAPI</span>
+        <span class="tag">PostgreSQL/pgvector</span>
+        <span class="tag">RAG</span>
+        <span class="tag">n8n</span>
+        <span class="tag">Telegram</span>
+        <span class="tag">CRM adapter</span>
+        <span class="tag">Docker/CI</span>
+      </div>
+    </section>
+
+    <section class="grid section" aria-label="Workflow steps">
+      <article class="step">
+        <h2>Input</h2>
+        <p>Document, external file export, call recording, speech-to-text boundary, transcript, support chat, sales notes, knowledge-base file, CRM lead, or deal payload.</p>
+      </article>
+      <article class="step">
+        <h2>RAG + Analysis</h2>
+        <p>Ingestion, chunking, embeddings, retrieval, citations, summary, objections, risks, missing info, next step, and lead score.</p>
+      </article>
+      <article class="step">
+        <h2>Human Approval</h2>
+        <p>Telegram approval flow for approve, reject, or edit draft before any CRM action is created.</p>
+      </article>
+      <article class="step">
+        <h2>CRM Action</h2>
+        <p>Bitrix/CRM fake or sandbox adapter first, with a real contract for idempotency, retries, dead-letter handling, and audit.</p>
+      </article>
+      <article class="step">
+        <h2>Backend Ownership</h2>
+        <p>State, RAG data, audit trail, retries, integration contracts, quality checks, approval history, and testable API behavior live in backend.</p>
+      </article>
+      <article class="step">
+        <h2>Production Proof</h2>
+        <p>Docker Compose, CI, tests, screenshots, two-minute demo, runbook, metrics, and cost notes.</p>
+      </article>
+    </section>
+
+    <section class="section two">
+      <div class="panel">
+        <h2>Structured Output</h2>
+        <pre><code>{
+  "summary": "what happened",
+  "objections": ["price", "timing"],
+  "next_step": "send follow-up with pricing options",
+  "lead_score": 82,
+  "risks": ["budget unclear"],
+  "missing_info": ["decision maker", "deadline"],
+  "tasks": ["create CRM follow-up task"],
+  "draft_follow_up": "message for human approval"
+}</code></pre>
+      </div>
+      <div class="panel">
+        <h2>Operating Principle</h2>
+        <p>I use AI tooling as an engineering accelerator, but the responsibility stays with me: architecture, backend state, tests, logs, deployment, runbooks, and quality of the shipped result.</p>
+        <p>The key distinction: n8n orchestrates events through importable workflow artifacts; the backend owns state, RAG, audit, retries, and integration contracts.</p>
+      </div>
+    </section>
+
+    <section class="section grid" aria-label="Proof route">
+      <article class="proof">
+        <h2>DriveDesk Core</h2>
+        <p>Backend/platform foundation: tenants, RBAC, audit/outbox, workflow rules, adapters, OpenAPI, Docker, CI, docs, and demo.</p>
+        <p><a href="./drivedesk-core-review.html">Open review</a></p>
+      </article>
+      <article class="proof">
+        <h2>AI Ops Workflow Kit</h2>
+        <p>One-command offer demo plus importable n8n workflow artifact: document or sales playbook import, LLM and transcription provider boundaries, transcript analysis, RAG retrieval, lead scoring, approval queue, Telegram approval callback, dry-run CRM handoff, retry/dead-letter handling, idempotent outbox drain, and opt-in worker.</p>
+        <p><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit">Open repo</a> · <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md">Open public proof status</a> · <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md">Open live owner proof</a> · <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md">Open reviewer acceptance report</a> · <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml">Open CI workflow</a></p>
+      </article>
+      <article class="proof">
+        <h2>Role Fit Route</h2>
+        <p>Fast review route for roles around AI automation, backend/platform, LLM workflows, CRM integrations, DevOps, and internal tools.</p>
+        <p><a href="./application-pack.html">Open role fit pack</a></p>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

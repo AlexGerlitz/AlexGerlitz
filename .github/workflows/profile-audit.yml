@@ -1,0 +1,19 @@
+name: Profile Funnel Audit
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  public-profile-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Run public profile audit
+        run: python3 scripts/audit_public_profile.py

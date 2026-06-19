@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DriveDesk Core Review - Alex Gerlitz</title>
+  <meta name="description" content="10-minute technical review route for DriveDesk Core: public demo, FastAPI/PostgreSQL backend, adapter boundaries, CI, docs, runbooks, and recovery evidence.">
+  <link rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DriveDesk Core Review - Alex Gerlitz">
+  <meta property="og:description" content="A compact reviewer path for the public DriveDesk Core proof: demo, CI, OpenAPI, workflows, integrations, DevOps, and recovery evidence.">
+  <meta property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html">
+  <meta property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <meta property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="DriveDesk Core Review - Alex Gerlitz">
+  <meta name="twitter:description" content="10-minute route through public demo, CI, OpenAPI, workflow, integration, DevOps, and recovery proof.">
+  <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "@id": "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html#article",
+      "url": "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html",
+      "headline": "DriveDesk Core 10-Minute Review",
+      "description": "Public technical review route for DriveDesk Core: FastAPI, PostgreSQL, RBAC, audit/outbox, adapters, OpenAPI, CI, demo, docs, and recovery evidence.",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Gerlitz",
+        "url": "https://alexgerlitz.github.io/AlexGerlitz/"
+      }
+    }
+  </script>
+  <style>
+    :root {
+      --ink: #18202a;
+      --muted: #52616f;
+      --line: #d8e0e7;
+      --paper: #f7f8fa;
+      --panel: #ffffff;
+      --accent: #0f766e;
+      --accent-strong: #0b4f4a;
+      --blue: #1d4ed8;
+      --blue-soft: #eef4ff;
+      --green-soft: #e9f7f4;
+      --amber-soft: #fff4e5;
+      --amber: #b45309;
+      --shadow: 0 16px 34px rgba(24, 32, 42, 0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: var(--paper);
+      line-height: 1.55;
+    }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .shell { max-width: 1120px; margin: 0 auto; padding: 28px 20px 48px; }
+    .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+    .nav a,
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 8px 12px;
+      background: var(--panel);
+      color: var(--ink);
+      font-weight: 650;
+    }
+    .button.primary { border-color: var(--accent); background: var(--accent); color: #fff; }
+    .button.primary:hover { background: var(--accent-strong); color: #fff; text-decoration: none; }
+    .hero,
+    .panel,
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+    }
+    .hero { padding: 30px; margin-bottom: 18px; }
+    .eyebrow {
+      color: var(--accent);
+      font-weight: 760;
+      text-transform: uppercase;
+      font-size: 0.78rem;
+      letter-spacing: 0;
+    }
+    h1 { margin: 8px 0 10px; font-size: clamp(2rem, 5vw, 3.3rem); line-height: 1.05; letter-spacing: 0; }
+    h2 { margin: 0 0 12px; font-size: 1.25rem; }
+    h3 { margin: 0 0 8px; font-size: 1rem; }
+    p { margin: 0 0 12px; }
+    .lead { max-width: 850px; color: var(--muted); font-size: 1.08rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    .section { margin-top: 18px; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+    .two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    .panel,
+    .card { padding: 20px; }
+    .card p,
+    .panel p { color: var(--muted); }
+    ul, ol { margin: 0; padding-left: 20px; }
+    li { margin: 7px 0; }
+    .metric-row {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 16px;
+    }
+    .metric {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 12px;
+      background: #fbfcfd;
+    }
+    .metric strong { display: block; font-size: 0.95rem; }
+    .metric span { display: block; color: var(--muted); font-size: 0.86rem; margin-top: 3px; }
+    .tag-row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+    .tag {
+      border-radius: 999px;
+      padding: 4px 8px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      background: var(--blue-soft);
+      color: var(--blue);
+    }
+    .tag.green { background: var(--green-soft); color: var(--accent-strong); }
+    .tag.amber { background: var(--amber-soft); color: var(--amber); }
+    @media (max-width: 920px) {
+      .grid,
+      .two,
+      .metric-row { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 640px) {
+      .shell { padding: 18px 14px 32px; }
+      .hero { padding: 22px; }
+      .actions { display: grid; }
+      .button,
+      .nav a { width: 100%; }
+      h1 { font-size: 2rem; }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <nav class="nav" aria-label="Profile navigation">
+      <a href="./">Portfolio</a>
+      <a href="./role-fit.html">Role fit</a>
+      <a href="./verification-pack.html">Verification</a>
+      <a href="./flagship-platform.html">Flagship</a>
+      <a href="./fixed-scope-offers.html">Offers</a>
+      <a href="https://github.com/AlexGerlitz/drivedesk-core">GitHub repo</a>
+    </nav>
+
+    <section class="hero">
+      <div class="eyebrow">DriveDesk Core review</div>
+      <h1>Review the backend/platform proof in 10 minutes.</h1>
+      <p class="lead">DriveDesk Core is my public proof for the larger DriveDesk direction: FastAPI/PostgreSQL backend structure, tenant and RBAC boundaries, audit/outbox, workflow rules, adapter contracts, OpenAPI, CI, docs, public demo, and public-safe recovery evidence.</p>
+      <div class="actions">
+        <a class="button primary" href="https://github.com/AlexGerlitz/drivedesk-core">Open GitHub repo</a>
+        <a class="button" href="https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/">Open public demo</a>
+        <a class="button" href="https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839503182">Latest CI proof</a>
+        <a class="button" href="./start-conversation.html">Send a workflow</a>
+      </div>
+      <div class="metric-row" aria-label="Verified public signals">
+        <div class="metric"><strong>HTTP 200</strong><span>Public demo checked on 2026-06-20.</span></div>
+        <div class="metric"><strong>CI success</strong><span>Run 27839503182 on main.</span></div>
+        <div class="metric"><strong>Pages success</strong><span>Run 27839502765 deployed the demo.</span></div>
+        <div class="metric"><strong>Demo health</strong><span>Run 27839585284 passed.</span></div>
+      </div>
+    </section>
+
+    <section class="grid section" aria-label="What DriveDesk Core proves">
+      <article class="card">
+        <h2>Backend Shape</h2>
+        <p>FastAPI, PostgreSQL, Alembic, tenants, memberships, RBAC, current-user lookup, token/session boundaries, tenant-owned records, and OpenAPI contracts.</p>
+        <div class="tag-row"><span class="tag green">FastAPI</span><span class="tag">PostgreSQL</span><span class="tag">OpenAPI</span></div>
+      </article>
+      <article class="card">
+        <h2>Workflow Layer</h2>
+        <p>Business records, lifecycle transitions, workflow rules, task creation, adapter sync requests, audit events, outbox handoff, and operator-visible status.</p>
+        <div class="tag-row"><span class="tag green">Workflow</span><span class="tag">Audit</span><span class="tag">Outbox</span></div>
+      </article>
+      <article class="card">
+        <h2>Integration Layer</h2>
+        <p>Adapter catalog, mapping validation, transforms, connection scopes, operation contracts, accounting export, diagnostics, reconciliation, and incident runbooks.</p>
+        <div class="tag-row"><span class="tag green">Adapters</span><span class="tag">CRM/ERP</span><span class="tag">Runbooks</span></div>
+      </article>
+      <article class="card">
+        <h2>DevOps Evidence</h2>
+        <p>Docker Compose runtime, pytest coverage, CI, public demo checks, scheduled validation, backup/restore drill, rollback drill, SLO canary gate, Helm/OpenTofu/GitOps evidence.</p>
+        <div class="tag-row"><span class="tag amber">Docker</span><span class="tag">CI</span><span class="tag">Recovery</span></div>
+      </article>
+      <article class="card">
+        <h2>Reviewer Surface</h2>
+        <p>The repo is public, the demo is reachable, the README has a reviewer path, and the proof is inspectable through code, docs, Actions, scripts, and generated OpenAPI artifacts.</p>
+        <div class="tag-row"><span class="tag">Docs</span><span class="tag">Demo</span><span class="tag">Actions</span></div>
+      </article>
+      <article class="card">
+        <h2>Business Fit</h2>
+        <p>This is the strongest public anchor for backend/platform, internal tools, CRM/ERP/API integrations, operations automation, and remote-first delivery conversations.</p>
+        <div class="tag-row"><span class="tag green">Platform</span><span class="tag">Integrations</span><span class="tag">Remote</span></div>
+      </article>
+    </section>
+
+    <section class="two section">
+      <div class="panel">
+        <h2>10-Minute Review Path</h2>
+        <ol>
+          <li>Open the <a href="https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/">public demo</a> and scan workflow/integration screens.</li>
+          <li>Open the <a href="https://github.com/AlexGerlitz/drivedesk-core">GitHub repo</a> and README reviewer path.</li>
+          <li>Check <a href="https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839503182">latest CI</a>, <a href="https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839502765">Pages deploy</a>, and <a href="https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839585284">public demo health</a>.</li>
+          <li>Open <a href="https://github.com/AlexGerlitz/drivedesk-core/blob/main/docs/openapi.json">OpenAPI</a> and one docs path: <a href="https://github.com/AlexGerlitz/drivedesk-core/blob/main/docs/public/SYSTEM_DESIGN.md">system design</a>, <a href="https://github.com/AlexGerlitz/drivedesk-core/blob/main/docs/public/INTEGRATION_OPERATION_CONTRACTS.md">operation contracts</a>, or <a href="https://github.com/AlexGerlitz/drivedesk-core/blob/main/docs/public/OUTBOX_RECOVERY.md">outbox recovery</a>.</li>
+          <li>Use the result to decide whether to send a role, workflow, or technical problem.</li>
+        </ol>
+      </div>
+      <div class="panel">
+        <h2>Role Match</h2>
+        <ul>
+          <li><strong>Backend engineer:</strong> FastAPI/PostgreSQL, OpenAPI, tests, auth/session boundaries, tenant-owned records.</li>
+          <li><strong>Platform engineer:</strong> tenants, RBAC, audit/outbox, workers, docs, CI, release and validation paths.</li>
+          <li><strong>Integration engineer:</strong> adapter catalog, mapping/transform boundaries, scopes, diagnostics, reconciliation, incident runbooks.</li>
+          <li><strong>DevOps/recovery:</strong> scheduled validation, backup/restore, rollback, SLO gate, GitOps/OpenTofu/Helm evidence.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="panel section">
+      <h2>Fast Review Next Step</h2>
+      <p>The strongest evaluation path is a real workflow or role scope with one clear success condition. I can map the business process, identify the integration and operational risks, build the first working slice, and leave verification evidence through tests, logs, docs, runbooks, and demo links.</p>
+      <p><a class="button primary" href="./start-conversation.html">Start conversation</a></p>
+    </section>
+  </main>
+</body>
+</html>

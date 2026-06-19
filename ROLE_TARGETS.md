@@ -1,0 +1,96 @@
+# Remote Role Targets
+
+This page translates the portfolio into roles, search keywords, and first-month ownership. It is
+for technical reviewers, hiring teams, and clients who need to decide quickly whether to start a
+conversation.
+
+## Best Remote Role Matches
+
+| Role target | Why it fits | Evidence to review first |
+| --- | --- | --- |
+| Backend Engineer | I can build FastAPI/PostgreSQL systems with records, roles, audit, workflow state, OpenAPI, tests, Docker, and docs. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Skill Evidence](./SKILL_EVIDENCE.md) |
+| Platform Engineer | I think in operational boundaries: tenants, adapters, workers, contracts, SDK/OpenAPI surfaces, CI, and public proof paths. | [DriveDesk Core fast review route](https://github.com/AlexGerlitz/drivedesk-core), [Case Studies](./CASE_STUDIES.md) |
+| AI Automation Engineer | I can turn documents, transcripts, tickets, leads, or operator routines into RAG, summaries, scoring, routing, approvals, and reviewable workflows. | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md), [Remote Services](./SERVICES.md) |
+| LLM Workflow / RAG Engineer | I can build backend-owned AI workflows where retrieval, citations, analysis JSON, approvals, quality checks, and audit are inspectable instead of hidden inside no-code nodes. | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
+| AI / Operations Automation Lead | I can combine AI-assisted development, operations workflow analysis, API/integration boundaries, documentation, metrics, and human oversight into one delivery loop. | [Role Fit Pack](./APPLICATION_PACK.md), [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| DevOps / Self-Hosting Engineer | I can improve deployment, health checks, logs, CI/CD, release gates, backups, smoke checks, runbooks, and recovery paths. | [DeployMate](https://github.com/AlexGerlitz/deploymate), [Case Studies](./CASE_STUDIES.md) |
+| Integration Engineer | I can design explicit API/webhook/database adapter contracts for CRM, ERP, 1C, accounting, banking, and custom internal systems. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Remote Services](./SERVICES.md) |
+| Internal Tools / Ops Automation Engineer | I can turn spreadsheet/chat/manual operations into owned tools with data models, admin flows, roles, docs, deployment, and support paths. | [Proof of Work](./PROOF_OF_WORK.md), [Case Studies](./CASE_STUDIES.md) |
+
+## Search Keywords
+
+These are the terms that best match the current public proof:
+
+- Remote Backend Engineer
+- Remote Python Developer
+- FastAPI Engineer
+- Backend Platform Engineer
+- AI Automation Engineer
+- LLM Workflow Engineer
+- RAG Workflow Engineer
+- n8n AI Workflow Engineer
+- AI Sales Automation Engineer
+- AI Support Automation Engineer
+- Internal Tools Engineer
+- Business Automation Engineer
+- Integration Engineer
+- API Integration Engineer
+- CRM Integration Engineer
+- ERP Integration Engineer
+- DevOps Engineer
+- Self-Hosting Engineer
+- Docker / CI Engineer
+- Platform / Operations Engineer
+
+## First 30 Days I Can Own
+
+For a role, I am easiest to evaluate through a real workflow, not a generic exercise.
+
+| Area | First-month ownership I can take |
+| --- | --- |
+| Existing backend | Map the current flows, identify risky boundaries, add tests/smoke checks, improve docs, and ship a small feature or workflow slice. |
+| AI automation | Pick one document/transcript/ticket/operator workflow, build ingestion/retrieval or routing, add approval states, and prove it with repeatable tests. |
+| AI sales/support operator | Build the DriveDesk AI Operator slice: transcript/lead ingestion, RAG retrieval, analysis JSON, Telegram approval, CRM sandbox adapter, audit, retries, screenshots, and runbook. |
+| Integration work | Define source/target contracts, map data fields, add validation and logging, build a first sync/import path, and document rollout risks. |
+| DevOps / recovery | Add or tighten Docker/CI/health/logging/smoke checks, document backup/restore or rollback, and leave a runbook. |
+| Internal tools | Turn one manual workflow into records, roles, admin actions, notifications/tasks, and a deployable backend surface. |
+
+Detailed plan: [First 30 Days Delivery Plan](./FIRST_30_DAYS.md).
+
+## Client / Fixed-Scope Fit
+
+If the conversation is not a full-time role, the strongest project shapes are:
+
+- workflow teardown plus working slice;
+- AI ops / RAG workflow MVP;
+- CRM/ERP/1C/bank/API integration adapter;
+- internal operations platform;
+- DevOps/release/recovery hardening.
+
+Details: [Remote AI Automation Services](./SERVICES.md).
+
+## What I Do Not Need To Be Productive
+
+I do not need a perfectly specified task before starting. A useful starting point is enough:
+
+- a messy workflow;
+- a current tool or database;
+- a failing or manual process;
+- an API boundary;
+- a deadline and one success condition.
+
+I will turn that into assumptions, risks, a small working slice, and a verification plan.
+
+## Review Path
+
+Fastest review order:
+
+1. [Resume](./RESUME.md)
+2. [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
+3. [Role Fit](./ROLE_FIT.md)
+4. [Role / Project Brief](./ROLE_PROJECT_BRIEF.md)
+5. [First 30 Days Delivery Plan](./FIRST_30_DAYS.md)
+6. [Proof of Work](./PROOF_OF_WORK.md)
+7. [Engineering Case Studies](./CASE_STUDIES.md)
+8. [Skill Evidence Matrix](./SKILL_EVIDENCE.md)
+9. [Remote AI Automation Services](./SERVICES.md)

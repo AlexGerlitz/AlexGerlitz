@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexgerlitz.github.io/AlexGerlitz/sitemap.xml
