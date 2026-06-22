@@ -42,7 +42,7 @@ BAD_PATTERNS = [
     marker(r"building", r" toward"),
     marker(r"inter", r"view"),
     marker(r"со", r"бес"),
-    r"Alex Gerlitz is",
+    marker(r"Alex Gerlitz", r" is"),
     marker(r"This", r" candidate"),
     marker(r"the", r" candidate"),
 ]
