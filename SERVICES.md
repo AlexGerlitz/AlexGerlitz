@@ -122,7 +122,7 @@ Output can include:
 - [Fixed-scope offers](./FIXED_SCOPE_OFFERS.md) - concrete project menu with expected inputs,
   outputs, timeboxes, and budget signals.
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) - remote-only
-  service page with DriveDesk AI Operator proof sample.
+  service page with DriveDesk AI Operator and AI Ops Workflow Kit proof samples.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - AI/RAG workflow backend
   backend with transcript analysis, approval queues, pgvector-ready storage, Docker, and tests.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate) - self-hosted deployment control panel
