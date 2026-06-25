@@ -104,6 +104,16 @@ ROUTES: tuple[RouteCheck, ...] = (
         ),
     ),
     RouteCheck(
+        "services-md",
+        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/SERVICES.md",
+        (
+            "Remote AI Automation Services",
+            "remote-only backend, AI automation",
+            "DriveDesk AI Operator demo",
+            "Remote-only LinkedIn service page",
+        ),
+    ),
+    RouteCheck(
         "first-30-days",
         "https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html",
         ("First Month Delivery Plan", "First 48 Hours", "Week 2"),

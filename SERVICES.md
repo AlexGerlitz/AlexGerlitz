@@ -1,6 +1,6 @@
 # Remote AI Automation Services
 
-I build remote-first backend, AI automation, integration, and DevOps systems for business
+I build remote-only backend, AI automation, integration, and DevOps systems for business
 operations.
 
 The best fit is a concrete business workflow that is currently too manual, too fragile, or too
@@ -24,7 +24,7 @@ checks, deployment notes, and a handoff path.
 For concrete packages, timeboxes, and budget signals, see the
 [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
 
-LinkedIn service page:
+Remote-only LinkedIn service page:
 [linkedin.com/services/page/3153b734507b8a60ab](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
 ### 1. Workflow Teardown + Working Slice
@@ -146,5 +146,8 @@ Send:
 I will respond with the smallest responsible path to a working result: what can be proven first,
 what is risky, what should wait, and what evidence will show that the result actually works.
 
+The fastest route is the
+[LinkedIn Services page](https://www.linkedin.com/services/page/3153b734507b8a60ab/) or the
+[Start Conversation page](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html).
 For a concrete project menu, use the [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
 For concise first context, use the [Inbound Brief](./INTAKE_BRIEF.md).
