@@ -43,6 +43,10 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "DriveDesk AI Operator: backend-owned AI workflow proof",
             "FastAPI + PostgreSQL",
+            "Remote role decision",
+            "Project decision",
+            "Technical proof decision",
+            "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
             "Profile funnel health",
             "skill-evidence.html",
         ),
