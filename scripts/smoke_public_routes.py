@@ -42,6 +42,11 @@ ROUTES: tuple[RouteCheck, ...] = (
         ("AI Automation", "Backend / Platform"),
     ),
     RouteCheck(
+        "first-30-days",
+        "https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html",
+        ("First Month Delivery Plan", "First 48 Hours", "Week 2"),
+    ),
+    RouteCheck(
         "fixed-scope-offers",
         "https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html",
         ("Fixed-scope AI automation", "DriveDesk AI Operator Demo"),

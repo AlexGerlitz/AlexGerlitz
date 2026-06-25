@@ -60,6 +60,7 @@ REQUIRED_FILES = [
     "drivedesk-proof-route.html",
     "drivedesk-ai-operator.html",
     "projects.html",
+    "first-30-days.html",
     "fixed-scope-offers.html",
     "one-page-brief.html",
     "resume-pdf.html",
@@ -82,6 +83,7 @@ REQUIRED_TEXT = {
         "https://alexgerlitz.github.io/AlexGerlitz/projects.html",
         "https://www.linkedin.com/services/page/3153b734507b8a60ab/",
         "remote-only full-time roles",
+        "first month plan",
     ],
     "index.html": [
         '<link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">',
@@ -93,6 +95,7 @@ REQUIRED_TEXT = {
         "Live owner proof",
         "Live route smoke",
         "pinned proof repos",
+        "First month plan",
     ],
     "role-fit.html": [
         "AI Ops proof status",
@@ -103,6 +106,7 @@ REQUIRED_TEXT = {
         "Current Public Proof",
         "Live owner proof",
         "AI Operator case",
+        "First month plan",
     ],
     "drivedesk-ai-operator.html": [
         "Live owner proof",
@@ -132,6 +136,19 @@ REQUIRED_TEXT = {
         'name="twitter:card" content="summary_large_image"',
         "Clean public proof route",
         "Profile funnel health",
+        "First month plan",
+    ],
+    "first-30-days.html": [
+        "<title>First Month Delivery Plan - Alex Gerlitz</title>",
+        'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html"',
+        'property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html"',
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"',
+        'property="og:image:width" content="1200"',
+        'property="og:image:height" content="630"',
+        'name="twitter:card" content="summary_large_image"',
+        "First 48 Hours",
+        "Week 2",
+        "What I Need To Start",
     ],
     "fixed-scope-offers.html": [
         "backed by DriveDesk AI Operator proof",
@@ -176,6 +193,7 @@ SOCIAL_PREVIEW_PAGES = [
     "role-fit.html",
     "fixed-scope-offers.html",
     "start-conversation.html",
+    "first-30-days.html",
     "inbound-response.html",
 ]
 
