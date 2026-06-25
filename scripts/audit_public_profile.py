@@ -190,6 +190,8 @@ REQUIRED_TEXT = {
         "DriveDesk AI Operator demo",
         "Remote-only LinkedIn service page",
         "Fixed-Scope AI Automation Offers",
+        "https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html",
+        "GitHub-readable role keywords and skills mapped to",
     ],
     "SKILL_EVIDENCE.md": [
         "Skill Evidence Matrix",
@@ -235,6 +237,8 @@ REQUIRED_TEXT = {
         "Current Public Proof",
         "Live owner proof",
         "AI Operator case",
+        "./skill-evidence.html",
+        "Open skill evidence",
         "20-Second Message Shortcuts",
         "Does this match your AI automation / backend / platform direction?",
         "Can you suggest the first responsible slice?",
@@ -253,6 +257,8 @@ REQUIRED_TEXT = {
         "PDF resume",
         "First month plan",
         "DriveDesk AI Operator proof route",
+        "./skill-evidence.html",
+        "Skill evidence",
     ],
     "drivedesk-ai-operator.html": [
         "Live owner proof",

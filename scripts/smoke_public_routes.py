@@ -152,6 +152,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "remote-only backend, AI automation",
             "DriveDesk AI Operator demo",
             "Remote-only LinkedIn service page",
+            "skill-evidence.html",
         ),
     ),
     RouteCheck(
@@ -170,6 +171,8 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Current Public Proof",
             "AI Operator case",
+            "skill-evidence.html",
+            "Open skill evidence",
             "Best immediate starts",
             "20-Second Message Shortcuts",
             "Can you suggest the first responsible slice?",
@@ -185,6 +188,8 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Which proof route should we inspect first?",
             "Best immediate starts",
             "Message on LinkedIn",
+            "skill-evidence.html",
+            "Skill evidence",
             "PDF resume",
             "First month plan",
         ),

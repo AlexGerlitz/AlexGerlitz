@@ -120,6 +120,8 @@ Output can include:
   RAG, transcript analysis, lead scoring, Telegram approval, n8n, CRM adapter contracts, audit,
   retries, Docker, CI, runbook, and demo route.
 - [Resume](./RESUME.md) - short role-fit profile and proof summary.
+- [Skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) - skills mapped
+  to public repositories, docs, demos, CI, and runtime proof.
 - [Remote role targets](./ROLE_TARGETS.md) - roles and search keywords that match the
   public proof.
 - [Fixed-scope offers](./FIXED_SCOPE_OFFERS.md) - concrete project menu with expected inputs,
@@ -134,7 +136,7 @@ Output can include:
   validation boundaries, server-side trust checks, Windows automation, and docs.
 - [Proof of work summary](./PROOF_OF_WORK.md) - the fast reviewer path.
 - [Engineering case studies](./CASE_STUDIES.md) - problem, build, evidence, and operating proof.
-- [Skill evidence matrix](./SKILL_EVIDENCE.md) - role keywords and skills mapped to
+- [Skill evidence matrix](./SKILL_EVIDENCE.md) - GitHub-readable role keywords and skills mapped to
   public proof.
 
 ## How To Start
