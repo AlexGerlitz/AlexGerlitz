@@ -32,6 +32,18 @@ ROUTES: tuple[RouteCheck, ...] = (
         ("DriveDesk AI Operator: backend-owned AI workflow proof", "FastAPI + PostgreSQL", "Profile funnel health"),
     ),
     RouteCheck(
+        "ai-operator-case",
+        "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html",
+        (
+            "DriveDesk AI Operator: AI sales and support workflow platform",
+            "RAG + Analysis",
+            "Telegram approval flow",
+            "CRM adapter",
+            "Backend Ownership",
+            "Production Proof",
+        ),
+    ),
+    RouteCheck(
         "projects",
         "https://alexgerlitz.github.io/AlexGerlitz/projects.html",
         ("Selected Proof Projects", "AI Ops Workflow Kit - RAG"),
