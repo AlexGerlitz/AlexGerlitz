@@ -24,6 +24,20 @@ Useful first context:
 - what must not break;
 - deadline, hiring timeline, or first-month success condition.
 
+## Fast Message Shapes
+
+Remote role:
+
+`Role: <title>. Remote setup: <timezone / schedule>. Stack: <systems and tools>. First-month ownership: <what should improve>. Timeline: <process and next step>.`
+
+Fixed-scope project:
+
+`Workflow: <manual or fragile process>. Systems: <CRM / API / database / documents / approvals>. Success condition: <working outcome>. Constraints: <access, hosting, deadline, commercial range>.`
+
+Technical review:
+
+`Review target: <repo / demo / architecture>. I care about: <risk or claim>. Useful evidence: <CI, logs, docs, runbook, demo path>. Next decision: <hire / scope / technical fit>.`
+
 ## What I Can Evaluate Quickly
 
 - backend/platform systems;
