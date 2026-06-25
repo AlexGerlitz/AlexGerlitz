@@ -71,7 +71,7 @@ architecture, state, security boundaries, verification, deployment, logs, fixes,
 - [Proof of work](./PROOF_OF_WORK.md)
 - [Fixed-scope offers](./FIXED_SCOPE_OFFERS.md)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
-- [LinkedIn services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
+- [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
 
 ## Contact
 

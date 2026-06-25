@@ -24,19 +24,25 @@ Useful first context:
 - what must not break;
 - deadline, hiring timeline, or first-month success condition.
 
-## Fast Message Shapes
+## Decision-Ready Signals
 
 Remote role:
 
-`Role: <title>. Remote setup: <timezone / schedule>. Stack: <systems and tools>. First-month ownership: <what should improve>. Timeline: <process and next step>.`
+- role title, remote setup, stack, and team surface;
+- first-month ownership and the workflow that should improve;
+- hiring timeline and the next useful technical step.
 
 Fixed-scope project:
 
-`Workflow: <manual or fragile process>. Systems: <CRM / API / database / documents / approvals>. Success condition: <working outcome>. Constraints: <access, hosting, deadline, commercial range>.`
+- manual or fragile workflow and the systems involved;
+- practical success condition and what must not break;
+- access, hosting, deadline, budget, and handoff constraints.
 
 Technical review:
 
-`Review target: <repo / demo / architecture>. I care about: <risk or claim>. Useful evidence: <CI, logs, docs, runbook, demo path>. Next decision: <hire / scope / technical fit>.`
+- repo, demo, architecture, or workflow to inspect;
+- risk, claim, or delivery question to validate;
+- useful evidence: CI, logs, docs, runbook, demo path, or smoke command.
 
 ## What I Can Evaluate Quickly
 
@@ -56,8 +62,10 @@ builds, or production access without a scoped first step.
 ## Links
 
 - Start conversation: https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html
+- Contact routes: https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html
 - LinkedIn Services: https://www.linkedin.com/services/page/3153b734507b8a60ab/
 - DriveDesk Proof Route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
+- First month plan: https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html
 - Role fit: https://alexgerlitz.github.io/AlexGerlitz/role-fit.html
 - DriveDesk AI Operator: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html
 - Verification: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html

@@ -62,6 +62,7 @@ REQUIRED_FILES = [
     "projects.html",
     "first-30-days.html",
     "fixed-scope-offers.html",
+    "inbound-response.html",
     "one-page-brief.html",
     "resume-pdf.html",
     "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
@@ -84,6 +85,7 @@ REQUIRED_TEXT = {
         "https://www.linkedin.com/services/page/3153b734507b8a60ab/",
         "remote-only full-time roles",
         "first month plan",
+        "https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html",
     ],
     "index.html": [
         '<link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">',
@@ -107,6 +109,14 @@ REQUIRED_TEXT = {
         "Live owner proof",
         "AI Operator case",
         "First month plan",
+    ],
+    "inbound-response.html": [
+        "<title>Contact Routes - Alex Gerlitz</title>",
+        'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html"',
+        "Decision-Ready Signals",
+        "Message on LinkedIn",
+        "First month plan",
+        "DriveDesk AI Operator proof route",
     ],
     "drivedesk-ai-operator.html": [
         "Live owner proof",
