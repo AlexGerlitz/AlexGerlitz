@@ -196,6 +196,7 @@ REQUIRED_TEXT = {
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html"',
         "Decision-Ready Signals",
         "Message on LinkedIn",
+        "PDF resume",
         "First month plan",
         "DriveDesk AI Operator proof route",
     ],

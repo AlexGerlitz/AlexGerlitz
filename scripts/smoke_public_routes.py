@@ -109,7 +109,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "contact-routes",
         "https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html",
-        ("Decision-Ready Signals", "Message on LinkedIn", "First month plan"),
+        ("Decision-Ready Signals", "Message on LinkedIn", "PDF resume", "First month plan"),
     ),
     RouteCheck(
         "verification-pack",
