@@ -7,7 +7,7 @@ and recovery paths for real business processes.
 I am open to **remote-only full-time roles** and fixed-scope projects where the output is a
 working system, not a demo shell.
 
-**Fast public review:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+**Fast public review:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [selected projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 
 **Fast contact route:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 or open [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html).
@@ -62,6 +62,7 @@ architecture, state, security boundaries, verification, deployment, logs, fixes,
 ## More Detail
 
 - [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html)
+- [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
 - [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html)
 - [Verification pack](./VERIFICATION_PACK.md)
 - [Proof of work](./PROOF_OF_WORK.md)
