@@ -32,7 +32,12 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "proof-route",
         "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
-        ("DriveDesk AI Operator: backend-owned AI workflow proof", "FastAPI + PostgreSQL", "Profile funnel health"),
+        (
+            "DriveDesk AI Operator: backend-owned AI workflow proof",
+            "FastAPI + PostgreSQL",
+            "Profile funnel health",
+            "skill-evidence.html",
+        ),
     ),
     RouteCheck(
         "ai-operator-case",
@@ -58,6 +63,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "AI Automation",
             "Backend / Platform",
             "Search-fit role targets",
+            "skill-evidence.html",
             "Search-match stack",
             "Python Backend Engineer",
             "LLM Workflow / RAG Engineer",
@@ -80,6 +86,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Public role fit",
             "Search-match stack",
+            "skill-evidence.html",
             "AI Automation Engineer",
             "Backend / Platform Engineer",
             "LLM Workflow / RAG Engineer",
@@ -88,6 +95,19 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "skill-evidence",
+        "https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html",
+        (
+            "Skill-to-proof map",
+            "Skills mapped to public proof.",
+            "AI Automation / RAG",
+            "Backend / Platform",
+            "CRM / ERP Integration",
+            "DevOps / Self-Hosting",
+            "Best Skills To Evaluate",
+        ),
+    ),
+    RouteCheck(
+        "skill-evidence-md",
         "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/SKILL_EVIDENCE.md",
         (
             "Skill Evidence Matrix",
