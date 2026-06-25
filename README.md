@@ -6,7 +6,7 @@ AI Automation / Backend / Platform Engineer building **DriveDesk**:
 operations workflows, integrations, RAG, FastAPI/PostgreSQL backends, Docker, CI, runbooks,
 and recovery paths for real business processes.
 
-I am open to **remote-only full-time roles** and fixed-scope projects where the output is a working system, not a demo shell.
+Now open for **remote-only full-time roles** and fixed-scope projects where the output is a working system, not a demo shell. Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps recovery sprint, or DriveDesk AI Operator-style proof route.
 
 **Fast public review:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [selected projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) -> [pinned proof repos](https://github.com/AlexGerlitz?tab=overview) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [first month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 

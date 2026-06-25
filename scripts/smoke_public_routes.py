@@ -24,7 +24,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "portfolio",
         "https://alexgerlitz.github.io/AlexGerlitz/",
-        ("DriveDesk AI Operator", "Start conversation", "pinned proof repos"),
+        ("DriveDesk AI Operator", "Start conversation", "pinned proof repos", "Best immediate starts"),
     ),
     RouteCheck(
         "proof-route",
@@ -126,7 +126,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "start-conversation",
         "https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html",
-        ("Current Public Proof", "AI Operator case"),
+        ("Current Public Proof", "AI Operator case", "Best immediate starts"),
     ),
     RouteCheck(
         "contact-routes",

@@ -87,6 +87,8 @@ REQUIRED_TEXT = {
     "README.md": [
         "actions/workflows/profile-audit.yml/badge.svg?branch=main",
         "actions/workflows/live-profile-smoke.yml/badge.svg?branch=main",
+        "Now open for **remote-only full-time roles**",
+        "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps recovery sprint, or DriveDesk AI Operator-style proof route.",
         "DriveDesk Proof Route",
         "pinned proof repos",
         "Live owner proof",
@@ -102,6 +104,8 @@ REQUIRED_TEXT = {
         "./drivedesk-proof-route.html",
         "./projects.html",
         "https://www.linkedin.com/services/page/3153b734507b8a60ab/",
+        "Now open for remote-only backend/platform",
+        "Best immediate starts: AI workflow automation, CRM/ERP/API adapter",
         "DriveDesk proof route",
         "DriveDesk AI Operator",
         "Live owner proof",
@@ -202,6 +206,7 @@ REQUIRED_TEXT = {
         "Live owner proof",
         "AI Operator case",
         "First month plan",
+        "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps recovery sprint, or DriveDesk AI Operator-style proof route.",
     ],
     "inbound-response.html": [
         "<title>Contact Routes - Alex Gerlitz</title>",
