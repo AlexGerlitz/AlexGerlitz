@@ -6,14 +6,13 @@ AI Automation / Backend / Platform Engineer building **DriveDesk**:
 operations workflows, integrations, RAG, FastAPI/PostgreSQL backends, Docker, CI, runbooks,
 and recovery paths for real business processes.
 
-I am open to **remote-only full-time roles** and fixed-scope projects where the output is a
-working system, not a demo shell.
+I am open to **remote-only full-time roles** and fixed-scope projects where the output is a working system, not a demo shell.
 
 **Fast public review:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [selected projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 
-**Fast contact route:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
-or open [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) /
-[Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html).
+**60-second proof map:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) -> [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html).
+
+**Fast contact route:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) or open [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) / [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html).
 The most useful context is one role, workflow, or project; one success condition; and the systems involved.
 
 ## Decision Snapshot
