@@ -42,25 +42,26 @@ If you only have a few minutes, review these first:
 
 ## Current Public Verification
 
-Checked on 2026-06-25:
+Checked on 2026-06-26:
 
 - DriveDesk Core public demo returns HTTP 200.
-- DriveDesk Core default branch is green on `e67e478`.
-- DriveDesk Core public CI run succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180063789
-- DriveDesk Core GitHub Pages deployment succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180062665
-- DriveDesk Core public demo health run succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180553530
+- DriveDesk Core `main` is green on `633e92a`.
+- DriveDesk Core public CI run succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062
+- DriveDesk Core GitHub Pages deployment succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544
+- DriveDesk Core latest scheduled public demo health run succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892
 - DriveDesk Core has a public fast reviewer route and public demo path.
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
-- AI Ops latest checked CI run succeeded on `9099b52`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28172015560
+- AI Ops latest checked CI run succeeded on `99667b9`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28203298763
 - AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops public proof status tracks live-runtime reachability, local public gate, committed runtime evidence, LLM provider fallback state, and transcription provider state without exposing secrets: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
-- DeployMate default branch is green on `580bfb8`.
-- DeployMate CI succeeded on `580bfb8`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28184950290
-- DeployMate public evidence bundle succeeded on `580bfb8`: https://github.com/AlexGerlitz/deploymate/actions/runs/28185001575
+- DeployMate default branch `develop` is green on `237b2c9`.
+- DeployMate CI succeeded on `237b2c9`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684
+- DeployMate public evidence bundle succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28203961395
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814
 - MPlusForm has a public 60-second reviewer snapshot for trust-model and validation-boundary review.
+- MPlusForm `main` is current on `9c55283`.
 - Public proof repositories are reachable.
 
 ## DriveDesk Core Case Study

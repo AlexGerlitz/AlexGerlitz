@@ -3,7 +3,7 @@
 Fast technical verification path for the public profile. This page is for reviewers who want to
 check claims directly instead of relying on summaries.
 
-Last checked: 2026-06-25.
+Last checked: 2026-06-26.
 
 ## 15-Minute Review Path
 
@@ -33,34 +33,34 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 
 | Claim | Evidence | How to verify |
 | --- | --- | --- |
-| Backend/platform engineering | DriveDesk Core: tenant model, RBAC, audit/outbox, workflow rules, adapter boundaries, OpenAPI, tests, docs, public demo. | Open the [DriveDesk Core review route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), the [public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/), and the latest checked [CI run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180063789). |
-| Public demo and release discipline | DriveDesk Core GitHub Pages demo is published from the repo and checked by Actions. | Open the [Pages deployment run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180062665), the [public demo health run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180553530), and the demo URL. |
+| Backend/platform engineering | DriveDesk Core: tenant model, RBAC, audit/outbox, workflow rules, adapter boundaries, OpenAPI, tests, docs, public demo. | Open the [DriveDesk Core review route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), the [public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/), and the latest checked [CI run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062). |
+| Public demo and release discipline | DriveDesk Core GitHub Pages demo is published from the repo and checked by Actions. | Open the [Pages deployment run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544), the [public demo health run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892), and the demo URL. |
 | AI workflow / RAG backend | AI Ops Workflow Kit: document/CRM/call intake, importable n8n workflow artifact, offer demo, LLM/transcription provider boundaries, reviewer acceptance report, ingestion/retrieval, transcript analysis, lead scoring, approvals, Telegram callback approval, dry-run Bitrix CRM handoff, idempotent outbox drain, opt-in worker, pgvector-ready storage, deterministic tests, Docker, and n8n/Telegram boundaries. | Open the [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), the [reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md), the [live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), the [role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md), the [repo](https://github.com/AlexGerlitz/ai-ops-workflow-kit), and the [CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml). |
-| DevOps and release ownership | DeployMate: self-hosted deployment control panel direction, release gates, production contract checks, strict SSH host-key posture, runbooks, incident automation, and evidence bundle. | Open [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), the [CI run](https://github.com/AlexGerlitz/deploymate/actions/runs/28184950290), the [public evidence bundle](https://github.com/AlexGerlitz/deploymate/actions/runs/28185001575), and the [release-secrets audit](https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814). |
+| DevOps and release ownership | DeployMate: self-hosted deployment control panel direction, release gates, production contract checks, strict SSH host-key posture, runbooks, incident automation, and evidence bundle. | Open [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), the [CI run](https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684), the [public evidence bundle](https://github.com/AlexGerlitz/deploymate/actions/runs/28203961395), and the [release-secrets audit](https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814). |
 | Validation and trust boundaries | MPlusForm: client-side data is treated as untrusted until server-side validation creates an approved public snapshot. | Open [MPlusForm](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot). |
 | Remote business infrastructure support | Autoschool54 / DriveDesk private work since March 2024, represented publicly through sanitized architecture, docs, proof repos, and operational case studies. | Read [Case Studies](./CASE_STUDIES.md), [Proof of Work](./PROOF_OF_WORK.md), and [Resume](./RESUME.md). |
 
 ## Current External Verification
 
-Checked on 2026-06-25:
+Checked on 2026-06-26:
 
 - DriveDesk Core public demo returned HTTP 200.
-- DriveDesk Core default branch is green on `e67e478`.
-- DriveDesk Core latest checked CI run succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180063789
-- DriveDesk Core Pages deployment succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180062665
-- DriveDesk Core public demo health succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180553530
+- DriveDesk Core `main` is green on `633e92a`.
+- DriveDesk Core latest checked CI run succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062
+- DriveDesk Core Pages deployment succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544
+- DriveDesk Core latest scheduled public demo health succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892
 - AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
-- AI Ops latest checked CI run succeeded on `9099b52`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28172015560
+- AI Ops latest checked CI run succeeded on `99667b9`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28203298763
 - AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops deeper review docs are available from the public proof status when a technical reviewer wants full drill-down.
 - AI Ops public proof status tracks the live-runtime boundary, local public gate, committed runtime evidence, LLM provider fallback state, and transcription provider state: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
-- DeployMate default branch is green on `580bfb8`.
-- DeployMate CI succeeded on `580bfb8`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28184950290
-- DeployMate public evidence bundle succeeded on `580bfb8`: https://github.com/AlexGerlitz/deploymate/actions/runs/28185001575
+- DeployMate default branch `develop` is green on `237b2c9`.
+- DeployMate CI succeeded on `237b2c9`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684
+- DeployMate public evidence bundle succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28203961395
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814
-- MPlusForm repository and reviewer snapshot were reachable.
+- MPlusForm `main` is current on `9c55283`; repository and reviewer snapshot were reachable.
 
 ## Recovery Trail
 
