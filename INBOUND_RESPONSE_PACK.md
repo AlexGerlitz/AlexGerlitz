@@ -6,7 +6,7 @@ Public contact guide for role, project, founder, and technical-review conversati
 
 | Conversation type | Best first link | Why |
 | --- | --- | --- |
-| Remote role | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast role/project positioning, proof repos, live demo, contact route, and current projects. |
+| Remote role | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast role/project positioning, proof repos, runtime-boundary evidence, contact route, and current projects. |
 | Technical review | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Short route into DriveDesk AI Operator, verification links, repos, demos, CI, docs, and runbooks. |
 | AI workflow / RAG | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast route into the DriveDesk AI Operator case direction and AI Ops proof links. |
 | Fixed-scope project | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | One page for proof, project shape, offer surface, and the next context needed. |

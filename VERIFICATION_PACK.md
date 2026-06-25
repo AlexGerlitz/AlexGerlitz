@@ -54,7 +54,7 @@ Checked on 2026-06-20:
 - AI Ops latest checked CI run succeeded on `a908262`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/27839133476
 - AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops deeper review docs are available from the public proof status when a technical reviewer wants full drill-down.
-- AI Ops live runtime exposes LLM provider fallback state at https://saleops.duckdns.org/llm/runtime and transcription provider state at https://saleops.duckdns.org/transcription/runtime
+- AI Ops public proof status tracks the live-runtime boundary, local public gate, committed runtime evidence, LLM provider fallback state, and transcription provider state: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - DeployMate `release-gate` and `production-contract` jobs passed on repair run `27737145074`;
   the full workflow failed at `staging-release` because the same strict known_hosts drift blocks
   environment deploy.

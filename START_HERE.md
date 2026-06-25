@@ -16,7 +16,6 @@ CI, and runbooks.
 Latest public signal:
 
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html)
-- [AI Ops live demo](https://saleops.duckdns.org/)
 - [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
 - [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
 - [AI Ops CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml)

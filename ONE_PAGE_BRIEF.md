@@ -4,7 +4,7 @@ Remote AI automation / backend / platform / DevOps engineer.
 
 Fast public route: [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html)
 -> [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html)
--> [live AI Ops demo](https://saleops.duckdns.org/).
+-> [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md).
 
 I turn messy business workflows into working systems: FastAPI/PostgreSQL backends, AI/RAG
 workflows, integration adapters, internal tools, Docker/CI release paths, health checks, runbooks,
@@ -44,7 +44,7 @@ output still has to be inspectable through code, logs, smoke checks, CI, documen
 
 | Proof | Signal |
 | --- | --- |
-| [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html) | Fastest public route into DriveDesk AI Operator, proof repositories, live demo, remote role fit, and fixed-scope offer surface. |
+| [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html) | Fastest public route into DriveDesk AI Operator, proof repositories, runtime-boundary evidence, remote role fit, and fixed-scope offer surface. |
 | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md) | Main flagship case direction: document/transcript/CRM lead ingestion, RAG retrieval, call-analysis JSON, Telegram approval, n8n orchestration, CRM adapter contract, audit/retry path, demo/runbook proof target. |
 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | Flagship backend/platform direction: FastAPI, PostgreSQL, tenants, RBAC, audit/outbox, workers, adapter boundaries, OpenAPI, CI, docs, public demo. |
 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md) | One-command AI workflow demo: document intake, RAG ingestion/retrieval, OpenAI/Claude/Gemini provider boundary, transcript analysis, lead scoring, approval queue, Telegram callback approval, dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight, idempotent outbox drain, opt-in worker, deterministic tests, Docker, and n8n/Telegram boundaries. |
