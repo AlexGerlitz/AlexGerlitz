@@ -1,8 +1,8 @@
-# Alex Gerlitz - Remote AI Automation / Backend / DevOps Engineer
+# Alex Gerlitz - AI Automation / Backend / Platform Engineer
 
 ## Summary
 
-Remote AI automation, backend/platform, and DevOps engineer building DriveDesk AI Operator proof:
+Remote-only AI automation, backend/platform, and DevOps engineer building DriveDesk AI Operator proof:
 an AI sales/support workflow platform direction for real business workflows.
 
 I turn messy operational problems into working systems: FastAPI/PostgreSQL backends, RAG/transcript
@@ -108,7 +108,7 @@ Applied Informatics, 2025 - Present
 - [Role / Project Brief](./ROLE_PROJECT_BRIEF.md)
 - [Remote Role Targets](./ROLE_TARGETS.md)
 - [Role Fit Pack](./APPLICATION_PACK.md)
-- [First 30 Days Delivery Plan](./FIRST_30_DAYS.md)
+- [First Month Delivery Plan](./FIRST_30_DAYS.md)
 - [Inbound Brief](./INTAKE_BRIEF.md)
 - [Proof of Work](./PROOF_OF_WORK.md)
 - [Engineering Case Studies](./CASE_STUDIES.md)
