@@ -67,6 +67,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://alexgerlitz.github.io/AlexGerlitz/ROLE_FIT.md</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>

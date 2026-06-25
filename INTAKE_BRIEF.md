@@ -4,6 +4,12 @@ A clear role or project brief helps me respond with a useful first plan instead 
 
 For the shortest route, start with [Start Here](./START_HERE.md).
 
+Fast contact links:
+
+- [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
+- [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
+- [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
+
 Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
