@@ -27,7 +27,13 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "portfolio",
         "https://alexgerlitz.github.io/AlexGerlitz/",
-        ("DriveDesk AI Operator", "Start conversation", "pinned proof repos", "Best immediate starts"),
+        (
+            "DriveDesk AI Operator",
+            "Start conversation",
+            "pinned proof repos",
+            "Best immediate starts",
+            "skill-evidence.html",
+        ),
     ),
     RouteCheck(
         "proof-route",
@@ -126,6 +132,16 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Customer Relationship Management (CRM) Engineer",
             "Enterprise Resource Planning (ERP) Engineer",
             "Vector Databases Engineer",
+        ),
+    ),
+    RouteCheck(
+        "start-here-md",
+        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/START_HERE.md",
+        (
+            "Start Here",
+            "Skill Evidence",
+            "DriveDesk AI Operator proof route",
+            "Role Fit Pack",
         ),
     ),
     RouteCheck(
