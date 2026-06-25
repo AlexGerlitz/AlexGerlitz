@@ -8,18 +8,20 @@ and recovery paths for real business processes.
 
 Now open for **remote-only full-time roles** and fixed-scope projects where the output is a working system, not a demo shell. Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps recovery sprint, or DriveDesk AI Operator-style proof route.
 
+Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, Integration Engineer.
+
 **Fast public review:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [selected projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) -> [pinned proof repos](https://github.com/AlexGerlitz?tab=overview) -> [skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 
 **60-second proof map:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) -> [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html).
 
-**Fast contact route:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) or open [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) / [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) / [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md).
+**Fast contact route:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) or open [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) / [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) / [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html) / [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md).
 The most useful context is one role, workflow, or project; one success condition; and the systems involved. The contact route now gives decision prompts for remote roles, workflow/integration projects, and technical proof reviews.
 
 ## Decision Snapshot
 
 | Send me | Best match | Fast proof |
 | --- | --- | --- |
-| Remote full-time role | AI automation, backend/platform, DevOps, integrations, internal tools, Python/FastAPI/PostgreSQL, Docker/CI. | [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [first month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) |
+| Remote full-time role | Back End Developer, Python Developer, AI Automation Engineer, Platform Engineer, DevOps Engineer, integrations, internal tools, Python/FastAPI/PostgreSQL, Docker/CI. | [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [first month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) |
 | Fixed-scope project | One messy workflow, one success condition, and a working slice with tests, logs, docs, and handoff path. | [Fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html), [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) |
 | Technical proof review | Code, CI, live smoke, runtime boundaries, adapter contracts, runbooks, and public-safe evidence. | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [AI Ops proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) |
 
@@ -68,10 +70,8 @@ architecture, state, security boundaries, verification, deployment, logs, fixes,
 - [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html)
 - [First month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html)
 - [Verification pack](./VERIFICATION_PACK.md)
-- [Proof of work](./PROOF_OF_WORK.md)
 - [Fixed-scope offers](./FIXED_SCOPE_OFFERS.md)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
-- [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
 
 ## Contact
 

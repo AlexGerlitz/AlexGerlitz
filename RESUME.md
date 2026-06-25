@@ -12,6 +12,10 @@ Docker/CI deployment paths, health checks, runbooks, and recovery procedures.
 Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API
 integrations, Systems Integration, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
 
+Search-fit role titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial
+Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, and
+Integration Engineer.
+
 I use AI tooling for research, decomposition, code generation, review, debugging, documentation,
 tests, and verification. The final output still has to be inspectable:
 code, logs, tests, smoke checks, docs, and operational handoff.
@@ -19,6 +23,8 @@ code, logs, tests, smoke checks, docs, and operational handoff.
 ## Target Work
 
 - Remote-only backend / platform / DevOps / AI automation roles.
+- Back End Developer / Python Developer roles where business workflows, APIs, data models, tests,
+  Docker/CI, and operational handoff matter.
 - AI sales/support workflow roles around document/transcript/lead intake, RAG, call-audio transcription, transcript analysis, lead scoring, approvals, and CRM
   actions.
 - AI / operations automation lead roles around workflows, APIs, integrations, documentation,
@@ -85,8 +91,11 @@ Public proof built from the same operational direction:
 Best matches:
 
 - Backend Engineer
+- Back End Developer
+- Python Developer
 - Platform Engineer
 - AI Automation Engineer
+- Artificial Intelligence Engineer with a workflow/backend focus
 - AI / Operations Automation Lead
 - DevOps / Self-Hosting Engineer
 - Integration Engineer
