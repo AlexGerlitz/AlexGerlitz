@@ -121,6 +121,10 @@ REQUIRED_TEXT = {
         "PDF resume",
         "Remote-only backend, platform, DevOps, and AI automation roles.",
         "CRM, ERP, 1C, accounting, banking, webhook, and API integration adapters.",
+        "Systems Integration",
+        "Customer Relationship Management (CRM)",
+        "Enterprise Resource Planning (ERP)",
+        "Vector Databases",
     ],
     "application-pack.html": [
         "<title>Role Fit Pack - Alex Gerlitz</title>",
@@ -151,6 +155,10 @@ REQUIRED_TEXT = {
         "AI Automation Engineer",
         "Integration Engineer",
         "Remote Role Targets",
+        "Systems Integration",
+        "Customer Relationship Management (CRM)",
+        "Enterprise Resource Planning (ERP)",
+        "vector",
     ],
     "start-conversation.html": [
         "Current Public Proof",
@@ -237,6 +245,10 @@ REQUIRED_TEXT = {
         "Proof route: alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
         "building DriveDesk AI Operator proof",
         "fixed-scope automation",
+        "Systems Integration",
+        "Customer Relationship Management (CRM)",
+        "Enterprise Resource Planning (ERP)",
+        "vector databases",
     ],
     "assets/social-card.svg": [
         "DriveDesk AI Operator - Proof Route",

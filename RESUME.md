@@ -67,10 +67,11 @@ Public proof built from the same operational direction:
 ## Core Skills
 
 - Backend/platform: Python, FastAPI, PostgreSQL, Alembic, OpenAPI, pytest, service contracts.
-- AI workflows: LLM/RAG systems with OpenAI/Claude/Gemini-ready provider boundaries, document/call-audio/transcript processing, scoring, routing, approvals,
-  operator handoff.
-- Integrations: APIs, webhooks, custom databases, CRM/ERP/accounting/banking boundaries, adapter
-  contracts, mapping and validation.
+- AI workflows: LLM/RAG systems with OpenAI/Claude/Gemini-ready provider boundaries, vector
+  databases / PostgreSQL pgvector, document/call-audio/transcript processing, scoring, routing,
+  approvals, operator handoff.
+- Integrations: Systems Integration, Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), APIs, webhooks, custom databases,
+  accounting/banking boundaries, adapter contracts, mapping and validation.
 - DevOps/self-hosting: Docker Compose, GitHub Actions, release gates, health checks, logs, backups,
   smoke checks, rollback/recovery thinking.
 - Product execution: clarify messy requirements, scope a working slice, build the backend/admin
