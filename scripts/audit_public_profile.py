@@ -127,6 +127,7 @@ REQUIRED_TEXT = {
         "<title>Resume - Alex Gerlitz</title>",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/resume.html"',
         "DriveDesk AI Operator proof route",
+        "Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API",
         "PDF resume",
         "Remote-only backend, platform, DevOps, and AI automation roles.",
         "CRM, ERP, 1C, accounting, banking, webhook, and API integration adapters.",
@@ -162,6 +163,7 @@ REQUIRED_TEXT = {
     "RESUME.md": [
         "Remote-only AI automation, backend/platform, and DevOps engineer",
         "PDF resume for application upload",
+        "Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API",
         "AI Automation Engineer",
         "Integration Engineer",
         "Remote Role Targets",
@@ -287,6 +289,7 @@ REQUIRED_TEXT = {
     "resume-pdf.html": [
         "Proof route: alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
         "building DriveDesk AI Operator proof",
+        "Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API",
         "fixed-scope automation",
         "Systems Integration",
         "Customer Relationship Management (CRM)",

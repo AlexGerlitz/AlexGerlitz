@@ -9,6 +9,9 @@ I turn messy operational problems into working systems: FastAPI/PostgreSQL backe
 workflows, call-audio transcription, transcript/call analysis, approval flows, internal admin panels, integration adapters,
 Docker/CI deployment paths, health checks, runbooks, and recovery procedures.
 
+Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API
+integrations, Systems Integration, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
+
 I use AI as an engineering multiplier for research, decomposition, code generation, review,
 debugging, documentation, tests, and verification. The final output still has to be inspectable:
 code, logs, tests, smoke checks, docs, and operational handoff.
