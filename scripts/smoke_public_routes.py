@@ -33,6 +33,8 @@ ROUTES: tuple[RouteCheck, ...] = (
             "pinned proof repos",
             "Best immediate starts",
             "skill-evidence.html",
+            "INTAKE_BRIEF.md",
+            "Inbound brief",
         ),
     ),
     RouteCheck(
@@ -163,6 +165,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Start Here",
             "Skill Evidence",
+            "Inbound Brief",
             "DriveDesk AI Operator proof route",
             "Role Fit Pack",
         ),
