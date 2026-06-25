@@ -95,3 +95,9 @@ Give me:
 
 I will break the problem down, identify risky assumptions, propose the smallest responsible build,
 and show what can be proven quickly with tests, logs, smoke checks, docs, and a working slice.
+
+Start here:
+
+- [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
+- [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
+- [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)

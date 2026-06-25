@@ -63,6 +63,29 @@ ROUTES: tuple[RouteCheck, ...] = (
         ("Selected Proof Projects", "AI Ops Workflow Kit - RAG"),
     ),
     RouteCheck(
+        "technical-proof",
+        "https://alexgerlitz.github.io/AlexGerlitz/proof.html",
+        (
+            "Proof that can be inspected, not just claimed.",
+            "verification-pack.html",
+            "start-conversation.html",
+            "LinkedIn Services",
+            "After Review",
+            "one success condition",
+        ),
+    ),
+    RouteCheck(
+        "proof-of-work-md",
+        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/PROOF_OF_WORK.md",
+        (
+            "Proof of Work",
+            "Fast Proof Review",
+            "Start conversation",
+            "Contact routes",
+            "LinkedIn Services",
+        ),
+    ),
+    RouteCheck(
         "role-fit",
         "https://alexgerlitz.github.io/AlexGerlitz/role-fit.html",
         (
