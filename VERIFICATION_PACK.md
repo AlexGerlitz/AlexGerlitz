@@ -25,7 +25,7 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 | --- | --- | --- |
 | 1 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | Flagship backend/platform and integration foundation. Start here for the strongest proof. |
 | 2 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | AI workflow/RAG backend proof with document/CRM/call intake, importable n8n workflow artifact, one-command offer demo, reviewer acceptance report, LLM/transcription provider boundaries, transcript analysis, approvals, Telegram callback approval, dry-run Bitrix CRM handoff, idempotent outbox drain, opt-in worker, Docker, and integration boundaries. |
-| 3 | [DeployMate](https://github.com/AlexGerlitz/deploymate) | DevOps/release discipline proof. Includes current public incident handling for known_hosts drift. |
+| 3 | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) | DevOps/release discipline proof. Includes release gates, evidence bundle, and a public recovery trail. |
 | 4 | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation, trust-boundary, client/server sync, and Windows automation proof. |
 | 5 | [AlexGerlitz profile](https://github.com/AlexGerlitz/AlexGerlitz) | Index for resume, services, role targets, and verification links. |
 
@@ -33,10 +33,10 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 
 | Claim | Evidence | How to verify |
 | --- | --- | --- |
-| Backend/platform engineering | DriveDesk Core: tenant model, RBAC, audit/outbox, workflow rules, adapter boundaries, OpenAPI, tests, docs, public demo. | Open the [DriveDesk Core review route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), the [public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/), and the latest [CI run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553622). |
-| Public demo and release discipline | DriveDesk Core GitHub Pages demo is published from the repo and checked by Actions. | Open the [Pages deployment run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553066), the [public demo health run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28161509901), and the demo URL. |
+| Backend/platform engineering | DriveDesk Core: tenant model, RBAC, audit/outbox, workflow rules, adapter boundaries, OpenAPI, tests, docs, public demo. | Open the [DriveDesk Core review route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), the [public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/), and the latest checked [CI run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180063789). |
+| Public demo and release discipline | DriveDesk Core GitHub Pages demo is published from the repo and checked by Actions. | Open the [Pages deployment run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180062665), the [public demo health run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180553530), and the demo URL. |
 | AI workflow / RAG backend | AI Ops Workflow Kit: document/CRM/call intake, importable n8n workflow artifact, offer demo, LLM/transcription provider boundaries, reviewer acceptance report, ingestion/retrieval, transcript analysis, lead scoring, approvals, Telegram callback approval, dry-run Bitrix CRM handoff, idempotent outbox drain, opt-in worker, pgvector-ready storage, deterministic tests, Docker, and n8n/Telegram boundaries. | Open the [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), the [reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md), the [live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), the [role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md), the [repo](https://github.com/AlexGerlitz/ai-ops-workflow-kit), and the [CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml). |
-| DevOps and release ownership | DeployMate: self-hosted deployment control panel direction, release gates, production contract checks, strict SSH host-key posture, runbooks, incident automation. | Open [DeployMate](https://github.com/AlexGerlitz/deploymate), the [CI workflow](https://github.com/AlexGerlitz/deploymate/actions/workflows/ci.yml), and the release-audit incidents linked below. |
+| DevOps and release ownership | DeployMate: self-hosted deployment control panel direction, release gates, production contract checks, strict SSH host-key posture, runbooks, incident automation, and evidence bundle. | Open [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), the [CI run](https://github.com/AlexGerlitz/deploymate/actions/runs/28184950290), the [public evidence bundle](https://github.com/AlexGerlitz/deploymate/actions/runs/28185001575), and the [release-secrets audit](https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814). |
 | Validation and trust boundaries | MPlusForm: client-side data is treated as untrusted until server-side validation creates an approved public snapshot. | Open [MPlusForm](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot). |
 | Remote business infrastructure support | Autoschool54 / DriveDesk private work since March 2024, represented publicly through sanitized architecture, docs, proof repos, and operational case studies. | Read [Case Studies](./CASE_STUDIES.md), [Proof of Work](./PROOF_OF_WORK.md), and [Resume](./RESUME.md). |
 
@@ -45,10 +45,10 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 Checked on 2026-06-25:
 
 - DriveDesk Core public demo returned HTTP 200.
-- DriveDesk Core latest checked CI run succeeded on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553622
-- DriveDesk Core Pages deployment succeeded on `1c04111`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553066
-- DriveDesk Core public demo health succeeded on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28161509901
-- DriveDesk Core public scheduled validation succeeded on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28155499567
+- DriveDesk Core default branch is green on `e67e478`.
+- DriveDesk Core latest checked CI run succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180063789
+- DriveDesk Core Pages deployment succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180062665
+- DriveDesk Core public demo health succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180553530
 - AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
@@ -56,36 +56,39 @@ Checked on 2026-06-25:
 - AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops deeper review docs are available from the public proof status when a technical reviewer wants full drill-down.
 - AI Ops public proof status tracks the live-runtime boundary, local public gate, committed runtime evidence, LLM provider fallback state, and transcription provider state: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
-- DeployMate `release-gate` and `production-contract` jobs passed on repair run `27737145074`;
-  the full workflow failed at `staging-release` because the same strict known_hosts drift blocks
-  environment deploy.
+- DeployMate default branch is green on `580bfb8`.
+- DeployMate CI succeeded on `580bfb8`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28184950290
+- DeployMate public evidence bundle succeeded on `580bfb8`: https://github.com/AlexGerlitz/deploymate/actions/runs/28185001575
+- DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814
+- Profile funnel audit succeeded on `2440e20`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28186649982
+- Profile GitHub Pages deployment succeeded on `2440e20`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28186649211
 - MPlusForm repository and reviewer snapshot were reachable.
 
-## Known Live Incident Surface
+## Recovery Trail
 
-DeployMate currently has public scheduled `Release Secrets Audit` incident issues:
+DeployMate keeps the public release-audit incident trail visible as recovery evidence:
 
-- Production: https://github.com/AlexGerlitz/deploymate/issues/18
-- Staging: https://github.com/AlexGerlitz/deploymate/issues/19
+- Production issue, now closed: https://github.com/AlexGerlitz/deploymate/issues/18
+- Staging issue, now closed: https://github.com/AlexGerlitz/deploymate/issues/19
 
-Observed root cause: strict SSH host-key verification detected pinned `known_hosts` drift for the
-target host. That is a trust-anchor incident, not a test flake.
+Observed root cause: strict SSH host-key verification detected pinned host-key drift for the target
+host. That was treated as a trust-anchor incident, not a test flake.
 
 What was improved publicly:
 
 - Commit `4b493b9` updates the release-audit action so failed audits are reported as failures in
   summaries and notifications instead of being mislabeled as success.
-- Push run `27737145074` proved the code-side `release-gate` and `production-contract` jobs after
-  the repair, then failed at `staging-release` on the same strict host-key mismatch.
-- The DeployMate runbook now documents the safe recovery path: confirm the host-key rotation out of
-  band, regenerate known_hosts with `scripts/prepare_known_hosts.sh`, update the environment
+- The DeployMate runbook documents the safe recovery path: confirm host-key rotation out of band,
+  regenerate known_hosts with `scripts/prepare_known_hosts.sh`, update the environment
   `DEPLOY_SSH_KNOWN_HOSTS` secret, re-run the audit manually, then close the incident only after a
   successful run.
+- The latest checked `Release Secrets Audit` run passed staging and production audit jobs:
+  https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814
 
 What is intentionally not claimed:
 
-- The scheduled release-secrets audit should not be called recovered until the new host fingerprint
-  is owner-confirmed and the GitHub environment secret is updated.
+- Release automation is presented as inspectable CI/recovery evidence, not as a claim that every
+  private environment can be deployed by a public reviewer.
 
 ## What To Take Away
 

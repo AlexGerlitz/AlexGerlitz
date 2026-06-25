@@ -28,7 +28,7 @@ If you only have a few minutes, review these first:
 
 - [DriveDesk Core README](https://github.com/AlexGerlitz/drivedesk-core) - fast backend/platform reviewer route.
 - [DriveDesk Core case study](https://github.com/AlexGerlitz/drivedesk-core/blob/main/docs/public/PORTFOLIO_CASE_STUDY.md) - business problem, architecture, integration model, and evidence.
-- [Verification pack](./VERIFICATION_PACK.md) - current CI/demo/incident verification links.
+- [Verification pack](./VERIFICATION_PACK.md) - current CI/demo/recovery verification links.
 - [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) - current AI Ops CI, live smoke, local gate, Pages route, and public boundary.
 - [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) - one-command acceptance pass across live API, live smoke, GitHub Actions, Pages links, and public PDF.
 - [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) - one-command AI automation reviewer path.
@@ -45,10 +45,10 @@ If you only have a few minutes, review these first:
 Checked on 2026-06-25:
 
 - DriveDesk Core public demo returns HTTP 200.
-- DriveDesk Core latest public CI run succeeded on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553622
-- DriveDesk Core latest GitHub Pages deployment succeeded on `1c04111`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553066
-- DriveDesk Core public demo health run was successful on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28161509901
-- DriveDesk Core public scheduled validation succeeded on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28155499567
+- DriveDesk Core default branch is green on `e67e478`.
+- DriveDesk Core public CI run succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180063789
+- DriveDesk Core GitHub Pages deployment succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180062665
+- DriveDesk Core public demo health run succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28180553530
 - DriveDesk Core has a public fast reviewer route and public demo path.
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
@@ -56,10 +56,13 @@ Checked on 2026-06-25:
 - AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops public proof status tracks live-runtime reachability, local public gate, committed runtime evidence, LLM provider fallback state, and transcription provider state without exposing secrets: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
-- DeployMate release-gate and production-contract verification passed on the latest release-audit
-  repair run; staging deploy and scheduled release-secrets audit remain open owner-confirmed
-  known_hosts recovery items.
+- DeployMate default branch is green on `580bfb8`.
+- DeployMate CI succeeded on `580bfb8`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28184950290
+- DeployMate public evidence bundle succeeded on `580bfb8`: https://github.com/AlexGerlitz/deploymate/actions/runs/28185001575
+- DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814
 - MPlusForm has a public 60-second reviewer snapshot for trust-model and validation-boundary review.
+- Profile funnel audit succeeded on `2440e20`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28186649982
+- Profile GitHub Pages deployment succeeded on `2440e20`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28186649211
 - Public proof repositories are reachable.
 
 ## DriveDesk Core Case Study
