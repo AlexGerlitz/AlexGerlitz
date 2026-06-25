@@ -131,7 +131,13 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "start-conversation",
         "https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html",
-        ("Current Public Proof", "AI Operator case", "Best immediate starts"),
+        (
+            "Current Public Proof",
+            "AI Operator case",
+            "Best immediate starts",
+            "20-Second Message Shortcuts",
+            "Can you suggest the first responsible slice?",
+        ),
     ),
     RouteCheck(
         "contact-routes",
@@ -139,6 +145,8 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Decision-ready contact routes with PDF resume",
             "Decision-Ready Signals",
+            "20-Second Message Shortcuts",
+            "Which proof route should we inspect first?",
             "Best immediate starts",
             "Message on LinkedIn",
             "PDF resume",

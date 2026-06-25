@@ -47,6 +47,26 @@ Technical review:
 - risk, claim, or delivery question to validate;
 - useful evidence: CI, logs, docs, runbook, demo path, or smoke command.
 
+## 20-Second Message Shortcuts
+
+Remote role:
+
+```text
+Hi Alex, I have a remote [role] for [product/team]. Stack: [stack]. First-month ownership: [workflow/slice]. Does this match your AI automation / backend / platform direction?
+```
+
+Workflow / integration:
+
+```text
+Hi Alex, we have a messy [workflow] across [systems]. Success means [outcome] without breaking [constraint]. Can you suggest the first responsible slice?
+```
+
+Proof review:
+
+```text
+Hi Alex, please review [repo/demo/workflow]. The decision is [hire/project/architecture]. The risk to validate is [risk]. Which proof route should we inspect first?
+```
+
 ## What I Can Evaluate Quickly
 
 - backend/platform systems;
