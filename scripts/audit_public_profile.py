@@ -5,6 +5,7 @@ import ast
 import re
 import struct
 import sys
+import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote
@@ -456,6 +457,15 @@ SOCIAL_PREVIEW_SNIPPETS = [
     'name="twitter:image:alt"',
 ]
 
+SITEMAP_LASTMOD_REQUIREMENTS = {
+    "https://alexgerlitz.github.io/AlexGerlitz/": "2026-06-26",
+    "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html": "2026-06-26",
+    "https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html": "2026-06-26",
+    "https://alexgerlitz.github.io/AlexGerlitz/VERIFICATION_PACK.md": "2026-06-26",
+    "https://alexgerlitz.github.io/AlexGerlitz/PROOF_OF_WORK.md": "2026-06-26",
+    "https://alexgerlitz.github.io/AlexGerlitz/SKILL_EVIDENCE.md": "2026-06-26",
+}
+
 
 class LinkParser(HTMLParser):
     def __init__(self) -> None:
@@ -618,6 +628,33 @@ def check_png_size(errors: list[str]) -> None:
     check_png_dimensions(errors, "assets/linkedin-banner.png", (1584, 396))
 
 
+def check_sitemap_lastmods(errors: list[str]) -> None:
+    path = ROOT / "sitemap.xml"
+    if not path.exists():
+        return
+    try:
+        root = ET.fromstring(path.read_text(encoding="utf-8"))
+    except ET.ParseError as exc:
+        errors.append(f"sitemap.xml: invalid XML: {exc}")
+        return
+
+    namespace = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+    dates: dict[str, str] = {}
+    for url_node in root.findall("sm:url", namespace):
+        loc_node = url_node.find("sm:loc", namespace)
+        lastmod_node = url_node.find("sm:lastmod", namespace)
+        if loc_node is None or not loc_node.text:
+            continue
+        dates[loc_node.text] = lastmod_node.text if lastmod_node is not None and lastmod_node.text else ""
+
+    for loc, expected in SITEMAP_LASTMOD_REQUIREMENTS.items():
+        actual = dates.get(loc)
+        if actual is None:
+            errors.append(f"sitemap.xml: missing loc: {loc}")
+        elif actual != expected:
+            errors.append(f"sitemap.xml: expected lastmod {expected} for {loc}, got {actual}")
+
+
 def main() -> int:
     errors: list[str] = []
     check_required_text_key_shape(errors)
@@ -630,6 +667,7 @@ def main() -> int:
     check_profile_readme_shape(errors)
     check_local_html_links(errors)
     check_png_size(errors)
+    check_sitemap_lastmods(errors)
 
     if errors:
         print("public profile audit failed:")
