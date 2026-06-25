@@ -271,7 +271,8 @@ REQUIRED_TEXT = {
     ],
     "inbound-response.html": [
         "<title>Contact Routes - Alex Gerlitz</title>",
-        "Decision-ready contact routes with PDF resume",
+        "Contact route for remote roles, fixed-scope projects, and proof reviews",
+        "Send one role, workflow, or proof question",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html"',
         "Decision-Ready Signals",
         "Fast Decision Prompts",

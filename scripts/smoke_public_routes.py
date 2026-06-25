@@ -227,7 +227,8 @@ ROUTES: tuple[RouteCheck, ...] = (
         "contact-routes",
         "https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html",
         (
-            "Decision-ready contact routes with PDF resume",
+            "Contact route for remote roles, fixed-scope projects, and proof reviews",
+            "Send one role, workflow, or proof question",
             "Decision-Ready Signals",
             "Fast Decision Prompts",
             "which technical claim or risk should be validated",
