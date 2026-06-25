@@ -239,6 +239,10 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Inbound brief",
             "PDF resume",
             "First month plan",
+            "Response Shape",
+            "concrete next step instead of a generic intro call",
+            "Smallest responsible working slice",
+            "Claim-to-evidence map",
         ),
     ),
     RouteCheck(
