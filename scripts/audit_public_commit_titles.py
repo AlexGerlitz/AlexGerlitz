@@ -25,7 +25,7 @@ class RepoCheck:
 REPOS: tuple[RepoCheck, ...] = (
     RepoCheck(
         "AlexGerlitz/AlexGerlitz",
-        ("Verify role targets live", "Surface role search targets"),
+        ("Strengthen contact decision path", "Add public skill evidence route"),
     ),
     RepoCheck(
         "AlexGerlitz/drivedesk-core",
