@@ -7,6 +7,8 @@ or fragile deployment/recovery. I use AI heavily to move faster, but the deliver
 engineered: tested, documented, deployed, observable, and understandable after the first demo.
 
 For the shortest service overview, see [Remote AI Automation Services](./SERVICES.md).
+For the live LinkedIn service page, see
+[LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/).
 For the fastest contact route, see [Start Here](./START_HERE.md).
 For concrete project packages and budget signals, see
 [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).

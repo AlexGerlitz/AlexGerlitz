@@ -216,6 +216,8 @@ def check_legacy_proof_route_references(errors: list[str]) -> None:
             errors.append(f"{relative}: use drivedesk-proof-route.html instead of legacy proof route")
         if relative != "one-page-brief.html" and "one-page-brief.html" in text:
             errors.append(f"{relative}: use drivedesk-proof-route.html instead of one-page brief route")
+        if relative != "ONE_PAGE_BRIEF.md" and "ONE_PAGE_BRIEF.md" in text:
+            errors.append(f"{relative}: use drivedesk-proof-route.html instead of ONE_PAGE_BRIEF.md")
 
 
 def check_required_text(errors: list[str]) -> None:

@@ -102,7 +102,7 @@ Applied Informatics, 2025 - Present
 - [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
 - [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
 - [AI Ops Reviewer Acceptance Report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
-- [DriveDesk Proof Route](./ONE_PAGE_BRIEF.md)
+- [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Role Fit](./ROLE_FIT.md)
 - [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md)
 - [Role / Project Brief](./ROLE_PROJECT_BRIEF.md)

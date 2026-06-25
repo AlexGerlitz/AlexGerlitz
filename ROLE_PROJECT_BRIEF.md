@@ -40,7 +40,8 @@ The value is speed through uncertainty with engineering discipline still intact.
 
 Proof links:
 
-- [DriveDesk proof route](./ONE_PAGE_BRIEF.md)
+- [DriveDesk proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+- [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - [Role fit](./ROLE_FIT.md)
 - [Contact routes](./INBOUND_RESPONSE_PACK.md)
 - [Start here](./START_HERE.md)
