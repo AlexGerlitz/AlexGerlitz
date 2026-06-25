@@ -266,6 +266,8 @@ REQUIRED_TEXT = {
         "whether a practical first slice can ship quickly",
         "First month plan",
         "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps recovery sprint, or DriveDesk AI Operator-style proof route.",
+        "What I Send Back",
+        "The smallest responsible first slice.",
     ],
     "inbound-response.html": [
         "<title>Contact Routes - Alex Gerlitz</title>",
@@ -283,6 +285,10 @@ REQUIRED_TEXT = {
         "Skill evidence",
         "./INTAKE_BRIEF.md",
         "Inbound brief",
+        "Response Shape",
+        "concrete next step instead of a generic intro call",
+        "Smallest responsible working slice",
+        "Claim-to-evidence map",
     ],
     "drivedesk-ai-operator.html": [
         "Live owner proof",
