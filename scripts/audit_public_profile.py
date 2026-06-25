@@ -193,6 +193,7 @@ REQUIRED_TEXT = {
     ],
     "inbound-response.html": [
         "<title>Contact Routes - Alex Gerlitz</title>",
+        "Decision-ready contact routes with PDF resume",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html"',
         "Decision-Ready Signals",
         "Message on LinkedIn",
