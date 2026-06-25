@@ -16,6 +16,8 @@ class ExpectedPin:
     name_with_owner: str
     description_snippets: tuple[str, ...]
     language: str | None = None
+    homepage_url: str | None = None
+    topics: tuple[str, ...] = ()
 
 
 EXPECTED_PINS: tuple[ExpectedPin, ...] = (
@@ -23,42 +25,82 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         "AlexGerlitz/drivedesk-core",
         ("Operations and integration platform", "FastAPI", "PostgreSQL", "OpenAPI"),
         "Python",
+        "https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/",
+        ("backend", "fastapi", "postgresql", "integration-platform", "operations-platform"),
     ),
     ExpectedPin(
         "AlexGerlitz/ai-ops-workflow-kit",
         ("FastAPI AI workflow backend", "RAG", "approvals", "Telegram"),
         "Python",
+        "https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md",
+        ("ai-automation", "rag", "fastapi", "n8n", "telegram-bot", "workflow-automation"),
     ),
     ExpectedPin(
         "AlexGerlitz/deploymate",
         ("Self-hosted Docker deployment control panel", "CI/CD", "runbooks"),
         "JavaScript",
+        "https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot",
+        ("devops", "docker", "fastapi", "postgresql", "platform-engineering", "runbooks"),
     ),
     ExpectedPin(
         "AlexGerlitz/AlexGerlitz",
         ("AI Automation", "DriveDesk AI Operator", "FastAPI", "Docker"),
         "HTML",
+        "https://alexgerlitz.github.io/AlexGerlitz/",
+        ("ai-automation", "backend", "devops", "drivedesk", "rag", "workflow-automation"),
     ),
     ExpectedPin(
         "AlexGerlitz/MPlusForm",
         ("validation-boundary automation proof", "Python sync pipeline", "Windows ops"),
         "Python",
+        "https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot",
+        ("python", "validation-boundary", "windows-automation", "sync-client"),
     ),
 )
+
+PROFILE_TEXT = {
+    "name": ("Alex Gerlitz",),
+    "bio": (
+        "AI Automation / Backend / Platform Engineer",
+        "DriveDesk",
+        "RAG",
+        "LLM workflows",
+        "CRM/ERP integrations",
+        "FastAPI",
+        "Docker",
+        "DevOps",
+    ),
+    "company": ("Autoschool54 / DriveDesk",),
+    "location": ("Remote-only",),
+    "websiteUrl": ("https://alexgerlitz.github.io/AlexGerlitz/",),
+}
 
 QUERY = """
 query($login: String!) {
   user(login: $login) {
+    name
+    bio
+    company
+    location
+    websiteUrl
     pinnedItems(first: 6, types: [REPOSITORY]) {
       totalCount
       nodes {
         ... on Repository {
           nameWithOwner
           description
+          homepageUrl
           isPrivate
           isArchived
           primaryLanguage {
             name
+          }
+          repositoryTopics(first: 30) {
+            nodes {
+              topic {
+                name
+              }
+            }
           }
           url
         }
@@ -88,8 +130,15 @@ def run_gh_graphql() -> dict:
 
 def check_pins(payload: dict) -> list[str]:
     errors: list[str] = []
-    pinned = payload["data"]["user"]["pinnedItems"]
+    user = payload["data"]["user"]
+    pinned = user["pinnedItems"]
     nodes = pinned["nodes"]
+
+    for field, snippets in PROFILE_TEXT.items():
+        value = user.get(field) or ""
+        for snippet in snippets:
+            if snippet not in value:
+                errors.append(f"profile {field}: missing {snippet!r}")
 
     if pinned["totalCount"] < len(EXPECTED_PINS):
         errors.append(f"expected at least {len(EXPECTED_PINS)} pinned repositories, got {pinned['totalCount']}")
@@ -116,6 +165,17 @@ def check_pins(payload: dict) -> list[str]:
         language = (node.get("primaryLanguage") or {}).get("name")
         if expected.language and language != expected.language:
             errors.append(f"{expected.name_with_owner}: expected language {expected.language!r}, got {language!r}")
+        if expected.homepage_url and node.get("homepageUrl") != expected.homepage_url:
+            errors.append(
+                f"{expected.name_with_owner}: expected homepage {expected.homepage_url!r}, got {node.get('homepageUrl')!r}"
+            )
+        topics = {
+            topic_node["topic"]["name"]
+            for topic_node in (node.get("repositoryTopics") or {}).get("nodes", [])
+        }
+        for topic in expected.topics:
+            if topic not in topics:
+                errors.append(f"{expected.name_with_owner}: missing topic {topic!r}")
 
     return errors
 
@@ -134,7 +194,7 @@ def main() -> int:
             print(f"- {error}")
         return 1
 
-    print("github pins audit passed")
+    print("github profile metadata audit passed")
     for pin in EXPECTED_PINS:
         print(f"ok pinned: {pin.name_with_owner}")
     return 0
