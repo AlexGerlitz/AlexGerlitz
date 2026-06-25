@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import ast
 import re
 import struct
 import sys
@@ -184,6 +185,9 @@ REQUIRED_TEXT = {
         "Vector Databases",
         "pgvector-ready storage",
         "CRM / Bitrix / API handoff",
+        "Live owner proof",
+        "Live Telegram approval evidence",
+        "AI Ops CI workflow",
     ],
     "start-conversation.html": [
         "Current Public Proof",
@@ -213,11 +217,6 @@ REQUIRED_TEXT = {
         "DriveDesk Core - Operations & Integration Platform",
         "AI Ops Workflow Kit - RAG, Transcript Analysis, Approval & CRM Handoff",
         "DeployMate - Self-hosted Docker Deployment Control Panel",
-    ],
-    "AI_AUTOMATION_ROLE_FIT.md": [
-        "Live owner proof",
-        "Live Telegram approval evidence",
-        "AI Ops CI workflow",
     ],
     "drivedesk-proof-route.html": [
         "<title>DriveDesk AI Operator - Proof Route</title>",
@@ -344,6 +343,27 @@ def check_required_files(errors: list[str]) -> None:
             errors.append(f"missing required file: {relative}")
 
 
+def check_required_text_key_shape(errors: list[str]) -> None:
+    tree = ast.parse(Path(__file__).read_text(encoding="utf-8"))
+    for node in tree.body:
+        if not isinstance(node, ast.Assign):
+            continue
+        if not any(isinstance(target, ast.Name) and target.id == "REQUIRED_TEXT" for target in node.targets):
+            continue
+        if not isinstance(node.value, ast.Dict):
+            return
+        seen: set[str] = set()
+        duplicates: set[str] = set()
+        for key in node.value.keys:
+            if isinstance(key, ast.Constant) and isinstance(key.value, str):
+                if key.value in seen:
+                    duplicates.add(key.value)
+                seen.add(key.value)
+        for duplicate in sorted(duplicates):
+            errors.append(f"REQUIRED_TEXT duplicate key: {duplicate}")
+        return
+
+
 def check_bad_filenames(errors: list[str]) -> None:
     for path in ROOT.rglob("*"):
         if not path.is_file():
@@ -450,6 +470,7 @@ def check_png_size(errors: list[str]) -> None:
 
 def main() -> int:
     errors: list[str] = []
+    check_required_text_key_shape(errors)
     check_required_files(errors)
     check_bad_filenames(errors)
     check_bad_patterns(errors)
