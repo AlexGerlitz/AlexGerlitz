@@ -466,6 +466,55 @@ SITEMAP_LASTMOD_REQUIREMENTS = {
     "https://alexgerlitz.github.io/AlexGerlitz/SKILL_EVIDENCE.md": "2026-06-26",
 }
 
+CURRENT_EVIDENCE_SNIPPETS = {
+    "VERIFICATION_PACK.md": [
+        "Last checked: 2026-06-26.",
+        "DriveDesk Core `main` is green on `633e92a`.",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892",
+        "AI Ops latest checked CI run succeeded on `99667b9`",
+        "https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28203298763",
+        "DeployMate default branch `develop` is green on `237b2c9`.",
+        "https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684",
+        "https://github.com/AlexGerlitz/deploymate/actions/runs/28203961395",
+        "MPlusForm `main` is current on `9c55283`",
+    ],
+    "PROOF_OF_WORK.md": [
+        "Checked on 2026-06-26:",
+        "DriveDesk Core `main` is green on `633e92a`.",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892",
+        "AI Ops latest checked CI run succeeded on `99667b9`",
+        "https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28203298763",
+        "DeployMate default branch `develop` is green on `237b2c9`.",
+        "https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684",
+        "https://github.com/AlexGerlitz/deploymate/actions/runs/28203961395",
+        "MPlusForm `main` is current on `9c55283`.",
+    ],
+    "verification-pack.html": [
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892",
+        "https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28203298763",
+        "https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684",
+        "https://github.com/AlexGerlitz/deploymate/actions/runs/28203961395",
+        "<code>633e92a</code>",
+        "<code>99667b9</code>",
+        "<code>237b2c9</code>",
+    ],
+    "drivedesk-core-review.html": [
+        "Public demo checked on 2026-06-26.",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544",
+        "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892",
+    ],
+    "SKILL_EVIDENCE.md": [
+        "https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28203298763",
+    ],
+}
+
 
 class LinkParser(HTMLParser):
     def __init__(self) -> None:
@@ -655,6 +704,18 @@ def check_sitemap_lastmods(errors: list[str]) -> None:
             errors.append(f"sitemap.xml: expected lastmod {expected} for {loc}, got {actual}")
 
 
+def check_current_evidence_snippets(errors: list[str]) -> None:
+    for relative, snippets in CURRENT_EVIDENCE_SNIPPETS.items():
+        path = ROOT / relative
+        if not path.exists():
+            errors.append(f"missing current evidence file: {relative}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        for snippet in snippets:
+            if snippet not in text:
+                errors.append(f"{relative}: missing current evidence snippet: {snippet}")
+
+
 def main() -> int:
     errors: list[str] = []
     check_required_text_key_shape(errors)
@@ -668,6 +729,7 @@ def main() -> int:
     check_local_html_links(errors)
     check_png_size(errors)
     check_sitemap_lastmods(errors)
+    check_current_evidence_snippets(errors)
 
     if errors:
         print("public profile audit failed:")
