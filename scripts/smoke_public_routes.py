@@ -52,6 +52,26 @@ ROUTES: tuple[RouteCheck, ...] = (
         ),
     ),
     RouteCheck(
+        "featured-drivedesk-alias",
+        "https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html",
+        (
+            "DriveDesk AI Operator proof-route alias",
+            'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html"',
+            '<meta http-equiv="refresh" content="0; url=./drivedesk-proof-route.html">',
+            "This proof-route alias opens",
+        ),
+    ),
+    RouteCheck(
+        "one-page-brief-alias",
+        "https://alexgerlitz.github.io/AlexGerlitz/one-page-brief.html",
+        (
+            "DriveDesk AI Operator proof-route alias",
+            'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html"',
+            '<meta http-equiv="refresh" content="0; url=./drivedesk-proof-route.html">',
+            "This proof-route alias opens",
+        ),
+    ),
+    RouteCheck(
         "ai-operator-case",
         "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html",
         (
