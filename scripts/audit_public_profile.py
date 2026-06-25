@@ -131,6 +131,7 @@ REQUIRED_TEXT = {
         'property="og:image:height" content="630"',
         'name="twitter:card" content="summary_large_image"',
         "Clean public proof route",
+        "Profile funnel health",
     ],
     "fixed-scope-offers.html": [
         "backed by DriveDesk AI Operator proof",
