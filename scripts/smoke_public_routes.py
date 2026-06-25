@@ -49,7 +49,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "fixed-scope-offers",
         "https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html",
-        ("Fixed-scope AI automation", "DriveDesk AI Operator Demo"),
+        ("Fixed-scope AI automation", "Best first step", "USD 3,000-12,000", "USD 25,000+ by phase"),
     ),
     RouteCheck(
         "start-conversation",
