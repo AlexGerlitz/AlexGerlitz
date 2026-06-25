@@ -19,6 +19,12 @@ def marker(*parts: str) -> str:
     return "".join(parts)
 
 
+LEGACY_PROOF_ROUTE = marker("featured", "-drivedesk.html")
+LEGACY_PROOF_ROUTE_ALLOWED = {
+    LEGACY_PROOF_ROUTE,
+}
+
+
 BAD_FILENAMES = {
     marker("hiring", "-screen.html"),
 }
@@ -117,7 +123,7 @@ REQUIRED_TEXT = {
         "Strongest public proof route",
     ],
     "resume-pdf.html": [
-        "Proof route: alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html",
+        "Proof route: alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
         "building DriveDesk AI Operator proof",
         "fixed-scope automation",
     ],
@@ -187,6 +193,16 @@ def check_bad_patterns(errors: list[str]) -> None:
                     errors.append(f"{relative}:{line_no}: weak public wording: {label}")
 
 
+def check_legacy_proof_route_references(errors: list[str]) -> None:
+    for path in iter_public_text_files():
+        relative = str(path.relative_to(ROOT))
+        if relative in LEGACY_PROOF_ROUTE_ALLOWED:
+            continue
+        text = path.read_text(encoding="utf-8")
+        if LEGACY_PROOF_ROUTE in text:
+            errors.append(f"{relative}: use drivedesk-proof-route.html instead of legacy proof route")
+
+
 def check_required_text(errors: list[str]) -> None:
     for relative, snippets in REQUIRED_TEXT.items():
         path = ROOT / relative
@@ -244,6 +260,7 @@ def main() -> int:
     check_required_files(errors)
     check_bad_filenames(errors)
     check_bad_patterns(errors)
+    check_legacy_proof_route_references(errors)
     check_required_text(errors)
     check_profile_readme_shape(errors)
     check_local_html_links(errors)

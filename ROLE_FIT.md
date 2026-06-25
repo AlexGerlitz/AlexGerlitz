@@ -36,7 +36,7 @@ CRM adapter contracts, audit, retries, and runbook proof target.
 
 | Step | Open | Why |
 | ---: | --- | --- |
-| 1 | [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html) | Fastest route into current positioning, proof repos, runtime-boundary evidence, and contact surface. |
+| 1 | [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) | Fastest route into current positioning, proof repos, runtime-boundary evidence, and contact surface. |
 | 2 | [Resume](https://alexgerlitz.github.io/AlexGerlitz/resume.html) | Remote experience, target work, skills, and public projects. |
 | 3 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) | Main AI workflow case direction. |
 | 4 | [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) | Current AI Ops CI, local gate, committed evidence, runtime reachability boundary, Pages route, and public boundary. |
@@ -75,7 +75,7 @@ Useful questions for a role or project discussion:
 - AI automation role fit: https://github.com/AlexGerlitz/AlexGerlitz/blob/main/AI_AUTOMATION_ROLE_FIT.md
 - Start conversation: https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html
 - DriveDesk proof route: https://alexgerlitz.github.io/AlexGerlitz/one-page-brief.html
-- DriveDesk AI Operator proof route: https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html
+- DriveDesk AI Operator proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - Resume: https://alexgerlitz.github.io/AlexGerlitz/resume.html
 - Verification pack: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html
 - DriveDesk AI Operator: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html

@@ -7,7 +7,7 @@ operations. The best conversations start with a real workflow, a success conditi
 context to choose the first responsible slice.
 
 Main project direction:
-[DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html) ->
+[DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) ->
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) -
 AI sales/support workflow platform with document/transcript/lead intake, RAG, OpenAI/Claude/Gemini provider boundary,
 transcript analysis, lead scoring, Telegram approval, importable n8n workflow artifacts, CRM adapter contracts, audit, retries, Docker,
@@ -15,7 +15,7 @@ CI, and runbooks.
 
 Latest public signal:
 
-- [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html)
+- [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
 - [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
 - [AI Ops CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml)
@@ -26,7 +26,7 @@ and [DriveDesk Core repository](https://github.com/AlexGerlitz/drivedesk-core).
 Useful first context: a remote role, project, or messy workflow plus one success condition.
 
 Public role-fit route:
-[DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html),
+[DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html),
 [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html),
 [Role Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-pack.html), and
 [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf).
@@ -46,7 +46,7 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 | If you are | Useful first context | Start with |
 | --- | --- | --- |
 | Recruiter | Role title, remote setup, stack, product domain, first-month ownership, hiring timeline. | [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [PDF Resume](./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf), [Role Fit Pack](./APPLICATION_PACK.md) |
-| Hiring manager | Current technical/business pain, systems involved, what should improve first. | [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html), [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md), [Verification Pack](./VERIFICATION_PACK.md) |
+| Hiring manager | Current technical/business pain, systems involved, what should improve first. | [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md), [Verification Pack](./VERIFICATION_PACK.md) |
 | Founder / client | Workflow, tools/data, success condition, deadline, budget range, handoff depth. | [Fixed-Scope Offers](./FIXED_SCOPE_OFFERS.md), [Services](./SERVICES.md), [Inbound Brief](./INTAKE_BRIEF.md) |
 | Technical reviewer | Repo/system link, failure mode, logs/error text, what must not break, current verification. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), [Verification Pack](./VERIFICATION_PACK.md), [Case Studies](./CASE_STUDIES.md) |
 | Warm inbound | Message context, role/project link, success condition, next step. | [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html) |
@@ -72,7 +72,7 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 
 1. [Portfolio page](https://alexgerlitz.github.io/AlexGerlitz/)
 2. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
-3. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html)
+3. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 4. [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html)
 5. [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md)
 6. [DriveDesk Proof Route](./ONE_PAGE_BRIEF.md)
