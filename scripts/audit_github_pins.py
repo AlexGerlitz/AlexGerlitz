@@ -45,6 +45,8 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         ("ai-automation", "rag", "fastapi", "n8n", "telegram-bot", "workflow-automation"),
         (
             "Production-minded reference implementation for AI workflow orchestration",
+            "Profile / contact route",
+            "https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md",
             "60-Second Reviewer Snapshot",
             "RAG/backend ownership",
             "human-in-the-loop workflow ownership",
