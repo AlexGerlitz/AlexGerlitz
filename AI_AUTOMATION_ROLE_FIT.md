@@ -65,7 +65,7 @@ A useful review starts from one real workflow, not a generic puzzle:
 
 ## Boundary Discipline
 
-I do not treat AI automation as magic glue. The production boundary matters:
+I do not treat AI automation as loose workflow glue. The production boundary matters:
 
 - the backend owns state, audit, validation, and retries;
 - n8n is useful for orchestration, not for hiding business logic;

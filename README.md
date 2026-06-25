@@ -1,6 +1,6 @@
 # Alex Gerlitz
 
-Remote AI automation, backend/platform, and DevOps engineer building **DriveDesk**:
+AI Automation / Backend / Platform Engineer building **DriveDesk**:
 operations workflows, integrations, RAG, FastAPI/PostgreSQL backends, Docker, CI, runbooks,
 and recovery paths for real business processes.
 
