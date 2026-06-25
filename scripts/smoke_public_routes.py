@@ -70,6 +70,28 @@ ROUTES: tuple[RouteCheck, ...] = (
         ),
     ),
     RouteCheck(
+        "skill-evidence",
+        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/SKILL_EVIDENCE.md",
+        (
+            "Skill Evidence Matrix",
+            "Vector Databases",
+            "Systems Integration",
+            "Customer Relationship Management (CRM)",
+            "Enterprise Resource Planning (ERP)",
+        ),
+    ),
+    RouteCheck(
+        "role-targets",
+        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/ROLE_TARGETS.md",
+        (
+            "Remote Role Targets",
+            "Systems Integration Engineer",
+            "Customer Relationship Management (CRM) Engineer",
+            "Enterprise Resource Planning (ERP) Engineer",
+            "Vector Databases Engineer",
+        ),
+    ),
+    RouteCheck(
         "first-30-days",
         "https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html",
         ("First Month Delivery Plan", "First 48 Hours", "Week 2"),

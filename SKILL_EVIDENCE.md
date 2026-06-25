@@ -24,11 +24,15 @@ For role-level matching, see [Remote Role Targets](./ROLE_TARGETS.md).
 | Python | Backend services, automation scripts, sync pipeline, tests, tooling. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) |
 | FastAPI | Business backend foundations, AI workflow backend, service contracts. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [DeployMate](https://github.com/AlexGerlitz/deploymate) |
 | PostgreSQL | Business records, workflow state, pgvector-ready storage direction, deployment data model. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [DeployMate](https://github.com/AlexGerlitz/deploymate) |
+| Vector Databases | RAG storage direction, pgvector-ready retrieval, source-context boundaries, and quality checks. | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md) |
 | Docker / Docker Compose | Repeatable local/runtime packaging, app deployment direction, public demo and smoke flows. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [DeployMate](https://github.com/AlexGerlitz/deploymate) |
 | GitHub Actions / CI | Public CI, release checks, health/demo verification, repeatable proof instead of screenshots only. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [DeployMate](https://github.com/AlexGerlitz/deploymate) |
 | RAG / LLM Workflows | Document/transcript ingestion, call-audio transcription, retrieval, OpenAI/Claude/Gemini-ready provider boundary, transcript analysis, scoring/routing, approval queue, Telegram callback approval, outbox drain, and CRM handoff foundations. | [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
 | Workflow Automation | Turning messy business processes into explicit states, records, tasks, approvals, notifications and operator handoff. | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [Proof of Work](./PROOF_OF_WORK.md) |
+| Systems Integration | Source/target contracts, API/webhook/database boundaries, sync/retry/logging paths, rollout notes, and recovery paths. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Remote Services](./SERVICES.md) |
 | API Integration | Adapter boundaries, contracts, mapping/validation, webhooks and external-system integration direction. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Remote Services](./SERVICES.md) |
+| Customer Relationship Management (CRM) | CRM intake, lead/customer workflow direction, dry-run Bitrix CRM handoff, adapter contracts, field mapping, validation, retries, and audit logs. | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
+| Enterprise Resource Planning (ERP) | ERP-style operations boundaries: records, roles, statuses, approvals, accounting/banking handoff direction, adapter contracts, mapping, validation, and rollout notes. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Remote Services](./SERVICES.md) |
 | CRM / ERP / 1C Boundaries | Product direction for CRM/ERP/accounting/banking integration through explicit adapters and auditable workflows. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Remote Services](./SERVICES.md) |
 | Observability / Health Checks | Health checks, smoke checks, logs, release gates and evidence-driven verification. | [DeployMate](https://github.com/AlexGerlitz/deploymate), [Proof of Work](./PROOF_OF_WORK.md) |
 | Runbooks / Handoff Docs | Operational documentation, recovery thinking, rollout notes, debugging paths. | [DeployMate](https://github.com/AlexGerlitz/deploymate), [Remote Services](./SERVICES.md) |
@@ -53,11 +57,15 @@ These are the skills that best match the public proof above:
 - Python
 - FastAPI
 - PostgreSQL
+- Vector Databases
 - Docker
 - DevOps
 - GitHub Actions
 - RAG
+- Systems Integration
 - API Integration
+- Customer Relationship Management (CRM)
+- Enterprise Resource Planning (ERP)
 - Workflow Automation
 - Internal Tools
 - Platform Engineering

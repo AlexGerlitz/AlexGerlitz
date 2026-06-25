@@ -28,6 +28,7 @@ These are the terms that best match the current public proof:
 - AI Automation Engineer
 - LLM Workflow Engineer
 - RAG Workflow Engineer
+- Vector Databases Engineer
 - n8n AI Workflow Engineer
 - AI Sales Automation Engineer
 - AI Support Automation Engineer
@@ -35,8 +36,11 @@ These are the terms that best match the current public proof:
 - Business Automation Engineer
 - Integration Engineer
 - API Integration Engineer
+- Systems Integration Engineer
 - CRM Integration Engineer
+- Customer Relationship Management (CRM) Engineer
 - ERP Integration Engineer
+- Enterprise Resource Planning (ERP) Engineer
 - DevOps Engineer
 - Self-Hosting Engineer
 - Docker / CI Engineer
