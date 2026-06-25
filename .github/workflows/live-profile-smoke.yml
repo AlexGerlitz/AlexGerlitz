@@ -17,3 +17,8 @@ jobs:
 
       - name: Check public proof routes
         run: python3 scripts/smoke_public_routes.py
+
+      - name: Check GitHub pinned proof repositories
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/audit_github_pins.py
