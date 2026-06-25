@@ -76,6 +76,7 @@ REQUIRED_TEXT = {
         "actions/workflows/profile-audit.yml/badge.svg?branch=main",
         "actions/workflows/live-profile-smoke.yml/badge.svg?branch=main",
         "DriveDesk Proof Route",
+        "pinned proof repos",
         "Live owner proof",
         "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
         "https://alexgerlitz.github.io/AlexGerlitz/projects.html",
@@ -91,6 +92,7 @@ REQUIRED_TEXT = {
         "DriveDesk AI Operator",
         "Live owner proof",
         "Live route smoke",
+        "pinned proof repos",
     ],
     "role-fit.html": [
         "AI Ops proof status",

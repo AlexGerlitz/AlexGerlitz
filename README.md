@@ -8,7 +8,7 @@ and recovery paths for real business processes.
 
 I am open to **remote-only full-time roles** and fixed-scope projects where the output is a working system, not a demo shell.
 
-**Fast public review:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [selected projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+**Fast public review:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [selected projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) -> [pinned proof repos](https://github.com/AlexGerlitz?tab=overview) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 
 **60-second proof map:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) -> [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html).
 
