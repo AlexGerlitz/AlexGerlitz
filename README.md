@@ -55,8 +55,8 @@ and recovery paths.
 ## How I Use AI
 
 AI tooling is my engineering multiplier: domain research, decomposition, implementation options,
-debugging, docs, tests, and review move faster. Architecture, state, security boundaries,
-verification, deployment, logs, and quality stay my responsibility.
+code/script generation, debugging, docs, tests, and review move faster. I still own the
+architecture, state, security boundaries, verification, deployment, logs, fixes, and shipped quality.
 
 ## More Detail
 
