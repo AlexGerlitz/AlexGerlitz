@@ -57,6 +57,11 @@ ROUTES: tuple[RouteCheck, ...] = (
         ("Current Public Proof", "AI Operator case"),
     ),
     RouteCheck(
+        "contact-routes",
+        "https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html",
+        ("Decision-Ready Signals", "Message on LinkedIn", "First month plan"),
+    ),
+    RouteCheck(
         "verification-pack",
         "https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html",
         ("AI Ops public proof status", "DriveDesk Core"),
