@@ -13,6 +13,14 @@ working system, not a demo shell.
 or open [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html).
 The most useful context is one role, workflow, or project; one success condition; and the systems involved.
 
+## Decision Snapshot
+
+| Send me | Best match | Fast proof |
+| --- | --- | --- |
+| Remote full-time role | AI automation, backend/platform, DevOps, integrations, internal tools, Python/FastAPI/PostgreSQL, Docker/CI. | [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) |
+| Fixed-scope project | One messy workflow, one success condition, and a working slice with tests, logs, docs, and handoff path. | [Fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html), [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) |
+| Technical proof review | Code, CI, live smoke, runtime boundaries, adapter contracts, runbooks, and public-safe evidence. | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [AI Ops proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) |
+
 ## Flagship Direction
 
 **DriveDesk AI Operator** is the sharpest current proof direction: a company uploads

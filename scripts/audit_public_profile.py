@@ -58,6 +58,7 @@ REQUIRED_FILES = [
     "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
     "assets/social-card.png",
     "assets/social-card.svg",
+    "assets/favicon.svg",
     "sitemap.xml",
     "robots.txt",
 ]
@@ -70,6 +71,7 @@ REQUIRED_TEXT = {
         "remote-only full-time roles",
     ],
     "index.html": [
+        '<link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">',
         "./drivedesk-proof-route.html",
         "DriveDesk proof route",
         "DriveDesk AI Operator",

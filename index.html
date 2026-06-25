@@ -6,6 +6,7 @@
   <title>Alex Gerlitz - Remote AI Automation / Backend / DevOps</title>
   <meta name="description" content="I build remote AI automation, backend/platform, integrations, and DevOps proof around DriveDesk AI Operator: RAG, transcript/call analysis, approvals, n8n, Telegram, CRM/ERP adapter contracts, Docker, CI, and runbooks.">
   <link rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/">
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
   <meta name="theme-color" content="#0f766e">
   <meta property="og:type" content="profile">
   <meta property="og:title" content="Alex Gerlitz - Remote AI Automation / Backend / DevOps">
@@ -307,6 +308,37 @@
       gap: 14px;
     }
 
+    .decision-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .decision-item {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 18px;
+      min-height: 178px;
+      box-shadow: none;
+    }
+
+    .decision-item h3 {
+      margin: 0 0 8px;
+      font-size: 1rem;
+    }
+
+    .decision-item p {
+      margin: 0 0 12px;
+      color: var(--muted);
+      font-size: 0.93rem;
+    }
+
+    .decision-item a {
+      font-weight: 720;
+      color: var(--accent-strong);
+    }
+
     .proof-card {
       padding: 18px;
       min-height: 220px;
@@ -417,6 +449,10 @@
       .proof-grid {
         grid-template-columns: repeat(2, minmax(0, 1fr));
       }
+
+      .decision-grid {
+        grid-template-columns: 1fr;
+      }
     }
 
     @media (max-width: 620px) {
@@ -517,6 +553,27 @@
           <li><a href="./fixed-scope-offers.html"><strong>Project offers</strong><span>AI/RAG, integration, DevOps packages.</span></a></li>
         </ul>
       </aside>
+    </section>
+
+    <section class="section" aria-labelledby="decision-title">
+      <h2 id="decision-title">Fast Decision Snapshot</h2>
+      <div class="decision-grid">
+        <article class="decision-item">
+          <h3>Remote full-time role</h3>
+          <p>Best fit: AI automation, backend/platform, DevOps, integrations, internal tools, Python/FastAPI/PostgreSQL, Docker/CI.</p>
+          <a href="./role-fit.html">Open role fit</a>
+        </article>
+        <article class="decision-item">
+          <h3>Fixed-scope project</h3>
+          <p>Best fit: one messy workflow, one success condition, and a working slice with tests, logs, docs, and a handoff path.</p>
+          <a href="./fixed-scope-offers.html">Open project menu</a>
+        </article>
+        <article class="decision-item">
+          <h3>Technical proof review</h3>
+          <p>Fast proof: code, CI, live smoke, runtime boundaries, adapter contracts, runbooks, and public-safe evidence.</p>
+          <a href="./verification-pack.html">Open verification</a>
+        </article>
+      </div>
     </section>
 
     <section class="section" aria-labelledby="proof-title">
