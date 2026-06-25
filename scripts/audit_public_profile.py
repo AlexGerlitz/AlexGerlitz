@@ -73,6 +73,8 @@ REQUIRED_FILES = [
 
 REQUIRED_TEXT = {
     "README.md": [
+        "actions/workflows/profile-audit.yml/badge.svg?branch=main",
+        "actions/workflows/live-profile-smoke.yml/badge.svg?branch=main",
         "DriveDesk Proof Route",
         "Live owner proof",
         "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
@@ -88,6 +90,7 @@ REQUIRED_TEXT = {
         "DriveDesk proof route",
         "DriveDesk AI Operator",
         "Live owner proof",
+        "Live route smoke",
     ],
     "role-fit.html": [
         "AI Ops proof status",

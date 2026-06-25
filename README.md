@@ -1,5 +1,7 @@
 # Alex Gerlitz
 
+[![Profile Funnel Audit](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml) [![Live Profile Smoke](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml)
+
 AI Automation / Backend / Platform Engineer building **DriveDesk**:
 operations workflows, integrations, RAG, FastAPI/PostgreSQL backends, Docker, CI, runbooks,
 and recovery paths for real business processes.
