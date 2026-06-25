@@ -39,7 +39,14 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "role-fit",
         "https://alexgerlitz.github.io/AlexGerlitz/role-fit.html",
-        ("AI Automation", "Backend / Platform"),
+        (
+            "AI Automation",
+            "Backend / Platform",
+            "Search-fit role targets",
+            "Python Backend Engineer",
+            "LLM Workflow / RAG Engineer",
+            "n8n AI Workflow Engineer",
+        ),
     ),
     RouteCheck(
         "first-30-days",
