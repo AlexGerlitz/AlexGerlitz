@@ -74,8 +74,8 @@ Built proof includes:
 
 ### What This Proves
 
-I can use AI as an engineering multiplier while keeping workflow state, approval boundaries, tests,
-and integration surfaces explicit.
+I can use AI-assisted execution while keeping workflow state, approval boundaries, tests, and
+integration surfaces explicit.
 
 ## Case 3: DeployMate
 

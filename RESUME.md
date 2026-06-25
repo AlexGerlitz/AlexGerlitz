@@ -12,8 +12,8 @@ Docker/CI deployment paths, health checks, runbooks, and recovery procedures.
 Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API
 integrations, Systems Integration, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
 
-I use AI as an engineering multiplier for research, decomposition, code generation, review,
-debugging, documentation, tests, and verification. The final output still has to be inspectable:
+I use AI tooling for research, decomposition, code generation, review, debugging, documentation,
+tests, and verification. The final output still has to be inspectable:
 code, logs, tests, smoke checks, docs, and operational handoff.
 
 ## Target Work

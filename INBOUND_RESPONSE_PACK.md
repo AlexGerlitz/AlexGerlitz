@@ -76,8 +76,8 @@ Proof review:
 ## Useful Boundaries
 
 I work best when the first step is concrete: one workflow, one owner, one success condition, and a
-verification path. I am not a fit for vague AI hype with no business process, unpaid full-product
-builds, or production access without a scoped first step.
+verification path. The strongest starting point is a scoped business process with safe access,
+clear ownership, and a practical proof path before any larger production commitment.
 
 ## Links
 
