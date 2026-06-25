@@ -9,7 +9,7 @@ private Autoschool54/DriveDesk work demonstrates without exposing private busine
 | --- | --- |
 | I can turn a messy business domain into a backend/platform foundation. | DriveDesk Core: tenant model, RBAC, audit/outbox, business records, workflow rules, adapter boundaries, OpenAPI/SDK, CI, docs, and public demo. |
 | I can use AI as an engineering multiplier without losing verification discipline. | AI Ops Workflow Kit: document/CRM/call intake, importable n8n workflow artifact, RAG ingestion/retrieval, LLM/transcription provider boundaries, transcript analysis, lead scoring, approval queue, Telegram callback approval, dry-run CRM handoff, idempotent outbox drain, reviewer acceptance report, opt-in worker, pgvector-ready storage, deterministic tests, Docker and integration boundaries. |
-| I understand operations, deployment, and recovery, not only feature code. | DeployMate: self-hosted deployment control panel direction with Docker apps, VPS targets, SSH runtime tooling, logs, health checks, CI/CD, and release safety docs. |
+| I understand operations, deployment, and recovery, not only feature code. | DeployMate: self-hosted deployment control panel direction with Docker apps, VPS targets, SSH runtime tooling, logs, health checks, CI/CD, public-review gate, evidence bundle, review packet, and release safety docs. |
 | I can design trust and validation boundaries around untrusted client data. | MPlusForm: addon + Python sync pipeline with server-side validation, approved public snapshots, Windows operation scripts, and handoff docs. |
 | I can support real business infrastructure remotely. | Autoschool54 / DriveDesk private work: admin/operator workflows, Telegram bot, web admin, PostgreSQL, Docker Compose, backups, deploy workflow, release preflight, docs, and recovery thinking. |
 
@@ -19,7 +19,7 @@ private Autoschool54/DriveDesk work demonstrates without exposing private busine
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - document/CRM/call intake, importable n8n workflow artifact, RAG, LLM/transcription provider boundaries, reviewer acceptance report, approvals, Telegram callback, idempotent outbox worker, and n8n/Telegram integration boundary.
 - [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) - document intake -> call-audio transcription -> transcript -> RAG -> scoring -> approval -> Telegram callback -> outbox drain -> dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight.
-- [DeployMate](https://github.com/AlexGerlitz/deploymate) - self-hosted deployment control panel and release discipline.
+- [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - self-hosted deployment control panel, DevOps/platform proof snapshot, evidence bundle, and release discipline.
 - [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) - trust-model, validation-boundary, desktop automation proof.
 
 ## Reviewer Shortcuts
