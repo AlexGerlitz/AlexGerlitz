@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import base64
 import json
 import shutil
 import subprocess
@@ -18,6 +19,7 @@ class ExpectedPin:
     language: str | None = None
     homepage_url: str | None = None
     topics: tuple[str, ...] = ()
+    readme_snippets: tuple[str, ...] = ()
 
 
 EXPECTED_PINS: tuple[ExpectedPin, ...] = (
@@ -27,6 +29,13 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         "Python",
         "https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/",
         ("backend", "fastapi", "postgresql", "integration-platform", "operations-platform"),
+        (
+            "public backend/platform foundation behind the DriveDesk AI",
+            "60-Second Review",
+            "FastAPI, PostgreSQL/Alembic",
+            "Integration discipline",
+            "Production proof",
+        ),
     ),
     ExpectedPin(
         "AlexGerlitz/ai-ops-workflow-kit",
@@ -34,6 +43,13 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         "Python",
         "https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md",
         ("ai-automation", "rag", "fastapi", "n8n", "telegram-bot", "workflow-automation"),
+        (
+            "Production-minded reference implementation for AI workflow orchestration",
+            "60-Second Reviewer Snapshot",
+            "RAG/backend ownership",
+            "human-in-the-loop workflow ownership",
+            "Fast evaluation path",
+        ),
     ),
     ExpectedPin(
         "AlexGerlitz/deploymate",
@@ -41,6 +57,13 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         "JavaScript",
         "https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot",
         ("devops", "docker", "fastapi", "postgresql", "platform-engineering", "runbooks"),
+        (
+            "Self-hosted Docker deployment control panel",
+            "public DevOps/platform engineering proof surface",
+            "Engineering Proof Snapshot",
+            "Backend/platform ownership",
+            "DevOps/release discipline",
+        ),
     ),
     ExpectedPin(
         "AlexGerlitz/AlexGerlitz",
@@ -48,6 +71,13 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         "HTML",
         "https://alexgerlitz.github.io/AlexGerlitz/",
         ("ai-automation", "backend", "devops", "drivedesk", "rag", "workflow-automation"),
+        (
+            "AI Automation / Backend / Platform Engineer building **DriveDesk**",
+            "Fast public review",
+            "Decision Snapshot",
+            "DriveDesk AI Operator",
+            "pinned proof repos",
+        ),
     ),
     ExpectedPin(
         "AlexGerlitz/MPlusForm",
@@ -55,6 +85,13 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         "Python",
         "https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot",
         ("python", "validation-boundary", "windows-automation", "sync-client"),
+        (
+            "validation-boundary and desktop-automation proof project",
+            "60-Second Reviewer Snapshot",
+            "trust-model",
+            "untrusted local files",
+            "server-approved snapshot data",
+        ),
     ),
 )
 
@@ -128,6 +165,32 @@ def run_gh_graphql() -> dict:
     return json.loads(completed.stdout)
 
 
+def run_gh_rest(path: str) -> dict:
+    if not shutil.which("gh"):
+        raise RuntimeError("GitHub CLI 'gh' is required for pinned repository audit")
+
+    completed = subprocess.run(
+        ["gh", "api", path],
+        check=False,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True,
+    )
+    if completed.returncode != 0:
+        stderr = completed.stderr.strip()
+        raise RuntimeError(f"gh api {path!r} failed: {stderr or completed.returncode}")
+    return json.loads(completed.stdout)
+
+
+def fetch_readme_text(name_with_owner: str) -> str:
+    payload = run_gh_rest(f"repos/{name_with_owner}/readme")
+    encoded = payload.get("content") or ""
+    encoding = payload.get("encoding")
+    if encoding != "base64" or not encoded:
+        raise RuntimeError(f"{name_with_owner}: unexpected README encoding {encoding!r}")
+    return base64.b64decode(encoded).decode("utf-8", errors="replace")
+
+
 def check_pins(payload: dict) -> list[str]:
     errors: list[str] = []
     user = payload["data"]["user"]
@@ -176,6 +239,10 @@ def check_pins(payload: dict) -> list[str]:
         for topic in expected.topics:
             if topic not in topics:
                 errors.append(f"{expected.name_with_owner}: missing topic {topic!r}")
+        readme = fetch_readme_text(expected.name_with_owner)
+        for snippet in expected.readme_snippets:
+            if snippet not in readme:
+                errors.append(f"{expected.name_with_owner}: README missing {snippet!r}")
 
     return errors
 
