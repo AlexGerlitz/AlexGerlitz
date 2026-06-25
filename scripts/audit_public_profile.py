@@ -103,6 +103,11 @@ REQUIRED_TEXT = {
         "AI Ops proof status",
         "Live owner proof",
         "AI Ops CI workflow",
+        "Search-fit role targets",
+        "Python Backend Engineer",
+        "LLM Workflow / RAG Engineer",
+        "n8n AI Workflow Engineer",
+        "./ROLE_TARGETS.md",
     ],
     "start-conversation.html": [
         "Current Public Proof",
