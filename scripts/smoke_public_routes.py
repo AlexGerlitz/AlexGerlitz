@@ -58,6 +58,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "AI Automation",
             "Backend / Platform",
             "Search-fit role targets",
+            "Search-match stack",
             "Python Backend Engineer",
             "LLM Workflow / RAG Engineer",
             "n8n AI Workflow Engineer",
@@ -78,6 +79,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         "https://alexgerlitz.github.io/AlexGerlitz/application-pack.html",
         (
             "Public role fit",
+            "Search-match stack",
             "AI Automation Engineer",
             "Backend / Platform Engineer",
             "LLM Workflow / RAG Engineer",

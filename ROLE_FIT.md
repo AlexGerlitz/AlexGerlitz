@@ -16,6 +16,9 @@ I am strongest when the work has:
 
 Current anchor: remote Autoschool54 / DriveDesk digital infrastructure work since March 2024.
 
+Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API
+integrations, Systems Integration, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
+
 Main case direction:
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) for
 AI sales/support workflows with RAG, call-audio transcription, transcript analysis, lead scoring, Telegram approval, n8n,
@@ -64,7 +67,7 @@ Useful questions for a role or project discussion:
 | --- | --- |
 | Work mode | Remote-only. Full-time roles and contract/fixed-scope work are both relevant. |
 | Best environment | Real ownership, messy workflows, backend/platform surface, and evidence-friendly delivery. |
-| Strongest stack | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, OpenAPI, tests, AI/RAG workflows, integrations. |
+| Strongest stack | Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, GitHub Actions, OpenAPI, pgvector-ready workflows, tests, and CRM/ERP/API integrations. |
 | AI usage | AI accelerates research, implementation, debugging, review, docs, tests, and comparison. Verification still happens through code, logs, CI, smoke checks, docs, and hands-on inspection. |
 | Best first task | One real workflow with one success condition and enough access/context to ship a verified slice. |
 | Project budget route | Use [fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html). |

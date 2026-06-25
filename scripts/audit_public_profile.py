@@ -118,6 +118,7 @@ REQUIRED_TEXT = {
         "Live owner proof",
         "AI Ops CI workflow",
         "Search-fit role targets",
+        "Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API",
         "Python Backend Engineer",
         "LLM Workflow / RAG Engineer",
         "n8n AI Workflow Engineer",
@@ -140,6 +141,7 @@ REQUIRED_TEXT = {
         "<title>Role Fit Pack - Alex Gerlitz</title>",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/application-pack.html"',
         "Remote AI automation, backend/platform, integration, and DevOps work.",
+        "Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API",
         "AI Automation Engineer",
         "Backend / Platform Engineer",
         "LLM Workflow / RAG Engineer",
@@ -155,6 +157,7 @@ REQUIRED_TEXT = {
     ],
     "APPLICATION_PACK.md": [
         "Role Fit Pack",
+        "Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API",
         "AI Automation Engineer",
         "Backend / Platform Engineer",
         "LLM Workflow / RAG Engineer",
