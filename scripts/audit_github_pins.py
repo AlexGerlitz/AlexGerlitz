@@ -63,6 +63,8 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         ("devops", "docker", "fastapi", "postgresql", "platform-engineering", "runbooks"),
         (
             "Self-hosted Docker deployment control panel",
+            "Profile / contact route",
+            "https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md",
             "public DevOps/platform engineering proof surface",
             "Engineering Proof Snapshot",
             "Backend/platform ownership",
@@ -103,6 +105,8 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         ("python", "validation-boundary", "windows-automation", "sync-client"),
         (
             "validation-boundary and desktop-automation proof project",
+            "Profile / contact route",
+            "https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md",
             "60-Second Reviewer Snapshot",
             "trust-model",
             "untrusted local files",
