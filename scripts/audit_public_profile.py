@@ -23,6 +23,7 @@ LEGACY_PROOF_ROUTE = marker("featured", "-drivedesk.html")
 LEGACY_PROOF_ROUTE_ALLOWED = {
     LEGACY_PROOF_ROUTE,
 }
+DEPLOYMATE_LEGACY_ANCHOR = "deploymate#reviewer-package"
 
 
 BAD_FILENAMES = {
@@ -252,6 +253,8 @@ def check_legacy_proof_route_references(errors: list[str]) -> None:
             errors.append(f"{relative}: use drivedesk-proof-route.html instead of one-page brief route")
         if relative != "ONE_PAGE_BRIEF.md" and "ONE_PAGE_BRIEF.md" in text:
             errors.append(f"{relative}: use drivedesk-proof-route.html instead of ONE_PAGE_BRIEF.md")
+        if DEPLOYMATE_LEGACY_ANCHOR in text:
+            errors.append(f"{relative}: use deploymate#engineering-proof-snapshot instead of legacy DeployMate anchor")
 
 
 def check_required_text(errors: list[str]) -> None:

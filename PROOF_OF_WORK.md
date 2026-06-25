@@ -35,7 +35,7 @@ If you only have a few minutes, review these first:
 - [AI Ops live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) - Telegram approval callback and CRM-safe boundary proof.
 - [Engineering case studies](./CASE_STUDIES.md) - narrative problem/build/evidence summaries.
 - [AI Ops Workflow Kit README](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot) - 60-second AI/RAG workflow reviewer path.
-- [DeployMate README](https://github.com/AlexGerlitz/deploymate#reviewer-package) - repo-first DevOps/platform reviewer package.
+- [DeployMate engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - repo-first DevOps/platform proof route.
 - [MPlusForm README](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot) - trust-model and desktop automation reviewer path.
 - [Skill evidence matrix](./SKILL_EVIDENCE.md) - role keywords mapped to public proof.
 - [Work with me](./WORK_WITH_ME.md) - fixed-scope project entry points.

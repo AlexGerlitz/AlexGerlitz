@@ -41,7 +41,7 @@ For role-level matching, see [Remote Role Targets](./ROLE_TARGETS.md).
 | --- | --- | --- |
 | DriveDesk Core | Backend/platform engineering, adapter boundaries, SaaS foundation, operations platform direction. | [Fast review route](https://github.com/AlexGerlitz/drivedesk-core) |
 | AI Ops Workflow Kit | AI automation, DriveDesk AI Operator-style RAG/transcript workflows, LLM/transcription provider boundaries, transcript processing, Telegram approvals, outbox worker handoff, reviewer acceptance report, live approval proof, CI, and integration boundaries. | [Public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), [reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md), [live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), [latest CI run](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28172015560), [repo](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
-| DeployMate | DevOps, self-hosting, deployment automation, health checks, runbooks, release discipline. | [Reviewer package](https://github.com/AlexGerlitz/deploymate#reviewer-package) |
+| DeployMate | DevOps, self-hosting, deployment automation, health checks, runbooks, release discipline. | [Engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
 | MPlusForm | Trust model, validation boundaries, Python/Lua/PowerShell automation, Windows operations. | [60-second reviewer snapshot](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot) |
 
 ## Best Skills To Evaluate

@@ -96,13 +96,13 @@ Built proof includes:
 - Docker app deployment model;
 - VPS/SSH runtime tooling direction;
 - logs, health checks, admin flows, and release docs;
-- CI/CD and reviewer package cleanup;
+- CI/CD and public proof route cleanup;
 - repo-first public review path after removing dead external-site dependency.
 
 ### Evidence
 
 - [DeployMate](https://github.com/AlexGerlitz/deploymate)
-- [DeployMate reviewer package](https://github.com/AlexGerlitz/deploymate#reviewer-package)
+- [DeployMate engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot)
 - [Remote services](./SERVICES.md)
 
 ### What This Proves
