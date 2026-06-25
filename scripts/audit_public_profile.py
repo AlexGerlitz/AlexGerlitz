@@ -310,7 +310,7 @@ REQUIRED_TEXT = {
         "<title>DriveDesk AI Operator - Proof Route</title>",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html"',
         'property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html"',
-        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"',
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route"',
         'property="og:image:width" content="1200"',
         'property="og:image:height" content="630"',
         'name="twitter:card" content="summary_large_image"',
@@ -328,7 +328,7 @@ REQUIRED_TEXT = {
         "<title>First Month Delivery Plan - Alex Gerlitz</title>",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html"',
         'property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html"',
-        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"',
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route"',
         'property="og:image:width" content="1200"',
         'property="og:image:height" content="630"',
         'name="twitter:card" content="summary_large_image"',
@@ -427,14 +427,14 @@ SOCIAL_PREVIEW_PAGES = [
 ]
 
 SOCIAL_PREVIEW_SNIPPETS = [
-    'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"',
-    'property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"',
+    'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route"',
+    'property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route"',
     'property="og:image:type" content="image/png"',
     'property="og:image:width" content="1200"',
     'property="og:image:height" content="630"',
     'property="og:image:alt"',
     'name="twitter:card" content="summary_large_image"',
-    'name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"',
+    'name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route"',
     'name="twitter:image:alt"',
 ]
 
