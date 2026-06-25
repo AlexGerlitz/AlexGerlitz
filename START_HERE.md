@@ -1,6 +1,6 @@
 # Start Here
 
-Fastest way to decide whether to contact me.
+Use this as a 2-minute decision route: remote role, fixed-scope project, or technical proof review.
 
 I build remote-first AI automation, backend/platform, integration, and DevOps systems for business
 operations. The best conversations start with a real workflow, a success condition, and enough
@@ -72,21 +72,22 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 ## Fast Proof Path
 
 1. [Portfolio page](https://alexgerlitz.github.io/AlexGerlitz/)
-2. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
-3. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-4. [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html)
-5. [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md)
-6. [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
-7. [Role Fit Pack](./APPLICATION_PACK.md)
-8. [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html)
-9. [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
-10. [Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
-11. [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html)
-12. [Verification Pack](./VERIFICATION_PACK.md)
-13. [Fixed-Scope Offers](./FIXED_SCOPE_OFFERS.md)
-14. [First 30 Days](./FIRST_30_DAYS.md)
+2. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+3. [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
+4. [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+5. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) or [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
-## What I Will Send Back
+## Deep Review Paths
+
+- [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html)
+- [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md)
+- [Role Fit Pack](./APPLICATION_PACK.md)
+- [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html)
+- [Verification Pack](./VERIFICATION_PACK.md)
+- [Fixed-Scope Offers](./FIXED_SCOPE_OFFERS.md)
+- [First Month Delivery Plan](./FIRST_30_DAYS.md)
+
+## What You Can Expect Back
 
 - risky assumptions and missing information;
 - smallest responsible first slice;

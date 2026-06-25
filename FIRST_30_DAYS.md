@@ -1,9 +1,9 @@
-# First 30 Days Delivery Plan
+# First Month Delivery Plan
 
-This page shows how I would create value in the first month of a remote role or serious
+This page shows how I create value in the first month of a remote role or serious
 fixed-scope engagement.
 
-The pattern is simple: understand the messy workflow, identify the risky boundary, ship a small
+The pattern is direct: understand the messy workflow, identify the risky boundary, ship a small
 working slice, then leave verification and handoff artifacts behind.
 
 ## First 48 Hours
@@ -17,7 +17,7 @@ working slice, then leave verification and handoff artifacts behind.
 
 ## Week 1: Map And Stabilize
 
-| Track | What I would do |
+| Track | What I do |
 | --- | --- |
 | Backend/platform | Read the domain model, trace critical flows, add missing smoke checks, document the first service boundary. |
 | AI automation | Pick one document/transcript/ticket/operator flow and define inputs, retrieval/scoring, approval, and review states. |
