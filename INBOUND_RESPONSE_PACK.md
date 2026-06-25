@@ -47,25 +47,22 @@ Technical review:
 - risk, claim, or delivery question to validate;
 - useful evidence: CI, logs, docs, runbook, demo path, or smoke command.
 
-## 20-Second Message Shortcuts
+## Fast Decision Prompts
 
 Remote role:
 
-```text
-Hi Alex, I have a remote [role] for [product/team]. Stack: [stack]. First-month ownership: [workflow/slice]. Does this match your AI automation / backend / platform direction?
-```
+- decision: role fit and first-month ownership;
+- send: role title, remote setup, stack, team surface, and hiring timeline.
 
 Workflow / integration:
 
-```text
-Hi Alex, we have a messy [workflow] across [systems]. Success means [outcome] without breaking [constraint]. Can you suggest the first responsible slice?
-```
+- decision: whether a practical first slice can ship quickly;
+- send: workflow, systems, data, success condition, and what must not break.
 
 Proof review:
 
-```text
-Hi Alex, please review [repo/demo/workflow]. The decision is [hire/project/architecture]. The risk to validate is [risk]. Which proof route should we inspect first?
-```
+- decision: which technical claim or risk should be validated;
+- send: repo, demo, architecture link, logs, current verifier, or expected proof.
 
 ## What I Can Evaluate Quickly
 

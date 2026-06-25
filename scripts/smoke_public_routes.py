@@ -215,8 +215,8 @@ ROUTES: tuple[RouteCheck, ...] = (
             "INTAKE_BRIEF.md",
             "Inbound brief",
             "Best immediate starts",
-            "20-Second Message Shortcuts",
-            "Can you suggest the first responsible slice?",
+            "Fast Decision Prompts",
+            "whether a practical first slice can ship quickly",
         ),
     ),
     RouteCheck(
@@ -225,8 +225,8 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Decision-ready contact routes with PDF resume",
             "Decision-Ready Signals",
-            "20-Second Message Shortcuts",
-            "Which proof route should we inspect first?",
+            "Fast Decision Prompts",
+            "which technical claim or risk should be validated",
             "Best immediate starts",
             "Message on LinkedIn",
             "skill-evidence.html",

@@ -21,7 +21,7 @@ Latest public signal:
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) with AI automation, backend/platform, CRM/ERP integration, Docker/CI, DevOps, and validation proof mapped to public evidence
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) with remote-only AI automation proof samples
-- [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md) for the shortest useful first message
+- [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md) for the shortest useful first context
 - [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
 - [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
 - [AI Ops CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml)
