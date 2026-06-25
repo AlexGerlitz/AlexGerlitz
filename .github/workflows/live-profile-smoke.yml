@@ -22,3 +22,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: python3 scripts/audit_github_pins.py
+
+      - name: Check public commit titles
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/audit_public_commit_titles.py
