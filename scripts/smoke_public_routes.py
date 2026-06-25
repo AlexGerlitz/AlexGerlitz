@@ -212,7 +212,7 @@ def check_route(route: RouteCheck) -> list[str]:
         text = body.decode("utf-8", errors="replace")
         for snippet in route.snippets:
             if snippet not in text:
-                errors.append(f"{route.name}: missing snippet {snippet!r}")
+                errors.append(f"{route.name}: missing snippet {snippet!r} for {route.url}")
 
     if not errors:
         print(f"ok {route.name}: {route.url}")
