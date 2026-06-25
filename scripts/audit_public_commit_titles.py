@@ -9,7 +9,7 @@ import sys
 from dataclasses import dataclass
 
 
-COMMITS_PER_REPO = 20
+DEFAULT_COMMITS_PER_REPO = 20
 
 
 def marker(*parts: str) -> str:
@@ -20,12 +20,14 @@ def marker(*parts: str) -> str:
 class RepoCheck:
     name_with_owner: str
     required_recent_subjects: tuple[str, ...] = ()
+    commits_per_repo: int = DEFAULT_COMMITS_PER_REPO
 
 
 REPOS: tuple[RepoCheck, ...] = (
     RepoCheck(
         "AlexGerlitz/AlexGerlitz",
         ("Strengthen contact decision path", "Add public skill evidence route"),
+        40,
     ),
     RepoCheck(
         "AlexGerlitz/drivedesk-core",
@@ -81,7 +83,7 @@ def run_gh_api(path: str) -> object:
 
 
 def fetch_recent_subjects(repo: RepoCheck) -> list[tuple[str, str, str]]:
-    payload = run_gh_api(f"repos/{repo.name_with_owner}/commits?per_page={COMMITS_PER_REPO}")
+    payload = run_gh_api(f"repos/{repo.name_with_owner}/commits?per_page={repo.commits_per_repo}")
     if not isinstance(payload, list):
         raise RuntimeError(f"{repo.name_with_owner}: unexpected commits API payload")
 
@@ -100,7 +102,7 @@ def check_repo(repo: RepoCheck) -> list[str]:
     errors: list[str] = []
     recent = fetch_recent_subjects(repo)
 
-    if len(recent) < min(5, COMMITS_PER_REPO):
+    if len(recent) < min(5, repo.commits_per_repo):
         errors.append(f"{repo.name_with_owner}: expected at least 5 recent commits, got {len(recent)}")
 
     recent_subjects = [subject for _, _, subject in recent]
