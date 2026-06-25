@@ -375,7 +375,11 @@ REQUIRED_TEXT = {
     "assets/social-card.svg": [
         "DriveDesk AI Operator - Proof Route",
         "Backend-owned AI workflow proof",
-        "Documents + transcripts / RAG + citations / scoring / approvals / CRM handoff",
+        "Start conversation / PDF resume / role fit / verification",
+        "Role decision",
+        "Project decision",
+        "Technical proof",
+        "drivedesk-proof-route.html",
     ],
     "INBOUND_RESPONSE_PACK.md": [
         "Contact Routes",
