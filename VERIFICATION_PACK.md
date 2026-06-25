@@ -3,7 +3,7 @@
 Fast technical verification path for the public profile. This page is for reviewers who want to
 check claims directly instead of relying on summaries.
 
-Last checked: 2026-06-20.
+Last checked: 2026-06-25.
 
 ## 15-Minute Review Path
 
@@ -33,8 +33,8 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 
 | Claim | Evidence | How to verify |
 | --- | --- | --- |
-| Backend/platform engineering | DriveDesk Core: tenant model, RBAC, audit/outbox, workflow rules, adapter boundaries, OpenAPI, tests, docs, public demo. | Open the [DriveDesk Core review route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), the [public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/), and the latest [CI run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839503182). |
-| Public demo and release discipline | DriveDesk Core GitHub Pages demo is published from the repo and checked by Actions. | Open the [Pages deployment run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839502765), the [public demo health run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839585284), and the demo URL. |
+| Backend/platform engineering | DriveDesk Core: tenant model, RBAC, audit/outbox, workflow rules, adapter boundaries, OpenAPI, tests, docs, public demo. | Open the [DriveDesk Core review route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), the [public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/), and the latest [CI run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553622). |
+| Public demo and release discipline | DriveDesk Core GitHub Pages demo is published from the repo and checked by Actions. | Open the [Pages deployment run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553066), the [public demo health run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28161509901), and the demo URL. |
 | AI workflow / RAG backend | AI Ops Workflow Kit: document/CRM/call intake, importable n8n workflow artifact, offer demo, LLM/transcription provider boundaries, reviewer acceptance report, ingestion/retrieval, transcript analysis, lead scoring, approvals, Telegram callback approval, dry-run Bitrix CRM handoff, idempotent outbox drain, opt-in worker, pgvector-ready storage, deterministic tests, Docker, and n8n/Telegram boundaries. | Open the [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), the [reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md), the [live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), the [role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md), the [repo](https://github.com/AlexGerlitz/ai-ops-workflow-kit), and the [CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml). |
 | DevOps and release ownership | DeployMate: self-hosted deployment control panel direction, release gates, production contract checks, strict SSH host-key posture, runbooks, incident automation. | Open [DeployMate](https://github.com/AlexGerlitz/deploymate), the [CI workflow](https://github.com/AlexGerlitz/deploymate/actions/workflows/ci.yml), and the release-audit incidents linked below. |
 | Validation and trust boundaries | MPlusForm: client-side data is treated as untrusted until server-side validation creates an approved public snapshot. | Open [MPlusForm](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot). |
@@ -42,16 +42,17 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 
 ## Current External Verification
 
-Checked on 2026-06-20:
+Checked on 2026-06-25:
 
 - DriveDesk Core public demo returned HTTP 200.
-- DriveDesk Core latest checked CI run succeeded on `889838e`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839503182
-- DriveDesk Core Pages deployment succeeded on `889838e`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839502765
-- DriveDesk Core public demo health succeeded on `889838e`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839585284
+- DriveDesk Core latest checked CI run succeeded on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553622
+- DriveDesk Core Pages deployment succeeded on `1c04111`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553066
+- DriveDesk Core public demo health succeeded on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28161509901
+- DriveDesk Core public scheduled validation succeeded on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28155499567
 - AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
-- AI Ops latest checked CI run succeeded on `a908262`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/27839133476
+- AI Ops latest checked CI run succeeded on `81659c2`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28170669049
 - AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops deeper review docs are available from the public proof status when a technical reviewer wants full drill-down.
 - AI Ops public proof status tracks the live-runtime boundary, local public gate, committed runtime evidence, LLM provider fallback state, and transcription provider state: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md

@@ -42,16 +42,17 @@ If you only have a few minutes, review these first:
 
 ## Current Public Verification
 
-Checked on 2026-06-20:
+Checked on 2026-06-25:
 
 - DriveDesk Core public demo returns HTTP 200.
-- DriveDesk Core latest public CI run succeeded on `889838e`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839503182
-- DriveDesk Core latest GitHub Pages deployment succeeded on `889838e`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839502765
-- DriveDesk Core public demo health run was successful on `889838e`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27839585284
+- DriveDesk Core latest public CI run succeeded on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553622
+- DriveDesk Core latest GitHub Pages deployment succeeded on `1c04111`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/27925553066
+- DriveDesk Core public demo health run was successful on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28161509901
+- DriveDesk Core public scheduled validation succeeded on `3f597cf`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28155499567
 - DriveDesk Core has a public fast reviewer route and public demo path.
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
-- AI Ops latest checked CI run succeeded on `a908262`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/27839133476
+- AI Ops latest checked CI run succeeded on `81659c2`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28170669049
 - AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops public proof status tracks live-runtime reachability, local public gate, committed runtime evidence, LLM provider fallback state, and transcription provider state without exposing secrets: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
