@@ -61,8 +61,6 @@ Checked on 2026-06-25:
 - DeployMate public evidence bundle succeeded on `580bfb8`: https://github.com/AlexGerlitz/deploymate/actions/runs/28185001575
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814
 - MPlusForm has a public 60-second reviewer snapshot for trust-model and validation-boundary review.
-- Profile funnel audit succeeded on `2440e20`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28186649982
-- Profile GitHub Pages deployment succeeded on `2440e20`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28186649211
 - Public proof repositories are reachable.
 
 ## DriveDesk Core Case Study

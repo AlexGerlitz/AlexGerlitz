@@ -60,8 +60,6 @@ Checked on 2026-06-25:
 - DeployMate CI succeeded on `580bfb8`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28184950290
 - DeployMate public evidence bundle succeeded on `580bfb8`: https://github.com/AlexGerlitz/deploymate/actions/runs/28185001575
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814
-- Profile funnel audit succeeded on `2440e20`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28186649982
-- Profile GitHub Pages deployment succeeded on `2440e20`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28186649211
 - MPlusForm repository and reviewer snapshot were reachable.
 
 ## Recovery Trail
