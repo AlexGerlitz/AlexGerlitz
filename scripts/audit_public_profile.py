@@ -164,6 +164,10 @@ REQUIRED_TEXT = {
         "backed by DriveDesk AI Operator proof",
         "./drivedesk-proof-route.html",
         "Open DriveDesk proof route",
+        "Best first step",
+        "Workflow Teardown + Working Slice",
+        "USD 3,000-12,000",
+        "USD 25,000+ by phase",
     ],
     "one-page-brief.html": [
         "DriveDesk AI Operator - Proof Route",

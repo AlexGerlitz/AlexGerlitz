@@ -8,6 +8,14 @@ pricing depends on access, urgency, data quality, reliability requirements, depl
 handoff expectations. If the scope is unclear, the right first step is a smaller paid slice with one
 success condition.
 
+## Best First Step
+
+If the scope is unclear, start with **Workflow Teardown + Working Slice**: one workflow, one success
+condition, one small working path, and a clear decision on whether to expand.
+
+If the workflow is already clear, choose the closest offer below and send the systems involved, access
+constraints, timeline, and expected handoff depth.
+
 ## Fast Menu
 
 | Offer | Best for | Timebox | Budget signal | Public proof |
