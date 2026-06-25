@@ -31,6 +31,8 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         ("backend", "fastapi", "postgresql", "integration-platform", "operations-platform"),
         (
             "public backend/platform foundation behind the DriveDesk AI",
+            "Profile / contact route",
+            "https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md",
             "60-Second Review",
             "FastAPI, PostgreSQL/Alembic",
             "Integration discipline",
