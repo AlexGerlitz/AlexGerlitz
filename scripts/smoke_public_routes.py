@@ -49,6 +49,27 @@ ROUTES: tuple[RouteCheck, ...] = (
         ),
     ),
     RouteCheck(
+        "resume",
+        "https://alexgerlitz.github.io/AlexGerlitz/resume.html",
+        (
+            "Role-fit resume",
+            "DriveDesk AI Operator proof route",
+            "PDF resume",
+            "Remote-only backend, platform, DevOps, and AI automation roles.",
+        ),
+    ),
+    RouteCheck(
+        "role-fit-pack",
+        "https://alexgerlitz.github.io/AlexGerlitz/application-pack.html",
+        (
+            "Public role fit",
+            "AI Automation Engineer",
+            "Backend / Platform Engineer",
+            "LLM Workflow / RAG Engineer",
+            "PDF resume",
+        ),
+    ),
+    RouteCheck(
         "first-30-days",
         "https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html",
         ("First Month Delivery Plan", "First 48 Hours", "Week 2"),
