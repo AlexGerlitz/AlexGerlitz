@@ -162,6 +162,28 @@ REQUIRED_TEXT = {
     ],
 }
 
+SOCIAL_PREVIEW_PAGES = [
+    "index.html",
+    "drivedesk-proof-route.html",
+    "projects.html",
+    "role-fit.html",
+    "fixed-scope-offers.html",
+    "start-conversation.html",
+    "inbound-response.html",
+]
+
+SOCIAL_PREVIEW_SNIPPETS = [
+    'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"',
+    'property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"',
+    'property="og:image:type" content="image/png"',
+    'property="og:image:width" content="1200"',
+    'property="og:image:height" content="630"',
+    'property="og:image:alt"',
+    'name="twitter:card" content="summary_large_image"',
+    'name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"',
+    'name="twitter:image:alt"',
+]
+
 
 class LinkParser(HTMLParser):
     def __init__(self) -> None:
@@ -243,6 +265,18 @@ def check_required_text(errors: list[str]) -> None:
                 errors.append(f"{relative}: missing required text: {snippet}")
 
 
+def check_social_preview_metadata(errors: list[str]) -> None:
+    for relative in SOCIAL_PREVIEW_PAGES:
+        path = ROOT / relative
+        if not path.exists():
+            errors.append(f"missing social preview page: {relative}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        for snippet in SOCIAL_PREVIEW_SNIPPETS:
+            if snippet not in text:
+                errors.append(f"{relative}: missing social preview metadata: {snippet}")
+
+
 def check_profile_readme_shape(errors: list[str]) -> None:
     path = ROOT / "README.md"
     if not path.exists():
@@ -291,6 +325,7 @@ def main() -> int:
     check_bad_patterns(errors)
     check_legacy_proof_route_references(errors)
     check_required_text(errors)
+    check_social_preview_metadata(errors)
     check_profile_readme_shape(errors)
     check_local_html_links(errors)
     check_png_size(errors)
