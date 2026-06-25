@@ -133,7 +133,19 @@ REQUIRED_TEXT = {
     ],
     "one-page-brief.html": [
         "DriveDesk AI Operator - Proof Route",
-        "Strongest public proof route",
+        'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html"',
+        '<meta http-equiv="refresh" content="0; url=./drivedesk-proof-route.html">',
+        "strongest public proof route",
+    ],
+    "featured-drivedesk.html": [
+        'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html"',
+        '<meta http-equiv="refresh" content="0; url=./drivedesk-proof-route.html">',
+        "The current proof route",
+    ],
+    "ONE_PAGE_BRIEF.md": [
+        "legacy markdown route",
+        "DriveDesk AI Operator proof route",
+        "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
     ],
     "resume-pdf.html": [
         "Proof route: alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
