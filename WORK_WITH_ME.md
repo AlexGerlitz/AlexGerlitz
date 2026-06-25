@@ -6,6 +6,9 @@ The strongest fit is a real workflow with unclear requirements, scattered data, 
 or fragile deployment/recovery. I use AI heavily to move faster, but the deliverable still has to be
 engineered: tested, documented, deployed, observable, and understandable after the first demo.
 
+Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
+recovery sprint, or DriveDesk AI Operator-style proof route.
+
 For the shortest service overview, see [Remote AI Automation Services](./SERVICES.md).
 For the live LinkedIn service page, see
 [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/).

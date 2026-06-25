@@ -2,6 +2,9 @@
 
 Public contact guide for role, project, founder, and technical-review conversations.
 
+Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
+recovery sprint, or DriveDesk AI Operator-style proof route.
+
 ## Best First Link
 
 | Conversation type | Best first link | Why |

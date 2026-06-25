@@ -6,6 +6,9 @@ I build remote-first AI automation, backend/platform, integration, and DevOps sy
 operations. The best conversations start with a real workflow, a success condition, and enough
 context to choose the first responsible slice.
 
+Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
+recovery sprint, or DriveDesk AI Operator-style proof route.
+
 Main project direction:
 [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) ->
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) -

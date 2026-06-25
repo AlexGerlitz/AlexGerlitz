@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import sys
+import time
 from dataclasses import dataclass, field
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
@@ -9,6 +10,8 @@ from urllib.request import Request, urlopen
 
 TIMEOUT_SECONDS = 20
 USER_AGENT = "AlexGerlitz-public-profile-smoke/1.0"
+LIVE_RETRY_ATTEMPTS = 6
+LIVE_RETRY_DELAY_SECONDS = 10
 
 
 @dataclass(frozen=True)
@@ -134,6 +137,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Decision-ready contact routes with PDF resume",
             "Decision-Ready Signals",
+            "Best immediate starts",
             "Message on LinkedIn",
             "PDF resume",
             "First month plan",
@@ -215,10 +219,40 @@ def check_route(route: RouteCheck) -> list[str]:
     return errors
 
 
+def has_retryable_pages_lag(errors: list[str]) -> bool:
+    return any(
+        "alexgerlitz.github.io" in error
+        and (
+            "missing snippet" in error
+            or "HTTP 404" in error
+            or "URL error" in error
+            or "timed out" in error
+        )
+        for error in errors
+    )
+
+
 def main() -> int:
     errors: list[str] = []
-    for route in ROUTES:
-        errors.extend(check_route(route))
+    for attempt in range(1, LIVE_RETRY_ATTEMPTS + 1):
+        errors = []
+        for route in ROUTES:
+            errors.extend(check_route(route))
+
+        if not errors:
+            print("public route smoke passed")
+            return 0
+
+        if attempt < LIVE_RETRY_ATTEMPTS and has_retryable_pages_lag(errors):
+            print(
+                "public route smoke found retryable Pages lag; "
+                f"retrying in {LIVE_RETRY_DELAY_SECONDS}s "
+                f"({attempt}/{LIVE_RETRY_ATTEMPTS})"
+            )
+            time.sleep(LIVE_RETRY_DELAY_SECONDS)
+            continue
+
+        break
 
     if errors:
         print("public route smoke failed:")
@@ -226,8 +260,7 @@ def main() -> int:
             print(f"- {error}")
         return 1
 
-    print("public route smoke passed")
-    return 0
+    return 1
 
 
 if __name__ == "__main__":

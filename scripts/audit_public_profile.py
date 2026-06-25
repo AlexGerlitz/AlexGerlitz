@@ -146,6 +146,7 @@ REQUIRED_TEXT = {
     ],
     "START_HERE.md": [
         "2-minute decision route",
+        "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps",
         "DriveDesk AI Operator proof route",
         "LinkedIn Services",
         "Role Fit Pack",
@@ -172,6 +173,7 @@ REQUIRED_TEXT = {
     "SERVICES.md": [
         "Remote AI Automation Services",
         "remote-only backend, AI automation",
+        "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps",
         "DriveDesk AI Operator demo",
         "Remote-only LinkedIn service page",
         "Fixed-Scope AI Automation Offers",
@@ -213,6 +215,7 @@ REQUIRED_TEXT = {
         "Decision-ready contact routes with PDF resume",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html"',
         "Decision-Ready Signals",
+        "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps",
         "Message on LinkedIn",
         "PDF resume",
         "First month plan",
@@ -294,6 +297,24 @@ REQUIRED_TEXT = {
         "DriveDesk AI Operator - Proof Route",
         "Backend-owned AI workflow proof",
         "Documents + transcripts / RAG + citations / scoring / approvals / CRM handoff",
+    ],
+    "INBOUND_RESPONSE_PACK.md": [
+        "Contact Routes",
+        "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps",
+        "DriveDesk Proof Route",
+        "LinkedIn Services",
+    ],
+    "INTAKE_BRIEF.md": [
+        "Inbound Brief",
+        "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps",
+        "For A Role",
+        "For A Fixed-Scope Project",
+    ],
+    "WORK_WITH_ME.md": [
+        "Work With Me",
+        "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps",
+        "Workflow Teardown + Working Slice",
+        "Integration Adapter",
     ],
     "sitemap.xml": [
         "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",

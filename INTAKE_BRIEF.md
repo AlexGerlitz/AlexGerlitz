@@ -4,6 +4,9 @@ A clear role or project brief helps me respond with a useful first plan instead 
 
 For the shortest route, start with [Start Here](./START_HERE.md).
 
+Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
+recovery sprint, or DriveDesk AI Operator-style proof route.
+
 ## For A Role
 
 Send:

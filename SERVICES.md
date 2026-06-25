@@ -8,6 +8,9 @@ unclear to scale. I use AI heavily to compress research, implementation, debuggi
 documentation time, but the final output still has to be inspectable: code, tests, logs, smoke
 checks, deployment notes, and a handoff path.
 
+Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
+recovery sprint, or DriveDesk AI Operator-style proof route.
+
 ## What I Can Build
 
 | Service | Best for | Typical output |
