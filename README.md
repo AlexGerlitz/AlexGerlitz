@@ -10,7 +10,8 @@ working system, not a demo shell.
 **Fast public review:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [selected projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 
 **Fast contact route:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
-or open [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html).
+or open [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) /
+[Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html).
 The most useful context is one role, workflow, or project; one success condition; and the systems involved.
 
 ## Decision Snapshot
@@ -68,8 +69,10 @@ architecture, state, security boundaries, verification, deployment, logs, fixes,
 - [Proof of work](./PROOF_OF_WORK.md)
 - [Fixed-scope offers](./FIXED_SCOPE_OFFERS.md)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
+- [LinkedIn services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/alex-gerlitz-a659ab3bb](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
+- LinkedIn Services: [linkedin.com/services/page/3153b734507b8a60ab](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - GitHub: [github.com/AlexGerlitz](https://github.com/AlexGerlitz)

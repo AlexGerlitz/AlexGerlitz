@@ -66,7 +66,7 @@ inspection, tests, logs, smoke checks, CI, docs, deployment, and operational han
 - AI Ops reviewer acceptance report: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
 - AI Ops offer demo: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md
 - Role fit page: https://alexgerlitz.github.io/AlexGerlitz/role-fit.html
-- DriveDesk proof route: https://alexgerlitz.github.io/AlexGerlitz/one-page-brief.html
+- DriveDesk proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - Resume: https://alexgerlitz.github.io/AlexGerlitz/resume.html
 - PDF resume: https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf
 - Verification pack: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html

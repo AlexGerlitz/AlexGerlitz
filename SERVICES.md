@@ -24,6 +24,9 @@ checks, deployment notes, and a handoff path.
 For concrete packages, timeboxes, and budget signals, see the
 [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
 
+LinkedIn service page:
+[linkedin.com/services/page/3153b734507b8a60ab](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
+
 ### 1. Workflow Teardown + Working Slice
 
 Input:
@@ -118,6 +121,8 @@ Output can include:
   public proof.
 - [Fixed-scope offers](./FIXED_SCOPE_OFFERS.md) - concrete project menu with expected inputs,
   outputs, timeboxes, and budget signals.
+- [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) - remote-only
+  service page with DriveDesk AI Operator proof sample.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - AI/RAG workflow backend
   backend with transcript analysis, approval queues, pgvector-ready storage, Docker, and tests.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate) - self-hosted deployment control panel

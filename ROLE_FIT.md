@@ -74,7 +74,7 @@ Useful questions for a role or project discussion:
 - Visual role-fit page: https://alexgerlitz.github.io/AlexGerlitz/role-fit.html
 - AI automation role fit: https://github.com/AlexGerlitz/AlexGerlitz/blob/main/AI_AUTOMATION_ROLE_FIT.md
 - Start conversation: https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html
-- DriveDesk proof route: https://alexgerlitz.github.io/AlexGerlitz/one-page-brief.html
+- DriveDesk proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - DriveDesk AI Operator proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - Resume: https://alexgerlitz.github.io/AlexGerlitz/resume.html
 - Verification pack: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html

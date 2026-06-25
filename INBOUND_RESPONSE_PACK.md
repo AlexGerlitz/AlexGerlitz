@@ -42,6 +42,7 @@ builds, or production access without a scoped first step.
 ## Links
 
 - Start conversation: https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html
+- LinkedIn Services: https://www.linkedin.com/services/page/3153b734507b8a60ab/
 - DriveDesk Proof Route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - Role fit: https://alexgerlitz.github.io/AlexGerlitz/role-fit.html
 - DriveDesk AI Operator: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html

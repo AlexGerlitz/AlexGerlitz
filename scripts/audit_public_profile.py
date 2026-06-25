@@ -76,12 +76,14 @@ REQUIRED_TEXT = {
         "Live owner proof",
         "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
         "https://alexgerlitz.github.io/AlexGerlitz/projects.html",
+        "https://www.linkedin.com/services/page/3153b734507b8a60ab/",
         "remote-only full-time roles",
     ],
     "index.html": [
         '<link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">',
         "./drivedesk-proof-route.html",
         "./projects.html",
+        "https://www.linkedin.com/services/page/3153b734507b8a60ab/",
         "DriveDesk proof route",
         "DriveDesk AI Operator",
         "Live owner proof",
@@ -212,6 +214,8 @@ def check_legacy_proof_route_references(errors: list[str]) -> None:
         text = path.read_text(encoding="utf-8")
         if LEGACY_PROOF_ROUTE in text:
             errors.append(f"{relative}: use drivedesk-proof-route.html instead of legacy proof route")
+        if relative != "one-page-brief.html" and "one-page-brief.html" in text:
+            errors.append(f"{relative}: use drivedesk-proof-route.html instead of one-page brief route")
 
 
 def check_required_text(errors: list[str]) -> None:
