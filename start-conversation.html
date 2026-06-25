@@ -15,6 +15,8 @@
   <meta name="twitter:title" content="Start a Conversation - Alex Gerlitz">
   <meta name="twitter:description" content="Fast route for recruiters, founders, and technical reviewers.">
   <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <link rel="stylesheet" href="./assets/copy-blocks.css">
+  <script src="./assets/copy-blocks.js" defer></script>
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -107,7 +109,8 @@
     .two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
     .three { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
     .snippet { padding: 14px; border: 1px solid var(--line); border-radius: 8px; background: var(--blue-soft); color: var(--ink); }
-    .snippet code { white-space: normal; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.92rem; }
+    .snippet pre { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; }
+    .snippet code { display: block; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.92rem; }
     ul { margin: 0; padding-left: 20px; }
     li { margin: 7px 0; }
     .badge {
@@ -190,15 +193,15 @@
       <div class="three" aria-label="Fast message shapes">
         <div class="snippet">
           <h3>Remote role</h3>
-          <code>Role: &lt;title&gt;. Remote setup: &lt;timezone / schedule&gt;. Stack: &lt;systems and tools&gt;. First-month ownership: &lt;what should improve&gt;. Timeline: &lt;process and next step&gt;.</code>
+          <pre><code>Role: &lt;title&gt;. Remote setup: &lt;timezone / schedule&gt;. Stack: &lt;systems and tools&gt;. First-month ownership: &lt;what should improve&gt;. Timeline: &lt;process and next step&gt;.</code></pre>
         </div>
         <div class="snippet">
           <h3>Fixed-scope project</h3>
-          <code>Workflow: &lt;manual or fragile process&gt;. Systems: &lt;CRM / API / database / documents / approvals&gt;. Success condition: &lt;working outcome&gt;. Constraints: &lt;access, hosting, deadline, commercial range&gt;.</code>
+          <pre><code>Workflow: &lt;manual or fragile process&gt;. Systems: &lt;CRM / API / database / documents / approvals&gt;. Success condition: &lt;working outcome&gt;. Constraints: &lt;access, hosting, deadline, commercial range&gt;.</code></pre>
         </div>
         <div class="snippet">
           <h3>Technical review</h3>
-          <code>Review target: &lt;repo / demo / architecture&gt;. I care about: &lt;risk or claim&gt;. Useful evidence: &lt;CI, logs, docs, runbook, demo path&gt;. Next decision: &lt;hire / scope / technical fit&gt;.</code>
+          <pre><code>Review target: &lt;repo / demo / architecture&gt;. I care about: &lt;risk or claim&gt;. Useful evidence: &lt;CI, logs, docs, runbook, demo path&gt;. Next decision: &lt;hire / scope / technical fit&gt;.</code></pre>
         </div>
       </div>
     </section>

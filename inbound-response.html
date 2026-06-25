@@ -15,6 +15,8 @@
   <meta name="twitter:title" content="Contact Routes - Alex Gerlitz">
   <meta name="twitter:description" content="DriveDesk AI Operator, role, project, AI workflow, and technical-review routes with proof links.">
   <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <link rel="stylesheet" href="./assets/copy-blocks.css">
+  <script src="./assets/copy-blocks.js" defer></script>
   <style>
     :root { --ink: #18202a; --muted: #52616f; --line: #d8e0e7; --paper: #f7f8fa; --panel: #fff; --accent: #0f766e; --blue: #1d4ed8; }
     * { box-sizing: border-box; }
@@ -37,7 +39,8 @@
     .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
     .three { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
     .snippet { padding: 14px; border: 1px solid var(--line); border-radius: 8px; background: #eef4ff; }
-    .snippet code { white-space: normal; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.92rem; }
+    .snippet pre { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; }
+    .snippet code { display: block; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.92rem; }
     ul { margin: 0; padding-left: 20px; }
     li { margin: 7px 0; }
     @media (max-width: 760px) { .grid, .three { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .actions { display: grid; } .button, .nav a { width: 100%; } }
@@ -73,15 +76,15 @@
       <div class="three" aria-label="Fast message shapes">
         <div class="snippet">
           <h2>Remote Role</h2>
-          <code>Role: &lt;title&gt;. Remote setup: &lt;timezone / schedule&gt;. Stack: &lt;systems and tools&gt;. First-month ownership: &lt;what should improve&gt;. Timeline: &lt;process and next step&gt;.</code>
+          <pre><code>Role: &lt;title&gt;. Remote setup: &lt;timezone / schedule&gt;. Stack: &lt;systems and tools&gt;. First-month ownership: &lt;what should improve&gt;. Timeline: &lt;process and next step&gt;.</code></pre>
         </div>
         <div class="snippet">
           <h2>Fixed-Scope Project</h2>
-          <code>Workflow: &lt;manual or fragile process&gt;. Systems: &lt;CRM / API / database / documents / approvals&gt;. Success condition: &lt;working outcome&gt;. Constraints: &lt;access, hosting, deadline, commercial range&gt;.</code>
+          <pre><code>Workflow: &lt;manual or fragile process&gt;. Systems: &lt;CRM / API / database / documents / approvals&gt;. Success condition: &lt;working outcome&gt;. Constraints: &lt;access, hosting, deadline, commercial range&gt;.</code></pre>
         </div>
         <div class="snippet">
           <h2>Technical Review</h2>
-          <code>Review target: &lt;repo / demo / architecture&gt;. I care about: &lt;risk or claim&gt;. Useful evidence: &lt;CI, logs, docs, runbook, demo path&gt;. Next decision: &lt;hire / scope / technical fit&gt;.</code>
+          <pre><code>Review target: &lt;repo / demo / architecture&gt;. I care about: &lt;risk or claim&gt;. Useful evidence: &lt;CI, logs, docs, runbook, demo path&gt;. Next decision: &lt;hire / scope / technical fit&gt;.</code></pre>
         </div>
       </div>
     </section>
