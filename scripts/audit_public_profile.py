@@ -82,6 +82,8 @@ REQUIRED_FILES = [
     "ROLE_TARGETS.md",
     "AI_AUTOMATION_ROLE_FIT.md",
     "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
+    "assets/linkedin-banner.png",
+    "assets/linkedin-banner.svg",
     "assets/social-card.png",
     "assets/social-card.svg",
     "assets/favicon.svg",
@@ -389,6 +391,14 @@ REQUIRED_TEXT = {
         "Technical proof",
         "drivedesk-proof-route.html",
     ],
+    "assets/linkedin-banner.svg": [
+        "Alex Gerlitz LinkedIn banner",
+        "DriveDesk AI Operator",
+        "REMOTE AI AUTOMATION / BACKEND / PLATFORM",
+        "RAG + LLM workflows + CRM/ERP integrations",
+        "FastAPI / PostgreSQL / Docker / n8n / Telegram / CI / runbooks",
+        "alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
+    ],
     "INBOUND_RESPONSE_PACK.md": [
         "Contact Routes",
         "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps",
@@ -590,17 +600,22 @@ def check_local_html_links(errors: list[str]) -> None:
                 errors.append(f"{path.name}: missing local {attr} target: {value}")
 
 
-def check_png_size(errors: list[str]) -> None:
-    path = ROOT / "assets/social-card.png"
+def check_png_dimensions(errors: list[str], relative: str, expected: tuple[int, int]) -> None:
+    path = ROOT / relative
     if not path.exists():
         return
     data = path.read_bytes()
     if not data.startswith(b"\x89PNG\r\n\x1a\n"):
-        errors.append("assets/social-card.png: not a PNG")
+        errors.append(f"{relative}: not a PNG")
         return
     width, height = struct.unpack(">II", data[16:24])
-    if (width, height) != (1200, 630):
-        errors.append(f"assets/social-card.png: expected 1200x630, got {width}x{height}")
+    if (width, height) != expected:
+        errors.append(f"{relative}: expected {expected[0]}x{expected[1]}, got {width}x{height}")
+
+
+def check_png_size(errors: list[str]) -> None:
+    check_png_dimensions(errors, "assets/social-card.png", (1200, 630))
+    check_png_dimensions(errors, "assets/linkedin-banner.png", (1584, 396))
 
 
 def main() -> int:
