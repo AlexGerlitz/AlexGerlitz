@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Selected Proof Projects - Alex Gerlitz</title>
+  <meta name="description" content="My selected proof projects for remote AI automation, backend/platform, integrations, DevOps, RAG workflows, CRM handoff, Docker, CI, and operations systems.">
+  <link rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/projects.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Selected Proof Projects - Alex Gerlitz">
+  <meta property="og:description" content="Project proof for DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, and DeployMate: backend-owned AI workflows, integrations, DevOps, CI, and runbooks.">
+  <meta property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/projects.html">
+  <meta property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Selected Proof Projects - Alex Gerlitz">
+  <meta name="twitter:description" content="Inspectable proof projects across AI workflows, backend/platform systems, integrations, DevOps, CI, docs, and recovery paths.">
+  <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png">
+  <style>
+    :root { --ink: #18202a; --muted: #52616f; --line: #d8e0e7; --paper: #f7f8fa; --panel: #fff; --accent: #0f766e; --blue: #1d4ed8; --soft: #e9f7f4; --amber-soft: #fff4e5; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: var(--ink); background: var(--paper); line-height: 1.55; }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .shell { max-width: 1100px; margin: 0 auto; padding: 28px 20px 48px; }
+    .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+    .nav a, .button { display: inline-flex; align-items: center; justify-content: center; min-height: 38px; border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; background: var(--panel); color: var(--ink); font-weight: 650; }
+    .button.primary { border-color: var(--accent); background: var(--accent); color: #fff; }
+    .hero, .project, .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 16px 34px rgba(24, 32, 42, 0.08); }
+    .hero { padding: 30px; margin-bottom: 18px; }
+    .project { padding: 22px; }
+    .panel { padding: 20px; }
+    .eyebrow { color: var(--accent); font-weight: 760; text-transform: uppercase; font-size: 0.78rem; letter-spacing: 0; }
+    h1 { margin: 8px 0 10px; font-size: clamp(2.1rem, 5vw, 3.4rem); line-height: 1.04; letter-spacing: 0; }
+    h2 { margin: 0 0 10px; font-size: 1.28rem; }
+    h3 { margin: 0 0 8px; font-size: 1rem; }
+    p { margin: 0 0 12px; }
+    .lead { max-width: 830px; color: var(--muted); font-size: 1.08rem; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    .project-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; }
+    .meta { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tag { display: inline-flex; align-items: center; min-height: 32px; border-radius: 8px; background: var(--soft); color: #0b4f4a; padding: 6px 10px; font-weight: 720; font-size: 0.92rem; }
+    .tag.alt { background: var(--amber-soft); color: #7c3e06; }
+    ul { margin: 0; padding-left: 20px; }
+    li { margin: 7px 0; }
+    @media (max-width: 760px) { .grid { grid-template-columns: 1fr; } .hero { padding: 22px; } h1 { font-size: 2.05rem; } .nav a, .button { width: 100%; } }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <nav class="nav" aria-label="Profile navigation">
+      <a href="./">Portfolio</a>
+      <a href="./drivedesk-proof-route.html">Proof route</a>
+      <a href="./drivedesk-ai-operator.html">AI Operator</a>
+      <a href="./verification-pack.html">Verification</a>
+      <a href="./resume.html">Resume</a>
+      <a href="./start-conversation.html">Start conversation</a>
+      <a href="https://github.com/AlexGerlitz">GitHub</a>
+    </nav>
+
+    <section class="hero">
+      <div class="eyebrow">Selected proof projects</div>
+      <h1>Projects that show how I turn messy business workflows into systems.</h1>
+      <p class="lead">These are the fastest project surfaces for evaluating my current direction: backend-owned AI workflows, platform foundations, integration boundaries, DevOps/release discipline, CI, docs, and recovery paths.</p>
+      <p><a class="button primary" href="./drivedesk-proof-route.html">Open DriveDesk proof route</a> <a class="button" href="./verification-pack.html">Open verification pack</a></p>
+    </section>
+
+    <section class="project-grid" aria-label="Selected projects">
+      <article class="project">
+        <div class="eyebrow">Flagship direction</div>
+        <h2>DriveDesk AI Operator / AI Sales & Support Workflow Platform</h2>
+        <p>I build the backend-owned layer where documents, transcripts, call audio, CRM leads, and knowledge-base records become RAG-backed analysis, lead scoring, follow-up drafts, Telegram approvals, CRM actions, audit logs, retries, and runbooks.</p>
+        <div class="meta">
+          <span class="tag">FastAPI</span>
+          <span class="tag">PostgreSQL / pgvector</span>
+          <span class="tag">RAG</span>
+          <span class="tag">Telegram approvals</span>
+          <span class="tag">CRM adapters</span>
+          <span class="tag alt">Backend-owned state</span>
+        </div>
+        <div class="grid">
+          <div class="panel">
+            <h3>Ownership</h3>
+            <ul>
+              <li>State, audit, retries, idempotency, adapter contracts, and approval boundaries live in the backend.</li>
+              <li>n8n is used as orchestration, not as the source of truth.</li>
+              <li>AI tooling accelerates implementation while verification and shipped quality stay my responsibility.</li>
+            </ul>
+          </div>
+          <div class="panel">
+            <h3>Proof</h3>
+            <ul>
+              <li><a href="./drivedesk-proof-route.html">DriveDesk proof route</a></li>
+              <li><a href="./drivedesk-ai-operator.html">AI Operator case</a></li>
+              <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md">Live owner proof</a></li>
+              <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md">AI Ops public proof status</a></li>
+            </ul>
+          </div>
+        </div>
+      </article>
+
+      <article class="project">
+        <div class="eyebrow">Platform foundation</div>
+        <h2>DriveDesk Core - Operations & Integration Platform</h2>
+        <p>I use DriveDesk Core to show the foundation behind real operations software: tenants, RBAC, audit/outbox, workers, workflow rules, adapters, OpenAPI, SDK output, Docker, tests, CI, docs, and a public demo route.</p>
+        <div class="meta">
+          <span class="tag">FastAPI</span>
+          <span class="tag">PostgreSQL</span>
+          <span class="tag">RBAC</span>
+          <span class="tag">Audit / outbox</span>
+          <span class="tag">OpenAPI</span>
+          <span class="tag alt">Public demo</span>
+        </div>
+        <div class="grid">
+          <div class="panel">
+            <h3>Ownership</h3>
+            <ul>
+              <li>Public-safe platform proof for CRM/ERP-style operations workflows.</li>
+              <li>Integration and workflow behavior is documented through review routes, demos, and evidence files.</li>
+              <li>The goal is operable business software, not isolated scripts.</li>
+            </ul>
+          </div>
+          <div class="panel">
+            <h3>Proof</h3>
+            <ul>
+              <li><a href="https://github.com/AlexGerlitz/drivedesk-core">GitHub repository</a></li>
+              <li><a href="https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/">Public demo</a></li>
+              <li><a href="./drivedesk-core-review.html">DriveDesk Core review route</a></li>
+              <li><a href="./verification-pack.html">Verification pack</a></li>
+            </ul>
+          </div>
+        </div>
+      </article>
+
+      <article class="project">
+        <div class="eyebrow">Runtime AI proof</div>
+        <h2>AI Ops Workflow Kit - RAG, Transcript Analysis, Approval & CRM Handoff</h2>
+        <p>I built this as the public runtime proof for AI workflow automation: document intake, transcript analysis, scoring, approval queues, Telegram callback handling, outbox processing, CRM dry-run handoff, smoke checks, and CI evidence.</p>
+        <div class="meta">
+          <span class="tag">RAG ingestion</span>
+          <span class="tag">Transcript analysis</span>
+          <span class="tag">Approvals</span>
+          <span class="tag">Outbox worker</span>
+          <span class="tag">Docker</span>
+          <span class="tag alt">Live smoke</span>
+        </div>
+        <div class="grid">
+          <div class="panel">
+            <h3>Ownership</h3>
+            <ul>
+              <li>Provider boundaries, reviewer acceptance, live proof, and public status are documented.</li>
+              <li>External CRM writes stay behind dry-run and approval boundaries until integration is intentionally enabled.</li>
+              <li>Evidence focuses on runtime behavior: API, worker state, callbacks, CI, and smoke checks.</li>
+            </ul>
+          </div>
+          <div class="panel">
+            <h3>Proof</h3>
+            <ul>
+              <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit">GitHub repository</a></li>
+              <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md">Public proof status</a></li>
+              <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md">Reviewer acceptance report</a></li>
+              <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml">CI workflow</a></li>
+            </ul>
+          </div>
+        </div>
+      </article>
+
+      <article class="project">
+        <div class="eyebrow">DevOps product proof</div>
+        <h2>DeployMate - Self-hosted Docker Deployment Control Panel</h2>
+        <p>I use DeployMate to show DevOps and product discipline around self-hosted deployments: FastAPI, Next.js, PostgreSQL, SSH runtime tooling, health/log views, admin workflows, release gates, evidence bundles, and staging release checks.</p>
+        <div class="meta">
+          <span class="tag">FastAPI</span>
+          <span class="tag">Next.js</span>
+          <span class="tag">PostgreSQL</span>
+          <span class="tag">Docker Compose</span>
+          <span class="tag">SSH runtime</span>
+          <span class="tag alt">Release gates</span>
+        </div>
+        <div class="grid">
+          <div class="panel">
+            <h3>Ownership</h3>
+            <ul>
+              <li>Deployment, runtime review, admin surfaces, release safety, evidence packets, and operational docs.</li>
+              <li>Public review path stays available even when custom-domain or staging conditions change.</li>
+              <li>Recent CI and staging release gates prove the default branch is not just static documentation.</li>
+            </ul>
+          </div>
+          <div class="panel">
+            <h3>Proof</h3>
+            <ul>
+              <li><a href="https://github.com/AlexGerlitz/deploymate">GitHub repository</a></li>
+              <li><a href="https://github.com/AlexGerlitz/deploymate#reviewer-package">Technical/product review package</a></li>
+              <li><a href="https://deploymate.152.53.178.83.sslip.io/review">Fallback live review console</a></li>
+              <li><a href="https://github.com/AlexGerlitz/deploymate/actions">GitHub Actions</a></li>
+            </ul>
+          </div>
+        </div>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
