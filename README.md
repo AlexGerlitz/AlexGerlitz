@@ -66,7 +66,7 @@ architecture, state, security boundaries, verification, deployment, logs, fixes,
 ## More Detail
 
 - [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html)
-- [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
+- [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) and [case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
 - [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html)
 - [First month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html)
 - [Verification pack](./VERIFICATION_PACK.md)

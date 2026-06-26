@@ -1,5 +1,7 @@
 # Engineering Case Studies
 
+Public HTML route: [case-studies.html](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html).
+
 This page is the narrative layer behind the proof links. It shows how I think about messy business
 problems, AI-assisted execution, backend/platform design, integrations, DevOps, and operational
 handoff.

@@ -77,4 +77,4 @@ I will usually respond with:
 - [Remote AI Automation Services](./SERVICES.md)
 - [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md)
 - [Proof of Work](./PROOF_OF_WORK.md)
-- [Engineering Case Studies](./CASE_STUDIES.md)
+- [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)

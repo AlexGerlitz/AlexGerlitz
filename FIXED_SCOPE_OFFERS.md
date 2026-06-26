@@ -20,7 +20,7 @@ constraints, timeline, and expected handoff depth.
 
 | Offer | Best for | Timebox | Budget signal | Public proof |
 | --- | --- | --- | --- | --- |
-| Workflow Teardown + Working Slice | Messy workflow, unclear requirements, scattered tools, manual operator work. | 2-5 days | USD 750-2,500 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [case studies](./CASE_STUDIES.md) |
+| Workflow Teardown + Working Slice | Messy workflow, unclear requirements, scattered tools, manual operator work. | 2-5 days | USD 750-2,500 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
 | DriveDesk AI Operator Demo | Sales/support call, transcript, document, or CRM lead workflow that needs RAG, scoring, follow-up, approval, and CRM action. | 1-3 weeks | USD 3,000-12,000 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html), [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
 | AI Ops / RAG Workflow MVP | Documents, transcripts, tickets, leads, orders, approvals, internal knowledge. | 1-3 weeks | USD 3,000-10,000 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
 | Integration Adapter MVP | CRM/ERP/1C/banking/accounting/API/custom database sync boundary. | 1-4 weeks | USD 4,000-15,000 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) |

@@ -135,7 +135,7 @@ Output can include:
 - [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) - addon and sync pipeline work around
   validation boundaries, server-side trust checks, Windows automation, and docs.
 - [Proof of work summary](./PROOF_OF_WORK.md) - the fast reviewer path.
-- [Engineering case studies](./CASE_STUDIES.md) - problem, build, evidence, and operating proof.
+- [Engineering case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) - problem, build, evidence, and operating proof.
 - [Skill evidence matrix](./SKILL_EVIDENCE.md) - GitHub-readable role keywords and skills mapped to
   public proof.
 

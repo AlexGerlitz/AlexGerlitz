@@ -60,7 +60,7 @@ Public proof built from the same operational direction:
 
 - [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core)
-- [Engineering case studies](./CASE_STUDIES.md)
+- [Engineering case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
 - [Proof of work](./PROOF_OF_WORK.md)
 
 ## Public Proof Projects
@@ -124,7 +124,7 @@ Applied Informatics, 2025 - Present
 - [First Month Delivery Plan](./FIRST_30_DAYS.md)
 - [Inbound Brief](./INTAKE_BRIEF.md)
 - [Proof of Work](./PROOF_OF_WORK.md)
-- [Engineering Case Studies](./CASE_STUDIES.md)
+- [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
 - [Skill Evidence Matrix](./SKILL_EVIDENCE.md)
 - [Remote AI Automation Services](./SERVICES.md)
 - [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md)

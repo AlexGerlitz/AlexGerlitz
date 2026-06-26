@@ -53,7 +53,7 @@ Proof links:
 - [Fixed-scope AI automation offers](./FIXED_SCOPE_OFFERS.md)
 - [Inbound brief](./INTAKE_BRIEF.md)
 - [Proof of work summary](./PROOF_OF_WORK.md)
-- [Engineering case studies](./CASE_STUDIES.md)
+- [Engineering case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
 - [Skill evidence matrix](./SKILL_EVIDENCE.md)
 - [DriveDesk Core fast review route](https://github.com/AlexGerlitz/drivedesk-core)
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)

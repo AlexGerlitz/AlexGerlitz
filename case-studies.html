@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Engineering Case Studies - Alex Gerlitz</title>
+  <meta name="description" content="Narrative case studies showing how I turn messy business workflows into backend/platform systems, AI automation, integration boundaries, DevOps proof, and operational handoff.">
+  <link rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/case-studies.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Engineering Case Studies - Alex Gerlitz">
+  <meta property="og:description" content="Problem, build, evidence, and operating proof across DriveDesk, AI Ops Workflow Kit, DeployMate, and MPlusForm.">
+  <meta property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/case-studies.html">
+  <meta property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route">
+  <meta property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Alex Gerlitz engineering case studies preview.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Engineering Case Studies - Alex Gerlitz">
+  <meta name="twitter:description" content="Case-study route for backend/platform, AI automation, integrations, DevOps, trust boundaries, and operational handoff.">
+  <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route">
+  <meta name="twitter:image:alt" content="Alex Gerlitz engineering case studies preview.">
+  <style>
+    :root { --ink: #18202a; --muted: #52616f; --line: #d8e0e7; --paper: #f7f8fa; --panel: #fff; --accent: #0f766e; --blue: #1d4ed8; --soft: #e9f7f4; --warn: #fff4e5; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: var(--ink); background: var(--paper); line-height: 1.55; }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .shell { max-width: 1100px; margin: 0 auto; padding: 28px 20px 48px; }
+    .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+    .nav a, .button { display: inline-flex; align-items: center; justify-content: center; min-height: 38px; border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; background: var(--panel); color: var(--ink); font-weight: 650; }
+    .button.primary { border-color: var(--accent); background: var(--accent); color: #fff; }
+    .hero, .case, .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 16px 34px rgba(24, 32, 42, 0.08); }
+    .hero { padding: 30px; margin-bottom: 18px; }
+    .case { padding: 22px; margin-top: 16px; }
+    .panel { padding: 18px; }
+    .eyebrow { color: var(--accent); font-weight: 760; text-transform: uppercase; font-size: 0.78rem; letter-spacing: 0; }
+    h1 { margin: 8px 0 10px; font-size: clamp(2.1rem, 5vw, 3.35rem); line-height: 1.04; letter-spacing: 0; }
+    h2 { margin: 0 0 10px; font-size: 1.28rem; }
+    h3 { margin: 0 0 8px; font-size: 1rem; }
+    p { margin: 0 0 12px; }
+    .lead { max-width: 850px; color: var(--muted); font-size: 1.08rem; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 0; }
+    .tag { display: inline-flex; align-items: center; min-height: 32px; border-radius: 8px; background: var(--soft); color: #0b4f4a; padding: 6px 10px; font-weight: 720; font-size: 0.92rem; }
+    .tag.alt { background: var(--warn); color: #7c3e06; }
+    ul { margin: 0; padding-left: 20px; }
+    li { margin: 7px 0; }
+    @media (max-width: 760px) { .grid { grid-template-columns: 1fr; } .hero { padding: 22px; } h1 { font-size: 2rem; } .nav a, .button { width: 100%; } }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <nav class="nav" aria-label="Profile navigation">
+      <a href="./">Portfolio</a>
+      <a href="./drivedesk-proof-route.html">Proof route</a>
+      <a href="./projects.html">Projects</a>
+      <a href="./proof.html">Technical proof</a>
+      <a href="./verification-pack.html">Verification</a>
+      <a href="./start-conversation.html">Start conversation</a>
+      <a href="https://github.com/AlexGerlitz">GitHub</a>
+    </nav>
+
+    <section class="hero">
+      <div class="eyebrow">Engineering case studies</div>
+      <h1>How I turn messy business workflows into operating systems.</h1>
+      <p class="lead">This is the narrative route behind the proof links: the problem, what I built or shaped, which evidence to inspect, and what each case proves about backend/platform ownership, AI automation, integrations, DevOps, and operational handoff.</p>
+      <p><a class="button primary" href="./drivedesk-proof-route.html">Open DriveDesk proof route</a> <a class="button" href="./start-conversation.html">Start conversation</a> <a class="button" href="./CASE_STUDIES.md">Source markdown</a></p>
+    </section>
+
+    <section class="case">
+      <div class="eyebrow">Case 1</div>
+      <h2>DriveDesk / Autoschool54 Operations Platform Direction</h2>
+      <div class="grid">
+        <div class="panel">
+          <h3>Problem</h3>
+          <p>A real business operation breaks when work is spread across chats, documents, schedules, payments, accounts, support questions, admin routines, and fragile deployment or recovery paths.</p>
+        </div>
+        <div class="panel">
+          <h3>Build</h3>
+          <p>I use the Autoschool54 operational context to shape DriveDesk: one operations layer for workflows, records, documents, integrations, notifications, AI assistance, deployment, observability, and recovery.</p>
+        </div>
+      </div>
+      <div class="tags">
+        <span class="tag">DriveDesk Core</span>
+        <span class="tag">RBAC + audit</span>
+        <span class="tag">Outbox / worker</span>
+        <span class="tag">Adapter boundaries</span>
+        <span class="tag alt">Operational handoff</span>
+      </div>
+      <p>Evidence: <a href="https://github.com/AlexGerlitz/drivedesk-core">DriveDesk Core</a>, <a href="https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/">public demo</a>, <a href="./drivedesk-core-review.html">DriveDesk Core review</a>, and <a href="./PROOF_OF_WORK.md">proof of work summary</a>.</p>
+      <p>What it proves: I can turn a vague operational domain into explicit backend boundaries, reviewable contracts, runtime checks, docs, and a public demonstration path.</p>
+    </section>
+
+    <section class="case">
+      <div class="eyebrow">Case 2</div>
+      <h2>AI Ops Workflow Kit</h2>
+      <div class="grid">
+        <div class="panel">
+          <h3>Problem</h3>
+          <p>AI automation cannot be only a chat wrapper. Documents and transcripts need repeatable retrieval, summaries must be reviewable, and risky outputs need approval state instead of blind automation.</p>
+        </div>
+        <div class="panel">
+          <h3>Build</h3>
+          <p>The public proof turns document intake, RAG retrieval, provider boundaries, transcript analysis, approvals, Telegram callback approval, and CRM handoff into a backend-owned workflow pattern.</p>
+        </div>
+      </div>
+      <div class="tags">
+        <span class="tag">RAG</span>
+        <span class="tag">Transcript analysis</span>
+        <span class="tag">Approval queue</span>
+        <span class="tag">Telegram callback</span>
+        <span class="tag alt">CRM-safe handoff</span>
+      </div>
+      <p>Evidence: <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit">AI Ops Workflow Kit</a>, <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot">reviewer snapshot</a>, <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md">acceptance report</a>, and <a href="./skill-evidence.html">skill evidence</a>.</p>
+      <p>What it proves: I can use AI-assisted execution while keeping workflow state, approval boundaries, tests, and integration surfaces explicit.</p>
+    </section>
+
+    <section class="case">
+      <div class="eyebrow">Case 3</div>
+      <h2>DeployMate</h2>
+      <div class="grid">
+        <div class="panel">
+          <h3>Problem</h3>
+          <p>Self-hosted systems need deployment paths, target servers, logs, health checks, environment handling, CI/CD, and recovery thinking. Otherwise the product feels fragile even when features exist.</p>
+        </div>
+        <div class="panel">
+          <h3>Build</h3>
+          <p>DeployMate is a self-hosted deployment control panel direction focused on making deployment and operations reviewable through repo-first proof, release gates, logs, docs, and recovery evidence.</p>
+        </div>
+      </div>
+      <div class="tags">
+        <span class="tag">Docker</span>
+        <span class="tag">CI/CD</span>
+        <span class="tag">Health checks</span>
+        <span class="tag">Runbooks</span>
+        <span class="tag alt">Recovery trail</span>
+      </div>
+      <p>Evidence: <a href="https://github.com/AlexGerlitz/deploymate">DeployMate</a>, <a href="https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot">engineering proof snapshot</a>, and <a href="./SERVICES.md">remote services</a>.</p>
+      <p>What it proves: I understand the operational side of shipping: deployability, observability, release discipline, health checks, runbooks, and recovery paths matter as much as feature code.</p>
+    </section>
+
+    <section class="case">
+      <div class="eyebrow">Case 4</div>
+      <h2>MPlusForm</h2>
+      <div class="grid">
+        <div class="panel">
+          <h3>Problem</h3>
+          <p>Desktop and client-side data is not automatically trustworthy. Local files, addons, sync helpers, and Windows automation need a clear boundary between untrusted evidence and approved state.</p>
+        </div>
+        <div class="panel">
+          <h3>Build</h3>
+          <p>MPlusForm is an addon and sync-pipeline proof around validation boundaries, server-side trust checks, approved public snapshots, operation scripts, and handoff docs.</p>
+        </div>
+      </div>
+      <div class="tags">
+        <span class="tag">Validation boundary</span>
+        <span class="tag">Python sync</span>
+        <span class="tag">Lua addon</span>
+        <span class="tag">Windows operations</span>
+        <span class="tag alt">Trust model</span>
+      </div>
+      <p>Evidence: <a href="https://github.com/AlexGerlitz/MPlusForm">MPlusForm</a>, <a href="https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot">reviewer snapshot</a>, and <a href="./skill-evidence.html">skill evidence</a>.</p>
+      <p>What it proves: I can design validation boundaries around untrusted data and document a workflow so another operator can inspect and run it.</p>
+    </section>
+
+    <section class="case">
+      <div class="eyebrow">Common pattern</div>
+      <h2>The operating loop</h2>
+      <ul>
+        <li>Start from a messy real workflow.</li>
+        <li>Identify the risky assumptions and integration boundaries.</li>
+        <li>Build the smallest responsible working slice.</li>
+        <li>Verify with tests, CI, logs, smoke checks, demos, docs, or runbooks.</li>
+        <li>Leave enough evidence that another reviewer can inspect the work.</li>
+      </ul>
+      <p><a class="button primary" href="./start-conversation.html">Start conversation</a> <a class="button" href="./verification-pack.html">Open verification pack</a></p>
+    </section>
+  </main>
+</body>
+</html>

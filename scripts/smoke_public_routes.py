@@ -89,6 +89,19 @@ ROUTES: tuple[RouteCheck, ...] = (
         ("Selected Proof Projects", "AI Ops Workflow Kit - RAG"),
     ),
     RouteCheck(
+        "case-studies",
+        "https://alexgerlitz.github.io/AlexGerlitz/case-studies.html",
+        (
+            "Engineering Case Studies",
+            "Problem, build, evidence, and operating proof",
+            "DriveDesk / Autoschool54 Operations Platform Direction",
+            "AI Ops Workflow Kit",
+            "DeployMate",
+            "MPlusForm",
+            "The operating loop",
+        ),
+    ),
+    RouteCheck(
         "technical-proof",
         "https://alexgerlitz.github.io/AlexGerlitz/proof.html",
         (
@@ -96,6 +109,8 @@ ROUTES: tuple[RouteCheck, ...] = (
             "verification-pack.html",
             "start-conversation.html",
             "LinkedIn Services",
+            "case-studies.html",
+            "Open engineering case studies",
             "After Review",
             "one success condition",
         ),
@@ -106,6 +121,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Proof of Work",
             "Fast Proof Review",
+            "case-studies.html",
             "Start conversation",
             "Contact routes",
             "LinkedIn Services",

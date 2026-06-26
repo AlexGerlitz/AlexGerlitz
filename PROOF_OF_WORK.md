@@ -33,7 +33,7 @@ If you only have a few minutes, review these first:
 - [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) - one-command acceptance pass across live API, live smoke, GitHub Actions, Pages links, and public PDF.
 - [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) - one-command AI automation reviewer path.
 - [AI Ops live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) - Telegram approval callback and CRM-safe boundary proof.
-- [Engineering case studies](./CASE_STUDIES.md) - narrative problem/build/evidence summaries.
+- [Engineering case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) - narrative problem/build/evidence summaries.
 - [AI Ops Workflow Kit README](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot) - 60-second AI/RAG workflow reviewer path.
 - [DeployMate engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - repo-first DevOps/platform proof route.
 - [MPlusForm README](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot) - trust-model and desktop automation reviewer path.
