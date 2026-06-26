@@ -32,6 +32,8 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Start conversation",
             "pinned proof repos",
             "Best immediate starts",
+            "case-studies.html",
+            "Open technical proof path",
             "skill-evidence.html",
             "INTAKE_BRIEF.md",
             "Inbound brief",
