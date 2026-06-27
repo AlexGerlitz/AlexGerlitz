@@ -564,6 +564,10 @@ ROUTES: tuple[RouteCheck, ...] = (
         "https://alexgerlitz.github.io/AlexGerlitz/projects.html",
         (
             "Selected Proof Projects",
+            "Role signal map",
+            "What each project proves for a remote backend/platform team",
+            "AI workflow / RAG ownership",
+            "DevOps and recovery ownership",
             "AI Ops Workflow Kit - RAG",
             "RAG eval 2/2",
             "MPlusForm - Validation Boundary / Desktop Automation Proof",
