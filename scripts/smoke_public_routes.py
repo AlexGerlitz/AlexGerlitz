@@ -144,6 +144,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "current workflow, systems involved",
             "one observable success condition",
             "what must not break",
+            '<a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>',
             "LinkedIn recruiter packet",
             "linkedin-recruiter-packet.html",
             "shortlist signal, risk reduction, AI execution proof, and message triggers",

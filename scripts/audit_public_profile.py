@@ -217,6 +217,7 @@ REQUIRED_TEXT = {
         "current workflow, systems involved",
         "one observable success condition",
         "what must not break",
+        '<a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>',
         "./linkedin-recruiter-packet.html",
         "LinkedIn recruiter packet",
         "Search filters, shortlist signal, risk reduction, AI execution proof and message triggers.",
