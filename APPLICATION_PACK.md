@@ -50,6 +50,10 @@ I am looking for remote-only roles or fixed-scope projects where the output is a
 The strongest fit is a team that has one messy workflow, clear ownership, and enough context to ship
 the first verified slice end to end.
 
+Fast fit checklist: remote-only work, concrete technical outcome, real systems, and one working
+slice with tests, logs, docs, demo path, and handoff. Not my target right now: onsite-only roles,
+pure prompt/content tasks, or undefined outcomes.
+
 ## Current Experience Anchor
 
 Since March 2024, I have worked remotely on Autoschool54 / DriveDesk digital infrastructure:

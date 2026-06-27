@@ -20,6 +20,10 @@ I use AI tooling for research, decomposition, code generation, review, debugging
 tests, and verification. The final output still has to be inspectable:
 code, logs, tests, smoke checks, docs, and operational handoff.
 
+Fast fit checklist: remote-only work with a concrete technical outcome, real systems, and a
+working slice that can be tested, logged, documented, demonstrated, and handed off. Not my target
+right now: onsite-only roles, pure prompt/content tasks, or undefined outcomes.
+
 ## Target Work
 
 - Remote-only backend / platform / DevOps / AI automation roles.
