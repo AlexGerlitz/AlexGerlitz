@@ -436,6 +436,9 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Remote AI Automation Services - Alex Gerlitz",
             "Business workflows turned into owned backend systems.",
+            '"@type": "Service"',
+            '"hasOfferCatalog"',
+            '"@id": "https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html#offer-catalog"',
             "Best Immediate Starts",
             "Good Fit Filter",
             "LinkedIn Services Request Filter",
@@ -558,7 +561,16 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "fixed-scope-offers",
         "https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html",
-        ("Fixed-scope AI automation", "services.html", "Best first step", "USD 3,000-12,000", "USD 25,000+ by phase"),
+        (
+            "Fixed-scope AI automation",
+            '"@type": "OfferCatalog"',
+            '"priceCurrency": "USD"',
+            '"minPrice": 25000',
+            "services.html",
+            "Best first step",
+            "USD 3,000-12,000",
+            "USD 25,000+ by phase",
+        ),
         social_preview=True,
     ),
     RouteCheck(

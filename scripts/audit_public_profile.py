@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import ast
+import json
 import re
 import struct
 import sys
@@ -356,6 +357,10 @@ REQUIRED_TEXT = {
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/services.html"',
         'property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/services.html"',
         "Business workflows turned into owned backend systems.",
+        '"@type": "Service"',
+        '"@id": "https://alexgerlitz.github.io/AlexGerlitz/services.html#remote-ai-automation-services"',
+        '"hasOfferCatalog"',
+        '"@id": "https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html#offer-catalog"',
         "Best Immediate Starts",
         "Good Fit Filter",
         "LinkedIn Services Request Filter",
@@ -669,6 +674,10 @@ REQUIRED_TEXT = {
     ],
     "fixed-scope-offers.html": [
         "backed by DriveDesk AI Operator proof",
+        '"@type": "OfferCatalog"',
+        '"@id": "https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html#offer-catalog"',
+        '"priceCurrency": "USD"',
+        '"minPrice": 25000',
         "./drivedesk-proof-route.html",
         "./services.html",
         "Open DriveDesk proof route",
@@ -977,6 +986,32 @@ class LinkParser(HTMLParser):
                 self.links.append((attr, value))
 
 
+class JsonLdParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self._in_json_ld = False
+        self._current: list[str] = []
+        self.blocks: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag.lower() != "script":
+            return
+        values = dict(attrs)
+        if values.get("type") == "application/ld+json":
+            self._in_json_ld = True
+            self._current = []
+
+    def handle_data(self, data: str) -> None:
+        if self._in_json_ld:
+            self._current.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.lower() == "script" and self._in_json_ld:
+            self.blocks.append("".join(self._current).strip())
+            self._in_json_ld = False
+            self._current = []
+
+
 def iter_public_text_files() -> list[Path]:
     files: list[Path] = []
     for path in ROOT.rglob("*"):
@@ -1107,6 +1142,20 @@ def check_local_html_links(errors: list[str]) -> None:
                 errors.append(f"{path.name}: missing local {attr} target: {value}")
 
 
+def check_json_ld_blocks(errors: list[str]) -> None:
+    for path in sorted(ROOT.glob("*.html")):
+        parser = JsonLdParser()
+        parser.feed(path.read_text(encoding="utf-8"))
+        for index, block in enumerate(parser.blocks, start=1):
+            if not block:
+                errors.append(f"{path.name}: empty JSON-LD block #{index}")
+                continue
+            try:
+                json.loads(block)
+            except json.JSONDecodeError as exc:
+                errors.append(f"{path.name}: invalid JSON-LD block #{index}: {exc}")
+
+
 def check_png_dimensions(errors: list[str], relative: str, expected: tuple[int, int]) -> None:
     path = ROOT / relative
     if not path.exists():
@@ -1198,6 +1247,7 @@ def main() -> int:
     check_social_preview_metadata(errors)
     check_profile_readme_shape(errors)
     check_local_html_links(errors)
+    check_json_ld_blocks(errors)
     check_png_size(errors)
     check_pdf_artifacts(errors)
     check_sitemap_lastmods(errors)
