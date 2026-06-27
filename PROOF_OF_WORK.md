@@ -42,7 +42,7 @@ If you only have a few minutes, review these first:
 
 ## Current Public Verification
 
-Checked on 2026-06-26:
+Checked on 2026-06-27:
 
 - DriveDesk Core public demo returns HTTP 200.
 - DriveDesk Core `main` is green on `633e92a`.

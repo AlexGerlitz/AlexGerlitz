@@ -3,7 +3,7 @@
 Fast technical verification path for the public profile. This page is for reviewers who want to
 check claims directly instead of relying on summaries.
 
-Last checked: 2026-06-26.
+Last checked: 2026-06-27.
 
 ## 15-Minute Review Path
 
@@ -42,7 +42,7 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 
 ## Current External Verification
 
-Checked on 2026-06-26:
+Checked on 2026-06-27:
 
 - DriveDesk Core public demo returned HTTP 200.
 - DriveDesk Core `main` is green on `633e92a`.

@@ -610,10 +610,10 @@ SOCIAL_PREVIEW_SNIPPETS = [
 SITEMAP_LASTMOD_REQUIREMENTS = {
     "https://alexgerlitz.github.io/AlexGerlitz/": "2026-06-27",
     "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html": "2026-06-27",
-    "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html": "2026-06-26",
-    "https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html": "2026-06-26",
-    "https://alexgerlitz.github.io/AlexGerlitz/VERIFICATION_PACK.md": "2026-06-26",
-    "https://alexgerlitz.github.io/AlexGerlitz/PROOF_OF_WORK.md": "2026-06-26",
+    "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html": "2026-06-27",
+    "https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html": "2026-06-27",
+    "https://alexgerlitz.github.io/AlexGerlitz/VERIFICATION_PACK.md": "2026-06-27",
+    "https://alexgerlitz.github.io/AlexGerlitz/PROOF_OF_WORK.md": "2026-06-27",
     "https://alexgerlitz.github.io/AlexGerlitz/SKILL_EVIDENCE.md": "2026-06-26",
     "https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html": "2026-06-27",
     "https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html": "2026-06-27",
@@ -629,7 +629,7 @@ SITEMAP_LASTMOD_REQUIREMENTS = {
 
 CURRENT_EVIDENCE_SNIPPETS = {
     "VERIFICATION_PACK.md": [
-        "Last checked: 2026-06-26.",
+        "Last checked: 2026-06-27.",
         "DriveDesk Core `main` is green on `633e92a`.",
         "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062",
         "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544",
@@ -642,7 +642,7 @@ CURRENT_EVIDENCE_SNIPPETS = {
         "MPlusForm `main` is current on `9c55283`",
     ],
     "PROOF_OF_WORK.md": [
-        "Checked on 2026-06-26:",
+        "Checked on 2026-06-27:",
         "DriveDesk Core `main` is green on `633e92a`.",
         "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062",
         "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544",
@@ -666,7 +666,7 @@ CURRENT_EVIDENCE_SNIPPETS = {
         "<code>237b2c9</code>",
     ],
     "drivedesk-core-review.html": [
-        "Public demo checked on 2026-06-26.",
+        "Public demo checked on 2026-06-27.",
         "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062",
         "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544",
         "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892",
