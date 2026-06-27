@@ -212,6 +212,11 @@ REQUIRED_TEXT = {
         "Now open for remote-only backend/platform",
         "Search-fit titles: Back End Developer, Python Developer",
         "Recruiter shortcut / 30-second screen",
+        "Proposal-ready Services route",
+        "for LinkedIn Services requests",
+        "current workflow, systems involved",
+        "one observable success condition",
+        "what must not break",
         "./linkedin-recruiter-packet.html",
         "LinkedIn recruiter packet",
         "Search filters, shortlist signal, risk reduction, AI execution proof and message triggers.",
@@ -1430,7 +1435,7 @@ SOCIAL_PREVIEW_PAGE_SNIPPETS = {
 }
 
 SITEMAP_LASTMOD_REQUIREMENTS = {
-    "https://alexgerlitz.github.io/AlexGerlitz/": "2026-06-27",
+    "https://alexgerlitz.github.io/AlexGerlitz/": "2026-06-28",
     "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html": "2026-06-27",
     "https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html": "2026-06-27",
     "https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html": "2026-06-27",
