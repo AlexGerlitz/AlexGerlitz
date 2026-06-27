@@ -15,6 +15,16 @@ runbooks.
 - Teams or clients that need someone who can use AI to move fast while still leaving tests, logs,
   docs, smoke checks, and operational handoff.
 
+## Not My Target
+
+- Onsite-only roles.
+- Pure prompt/content tasks without engineering ownership.
+- Isolated static websites.
+- Student/course assignments.
+- Standalone game clones.
+- Generic mobile/ecommerce apps without backend/integration ownership.
+- Undefined outcomes where success cannot be tested, demonstrated, or handed off.
+
 ## Why I Am Different
 
 I do not position AI as a vague productivity claim. I use it as an engineering operating layer:

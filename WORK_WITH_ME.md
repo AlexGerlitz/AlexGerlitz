@@ -3,11 +3,18 @@
 I build remote-first backend, AI automation, integration, and DevOps systems for business operations.
 
 The strongest fit is a real workflow with unclear requirements, scattered data, manual operator work,
-or fragile deployment/recovery. I use AI heavily to move faster, but the deliverable still has to be
-engineered: tested, documented, deployed, observable, and understandable after the first demo.
+or fragile deployment/recovery. I use AI tooling to move faster through research, decomposition,
+implementation, debugging, docs, tests, and review, but the deliverable still has to be engineered:
+tested, documented, deployed, observable, and understandable after the first demo.
 
 Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
 recovery sprint, or DriveDesk AI Operator-style proof route.
+
+Fast fit checklist: remote-only work, one concrete business workflow, one success condition, real
+systems or data, and enough context to prove the first responsible slice. Not my target right now:
+onsite-only roles, pure prompt/content tasks, isolated static websites, student/course assignments,
+standalone game clones, generic mobile/ecommerce apps without backend/integration ownership, or
+undefined outcomes with no way to verify success.
 
 For the shortest service overview, see [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
 For the live LinkedIn service page, see

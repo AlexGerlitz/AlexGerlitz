@@ -443,6 +443,43 @@ ROUTES: tuple[RouteCheck, ...] = (
         social_preview=True,
     ),
     RouteCheck(
+        "contact-routes-md",
+        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/INBOUND_RESPONSE_PACK.md",
+        (
+            "Contact Routes",
+            "Fast fit checklist:",
+            "student/course assignments",
+            "generic mobile/ecommerce apps without",
+            "with no way to verify success",
+            "Fast Decision Prompts",
+            "DriveDesk Proof Route",
+        ),
+    ),
+    RouteCheck(
+        "work-with-me-md",
+        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/WORK_WITH_ME.md",
+        (
+            "Work With Me",
+            "Fast fit checklist: remote-only work",
+            "student/course assignments",
+            "generic mobile/ecommerce apps without backend/integration ownership",
+            "Workflow Teardown + Working Slice",
+            "Integration Adapter",
+        ),
+    ),
+    RouteCheck(
+        "role-project-brief-md",
+        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/ROLE_PROJECT_BRIEF.md",
+        (
+            "Role / Project Brief",
+            "Remote AI automation, backend/platform and DevOps engineer building DriveDesk",
+            "Not My Target",
+            "Student/course assignments",
+            "Generic mobile/ecommerce apps without backend/integration ownership",
+            "AI Ops Workflow Kit reviewer snapshot",
+        ),
+    ),
+    RouteCheck(
         "verification-pack",
         "https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html",
         ("Last checked: 2026-06-27.", "AI Ops public proof status", "DriveDesk Core"),
