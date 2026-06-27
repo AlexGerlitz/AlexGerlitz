@@ -24,6 +24,14 @@ Use this packet when a LinkedIn search, profile view, or first message needs a f
 | Work mode | Remote-only full-time roles, plus concrete fixed-scope projects with a working backend/AI/integration slice. |
 | First message trigger | Send one remote role or one business workflow with one success condition, systems involved, ownership boundary, and timeline. |
 
+## When To Message Me
+
+- Remote role with backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.
+- Business workflow where documents, transcripts, leads, tickets, or operator actions need RAG, analysis, scoring, approval, and system handoff.
+- Integration work where CRM, ERP, 1C, banking, or API systems need explicit adapter contracts, retries, idempotency, audit, and recovery notes.
+- DevOps/platform situation where Docker, CI, self-hosting, logs, health checks, backups, or runbooks need a verified recovery path.
+- Fixed-scope project with one success condition, involved systems, timeline, and a useful first slice.
+
 ## What To Open First
 
 1. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) - one-minute role fit, shortlist reason, risk reduction, and first-month ownership.
