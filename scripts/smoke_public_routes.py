@@ -414,7 +414,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Fast Decision Prompts",
             "whether a practical first slice can ship quickly",
             "student/course assignments",
-            "generic mobile/ecommerce apps without backend/integration ownership",
+            "Generic mobile/ecommerce apps without backend/integration ownership",
         ),
         social_preview=True,
     ),
