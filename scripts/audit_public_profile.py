@@ -178,6 +178,8 @@ REQUIRED_TEXT = {
         "https://www.linkedin.com/services/page/3153b734507b8a60ab/",
         "Now open for remote-only backend/platform",
         "Search-fit titles: Back End Developer, Python Developer",
+        "Recruiter shortcut",
+        "Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.",
         "Best immediate starts: AI workflow automation, CRM/ERP/API adapter",
         "./role-targets.html",
         "DriveDesk proof route",
