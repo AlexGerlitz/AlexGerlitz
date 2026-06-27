@@ -4,7 +4,9 @@ from __future__ import annotations
 import ast
 import json
 import re
+import shutil
 import struct
+import subprocess
 import sys
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
@@ -1024,6 +1026,12 @@ PDF_ARTIFACTS = {
     "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf": {
         "pages": 1,
         "required": [],
+        "text_required": [
+            "PostgreSQL/pgvector-backed workflows",
+            "live PostgreSQL/pgvector persistence",
+            "FastAPI, PostgreSQL/pgvector, Docker, document APIs, n8n, Telegram",
+            "AI Ops Workflow Kit",
+        ],
         "forbidden": [
             b"file://",
             b"Users/alexgerlitz",
@@ -1032,6 +1040,12 @@ PDF_ARTIFACTS = {
             b"27.06.",
             b"AI-generated",
             b"One-Page Brief",
+        ],
+        "text_forbidden": [
+            "pgvector-ready",
+            "file://",
+            "Users/alexgerlitz",
+            "Documents/Codex",
         ],
     },
 }
@@ -1278,6 +1292,7 @@ def check_current_evidence_snippets(errors: list[str]) -> None:
 
 
 def check_pdf_artifacts(errors: list[str]) -> None:
+    pdftotext = shutil.which("pdftotext")
     for relative, spec in PDF_ARTIFACTS.items():
         path = ROOT / relative
         if not path.exists():
@@ -1298,6 +1313,28 @@ def check_pdf_artifacts(errors: list[str]) -> None:
         for needle in spec["forbidden"]:
             if needle in data:
                 errors.append(f"{relative}: forbidden PDF byte marker: {needle.decode('utf-8', 'replace')}")
+        if pdftotext is None:
+            errors.append(f"{relative}: pdftotext is required for PDF text validation")
+            continue
+        completed = subprocess.run(
+            [pdftotext, str(path), "-"],
+            cwd=ROOT,
+            text=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            timeout=10,
+            check=False,
+        )
+        if completed.returncode != 0:
+            errors.append(f"{relative}: pdftotext failed: {completed.stderr.strip()}")
+            continue
+        text = completed.stdout
+        for needle in spec["text_required"]:
+            if needle not in text:
+                errors.append(f"{relative}: missing PDF text marker: {needle}")
+        for needle in spec["text_forbidden"]:
+            if needle in text:
+                errors.append(f"{relative}: forbidden PDF text marker: {needle}")
 
 
 def main() -> int:
