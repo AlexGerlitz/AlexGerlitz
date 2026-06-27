@@ -25,7 +25,7 @@ CI, RAG quality eval, and runbooks.
 
 Latest public signal:
 
-- [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) for search filters, 30-second fit, proof order, first result, and first message context
+- [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) for search filters, 30-second fit, proof order, shortlist signal, risk reduction, and first contact context
 - [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for Open-to-Work alignment, remote work mode, employment types, search keywords, proof order, and first contact fit
 - [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) for minimum first context, fit read, risk check, first slice, proof route, and next step
 - [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) for a one-minute remote role / proof / first-month ownership route
