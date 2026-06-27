@@ -694,6 +694,9 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Public role fit",
             "AI Automation / Backend / Platform Role Fit - Alex Gerlitz",
+            '<a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>',
+            "Start conversation",
+            "LinkedIn Services",
             "Search-match stack",
             "Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.",
             "Risk I reduce: hidden automation state, brittle no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.",
