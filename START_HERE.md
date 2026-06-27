@@ -93,6 +93,38 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 - what should improve first;
 - deadline, timeline, or first-month success condition.
 
+## Short LinkedIn Notes
+
+Remote role:
+
+```text
+Hi Alex, I am considering you for a remote [role title] role.
+Stack: [stack].
+First-month ownership: [workflow/system].
+Timeline: [timeline].
+Closest proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
+```
+
+Workflow project:
+
+```text
+Hi Alex, I have a workflow around [business process].
+Systems/data: [CRM/ERP/API/docs/database].
+Success condition: [what should work].
+Constraints: [deadline/budget/hosting/access].
+I want a first working slice with tests, docs, and handoff.
+```
+
+Proof review:
+
+```text
+Hi Alex, I want a technical read on [repo/system/workflow].
+Decision: [claim or risk].
+Evidence available: [CI/logs/demo/docs].
+Output needed: [fix plan/proof route/first slice].
+Useful link: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html
+```
+
 ## Fast Proof Path
 
 1. [Portfolio page](https://alexgerlitz.github.io/AlexGerlitz/)
