@@ -56,6 +56,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 ## Fast Contact
 
+- Message reason router: use Start conversation to choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context.
 - Recruiter shortcut: for a remote role, start with LinkedIn Recruiter Packet, Recruiter Preferences, Hiring decision route, Remote role targets, Skill evidence, and the PDF resume. Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.
 - [LinkedIn profile](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
