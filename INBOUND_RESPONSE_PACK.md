@@ -25,6 +25,15 @@ Fast fit checklist:
 | Fixed-scope project | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | One page for proof, project shape, offer surface, and the next context needed. |
 | First conversation | `https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html` | Simple structure for sending role/project context. |
 
+## Search Intent First Links
+
+| Search intent | Open first |
+| --- | --- |
+| AI Automation / RAG | `https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html` -> `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` |
+| Backend / Python / Platform | `https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html` -> `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html` -> `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` |
+| CRM / ERP / API Integration | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/case-studies.html` -> `https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html` |
+| DevOps / Reliability | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` -> `https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot` |
+
 ## Best-Fit Context
 
 Useful first context:
