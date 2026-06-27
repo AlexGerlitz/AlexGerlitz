@@ -13,8 +13,8 @@ success condition.
 If the scope is unclear, start with **Workflow Teardown + Working Slice**: one workflow, one success
 condition, one small working path, and a clear decision on whether to expand.
 
-If the workflow is already clear, choose the closest offer below and send the systems involved, access
-constraints, timeline, and expected handoff depth.
+If the workflow is already clear, choose the closest offer below and send the offer name, current
+workflow, systems involved, one success condition, constraints, and what must not break.
 
 ## Fast Menu
 
