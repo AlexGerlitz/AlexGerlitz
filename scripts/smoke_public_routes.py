@@ -433,7 +433,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "verification-pack",
         "https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html",
-        ("AI Ops public proof status", "DriveDesk Core"),
+        ("Last checked: 2026-06-27.", "AI Ops public proof status", "DriveDesk Core"),
     ),
     RouteCheck(
         "resume-pdf",

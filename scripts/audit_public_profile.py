@@ -655,6 +655,7 @@ CURRENT_EVIDENCE_SNIPPETS = {
         "MPlusForm `main` is current on `9c55283`.",
     ],
     "verification-pack.html": [
+        "Last checked: 2026-06-27.",
         "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062",
         "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544",
         "https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892",
