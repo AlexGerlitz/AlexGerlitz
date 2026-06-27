@@ -16,6 +16,7 @@ Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer,
 
 **Fast contact route:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) or open [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) / [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html) / [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) / [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html) / [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html).
 The most useful context is one role, workflow, or project; one success condition; and the systems involved. The contact route now gives decision prompts for remote roles, workflow/integration projects, and technical proof reviews.
+Fast fit checklist: message me when the work is remote-only and needs a backend-owned AI workflow, CRM/ERP/API integration, internal operations tool, DevOps recovery/hardening path, or one first working slice with tests, logs, docs, and a handoff route. I am not positioning for onsite-only roles, pure prompt/content tasks, or vague work where success cannot be defined.
 
 ## Decision Snapshot
 
@@ -72,7 +73,6 @@ architecture, state, security boundaries, verification, deployment, logs, fixes,
 - [Verification pack](./VERIFICATION_PACK.md)
 - [Fixed-scope offers](./FIXED_SCOPE_OFFERS.md)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
-
 ## Contact
 
 - LinkedIn: [linkedin.com/in/alex-gerlitz-a659ab3bb](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
