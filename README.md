@@ -26,7 +26,7 @@ Fast fit checklist: message me when the work is remote-only and needs a backend-
 | --- | --- | --- |
 | Remote full-time role | Back End Developer, Python Developer, AI Automation Engineer, Platform Engineer, DevOps Engineer, integrations, internal tools, Python/FastAPI/PostgreSQL, Docker/CI. | [Hiring decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html), [Role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html), [first month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) |
 | Fixed-scope project | One messy workflow, one success condition, and a working slice with tests, logs, docs, and handoff path. | [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html), [Fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html), [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) |
-| Technical proof review | Code, CI, live smoke, runtime boundaries, adapter contracts, runbooks, and public-safe evidence. | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [AI Ops proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) |
+| Technical proof review | Code, CI, live smoke, runtime boundaries, privacy redaction, adapter contracts, runbooks, and public-safe evidence. | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [AI Ops proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) |
 
 ## Flagship Direction
 
@@ -44,7 +44,7 @@ Since **March 2024**, I have supported Autoschool54 digital infrastructure remot
 | --- | --- |
 | [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) | DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm as inspectable project surfaces. |
 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | FastAPI/PostgreSQL operations platform foundation: tenants, RBAC, audit/outbox, adapters, OpenAPI, Docker, pytest, CI, docs, public demo. |
-| [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | RAG workflow backend: document intake, transcript analysis, approvals, Telegram callback, dry-run Bitrix CRM handoff, outbox, live API, CI, smoke checks. |
+| [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | RAG workflow backend: document intake, privacy redaction before RAG/approval/CRM handoff, transcript analysis, approvals, Telegram callback, dry-run Bitrix CRM handoff, outbox, live API, CI, smoke checks. |
 | [Live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) | Real Telegram approval evidence with CRM-safe outbox handoff and Bitrix dry-run boundary. |
 | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) | Self-hosted Docker deployment control panel: FastAPI/Next.js/PostgreSQL, SSH runtime tooling, CI/CD, health checks, evidence bundles, review packet, runbooks. |
 | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation-boundary automation proof: Python sync pipeline, server-approved snapshots, Windows operations docs, Lua addon, and [public verification run](https://github.com/AlexGerlitz/MPlusForm/actions/runs/28285062880). |

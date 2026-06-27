@@ -24,7 +24,7 @@ Current proof foundation:
   backend/platform structure, tenants, RBAC, audit/outbox, workflow rules, adapters, OpenAPI, CI,
   docs, and public demo.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) for DriveDesk AI Operator-style
-  RAG/transcript workflow proof: document/CRM/call intake, transcript analysis, Telegram approvals,
+  RAG/transcript workflow proof: document/CRM/call intake, privacy redaction before RAG/approval/CRM handoff, transcript analysis, Telegram approvals,
   dry-run Bitrix CRM handoff, idempotent outbox, reviewer acceptance report, production-readiness
   drill, Docker, and importable n8n workflow artifact.
 - [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
