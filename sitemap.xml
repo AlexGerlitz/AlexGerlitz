@@ -13,6 +13,12 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://alexgerlitz.github.io/AlexGerlitz/llms.txt</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>

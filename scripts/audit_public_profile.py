@@ -95,6 +95,7 @@ REQUIRED_FILES = [
     "assets/social-card.png",
     "assets/social-card.svg",
     "assets/favicon.svg",
+    "llms.txt",
     "sitemap.xml",
     "robots.txt",
 ]
@@ -108,6 +109,8 @@ REQUIRED_TEXT = {
         "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps recovery sprint, or DriveDesk AI Operator-style proof route.",
         "decision prompts",
         "DriveDesk Proof Route",
+        "AI-readable proof index",
+        "https://alexgerlitz.github.io/AlexGerlitz/llms.txt",
         "hiring-decision.html",
         "skill evidence",
         "pinned proof repos",
@@ -621,6 +624,19 @@ REQUIRED_TEXT = {
         "Workflow Teardown + Working Slice",
         "Integration Adapter",
     ],
+    "llms.txt": [
+        "# Alex Gerlitz - AI Automation / Backend / Platform Engineer",
+        "I build backend-owned AI workflow and operations systems for real businesses",
+        "DriveDesk AI Operator proof route",
+        "Hiring decision route",
+        "Skill evidence map",
+        "Verification pack",
+        "Remote-only backend, platform, DevOps, AI automation",
+        "backend-owned AI workflows, CRM/ERP/API adapters",
+        "AI Ops Workflow Kit",
+        "LinkedIn Services",
+        "The main signal is not no-code node wiring.",
+    ],
     "ROLE_PROJECT_BRIEF.md": [
         "Role / Project Brief",
         "Remote AI automation, backend/platform and DevOps engineer building DriveDesk",
@@ -632,6 +648,7 @@ REQUIRED_TEXT = {
     ],
     "sitemap.xml": [
         "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
+        "https://alexgerlitz.github.io/AlexGerlitz/llms.txt",
     ],
 }
 
@@ -669,6 +686,7 @@ SOCIAL_PREVIEW_SNIPPETS = [
 SITEMAP_LASTMOD_REQUIREMENTS = {
     "https://alexgerlitz.github.io/AlexGerlitz/": "2026-06-27",
     "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html": "2026-06-27",
+    "https://alexgerlitz.github.io/AlexGerlitz/llms.txt": "2026-06-27",
     "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html": "2026-06-27",
     "https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html": "2026-06-27",
     "https://alexgerlitz.github.io/AlexGerlitz/VERIFICATION_PACK.md": "2026-06-27",

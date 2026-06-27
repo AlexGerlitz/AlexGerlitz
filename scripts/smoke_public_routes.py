@@ -143,6 +143,23 @@ ROUTES: tuple[RouteCheck, ...] = (
         social_preview=True,
     ),
     RouteCheck(
+        "ai-readable-proof-index",
+        "https://alexgerlitz.github.io/AlexGerlitz/llms.txt",
+        (
+            "# Alex Gerlitz - AI Automation / Backend / Platform Engineer",
+            "I build backend-owned AI workflow and operations systems for real businesses",
+            "DriveDesk AI Operator proof route",
+            "Hiring decision route",
+            "Skill evidence map",
+            "Verification pack",
+            "backend-owned AI workflows, CRM/ERP/API adapters",
+            "LinkedIn Services",
+            "The main signal is not no-code node wiring.",
+        ),
+        content_type="text/plain",
+        min_bytes=2000,
+    ),
+    RouteCheck(
         "proof-route",
         "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
         (
