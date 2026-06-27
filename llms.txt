@@ -33,7 +33,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 ## Best-Fit Work
 
-- Remote-only backend, platform, DevOps, AI automation, integration, and internal operations roles.
+- Remote-only backend, platform, DevOps, AI automation, integration, and internal operations roles for international and distributed teams.
 - Fixed-scope projects with one messy workflow, one success condition, and a first working slice with tests, logs, docs, and a handoff path.
 - Strongest fit: backend-owned AI workflows, CRM/ERP/API adapters, RAG systems, Telegram/operator approvals, internal admin tools, deployment/recovery workflows, and production-style proof.
 - LinkedIn Services fit filter: Web Development or Custom Software Development requests are a fit only when they include backend/platform, AI workflow, integration, DevOps, or internal-operations ownership.
