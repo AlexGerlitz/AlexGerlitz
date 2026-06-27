@@ -13,8 +13,12 @@ Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8
 CRM/ERP/API integrations, Systems Integration, Backend Development, Platform Engineering,
 Workflow Automation, DevOps, GitHub Actions, OpenAPI, and PostgreSQL/pgvector-backed workflows.
 
-Main case direction:
+Main case:
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html).
+
+Shortlist signal: messy business workflows become backend-owned systems with records, state,
+integrations, logs, tests, docs, and handoff. Risk I reduce: hidden automation state, brittle
+no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.
 
 Current proof foundation:
 
@@ -47,9 +51,9 @@ Current proof foundation:
 
 ## Remote Work Preference
 
-I am looking for remote-only roles or fixed-scope projects where the output is a working system.
-The strongest fit is a team that has one messy workflow, clear ownership, and enough context to ship
-the first verified slice end to end.
+I target remote-only roles or fixed-scope projects where the output is a working system. The
+strongest fit is a team that has one messy workflow, clear ownership, and enough context to ship the
+first verified slice end to end.
 
 Fast fit checklist: remote-only work, concrete technical outcome, real systems, and one working
 slice with tests, logs, docs, demo path, and handoff. Not my target right now: onsite-only roles,

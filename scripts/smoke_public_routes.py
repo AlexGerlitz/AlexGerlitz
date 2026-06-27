@@ -655,6 +655,8 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Role-fit resume",
             "DriveDesk AI Operator proof route",
+            "Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.",
+            "Risk I reduce: hidden automation state, brittle no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.",
             "PDF resume",
             "Remote-only backend, platform, DevOps, and AI automation roles.",
         ),
@@ -666,6 +668,8 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Public role fit",
             "Search-match stack",
+            "Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.",
+            "Risk I reduce: hidden automation state, brittle no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.",
             "skill-evidence.html",
             "AI Automation Engineer",
             "Backend / Platform Engineer",
