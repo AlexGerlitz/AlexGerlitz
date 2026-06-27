@@ -24,9 +24,11 @@ class RepoCheck:
 
 
 REPOS: tuple[RepoCheck, ...] = (
+    # The profile repo changes often while the funnel is refined; audit the wider
+    # recent window for weak public subjects instead of pinning an old title.
     RepoCheck(
         "AlexGerlitz/AlexGerlitz",
-        ("Strengthen contact decision path", "Add public skill evidence route"),
+        (),
         40,
     ),
     RepoCheck(
