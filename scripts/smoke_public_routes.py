@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import sys
+import struct
 import time
 from dataclasses import dataclass, field
 from html.parser import HTMLParser
@@ -26,6 +27,7 @@ class RouteCheck:
     social_preview: bool = False
     canonical_url: str | None = None
     pdf_pages: int | None = None
+    png_dimensions: tuple[int, int] | None = None
     forbidden_bytes: tuple[bytes, ...] = field(default_factory=tuple)
 
 
@@ -449,6 +451,20 @@ ROUTES: tuple[RouteCheck, ...] = (
         ),
     ),
     RouteCheck(
+        "social-card-image",
+        "https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route",
+        content_type="image/png",
+        min_bytes=10_000,
+        png_dimensions=(1200, 630),
+    ),
+    RouteCheck(
+        "linkedin-banner-image",
+        "https://alexgerlitz.github.io/AlexGerlitz/assets/linkedin-banner.png",
+        content_type="image/png",
+        min_bytes=10_000,
+        png_dimensions=(1584, 396),
+    ),
+    RouteCheck(
         "drivedesk-core-demo",
         "https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/",
         ("DriveDesk", "Operations"),
@@ -508,6 +524,18 @@ def check_route(route: RouteCheck) -> list[str]:
         page_count = len(re.findall(rb"/Type\s*/Page\b", body))
         if page_count != route.pdf_pages:
             errors.append(f"{route.name}: expected {route.pdf_pages} PDF page(s), got {page_count}")
+
+    if route.png_dimensions is not None:
+        if not body.startswith(b"\x89PNG\r\n\x1a\n"):
+            errors.append(f"{route.name}: missing PNG header for {route.url}")
+        elif len(body) < 24 or body[12:16] != b"IHDR":
+            errors.append(f"{route.name}: missing PNG IHDR for {route.url}")
+        else:
+            dimensions = struct.unpack(">II", body[16:24])
+            if dimensions != route.png_dimensions:
+                errors.append(
+                    f"{route.name}: expected PNG dimensions {route.png_dimensions}, got {dimensions}"
+                )
 
     for marker in route.forbidden_bytes:
         if marker in body:
