@@ -676,6 +676,22 @@ CURRENT_EVIDENCE_SNIPPETS = {
     ],
 }
 
+PDF_ARTIFACTS = {
+    "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf": {
+        "pages": 1,
+        "required": [],
+        "forbidden": [
+            b"file://",
+            b"Users/alexgerlitz",
+            b"Documents/Codex",
+            b"new-chat",
+            b"27.06.",
+            b"AI-generated",
+            b"One-Page Brief",
+        ],
+    },
+}
+
 
 class LinkParser(HTMLParser):
     def __init__(self) -> None:
@@ -877,6 +893,29 @@ def check_current_evidence_snippets(errors: list[str]) -> None:
                 errors.append(f"{relative}: missing current evidence snippet: {snippet}")
 
 
+def check_pdf_artifacts(errors: list[str]) -> None:
+    for relative, spec in PDF_ARTIFACTS.items():
+        path = ROOT / relative
+        if not path.exists():
+            errors.append(f"missing PDF artifact: {relative}")
+            continue
+        data = path.read_bytes()
+        if not data.startswith(b"%PDF-"):
+            errors.append(f"{relative}: missing PDF header")
+        if len(data) < 50_000:
+            errors.append(f"{relative}: unexpectedly small PDF artifact")
+        page_count = len(re.findall(rb"/Type\s*/Page\b", data))
+        expected_pages = int(spec["pages"])
+        if page_count != expected_pages:
+            errors.append(f"{relative}: expected {expected_pages} page(s), got {page_count}")
+        for needle in spec["required"]:
+            if needle not in data:
+                errors.append(f"{relative}: missing PDF byte marker: {needle.decode('utf-8', 'replace')}")
+        for needle in spec["forbidden"]:
+            if needle in data:
+                errors.append(f"{relative}: forbidden PDF byte marker: {needle.decode('utf-8', 'replace')}")
+
+
 def main() -> int:
     errors: list[str] = []
     check_required_text_key_shape(errors)
@@ -889,6 +928,7 @@ def main() -> int:
     check_profile_readme_shape(errors)
     check_local_html_links(errors)
     check_png_size(errors)
+    check_pdf_artifacts(errors)
     check_sitemap_lastmods(errors)
     check_current_evidence_snippets(errors)
 
