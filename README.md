@@ -10,7 +10,7 @@ Now open for **remote-only full-time roles** and fixed-scope projects where the 
 
 Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, Integration Engineer.
 
-**Fast public review:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [selected projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) -> [pinned proof repos](https://github.com/AlexGerlitz?tab=overview) -> [skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+**Fast hiring decision:** [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> pinned proof repos -> [skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [first month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 
 **60-second proof map:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) -> [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html).
 
@@ -21,7 +21,7 @@ The most useful context is one role, workflow, or project; one success condition
 
 | Send me | Best match | Fast proof |
 | --- | --- | --- |
-| Remote full-time role | Back End Developer, Python Developer, AI Automation Engineer, Platform Engineer, DevOps Engineer, integrations, internal tools, Python/FastAPI/PostgreSQL, Docker/CI. | [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [first month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) |
+| Remote full-time role | Back End Developer, Python Developer, AI Automation Engineer, Platform Engineer, DevOps Engineer, integrations, internal tools, Python/FastAPI/PostgreSQL, Docker/CI. | [Hiring decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [first month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) |
 | Fixed-scope project | One messy workflow, one success condition, and a working slice with tests, logs, docs, and handoff path. | [Fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html), [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) |
 | Technical proof review | Code, CI, live smoke, runtime boundaries, adapter contracts, runbooks, and public-safe evidence. | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [AI Ops proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) |
 

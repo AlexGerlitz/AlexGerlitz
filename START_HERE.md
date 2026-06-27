@@ -18,6 +18,7 @@ CI, and runbooks.
 
 Latest public signal:
 
+- [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) for a one-minute remote role / proof / first-month ownership route
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) with AI automation, backend/platform, CRM/ERP integration, Docker/CI, DevOps, and validation proof mapped to public evidence
 - [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html) and [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) with remote-only AI automation proof samples
@@ -52,7 +53,7 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 
 | If you are | Useful first context | Start with |
 | --- | --- | --- |
-| Recruiter | Role title, remote setup, stack, product domain, first-month ownership, hiring timeline. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [PDF Resume](./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf), [Role Fit Pack](./APPLICATION_PACK.md) |
+| Recruiter | Role title, remote setup, stack, product domain, first-month ownership, hiring timeline. | [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html), [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [PDF Resume](./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf), [Role Fit Pack](./APPLICATION_PACK.md) |
 | Hiring manager | Current technical/business pain, systems involved, what should improve first. | [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md), [Verification Pack](./VERIFICATION_PACK.md) |
 | Founder / client | Workflow, tools/data, success condition, deadline, budget range, handoff depth. | [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html), [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/), [Fixed-Scope Offers](./FIXED_SCOPE_OFFERS.md), [Inbound Brief](./intake-brief.html) |
 | Technical reviewer | Repo/system link, failure mode, logs/error text, what must not break, current verification. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), [Verification Pack](./VERIFICATION_PACK.md), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
@@ -78,10 +79,11 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 ## Fast Proof Path
 
 1. [Portfolio page](https://alexgerlitz.github.io/AlexGerlitz/)
-2. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-3. [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
-4. [Skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
-5. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html), or [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
+2. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
+3. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+4. [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
+5. [Skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+6. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html), or [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
 ## Deep Review Paths
 
