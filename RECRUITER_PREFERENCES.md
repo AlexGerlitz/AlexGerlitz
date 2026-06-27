@@ -8,7 +8,8 @@ Use this as the aligned Open-to-Work and recruiter-search preference set for rem
 
 | Field | Preference |
 | --- | --- |
-| Job titles | Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, Integration Engineer. |
+| Visible LinkedIn Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer. |
+| Search expansion titles | AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer, Internal Tools Engineer, Backend Platform Engineer, Systems Integration Engineer. |
 | Location type | Remote. |
 | Remote locations | International remote teams, Europe-compatible remote teams, US-compatible async teams, and distributed product/operations teams. |
 | Employment types | Full-time and contract. |

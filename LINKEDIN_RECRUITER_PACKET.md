@@ -6,7 +6,8 @@ Use this packet when a LinkedIn search, profile view, or first message needs a f
 
 ## 30-Second Fit
 
-- Target roles: Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, Integration Engineer.
+- Visible LinkedIn Open-to-Work titles: Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer.
+- Search expansion titles: AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer, Internal Tools Engineer, Backend Platform Engineer, Systems Integration Engineer.
 - Strong match: remote backend/platform, AI workflow, CRM/ERP/API integration, internal tools, or DevOps reliability work.
 - First proof: [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf).
 - Expected first result: one working slice with backend-owned state, tests, logs, docs, demo path, and handoff route.
@@ -19,7 +20,7 @@ Use this packet when a LinkedIn search, profile view, or first message needs a f
 
 | Search field | Best-fit signal |
 | --- | --- |
-| Job title filters | Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer, Platform Engineer, DevOps Engineer, Integration Engineer. |
+| Job title filters | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer, AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer, Internal Tools Engineer, Backend Platform Engineer, Systems Integration Engineer. |
 | Skill filters | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM, ERP, Systems Integration, API Integration, n8n, Telegram, DevOps, OpenAPI, pgvector. |
 | Work mode | Remote-only full-time roles, plus concrete fixed-scope projects with a working backend/AI/integration slice. |
 | First message trigger | Send one remote role or one business workflow with one success condition, systems involved, ownership boundary, and timeline. |
