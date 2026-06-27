@@ -27,12 +27,21 @@ CI, RAG quality eval, and runbooks.
 
 | Time available | Start with | Decision signal |
 | --- | --- | --- |
-| 30 seconds | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) | Search filters, 30-second fit, proof order, shortlist signal, risk reduction, and first contact context. |
-| 60 seconds | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) | A compact route through AI workflow, backend/platform, integration, DevOps, CI, runbooks, and resume proof. |
+| 30 seconds | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) | Search filters, search-intent proof stack, 30-second fit, proof order, shortlist signal, risk reduction, and first contact context. |
+| 60 seconds | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | A compact route through AI workflow, backend/platform, integration, DevOps, CI, runbooks, and resume proof. |
 | 2 minutes | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Role Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-pack.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | An international employer-grade review of architecture, state, integration contracts, English-first docs, specialist backend-owned AI workflow signal, reliability, privacy, CI, runbooks, and handoff quality. |
 | Project request | [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html) -> [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) -> [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) -> [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) | Proposal-ready Services request: current workflow, systems involved, one observable success condition, constraints, and what must not break. |
 
 Useful first context: a remote role, project, or messy workflow plus one success condition.
+
+## Search Intent Router
+
+| If your search starts with | Open first |
+| --- | --- |
+| AI Automation, LLM Workflow, or RAG Engineer | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
+| Backend, Python, or Platform Engineer | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| CRM, ERP, API Integration, or Internal Tools | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) -> [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) |
+| DevOps, reliability, or operational handoff | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
 
 Message reason router: use [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 to choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context.
