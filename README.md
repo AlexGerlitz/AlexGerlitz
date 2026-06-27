@@ -10,11 +10,12 @@ Now open for **remote-only full-time roles** and fixed-scope projects where the 
 
 **Recruiter shortcut / 30-second screen:** start with the [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) for shortlist signal, risk reduction, AI execution proof, and message triggers, then check [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html), [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html), [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html), [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), and the [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf). Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership. International team fit: English-first docs, async proof routes, integration contracts, privacy boundaries, CI, runbooks, and operational handoff quality.
 
-| Decision path | Start here | What it proves |
-| --- | --- | --- |
-| Hiring for a remote role | [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | Role fit, first-month ownership, search keywords, and proof order. |
-| Reviewing technical depth | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) | Backend-owned state, RAG quality, adapter contracts, CI, runbooks, and recovery paths. |
-| Sending project work | [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html) -> [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) -> [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) | proposal-ready request shape: current workflow, systems involved, one observable success condition, constraints, and what must not break. |
+| Featured work sample | What it proves |
+| --- | --- |
+| [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) | Flagship backend-owned AI workflow: RAG, transcript analysis, approval, CRM handoff, audit, retries, and adapter boundaries. |
+| [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) | Precise fit for RAG, structured output, CRM/API handoff, tests, logs, and runbooks. |
+| [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | Compact technical screen across backend/platform, integrations, DevOps, verification, and resume evidence. |
+| [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) | Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-assisted execution discipline. |
 
 Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, Integration Engineer.
 
