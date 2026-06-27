@@ -26,6 +26,7 @@ CI, RAG quality eval, and runbooks.
 Latest public signal:
 
 - [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) for a one-minute remote role / proof / first-month ownership route
+- [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) for the compact route through AI workflow, backend/platform, integration, DevOps, CI, runbooks, and resume proof
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) for international remote-team review of architecture, state, integration contracts, reliability, privacy, CI, runbooks, and handoff quality
 - [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) with AI automation, backend/platform, CRM/ERP integration, Docker/CI, DevOps, and validation proof mapped to public evidence
@@ -48,6 +49,7 @@ Public role-fit route:
 [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf).
 
 AI automation reviewer route:
+[AI Backend Proof Pack](./AI_BACKEND_PROOF_PACK.md) ->
 [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md) ->
 [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) ->
 [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) ->
