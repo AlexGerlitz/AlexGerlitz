@@ -2,6 +2,9 @@
 
 Public fit filter for LinkedIn Services requests.
 
+Clean web route:
+https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html
+
 The live LinkedIn Services categories are broad routing labels. The actual offer is narrower:
 remote AI automation, backend/platform systems, CRM/ERP/API integration, internal tools, data
 workflows, and DevOps/recovery work for real business operations.
@@ -54,6 +57,7 @@ Send one concrete workflow or service request with:
 
 ## Proof Route
 
+- [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
 - [Remote AI Automation Services](./SERVICES.md)
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html)
