@@ -40,7 +40,9 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         (
             "public backend/platform foundation behind the DriveDesk AI",
             "Profile / contact route",
-            "https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md",
+            "https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/",
+            "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
+            "https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html",
             "60-Second Review",
             "FastAPI, PostgreSQL/Alembic",
             "Integration discipline",
@@ -67,7 +69,9 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         (
             "Production-minded reference implementation for AI workflow orchestration",
             "Profile / contact route",
-            "https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md",
+            "https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/",
+            "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
+            "https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html",
             "60-Second Reviewer Snapshot",
             "RAG/backend ownership",
             "human-in-the-loop workflow ownership",
@@ -92,7 +96,9 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         (
             "Self-hosted Docker deployment control panel",
             "Profile / contact route",
-            "https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md",
+            "https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/",
+            "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
+            "https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html",
             "public DevOps/platform engineering proof surface",
             "Engineering Proof Snapshot",
             "Backend/platform ownership",
@@ -143,7 +149,9 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         (
             "validation-boundary and desktop-automation proof project",
             "Profile / contact route",
-            "https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md",
+            "https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/",
+            "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
+            "https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html",
             "60-Second Reviewer Snapshot",
             "trust-model",
             "untrusted local files",
