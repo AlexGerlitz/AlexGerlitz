@@ -15,5 +15,10 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v5
 
+      - name: Install PDF inspection tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
       - name: Run public profile audit
         run: python3 scripts/audit_public_profile.py
