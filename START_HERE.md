@@ -93,37 +93,29 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 - what should improve first;
 - deadline, timeline, or first-month success condition.
 
-## Short LinkedIn Notes
+## Fast Decision Signals
 
-Remote role:
+Remote role signal:
 
-```text
-Hi Alex, I am considering you for a remote [role title] role.
-Stack: [stack].
-First-month ownership: [workflow/system].
-Timeline: [timeline].
-Closest proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
-```
+- role title and remote setup;
+- stack, team surface, and ownership boundary;
+- first-month ownership and hiring timeline;
+- best proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 
-Workflow project:
+Workflow/integration signal:
 
-```text
-Hi Alex, I have a workflow around [business process].
-Systems/data: [CRM/ERP/API/docs/database].
-Success condition: [what should work].
-Constraints: [deadline/budget/hosting/access].
-I want a first working slice with tests, docs, and handoff.
-```
+- business process and current tools/data;
+- success condition and constraints;
+- systems that must stay stable;
+- useful first outcome: working slice with tests, docs, and handoff.
 
-Proof review:
+Technical proof signal:
 
-```text
-Hi Alex, I want a technical read on [repo/system/workflow].
-Decision: [claim or risk].
-Evidence available: [CI/logs/demo/docs].
-Output needed: [fix plan/proof route/first slice].
-Useful link: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html
-```
+- repo, workflow, or architecture to inspect;
+- claim or risk to validate;
+- available evidence: CI, logs, demo, docs, or runbook;
+- expected output: fix plan, proof route, or first slice;
+- verification pack: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html
 
 ## Fast Proof Path
 
