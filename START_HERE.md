@@ -34,6 +34,9 @@ CI, RAG quality eval, and runbooks.
 
 Useful first context: a remote role, project, or messy workflow plus one success condition.
 
+Message reason router: use [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
+to choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context.
+
 Deep review route:
 [AI Backend Proof Pack](./AI_BACKEND_PROOF_PACK.md) ->
 [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md) ->

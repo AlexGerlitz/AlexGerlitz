@@ -26,6 +26,8 @@ Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/plat
 
 **Inbound / contact:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) with one role, workflow, or project; one success condition; and the systems involved. Decision routes: [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html), [Work With Me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html), [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html), and [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
 
+**Message reason router:** use [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) to choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context.
+
 Fast fit checklist: message me when the work is remote-only and needs a backend-owned AI workflow, CRM/ERP/API integration, internal operations tool, DevOps recovery/hardening path, or one first working slice with tests, logs, docs, and a handoff route. I am not positioning for onsite-only roles, pure prompt/content tasks, isolated static websites, student/course assignments, standalone game clones, generic mobile/ecommerce apps without backend/integration ownership, or vague work where success cannot be defined.
 
 ## Decision Snapshot

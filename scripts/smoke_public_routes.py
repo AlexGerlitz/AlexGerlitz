@@ -804,6 +804,8 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Enterprise Readiness",
             "ENTERPRISE_READINESS.md",
             "DriveDesk AI Operator proof route",
+            "Message reason router",
+            "choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context",
             "Role Fit Pack",
             "Fast Decision Signals",
             "best proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
