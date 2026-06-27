@@ -9,13 +9,13 @@ engineered: tested, documented, deployed, observable, and understandable after t
 Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
-For the shortest service overview, see [Remote AI Automation Services](./SERVICES.md).
+For the shortest service overview, see [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
 For the live LinkedIn service page, see
 [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/).
 For the fastest contact route, see [Start Here](./START_HERE.md).
 For concrete project packages and budget signals, see
 [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
-For useful first context, see [Inbound Brief](./INTAKE_BRIEF.md).
+For useful first context, see [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html).
 
 ## Best Entry Points
 

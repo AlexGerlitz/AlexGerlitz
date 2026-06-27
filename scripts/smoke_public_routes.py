@@ -35,6 +35,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "case-studies.html",
             "Open technical proof path",
             "skill-evidence.html",
+            "services.html",
             "intake-brief.html",
             "Inbound brief",
         ),
@@ -213,10 +214,25 @@ ROUTES: tuple[RouteCheck, ...] = (
         ),
     ),
     RouteCheck(
+        "services",
+        "https://alexgerlitz.github.io/AlexGerlitz/services.html",
+        (
+            "Remote AI Automation Services - Alex Gerlitz",
+            "Business workflows turned into owned backend systems.",
+            "Best Immediate Starts",
+            "DriveDesk AI Operator Demo",
+            "AI Workflow / RAG MVP",
+            "CRM / ERP / API Adapter",
+            "Proof-Backed Handoff",
+            "GitHub-readable services page",
+        ),
+    ),
+    RouteCheck(
         "services-md",
         "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/SERVICES.md",
         (
             "Remote AI Automation Services",
+            "https://alexgerlitz.github.io/AlexGerlitz/services.html",
             "remote-only backend, AI automation",
             "DriveDesk AI Operator demo",
             "Remote-only LinkedIn service page",
@@ -259,7 +275,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "fixed-scope-offers",
         "https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html",
-        ("Fixed-scope AI automation", "Best first step", "USD 3,000-12,000", "USD 25,000+ by phase"),
+        ("Fixed-scope AI automation", "services.html", "Best first step", "USD 3,000-12,000", "USD 25,000+ by phase"),
     ),
     RouteCheck(
         "start-conversation",

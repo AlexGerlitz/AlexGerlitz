@@ -3,6 +3,8 @@
 I build remote-only backend, AI automation, integration, and DevOps systems for business
 operations.
 
+Clean web route: [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
+
 The best fit is a concrete business workflow that is currently too manual, too fragile, or too
 unclear to scale. I use AI heavily to compress research, implementation, debugging, and
 documentation time, but the final output still has to be inspectable: code, tests, logs, smoke
@@ -152,7 +154,8 @@ I will respond with the smallest responsible path to a working result: what can 
 what is risky, what should wait, and what evidence will show that the result actually works.
 
 The fastest route is the
-[LinkedIn Services page](https://www.linkedin.com/services/page/3153b734507b8a60ab/) or the
+[Remote AI Automation Services page](https://alexgerlitz.github.io/AlexGerlitz/services.html),
+the [LinkedIn Services page](https://www.linkedin.com/services/page/3153b734507b8a60ab/), or the
 [Start Conversation page](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html).
 For a concrete project menu, use the [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
-For concise first context, use the [Inbound Brief](./INTAKE_BRIEF.md).
+For concise first context, use the [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html).

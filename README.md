@@ -14,7 +14,7 @@ Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer,
 
 **60-second proof map:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) -> [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html).
 
-**Fast contact route:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) or open [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) / [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) / [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html) / [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html).
+**Fast contact route:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) or open [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) / [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html) / [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) / [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html) / [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html).
 The most useful context is one role, workflow, or project; one success condition; and the systems involved. The contact route now gives decision prompts for remote roles, workflow/integration projects, and technical proof reviews.
 
 ## Decision Snapshot
