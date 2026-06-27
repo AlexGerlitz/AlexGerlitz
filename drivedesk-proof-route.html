@@ -21,6 +21,8 @@
   <meta name="twitter:description" content="Backend-owned AI workflow proof with RAG, transcript analysis, approvals, CRM adapters, Docker, CI, and verification links.">
   <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route">
   <meta name="twitter:image:alt" content="Alex Gerlitz DriveDesk AI Operator preview.">
+  <link rel="stylesheet" href="./assets/copy-blocks.css">
+  <script src="./assets/copy-blocks.js" defer></script>
   <style>
     :root { --ink: #18202a; --muted: #52616f; --line: #d8e0e7; --paper: #f7f8fa; --panel: #fff; --accent: #0f766e; --blue: #1d4ed8; --soft: #e9f7f4; }
     * { box-sizing: border-box; }
@@ -44,6 +46,8 @@
     .proof-list li { margin: 8px 0; }
     .tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
     .tag { display: inline-flex; min-height: 34px; align-items: center; border-radius: 8px; background: var(--soft); color: #0b4f4a; padding: 6px 10px; font-weight: 720; }
+    pre { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.92rem; }
     ul { margin: 0; padding-left: 20px; }
     li { margin: 7px 0; }
     @media (max-width: 760px) { .grid { grid-template-columns: 1fr; } .hero { padding: 22px; } h1 { font-size: 2.05rem; } .nav a, .button { width: 100%; } }
@@ -65,7 +69,7 @@
       <div class="eyebrow">Clean public proof route</div>
       <h1>DriveDesk AI Operator: backend-owned AI workflow proof.</h1>
       <p class="lead">I build systems where documents, call audio, transcripts, CRM leads, and knowledge-base records become RAG-backed analysis, lead scoring, follow-up drafts, Telegram approvals, CRM actions, audit logs, retries, and runbooks.</p>
-      <p><a class="button primary" href="./start-conversation.html">Start conversation</a> <a class="button" href="./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf">PDF resume</a> <a class="button" href="./role-fit.html">Role fit</a> <a class="button" href="./drivedesk-ai-operator.html">AI Operator case</a> <a class="button" href="./verification-pack.html">Verification pack</a></p>
+      <p><a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a> <a class="button" href="./start-conversation.html">Start conversation</a> <a class="button" href="./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf">PDF resume</a> <a class="button" href="./role-fit.html">Role fit</a> <a class="button" href="./drivedesk-ai-operator.html">AI Operator case</a> <a class="button" href="./verification-pack.html">Verification pack</a></p>
       <div class="tags" aria-label="Core proof tags">
         <span class="tag">FastAPI + PostgreSQL</span>
         <span class="tag">RAG + transcripts</span>
@@ -73,6 +77,24 @@
         <span class="tag">CRM adapters</span>
         <span class="tag">Docker + CI</span>
       </div>
+    </section>
+    <section class="grid" aria-label="Short LinkedIn notes">
+      <article class="panel">
+        <h2>Remote role note</h2>
+        <pre><code>Hi Alex, I am considering you for a remote [role title] role.
+Stack: [stack].
+First-month ownership: [workflow/system].
+Timeline: [timeline].
+Closest proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html</code></pre>
+      </article>
+      <article class="panel">
+        <h2>Workflow project note</h2>
+        <pre><code>Hi Alex, I have a workflow around [business process].
+Systems/data: [CRM/ERP/API/docs/database].
+Success condition: [what should work].
+Constraints: [deadline/budget/hosting/access].
+I want a first working slice with tests, docs, and handoff.</code></pre>
+      </article>
     </section>
     <section class="grid" aria-label="Decision snapshot">
       <article class="panel">
