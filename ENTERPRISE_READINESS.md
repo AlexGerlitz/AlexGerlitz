@@ -23,6 +23,15 @@ This is the proof route for international employer-grade review: teams that need
 - Async review quality: English-first docs, proof routes, CI, smoke checks, and compact evidence make it possible to evaluate work across time zones.
 - Team onboarding signal: first-month ownership, smallest responsible slice, verification plan, and handoff route are explicit before a project or role starts.
 
+## Specialist Review Signal
+
+My strongest surface is not generic AI automation. It is backend-owned business workflow engineering where AI, data, approvals, CRM/ERP/API adapters, DevOps, and handoff quality have explicit contracts.
+
+- Rare overlap: real business infrastructure support since March 2024, backend/platform implementation, AI-assisted delivery, CRM/ERP/API integration, DevOps recovery, and public proof discipline.
+- Review evidence: code, docs, CI, live smoke, runtime-boundary notes, privacy boundaries, adapter contracts, and proof routes are inspectable before a live walkthrough.
+- First proof task: DriveDesk AI Operator-style slice with document/transcript/lead intake, RAG, structured analysis, human approval, CRM-safe handoff, tests, logs, and runbook.
+- Team value: I reduce hidden automation state, brittle workflow glue, unclear ownership, missing rollback paths, and unverifiable AI outputs.
+
 ## Operating Principle
 
 I use AI tooling to move faster, but I keep responsibility for architecture, state, integration contracts, tests, deployment, docs, evidence, and shipped behavior.

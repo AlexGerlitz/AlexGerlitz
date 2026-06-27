@@ -31,7 +31,7 @@ Latest public signal:
 - [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) for a one-minute remote role / proof / first-month ownership route
 - [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) for the compact route through AI workflow, backend/platform, integration, DevOps, CI, runbooks, and resume proof
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-- [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) for international employer-grade review of architecture, state, integration contracts, English-first docs, reliability, privacy, CI, runbooks, and handoff quality
+- [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) for international employer-grade review of architecture, state, integration contracts, English-first docs, specialist backend-owned AI workflow signal, reliability, privacy, CI, runbooks, and handoff quality
 - [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) with AI automation, backend/platform, CRM/ERP integration, Docker/CI, DevOps, and validation proof mapped to public evidence
 - [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html), [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/), and [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) with remote-only AI automation proof samples
 - [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) for the shortest useful first context
