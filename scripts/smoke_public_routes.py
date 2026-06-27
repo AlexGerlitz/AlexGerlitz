@@ -402,6 +402,23 @@ ROUTES: tuple[RouteCheck, ...] = (
         social_preview=True,
     ),
     RouteCheck(
+        "work-with-me",
+        "https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html",
+        (
+            "Work With Me - Alex Gerlitz",
+            "Send one remote role or one messy workflow.",
+            "Best Immediate Starts",
+            "Remote Role",
+            "Fixed-Scope Project",
+            "Technical Proof",
+            "What I Can Own",
+            "Fast Fit Filter",
+            "generic mobile/ecommerce apps without backend/integration ownership",
+            "GitHub-readable version",
+        ),
+        social_preview=True,
+    ),
+    RouteCheck(
         "services-md",
         profile_raw_url("SERVICES.md"),
         (
