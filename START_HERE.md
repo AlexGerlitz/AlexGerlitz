@@ -34,6 +34,7 @@ Latest public signal:
 - [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) for international employer-grade review of architecture, state, integration contracts, English-first docs, specialist backend-owned AI workflow signal, reliability, privacy, CI, runbooks, and handoff quality
 - [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) with AI automation, backend/platform, CRM/ERP integration, Docker/CI, DevOps, and validation proof mapped to public evidence
 - [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html), [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/), and [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) with remote-only AI automation proof samples
+- [Proposal-ready Services request](https://alexgerlitz.github.io/AlexGerlitz/services.html) for the exact LinkedIn Services request shape: current workflow, systems involved, one observable success condition, constraints, and what must not break
 - [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) for the shortest useful first context
 - [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
 - [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
@@ -136,6 +137,7 @@ Technical proof signal:
 5. [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
 6. [Skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 7. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html), or [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
+8. [Proposal-ready Services request](https://alexgerlitz.github.io/AlexGerlitz/services.html) when LinkedIn Services asks for a short project request or proposal context
 
 ## Deep Review Paths
 

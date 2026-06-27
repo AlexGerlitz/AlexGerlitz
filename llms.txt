@@ -18,6 +18,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html): repo-level evidence across DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm.
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html): search-fit roles mapped to proof, first-month ownership, and direct review routes.
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html): remote role and fixed-scope project route with best immediate starts, fit filter, proof links, and contact path.
+- [Proposal-ready Services request](https://alexgerlitz.github.io/AlexGerlitz/services.html): LinkedIn Services request shape with current workflow, systems involved, one observable success condition, constraints, and what must not break.
 - [Skill evidence map](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skills mapped to public proof for AI automation, backend/platform, CRM/ERP integration, DevOps, and AI-assisted execution discipline.
 - [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public demo, evidence links, and proof freshness.
 - [AI Backend Proof Pack Markdown](https://alexgerlitz.github.io/AlexGerlitz/AI_BACKEND_PROOF_PACK.md): GitHub-readable proof order for recruiters, hiring managers, and technical reviewers.
@@ -53,7 +54,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [LinkedIn profile](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
-- [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html): fast first message route for one remote role or one messy workflow, one success condition, systems involved, and a working-slice outcome.
+- [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html): fast first message and proposal-ready route for one remote role or one messy workflow, one success condition, systems involved, constraints, what must not break, and a working-slice outcome.
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html)
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
