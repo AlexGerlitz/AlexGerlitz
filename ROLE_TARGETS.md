@@ -70,6 +70,18 @@ These are the terms that best match the current public proof:
 The fastest search match is remote work where the title or job description includes backend,
 platform, AI automation, LLM/RAG workflow, CRM/ERP integration, internal tools, or DevOps ownership.
 
+## LinkedIn Recruiter Search Alignment
+
+This is the public search-fit summary for recruiters and hiring managers to recognize quickly:
+
+| Search field | Best-fit signal |
+| --- | --- |
+| Job title filters | Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer, Platform Engineer, DevOps Engineer, Integration Engineer. |
+| Work mode | Remote-only full-time roles, plus concrete fixed-scope projects when the outcome is a working backend/AI/integration slice. |
+| Skill filters | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM, ERP, Systems Integration, API Integration, n8n, Telegram, DevOps, OpenAPI, pgvector. |
+| Proof route | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf). |
+| First message trigger | Send one remote role or one business workflow that needs backend-owned AI automation, CRM/ERP/API integration, internal tools, DevOps reliability, or a verified first working slice. |
+
 | Search cluster | Exact fit signal | First proof |
 | --- | --- | --- |
 | Backend / platform | Python, FastAPI, PostgreSQL, OpenAPI, Docker, CI, roles, records, audit/outbox, workflow state. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |

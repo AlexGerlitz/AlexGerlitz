@@ -33,6 +33,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 - Headline: AI Automation / Backend / Platform Engineer | RAG, LLM workflows, CRM/ERP integrations, FastAPI, Docker, DevOps | DriveDesk AI Operator.
 - Best-fit titles: Back End Developer, Python Developer, AI Automation Engineer, LLM Workflow / RAG Engineer, Platform Engineer, DevOps Engineer, Integration Engineer, Internal Tools Engineer.
+- LinkedIn recruiter search alignment: remote-only full-time roles where Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM/ERP/API integration, Systems Integration, DevOps, OpenAPI, n8n, Telegram, or pgvector appear in the role.
 - Work mode: remote-only full-time roles or concrete fixed-scope projects with backend/platform/integration ownership.
 - First-month ownership: ship one business workflow slice with backend-owned state, tests, logs, docs, deployment path, and handoff.
 

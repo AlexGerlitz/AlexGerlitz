@@ -10,6 +10,8 @@ Now open for **remote-only full-time roles** and fixed-scope projects where the 
 
 Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, Integration Engineer.
 
+LinkedIn recruiter search alignment: remote-only full-time roles where Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM/ERP/API integration, Systems Integration, DevOps, OpenAPI, n8n, Telegram, or pgvector appear in the role.
+
 **Recruiter shortcut:** for a remote role, start with [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html), [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), and the [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf). Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.
 
 **Fast public review:** [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) for a compact review, [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) for role fit, [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) for flagship proof, [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) for international-team review with English-first docs and async proof paths, [Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) for the larger backend/platform direction, [Selected Proof Projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) for pinned proof repos, and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) for a compact resume.
@@ -74,7 +76,5 @@ architecture, state, security boundaries, verification, deployment, logs, fixes,
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html) and [fixed-scope offers](./FIXED_SCOPE_OFFERS.md)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 ## Contact
-
 - LinkedIn: [linkedin.com/in/alex-gerlitz-a659ab3bb](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - LinkedIn Services: [linkedin.com/services/page/3153b734507b8a60ab](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
-- GitHub: [github.com/AlexGerlitz](https://github.com/AlexGerlitz)
