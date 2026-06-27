@@ -49,7 +49,10 @@
     .tag-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
     .tag { border: 1px solid var(--line); border-radius: 999px; padding: 5px 9px; background: var(--soft); color: var(--blue); font-size: 0.86rem; font-weight: 700; }
     .proof-list { display: grid; gap: 10px; padding-left: 20px; }
-    @media (max-width: 920px) { .grid, .two { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .actions { display: grid; } .button, .nav a { width: 100%; } }
+    .matrix { width: 100%; border-collapse: collapse; }
+    .matrix th, .matrix td { border-top: 1px solid var(--line); padding: 11px 10px; text-align: left; vertical-align: top; }
+    .matrix th { color: var(--muted); font-size: 0.88rem; }
+    @media (max-width: 920px) { .grid, .two { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .actions { display: grid; } .button, .nav a { width: 100%; } .matrix, .matrix tbody, .matrix tr, .matrix td, .matrix th { display: block; width: 100%; } .matrix th { display: none; } }
   </style>
 </head>
 <body>
@@ -140,6 +143,41 @@
           <p>First result: claim-to-evidence map, risks, smallest responsible slice, and verification route.</p>
         </article>
       </div>
+    </section>
+
+    <section class="panel section">
+      <h2>Offer-Fit Matrix</h2>
+      <table class="matrix">
+        <thead>
+          <tr>
+            <th>If the role/request is</th>
+            <th>I can own first</th>
+            <th>Proof to open</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Backend/platform role</td>
+            <td>Map one business workflow, model records and state, expose API/admin behavior, add tests, docs, and a deploy path.</td>
+            <td><a href="https://github.com/AlexGerlitz/drivedesk-core">DriveDesk Core</a> and <a href="./drivedesk-proof-route.html">DriveDesk Proof Route</a>.</td>
+          </tr>
+          <tr>
+            <td>AI automation / RAG role</td>
+            <td>Build one retrieval or transcript workflow with citations, structured output, quality eval, approval boundary, and logs.</td>
+            <td><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit">AI Ops Workflow Kit</a> and <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md">AI Ops live owner proof</a>.</td>
+          </tr>
+          <tr>
+            <td>CRM/ERP/API integration role</td>
+            <td>Define source/target contracts, map fields, validate input, add retries/idempotency, dry-run boundary, and rollout notes.</td>
+            <td><a href="./drivedesk-ai-operator.html">DriveDesk AI Operator</a> and <a href="./enterprise-readiness.html">Enterprise Readiness</a>.</td>
+          </tr>
+          <tr>
+            <td>DevOps/recovery role</td>
+            <td>Add or harden Docker/CI, health checks, logs, smoke checks, backup/recovery notes, and operator runbook.</td>
+            <td><a href="https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot">DeployMate</a> and <a href="./verification-pack.html">Verification Pack</a>.</td>
+          </tr>
+        </tbody>
+      </table>
     </section>
 
     <section class="panel section">

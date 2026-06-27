@@ -28,6 +28,15 @@ I do not just connect workflow nodes. I move state, RAG, approvals, audit, retri
 | Internal Tools Engineer | Operators need admin surfaces, queues, approvals, audit trail, notifications, validation, and repeatable workflows. | One working operator flow with state, permissions, and support handoff. |
 | Technical Proof Review | A repo, workflow, integration, deployment, or AI claim needs review before committing more budget. | Claim-to-evidence map, risks, smallest responsible slice, and verification route. |
 
+## Offer-Fit Matrix
+
+| If the role/request is | I can own first | Proof to open |
+| --- | --- | --- |
+| Backend/platform role | Map one business workflow, model records and state, expose API/admin behavior, add tests, docs, and a deploy path. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html). |
+| AI automation / RAG role | Build one retrieval or transcript workflow with citations, structured output, quality eval, approval boundary, and logs. | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) and [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md). |
+| CRM/ERP/API integration role | Define source/target contracts, map fields, validate input, add retries/idempotency, dry-run boundary, and rollout notes. | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) and [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html). |
+| DevOps/recovery role | Add or harden Docker/CI, health checks, logs, smoke checks, backup/recovery notes, and operator runbook. | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html). |
+
 ## Strong Match
 
 - Remote backend/platform role with Python, FastAPI, PostgreSQL, Docker, CI, integrations, or internal tools.
