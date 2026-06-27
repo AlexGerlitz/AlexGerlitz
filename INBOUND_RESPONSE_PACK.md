@@ -83,7 +83,7 @@ clear ownership, and a practical proof path before any larger production commitm
 
 - Start conversation: https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html
 - Contact routes: https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html
-- Inbound brief: https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md
+- Inbound brief: https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html
 - LinkedIn Services: https://www.linkedin.com/services/page/3153b734507b8a60ab/
 - DriveDesk Proof Route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - First month plan: https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html

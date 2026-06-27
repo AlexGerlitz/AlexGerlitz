@@ -2,7 +2,8 @@
 
 A clear role or project brief helps me respond with a useful first plan instead of guessing.
 
-For the shortest route, start with [Start Here](./START_HERE.md).
+For the clean web route, open [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html).
+For the shortest GitHub-readable route, start with [Start Here](./START_HERE.md).
 
 Fast contact links:
 

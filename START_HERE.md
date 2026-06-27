@@ -21,7 +21,7 @@ Latest public signal:
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) with AI automation, backend/platform, CRM/ERP integration, Docker/CI, DevOps, and validation proof mapped to public evidence
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) with remote-only AI automation proof samples
-- [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md) for the shortest useful first context
+- [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) for the shortest useful first context
 - [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
 - [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
 - [AI Ops CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml)
@@ -54,7 +54,7 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 | --- | --- | --- |
 | Recruiter | Role title, remote setup, stack, product domain, first-month ownership, hiring timeline. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [PDF Resume](./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf), [Role Fit Pack](./APPLICATION_PACK.md) |
 | Hiring manager | Current technical/business pain, systems involved, what should improve first. | [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md), [Verification Pack](./VERIFICATION_PACK.md) |
-| Founder / client | Workflow, tools/data, success condition, deadline, budget range, handoff depth. | [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/), [Fixed-Scope Offers](./FIXED_SCOPE_OFFERS.md), [Services](./SERVICES.md), [Inbound Brief](./INTAKE_BRIEF.md) |
+| Founder / client | Workflow, tools/data, success condition, deadline, budget range, handoff depth. | [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/), [Fixed-Scope Offers](./FIXED_SCOPE_OFFERS.md), [Services](./SERVICES.md), [Inbound Brief](./intake-brief.html) |
 | Technical reviewer | Repo/system link, failure mode, logs/error text, what must not break, current verification. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), [Verification Pack](./VERIFICATION_PACK.md), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
 | Warm inbound | Message context, role/project link, success condition, next step. | [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html) |
 
@@ -81,7 +81,7 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 2. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 3. [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
 4. [Skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
-5. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/INTAKE_BRIEF.md), or [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
+5. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html), or [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
 ## Deep Review Paths
 
