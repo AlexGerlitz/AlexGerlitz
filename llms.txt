@@ -13,6 +13,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Hiring decision route](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html): one-minute role fit, strongest proof, first-month ownership, and contact route.
 - [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html): search filters, 30-second fit, proof order, expected first result, first message context, and international remote-team proof routing.
 - [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html): Open-to-Work alignment for job titles, remote work mode, employment types, recruiter search keywords, proof order, and first contact fit.
+- [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html): minimum first context, fit read, risk check, smallest responsible first slice, proof route, and next step.
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html): recruiter shortcut, role-target links, PDF resume, proof route, and the fastest contact path.
 - [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html): repo-level evidence across DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm.
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html): search-fit roles mapped to proof, first-month ownership, and direct review routes.
@@ -56,6 +57,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html)
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
+- [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
 - [Inbound brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html)
 - [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
 - [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
