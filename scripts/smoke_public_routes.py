@@ -250,7 +250,12 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "projects",
         "https://alexgerlitz.github.io/AlexGerlitz/projects.html",
-        ("Selected Proof Projects", "AI Ops Workflow Kit - RAG"),
+        (
+            "Selected Proof Projects",
+            "AI Ops Workflow Kit - RAG",
+            "MPlusForm - Validation Boundary / Desktop Automation Proof",
+            "Public verification workflow",
+        ),
         social_preview=True,
     ),
     RouteCheck(

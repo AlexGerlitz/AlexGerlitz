@@ -42,7 +42,7 @@ and recovery paths.
 
 | Proof | What to inspect |
 | --- | --- |
-| [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) | DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, and DeployMate as inspectable project surfaces. |
+| [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) | DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm as inspectable project surfaces. |
 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | FastAPI/PostgreSQL operations platform foundation: tenants, RBAC, audit/outbox, adapters, OpenAPI, Docker, pytest, CI, docs, public demo. |
 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | RAG workflow backend: document intake, transcript analysis, approvals, Telegram callback, dry-run Bitrix CRM handoff, outbox, live API, CI, smoke checks. |
 | [Live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) | Real Telegram approval evidence with CRM-safe outbox handoff and Bitrix dry-run boundary. |

@@ -549,6 +549,9 @@ REQUIRED_TEXT = {
         "DriveDesk Core - Operations & Integration Platform",
         "AI Ops Workflow Kit - RAG, Transcript Analysis, Approval & CRM Handoff",
         "DeployMate - Self-hosted Docker Deployment Control Panel",
+        "MPlusForm - Validation Boundary / Desktop Automation Proof",
+        "Public verification workflow",
+        "Trust model",
     ],
     "case-studies.html": [
         "<title>Engineering Case Studies - Alex Gerlitz</title>",
