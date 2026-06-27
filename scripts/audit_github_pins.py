@@ -73,7 +73,7 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
     ),
     ExpectedPin(
         "AlexGerlitz/AlexGerlitz",
-        ("AI Automation", "DriveDesk AI Operator", "FastAPI", "Docker"),
+        ("AI Automation", "DriveDesk AI Operator", "LLM workflows", "CRM/ERP integrations", "FastAPI", "Docker"),
         "HTML",
         "https://alexgerlitz.github.io/AlexGerlitz/",
         (
