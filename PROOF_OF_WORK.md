@@ -47,37 +47,37 @@ If you only have a few minutes, review these first:
 
 ## Current Public Verification
 
-Checked on 2026-06-27:
+Checked on 2026-06-28:
 
 - DriveDesk Core public demo returns HTTP 200.
-- DriveDesk Core `main` is green on `633e92a`.
-- DriveDesk Core public CI run succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062
-- DriveDesk Core GitHub Pages deployment succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544
-- DriveDesk Core scheduled public validation succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28282542868
-- DriveDesk Core latest scheduled public demo health run succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28284702693
+- DriveDesk Core `main` is green on `228943f`.
+- DriveDesk Core public CI run succeeded on `228943f`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28296918663
+- DriveDesk Core GitHub Pages deployment succeeded on `228943f`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28296918404
+- DriveDesk Core scheduled public validation remains green: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28282542868
+- DriveDesk Core latest scheduled public demo health run succeeded: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28291540179
 - DriveDesk Core has a public fast reviewer route and public demo path.
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
-- AI Ops latest checked CI run succeeded on `a10092a`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28291596272
+- AI Ops latest checked CI run succeeded on `f08ca0d`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28296918579
 - AI Ops live smoke passed on app SHA `1a83406` with `storage=postgres` and `rag_eval=2/2` at https://saleops.duckdns.org.
 - AI Ops live PostgreSQL/pgvector persistence proof survived an API container restart: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt
 - AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops privacy boundary is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md
 - AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops public proof status tracks live-runtime reachability, local public gate, committed runtime evidence, LLM provider fallback state, and transcription provider state without exposing secrets: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
-- DeployMate default branch `develop` is green on `237b2c9`.
-- DeployMate CI succeeded on `237b2c9`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684
-- DeployMate latest public evidence bundle succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28281348824
-- DeployMate release maintenance status succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
+- DeployMate default branch `develop` is green on `b139a9a`.
+- DeployMate CI succeeded on `b139a9a`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28296918571
+- DeployMate latest public evidence bundle succeeded on `b139a9a`: https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763
+- DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
-- Profile funnel has current default-branch checks for public audit, Pages deployment, and live smoke.
-- Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
-- Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
-- Live Profile Smoke workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml?query=branch%3Amain
+- Profile funnel is green on `b73bd85`.
+- Profile Funnel Audit succeeded on `b73bd85`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28298702738
+- Profile Pages deployment succeeded on `b73bd85`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28298702360
+- Live Profile Smoke succeeded on `b73bd85`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28298702707
 - Work With Me and Role Targets routes are published: https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html and https://alexgerlitz.github.io/AlexGerlitz/role-targets.html
 - MPlusForm has a public 60-second reviewer snapshot for trust-model and validation-boundary review.
-- MPlusForm `main` is green on `f7b952c`.
-- MPlusForm Public Verification succeeded on `f7b952c`: https://github.com/AlexGerlitz/MPlusForm/actions/runs/28285062880
+- MPlusForm `main` is green on `e0e6876`.
+- MPlusForm Public Verification succeeded on `e0e6876`: https://github.com/AlexGerlitz/MPlusForm/actions/runs/28296918568
 - Public proof repositories are reachable.
 
 ## DriveDesk Core Case Study

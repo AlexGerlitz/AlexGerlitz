@@ -49,7 +49,7 @@ Since **March 2024**, I have supported Autoschool54 digital infrastructure remot
 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | RAG workflow backend: document intake, privacy redaction before RAG/approval/CRM handoff, deterministic RAG quality eval (`rag_eval=2/2`), transcript analysis, approvals, Telegram callback, dry-run Bitrix CRM handoff, idempotent outbox, live PostgreSQL/pgvector runtime (`storage=postgres`), restart persistence proof, CI, and smoke checks. |
 | [Live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) | Real Telegram approval evidence with CRM-safe outbox handoff and Bitrix dry-run boundary. |
 | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) | Self-hosted Docker deployment control panel: FastAPI/Next.js/PostgreSQL, SSH runtime tooling, CI/CD, health checks, evidence bundles, review packet, runbooks. |
-| [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation-boundary automation proof: Python sync pipeline, server-approved snapshots, Windows operations docs, Lua addon, and [public verification run](https://github.com/AlexGerlitz/MPlusForm/actions/runs/28285062880). |
+| [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation-boundary automation proof: Python sync pipeline, server-approved snapshots, Windows operations docs, Lua addon, and [public verification run](https://github.com/AlexGerlitz/MPlusForm/actions/runs/28296918568). |
 
 ## What I Build
 

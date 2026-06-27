@@ -1120,7 +1120,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         "verification-pack",
         "https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html",
         (
-            "Last checked: 2026-06-27.",
+            "Last checked: 2026-06-28.",
             "AI Ops public proof status",
             "DriveDesk Core",
             "AI backend proof pack",
