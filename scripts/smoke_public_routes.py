@@ -413,7 +413,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Best Immediate Starts",
             "Good Fit Filter",
             "LinkedIn Services Request Filter",
-            "If LinkedIn routes the request as Web Development or Custom Software Development",
+            "If LinkedIn routes the request as Web Development, Application Development, or Custom Software Development",
             "LinkedIn Service Page Fit",
             "Not my target right now: isolated brochure/static websites",
             "Fast First Message",
@@ -472,6 +472,9 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "LinkedIn Service Page Fit",
             "Current LinkedIn Services categories observed on 2026-06-27",
+            "Current live service-page assets observed on 2026-06-27",
+            "media: DriveDesk AI Operator proof route and AI Ops Workflow Kit proof route",
+            "broad-category routing can attract website refresh, standalone game, and generic",
             "Recommended keep",
             "Recommended remove",
             "Recommended add if LinkedIn allows it",

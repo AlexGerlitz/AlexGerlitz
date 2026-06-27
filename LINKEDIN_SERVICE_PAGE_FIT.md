@@ -15,6 +15,19 @@ Current LinkedIn Services categories observed on 2026-06-27:
 - Information Management
 - IT Consulting
 
+Current live service-page assets observed on 2026-06-27:
+
+- description: targeted to remote AI automation/backend systems, RAG/document pipelines,
+  transcript/call analysis, Telegram approval, CRM/ERP/1C/bank API adapters, FastAPI/PostgreSQL,
+  Docker/CI, logs, tests, runbooks, and recovery paths;
+- availability: available;
+- work mode: remote;
+- pricing: contact for pricing;
+- media: DriveDesk AI Operator proof route and AI Ops Workflow Kit proof route;
+- broad-category routing can attract website refresh, standalone game, and generic
+  mobile/ecommerce requests, which are not the target unless they include real backend/integration
+  ownership.
+
 The current description is already strong and targeted:
 
 > I build remote-only AI automation/backend systems for real business workflows: RAG/document

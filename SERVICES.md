@@ -16,11 +16,11 @@ recovery sprint, or DriveDesk AI Operator-style proof route.
 Best-fit request shape: backend-owned state, data sources, integration boundaries, approval flow,
 deployment/recovery path, or AI/RAG step that can be proven with logs, tests, docs, and a handoff.
 
-LinkedIn Services request filter: if LinkedIn routes the request as Web Development or Custom
-Software Development, I still treat it as a fit only when the work has backend/platform,
-AI workflow, integration, DevOps, or internal-operations ownership. A website refresh, a student
-assignment, a standalone game, or a generic mobile store is not the right request unless there is a
-real backend/integration system to own.
+LinkedIn Services request filter: if LinkedIn routes the request as Web Development, Application
+Development, or Custom Software Development, I still treat it as a fit only when the work has
+backend/platform, AI workflow, integration, DevOps, or internal-operations ownership. A website
+refresh, a student assignment, a standalone game, or a generic mobile store is not the right request
+unless there is a real backend/integration system to own.
 
 Category routing note: [LinkedIn Service Page Fit](./LINKEDIN_SERVICE_PAGE_FIT.md) tracks the
 exact service-category strategy so the live Services page attracts backend/platform, AI workflow,
