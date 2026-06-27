@@ -57,10 +57,10 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
     ),
     ExpectedPin(
         "AlexGerlitz/deploymate",
-        ("Self-hosted Docker deployment control panel", "CI/CD", "runbooks"),
+        ("Platform/DevOps recovery proof", "Docker deployment control panel", "CI/CD", "runbooks"),
         "JavaScript",
         "https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot",
-        ("devops", "docker", "fastapi", "postgresql", "platform-engineering", "runbooks"),
+        ("devops", "devops-recovery", "docker", "fastapi", "postgresql", "platform-engineering", "runbooks"),
         (
             "Self-hosted Docker deployment control panel",
             "Profile / contact route",
