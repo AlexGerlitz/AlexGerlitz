@@ -10,9 +10,9 @@ Now open for **remote-only full-time roles** and fixed-scope projects where the 
 
 Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, Integration Engineer.
 
-**Fast public review:** [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) for role fit, [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) for flagship proof, [Selected Proof Projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) for pinned proof repos, and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) for a compact resume.
+**Fast public review:** [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) for role fit, [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) for flagship proof, [Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) for the larger backend/platform direction, [Selected Proof Projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) for pinned proof repos, and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) for a compact resume.
 
-**60-second proof map:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) -> [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html).
+**60-second proof map:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) -> [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) -> [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html).
 
 **Inbound / contact:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) with one role, workflow, or project; one success condition; and the systems involved. For proof first, start with [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [Work With Me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf), or [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html).
 Decision routes: [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html), [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/), and [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
@@ -28,15 +28,13 @@ Fast fit checklist: message me when the work is remote-only and needs a backend-
 
 ## Flagship Direction
 
-**DriveDesk AI Operator** is the sharpest current proof direction: a company uploads
-documents, call audio, transcripts, or CRM leads; the backend runs RAG, transcript analysis,
-lead scoring, task extraction, follow-up drafting, Telegram approval, and CRM handoff with
-state, audit, retries, idempotency, and adapter contracts owned outside no-code nodes.
+**DriveDesk AI Operator** is the sharpest current proof direction: documents, call audio, transcripts,
+or CRM leads -> RAG, analysis, scoring, tasks, Telegram approval, and CRM handoff with backend-owned
+state, audit, retries, idempotency, and adapter contracts. The larger [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
+connects that slice to roles, records, workflows, adapters, audit/outbox, admin/operator surfaces,
+DevOps, observability, backups, and recovery paths.
 
-Since **March 2024**, I have supported Autoschool54 digital infrastructure remotely while
-turning real operational problems into a broader platform direction: admin workflows,
-documents, schedules, payments, accounts, access, automation, deployment, logs, backups,
-and recovery paths.
+Since **March 2024**, I have supported Autoschool54 digital infrastructure remotely while turning real operational problems into a broader platform direction: admin workflows, documents, schedules, payments, accounts, access, automation, deployment, logs, backups, and recovery paths.
 
 ## Proof Routes
 

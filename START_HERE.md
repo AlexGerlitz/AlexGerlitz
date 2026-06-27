@@ -122,13 +122,15 @@ Technical proof signal:
 1. [Portfolio page](https://alexgerlitz.github.io/AlexGerlitz/)
 2. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
 3. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-4. [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
-5. [Skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
-6. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html), or [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
+4. [Flagship platform direction](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
+5. [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
+6. [Skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+7. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html), or [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
 ## Deep Review Paths
 
 - [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html)
+- [Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
 - [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md)
 - [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html)
 - [Role Fit Pack](./APPLICATION_PACK.md)

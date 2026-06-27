@@ -17,6 +17,7 @@ private Autoschool54/DriveDesk work demonstrates without exposing private busine
 
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) - backend/platform and integration foundation.
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)
+- [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) - larger backend/platform direction that connects the AI Operator slice to adapters, workflows, audit/outbox, admin/operator surfaces, DevOps, observability, and recovery.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - document/CRM/call intake, importable n8n workflow artifact, RAG, LLM/transcription provider boundaries, reviewer acceptance report, approvals, Telegram callback, idempotent outbox worker, and n8n/Telegram integration boundary.
 - [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) - document intake -> call-audio transcription -> transcript -> RAG -> scoring -> approval -> Telegram callback -> outbox drain -> dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - self-hosted deployment control panel, DevOps/platform proof snapshot, evidence bundle, and release discipline.
