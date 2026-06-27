@@ -83,6 +83,7 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
             "devops",
             "drivedesk",
             "erp",
+            "llm-workflows",
             "pgvector",
             "rag",
             "systems-integration",
