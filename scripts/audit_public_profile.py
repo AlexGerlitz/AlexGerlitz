@@ -765,6 +765,7 @@ REQUIRED_TEXT = {
         "AI Ops Workflow Kit",
         "validation-boundary and trust-model automation proof",
         "public verification",
+        "https://github.com/AlexGerlitz/MPlusForm/actions/runs/28285062880",
         "LinkedIn Services",
         "The main signal is not no-code node wiring.",
     ],

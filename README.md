@@ -47,7 +47,7 @@ and recovery paths.
 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | RAG workflow backend: document intake, transcript analysis, approvals, Telegram callback, dry-run Bitrix CRM handoff, outbox, live API, CI, smoke checks. |
 | [Live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) | Real Telegram approval evidence with CRM-safe outbox handoff and Bitrix dry-run boundary. |
 | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) | Self-hosted Docker deployment control panel: FastAPI/Next.js/PostgreSQL, SSH runtime tooling, CI/CD, health checks, evidence bundles, review packet, runbooks. |
-| [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation-boundary automation proof: Python sync pipeline, server-approved snapshots, Windows operations docs, Lua addon. |
+| [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation-boundary automation proof: Python sync pipeline, server-approved snapshots, Windows operations docs, Lua addon, and [public verification run](https://github.com/AlexGerlitz/MPlusForm/actions/runs/28285062880). |
 
 ## What I Build
 
