@@ -3,6 +3,8 @@
 Public role-fit page for AI automation, LLM workflow, RAG, integration, and backend-owned
 internal automation work.
 
+Public HTML route: [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html).
+
 ## Strongest Fit
 
 The best role fit is not pure ML research and not no-code-only automation. The strongest fit is a

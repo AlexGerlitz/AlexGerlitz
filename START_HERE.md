@@ -39,7 +39,8 @@ to choose remote role hiring, workflow/project, or technical proof review before
 
 Deep review route:
 [AI Backend Proof Pack](./AI_BACKEND_PROOF_PACK.md) ->
-[AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md) ->
+[AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) ->
+[AI Automation Role Fit Markdown](./AI_AUTOMATION_ROLE_FIT.md) ->
 [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) ->
 [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) ->
 [AI Ops CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml) ->

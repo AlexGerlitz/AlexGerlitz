@@ -80,7 +80,13 @@
   </url>
   <url>
     <loc>https://alexgerlitz.github.io/AlexGerlitz/role-fit.html</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html</loc>
+    <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -141,6 +147,12 @@
   <url>
     <loc>https://alexgerlitz.github.io/AlexGerlitz/DRIVEDESK_AI_OPERATOR.md</loc>
     <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://alexgerlitz.github.io/AlexGerlitz/AI_AUTOMATION_ROLE_FIT.md</loc>
+    <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
