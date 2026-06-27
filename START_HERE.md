@@ -23,49 +23,31 @@ AI sales/support workflow platform with document/transcript/lead intake, RAG, Op
 transcript analysis, lead scoring, Telegram approval, importable n8n workflow artifacts, CRM adapter contracts, audit, retries, Docker,
 CI, RAG quality eval, and runbooks.
 
-Latest public signal:
+## Fast Decision Route
 
-- [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) for search filters, 30-second fit, proof order, shortlist signal, risk reduction, and first contact context
-- [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for Open-to-Work alignment, remote work mode, employment types, search keywords, proof order, and first contact fit
-- [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) for minimum first context, fit read, risk check, first slice, proof route, and next step
-- [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) for a one-minute remote role / proof / first-month ownership route
-- [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) for the compact route through AI workflow, backend/platform, integration, DevOps, CI, runbooks, and resume proof
-- [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-- [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) for international employer-grade review of architecture, state, integration contracts, English-first docs, specialist backend-owned AI workflow signal, reliability, privacy, CI, runbooks, and handoff quality
-- [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) with AI automation, backend/platform, CRM/ERP integration, Docker/CI, DevOps, and validation proof mapped to public evidence
-- [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html), [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/), and [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) with remote-only AI automation proof samples
-- [Proposal-ready Services request](https://alexgerlitz.github.io/AlexGerlitz/services.html) for the exact LinkedIn Services request shape: current workflow, systems involved, one observable success condition, constraints, and what must not break
-- [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) for the shortest useful first context
-- [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
-- [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
-- [AI Ops CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml)
+| Time available | Start with | Decision signal |
+| --- | --- | --- |
+| 30 seconds | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) | Search filters, 30-second fit, proof order, shortlist signal, risk reduction, and first contact context. |
+| 60 seconds | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) | A compact route through AI workflow, backend/platform, integration, DevOps, CI, runbooks, and resume proof. |
+| 2 minutes | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Role Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-pack.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | An international employer-grade review of architecture, state, integration contracts, English-first docs, specialist backend-owned AI workflow signal, reliability, privacy, CI, runbooks, and handoff quality. |
+| Project request | [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html) -> [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) -> [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) -> [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) | Proposal-ready Services request: current workflow, systems involved, one observable success condition, constraints, and what must not break. |
 
-Recent platform signal:
-[DriveDesk Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html)
-and [DriveDesk Core repository](https://github.com/AlexGerlitz/drivedesk-core).
 Useful first context: a remote role, project, or messy workflow plus one success condition.
 
-Public role-fit route:
-[LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html),
-[Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html),
-[Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html),
-[DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html),
-[Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html),
-[Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html),
-[Role Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-pack.html), and
-[PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf).
-
-AI automation reviewer route:
+Deep review route:
 [AI Backend Proof Pack](./AI_BACKEND_PROOF_PACK.md) ->
 [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md) ->
 [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) ->
 [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) ->
+[AI Ops CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml) ->
+[DriveDesk Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) ->
 [Verification Pack](./VERIFICATION_PACK.md) ->
 [Enterprise Readiness](./ENTERPRISE_READINESS.md).
 
 Current platform anchor:
-[DriveDesk flagship platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
-and [platform notes](./FLAGSHIP_PLATFORM.md).
+[DriveDesk Core repository](https://github.com/AlexGerlitz/drivedesk-core),
+[DriveDesk flagship platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html), and
+[platform notes](./FLAGSHIP_PLATFORM.md).
 
 ## Choose The Route
 

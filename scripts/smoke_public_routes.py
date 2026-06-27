@@ -771,6 +771,10 @@ ROUTES: tuple[RouteCheck, ...] = (
         profile_raw_url("START_HERE.md"),
         (
             "Start Here",
+            "Fast Decision Route",
+            "30 seconds",
+            "60 seconds",
+            "Project request",
             "LinkedIn Recruiter Packet",
             "Recruiter Preferences",
             "Decision-Ready Contact",
