@@ -74,6 +74,7 @@ Checked on 2026-06-28:
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
 - Live Profile Smoke workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml?query=branch%3Amain
+- Live Profile Smoke includes rendered GitHub profile checks for the bio, recruiter shortcut, LinkedIn contact path, and message reason router: https://github.com/AlexGerlitz
 - Work With Me and Role Targets routes are published: https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html and https://alexgerlitz.github.io/AlexGerlitz/role-targets.html
 - MPlusForm has a public 60-second reviewer snapshot for trust-model and validation-boundary review.
 - MPlusForm `main` is green on `e0e6876`.

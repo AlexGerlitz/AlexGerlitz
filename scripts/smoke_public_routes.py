@@ -1202,6 +1202,9 @@ ROUTES: tuple[RouteCheck, ...] = (
             "compact path through role fit, enterprise readiness, live proof, verification, and resume evidence",
             "Enterprise readiness",
             "international remote-team signals",
+            "Live Profile Smoke includes",
+            "rendered GitHub profile",
+            "message reason router",
         ),
     ),
     RouteCheck(
