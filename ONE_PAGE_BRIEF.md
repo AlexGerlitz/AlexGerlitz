@@ -1,6 +1,6 @@
-# DriveDesk AI Operator Proof Route Alias
+# DriveDesk AI Operator Proof Route
 
-This markdown alias points to the canonical public proof route:
+Canonical public proof route:
 [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html).
 
 Use that page for the current review path: DriveDesk AI Operator, selected proof projects, live

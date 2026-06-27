@@ -209,23 +209,25 @@ ROUTES: tuple[RouteCheck, ...] = (
         social_preview=True,
     ),
     RouteCheck(
-        "featured-drivedesk-alias",
+        "featured-drivedesk-entry",
         "https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html",
         (
-            "DriveDesk AI Operator proof-route alias",
+            "DriveDesk AI Operator proof route",
             'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html"',
             '<meta http-equiv="refresh" content="0; url=./drivedesk-proof-route.html">',
-            "This proof-route alias opens",
+            "Open the current proof route",
+            "backend-owned AI workflows, RAG, transcript analysis, approvals",
         ),
     ),
     RouteCheck(
-        "one-page-brief-alias",
+        "one-page-brief-entry",
         "https://alexgerlitz.github.io/AlexGerlitz/one-page-brief.html",
         (
-            "DriveDesk AI Operator proof-route alias",
+            "DriveDesk AI Operator proof route",
             'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html"',
             '<meta http-equiv="refresh" content="0; url=./drivedesk-proof-route.html">',
-            "This proof-route alias opens",
+            "Open the current proof route",
+            "backend-owned AI workflows, RAG, transcript analysis, approvals",
         ),
     ),
     RouteCheck(
