@@ -38,24 +38,24 @@ The current description is already strong and targeted:
 
 ## Category Strategy
 
-LinkedIn categories are broad routing labels, not my actual offer. I should keep categories that
-can plausibly route backend, cloud, data, information, consulting, and custom-system work. I should
-remove categories that mostly attract isolated websites, student assignments, standalone games, or
-generic mobile/ecommerce requests.
+LinkedIn categories are broad routing labels, not the actual offer. The service page is triaged by
+system ownership: backend/platform, AI workflow, integration, DevOps, data, internal operations, and
+handoff quality. Categories that mostly route isolated websites, student assignments, standalone
+games, or generic mobile/ecommerce requests should be removed or treated as not a fit.
 
-Recommended keep:
+Keep:
 
 - Cloud Application Development
 - Custom Software Development
 - Information Management
 - IT Consulting
 
-Recommended remove:
+Remove:
 
 - Web Development
 - Application Development
 
-Recommended add if LinkedIn allows it:
+Add if LinkedIn allows it:
 
 - Cloud Management
 - Database Development
@@ -92,9 +92,9 @@ Not a fit unless there is a real backend/integration system to own:
 - generic mobile/ecommerce app;
 - vague request with no system boundary and no verifiable success condition.
 
-## Exact LinkedIn Edit Package
+## Exact LinkedIn Category Package
 
-If I edit the live LinkedIn Services page, the exact category action should be:
+The next live category edit should use this package:
 
 - remove `Web Development`;
 - remove `Application Development`;
@@ -107,6 +107,8 @@ If I edit the live LinkedIn Services page, the exact category action should be:
   the category limit allows it.
 
 Do not save a category set that removes the backend/platform/integration routing surface completely.
+If broad requests continue to route generic mobile/ecommerce work without backend or integration
+ownership, test a narrower category set and keep the public service page anchored to proof routes.
 
 ## Proof Route
 
