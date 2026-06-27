@@ -50,7 +50,7 @@ Checked on 2026-06-27:
 - DriveDesk Core public CI run succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062
 - DriveDesk Core GitHub Pages deployment succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544
 - DriveDesk Core scheduled public validation succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28282542868
-- DriveDesk Core latest scheduled public demo health run succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28278340108
+- DriveDesk Core latest scheduled public demo health run succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28284702693
 - DriveDesk Core has a public fast reviewer route and public demo path.
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
