@@ -10,7 +10,7 @@ Now open for **remote-only full-time roles** and fixed-scope projects where the 
 
 Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, Integration Engineer.
 
-**Fast hiring decision:** [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> pinned proof repos -> [skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [first month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+**Fast public review / hiring decision:** [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> pinned proof repos -> [skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [first month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 
 **60-second proof map:** [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) -> [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) -> [role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html).
 
