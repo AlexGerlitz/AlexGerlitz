@@ -12,7 +12,9 @@ recovery sprint, or DriveDesk AI Operator-style proof route.
 Fast fit checklist: message me when the work is remote-only and needs a backend-owned AI workflow,
 CRM/ERP/API integration, internal operations tool, DevOps recovery/hardening path, or one first
 working slice with tests, logs, docs, and handoff. Not my target right now: onsite-only roles,
-pure prompt/content tasks, or undefined outcomes with no way to verify success.
+pure prompt/content tasks, isolated static websites, student/course assignments, standalone game
+clones, generic mobile/ecommerce apps without backend/integration ownership, or undefined outcomes
+with no way to verify success.
 
 Main project direction:
 [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) ->
@@ -76,6 +78,10 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 
 - onsite-only roles;
 - pure prompt/content tasks without engineering ownership;
+- isolated static websites;
+- student/course assignments;
+- standalone game clones;
+- generic mobile/ecommerce apps without backend/integration ownership;
 - undefined outcomes where success cannot be tested, demonstrated, or handed off.
 
 ## Useful First Context
