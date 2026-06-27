@@ -5,6 +5,7 @@ import sys
 import time
 from dataclasses import dataclass, field
 from html.parser import HTMLParser
+import re
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
@@ -24,6 +25,8 @@ class RouteCheck:
     min_bytes: int = 0
     social_preview: bool = False
     canonical_url: str | None = None
+    pdf_pages: int | None = None
+    forbidden_bytes: tuple[bytes, ...] = field(default_factory=tuple)
 
 
 class SocialPreviewParser(HTMLParser):
@@ -435,6 +438,15 @@ ROUTES: tuple[RouteCheck, ...] = (
         "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
         content_type="application/pdf",
         min_bytes=100_000,
+        pdf_pages=1,
+        forbidden_bytes=(
+            b"file://",
+            b"Users/alexgerlitz",
+            b"Documents/Codex",
+            b"new-chat",
+            b"AI-generated",
+            b"One-Page Brief",
+        ),
     ),
     RouteCheck(
         "drivedesk-core-demo",
@@ -489,6 +501,19 @@ def check_route(route: RouteCheck) -> list[str]:
 
     if route.min_bytes and len(body) < route.min_bytes:
         errors.append(f"{route.name}: expected at least {route.min_bytes} bytes, got {len(body)}")
+
+    if route.pdf_pages is not None:
+        if not body.startswith(b"%PDF-"):
+            errors.append(f"{route.name}: missing PDF header for {route.url}")
+        page_count = len(re.findall(rb"/Type\s*/Page\b", body))
+        if page_count != route.pdf_pages:
+            errors.append(f"{route.name}: expected {route.pdf_pages} PDF page(s), got {page_count}")
+
+    for marker in route.forbidden_bytes:
+        if marker in body:
+            errors.append(
+                f"{route.name}: forbidden byte marker {marker.decode('utf-8', 'replace')!r}"
+            )
 
     if route.snippets:
         text = body.decode("utf-8", errors="replace")
