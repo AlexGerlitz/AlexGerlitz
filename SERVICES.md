@@ -30,6 +30,22 @@ Not my target right now: isolated brochure/static websites, student/course assig
 game clones, or generic mobile/ecommerce apps without backend, integration, or operations
 ownership.
 
+Fast first message: send one remote role or one messy workflow with a concrete success condition.
+I can respond fastest when the first context names the business process, systems involved, what
+should improve first, and what must not break.
+
+Remote role signal:
+
+- role title, remote setup, stack, team surface, and hiring timeline;
+- first-month ownership: the workflow, integration, platform, or DevOps problem that should improve;
+- best proof route: <https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html>.
+
+Project signal:
+
+- business process, tools, data sources, APIs, documents, transcripts, or CRM objects involved;
+- one success condition, access constraints, deadline or timebox, and handoff depth;
+- useful first outcome: working slice with tests, logs, docs, and handoff.
+
 ## What I Can Build
 
 | Service | Best for | Typical output |

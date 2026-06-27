@@ -41,6 +41,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [LinkedIn profile](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - [LinkedIn Service Page Fit](https://alexgerlitz.github.io/AlexGerlitz/LINKEDIN_SERVICE_PAGE_FIT.md)
+- [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html): fast first message route for one remote role or one messy workflow, one success condition, systems involved, and a working-slice outcome.
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html)
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
