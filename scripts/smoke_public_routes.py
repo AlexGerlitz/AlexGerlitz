@@ -158,7 +158,6 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Inbound brief",
         ),
         social_preview=True,
-        social_image_prefix="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png",
     ),
     RouteCheck(
         "hiring-decision",
@@ -289,6 +288,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "verification-pack.html",
         ),
         social_preview=True,
+        social_image_prefix="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png",
     ),
     RouteCheck(
         "ai-backend-proof-pack-md",
