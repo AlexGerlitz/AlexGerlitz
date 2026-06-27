@@ -39,6 +39,15 @@ For role-level matching, see [Remote Role Targets](./ROLE_TARGETS.md).
 | Validation / Trust Boundaries | Untrusted client data separated from approved server-side snapshots, plus AI workflow redaction before RAG/approval/CRM boundaries. | [MPlusForm reviewer snapshot](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot), [public verification run](https://github.com/AlexGerlitz/MPlusForm/actions/runs/28285062880), [AI Ops privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md) |
 | Windows Automation | Sync helper packaging and Windows operation scripts around a desktop-side automation flow. | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) |
 
+## AI-Assisted Execution Discipline
+
+| Signal | What I can prove | Public evidence |
+| --- | --- | --- |
+| Fast problem decomposition | I use AI tooling to turn unclear business requests into workflow maps, risky assumptions, first slices, and verification routes. | [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Decision-ready contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) |
+| Engineering ownership | AI speeds research, implementation, docs, and debugging, while architecture, state, tests, privacy boundaries, deployment, logs, and shipped quality stay my responsibility. | [Hiring decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html), [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
+| Verification habit | Outputs are checked through code inspection, tests, smoke routes, CI, live proof, docs, and runbooks instead of being trusted as generated text. | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) |
+| Full-cycle delivery | I can move from problem shape to backend slice, integration boundary, deployment path, operator handoff, and next-phase plan. | [First month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html), [DriveDesk proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
+
 ## Evidence By Project
 
 | Project | Best evidence for | Fast review path |

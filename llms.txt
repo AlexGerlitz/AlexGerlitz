@@ -18,7 +18,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html): repo-level evidence across DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm.
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html): search-fit roles mapped to proof, first-month ownership, and direct review routes.
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html): remote role and fixed-scope project route with best immediate starts, fit filter, proof links, and contact path.
-- [Skill evidence map](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skills mapped to public proof for AI automation, backend/platform, CRM/ERP integration, and DevOps.
+- [Skill evidence map](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skills mapped to public proof for AI automation, backend/platform, CRM/ERP integration, DevOps, and AI-assisted execution discipline.
 - [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public demo, evidence links, and proof freshness.
 - [AI Backend Proof Pack Markdown](https://alexgerlitz.github.io/AlexGerlitz/AI_BACKEND_PROOF_PACK.md): GitHub-readable proof order for recruiters, hiring managers, and technical reviewers.
 - [Enterprise Readiness Markdown](https://alexgerlitz.github.io/AlexGerlitz/ENTERPRISE_READINESS.md): GitHub-readable matrix for enterprise/backend/platform review signals.
