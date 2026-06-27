@@ -20,6 +20,7 @@ Fast fit checklist:
 | --- | --- | --- |
 | Remote role | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast role/project positioning, proof repos, runtime-boundary evidence, contact route, and current projects. |
 | Technical review | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Short route into DriveDesk AI Operator, verification links, repos, demos, CI, docs, and runbooks. |
+| Enterprise review | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` | International employer-grade route for backend/platform ownership, integration discipline, reliability, privacy, and async proof. |
 | AI workflow / RAG | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast route into the DriveDesk AI Operator case direction and AI Ops proof links. |
 | Fixed-scope project | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | One page for proof, project shape, offer surface, and the next context needed. |
 | First conversation | `https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html` | Simple structure for sending role/project context. |
@@ -117,6 +118,7 @@ clear ownership, and a practical proof path before any larger production commitm
 - Start conversation: https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html
 - Contact routes: https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html
 - Inbound brief: https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html
+- Enterprise readiness: https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html
 - LinkedIn Services: https://www.linkedin.com/services/page/3153b734507b8a60ab/
 - DriveDesk Proof Route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - First month plan: https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html

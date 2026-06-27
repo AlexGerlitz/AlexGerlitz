@@ -28,6 +28,7 @@ Use this when a profile view, recruiter screen, founder request, or technical pr
 - [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
 - [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
+- [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html)
 - [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 
 ## Fast Fit

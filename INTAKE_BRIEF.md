@@ -9,6 +9,7 @@ Fast contact links:
 
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 - [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
+- [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
 Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
@@ -84,6 +85,7 @@ I will usually respond with:
 - [Start Here](./START_HERE.md)
 - [Resume](./RESUME.md)
 - [Remote Role Targets](./ROLE_TARGETS.md)
+- [Enterprise Readiness](./ENTERPRISE_READINESS.md)
 - [Remote AI Automation Services](./SERVICES.md)
 - [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md)
 - [Proof of Work](./PROOF_OF_WORK.md)
