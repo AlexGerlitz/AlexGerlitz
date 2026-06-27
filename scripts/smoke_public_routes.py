@@ -131,6 +131,23 @@ def social_preview_errors(route: RouteCheck, text: str) -> list[str]:
 
 ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
+        "github-profile-render",
+        "https://github.com/AlexGerlitz",
+        (
+            "AlexGerlitz - Overview",
+            "AI Automation / Backend / Platform Engineer building DriveDesk",
+            "Recruiter shortcut / 30-second screen",
+            "Message on LinkedIn",
+            "Message reason router",
+            "Start Conversation",
+            "choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context",
+            "DriveDesk Proof Route",
+            "LinkedIn Services",
+        ),
+        content_type="text/html",
+        min_bytes=50000,
+    ),
+    RouteCheck(
         "portfolio",
         "https://alexgerlitz.github.io/AlexGerlitz/",
         (
