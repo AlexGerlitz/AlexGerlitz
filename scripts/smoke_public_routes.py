@@ -372,7 +372,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         "https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html",
         (
             "AI Backend Proof Pack - Alex Gerlitz",
-            "Featured proof pack",
+            "Public proof pack",
             "AI workflow and backend/platform proof in one route.",
             "The core signal: I do not just connect workflow nodes.",
             "FastAPI/PostgreSQL",
@@ -670,6 +670,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         "https://alexgerlitz.github.io/AlexGerlitz/application-pack.html",
         (
             "Public role fit",
+            "AI Automation / Backend / Platform Role Fit - Alex Gerlitz",
             "Search-match stack",
             "Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.",
             "Risk I reduce: hidden automation state, brittle no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.",
