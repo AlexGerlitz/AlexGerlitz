@@ -12,6 +12,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html): remote role and fixed-scope project route with best immediate starts, fit filter, proof links, and contact path.
 - [Skill evidence map](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skills mapped to public proof for AI automation, backend/platform, CRM/ERP integration, and DevOps.
 - [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public demo, evidence links, and proof freshness.
+- [LinkedIn Service Page Fit](https://alexgerlitz.github.io/AlexGerlitz/LINKEDIN_SERVICE_PAGE_FIT.md): exact service-category strategy for routing LinkedIn Services requests toward backend/platform, AI workflow, integration, data, and DevOps work.
 
 ## Best-Fit Work
 
@@ -39,6 +40,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 - [LinkedIn profile](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
+- [LinkedIn Service Page Fit](https://alexgerlitz.github.io/AlexGerlitz/LINKEDIN_SERVICE_PAGE_FIT.md)
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html)
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
