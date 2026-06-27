@@ -43,6 +43,15 @@ no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assist
 - Integration adapters for CRM, ERP, 1C, accounting, banking, custom databases, webhooks, and APIs.
 - Deployment, release, health-check, observability, backup, and recovery workflows.
 
+## Proof By Search Intent
+
+| Search intent | Open first |
+| --- | --- |
+| AI Automation / RAG | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
+| Backend / Python / Platform | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| CRM / ERP / API Integration | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
+| DevOps / Reliability | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
+
 ## Current Experience
 
 ### AI Automation & Digital Infrastructure Engineer
