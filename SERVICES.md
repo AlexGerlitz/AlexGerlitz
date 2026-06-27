@@ -22,9 +22,9 @@ backend/platform, AI workflow, integration, DevOps, or internal-operations owner
 refresh, a student assignment, a standalone game, or a generic mobile store is not the right request
 unless there is a real backend/integration system to own.
 
-Category routing note: [LinkedIn Service Page Fit](./LINKEDIN_SERVICE_PAGE_FIT.md) tracks the
-exact service-category strategy so the live Services page attracts backend/platform, AI workflow,
-integration, data, and DevOps requests instead of broad site/game/mobile tasks.
+Category routing note: [LinkedIn Service Page Fit](./LINKEDIN_SERVICE_PAGE_FIT.md) explains the
+public fit filter for broad LinkedIn Services labels so first requests stay focused on
+backend/platform, AI workflow, integration, data, DevOps, and internal-operations ownership.
 
 Not my target right now: isolated brochure/static websites, student/course assignments, standalone
 game clones, or generic mobile/ecommerce apps without backend, integration, or operations
@@ -163,9 +163,9 @@ Output can include:
   outputs, timeboxes, and budget signals.
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) - remote-only
   service page with DriveDesk AI Operator and AI Ops Workflow Kit proof samples.
-- [LinkedIn Service Page Fit](./LINKEDIN_SERVICE_PAGE_FIT.md) - exact category strategy for
-  filtering broad LinkedIn Services requests toward backend/platform, AI workflow, integration,
-  data, and DevOps work.
+- [LinkedIn Service Page Fit](./LINKEDIN_SERVICE_PAGE_FIT.md) - public request-fit filter for
+  broad LinkedIn Services labels, backend/platform ownership, AI workflow, integration, data, and
+  DevOps work.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - AI/RAG workflow backend
   backend with transcript analysis, approval queues, PostgreSQL/pgvector-backed storage, Docker, and tests.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate) - self-hosted deployment control panel

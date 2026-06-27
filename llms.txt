@@ -22,7 +22,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public demo, evidence links, and proof freshness.
 - [AI Backend Proof Pack Markdown](https://alexgerlitz.github.io/AlexGerlitz/AI_BACKEND_PROOF_PACK.md): GitHub-readable proof order for recruiters, hiring managers, and technical reviewers.
 - [Enterprise Readiness Markdown](https://alexgerlitz.github.io/AlexGerlitz/ENTERPRISE_READINESS.md): GitHub-readable matrix for enterprise/backend/platform review signals.
-- [LinkedIn Service Page Fit](https://alexgerlitz.github.io/AlexGerlitz/LINKEDIN_SERVICE_PAGE_FIT.md): exact service-category strategy for routing LinkedIn Services requests toward backend/platform, AI workflow, integration, data, and DevOps work.
+- [LinkedIn Service Page Fit](https://alexgerlitz.github.io/AlexGerlitz/LINKEDIN_SERVICE_PAGE_FIT.md): public fit filter for LinkedIn Services requests around backend/platform ownership, AI workflow, integration, data, DevOps, and internal operations.
 
 ## Best-Fit Work
 
