@@ -219,6 +219,8 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Remote role decision",
             "Project decision",
             "Technical proof decision",
+            "live `rag_eval=2/2` proof",
+            "RAG quality eval",
             "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
             "Profile funnel health",
             "skill-evidence.html",
@@ -270,6 +272,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "DriveDesk AI Operator: AI sales and support workflow platform",
             "RAG + Analysis",
+            "deterministic RAG quality eval with citations",
             "Telegram approval flow",
             "CRM adapter",
             "Backend Ownership",
@@ -283,6 +286,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Selected Proof Projects",
             "AI Ops Workflow Kit - RAG",
+            "RAG eval 2/2",
             "MPlusForm - Validation Boundary / Desktop Automation Proof",
             "Public verification workflow",
         ),
@@ -296,6 +300,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Problem, build, evidence, and operating proof",
             "DriveDesk / Autoschool54 Operations Platform Direction",
             "AI Ops Workflow Kit",
+            "RAG retrieval with quality eval",
             "DeployMate",
             "MPlusForm",
             "The operating loop",
@@ -413,6 +418,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Skill-to-proof map",
             "Skills mapped to public proof.",
             "AI Automation / RAG",
+            "RAG retrieval with deterministic quality eval",
             "Backend / Platform",
             "CRM / ERP Integration",
             "DevOps / Self-Hosting",
@@ -426,6 +432,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Skill Evidence Matrix",
             "Vector Databases",
+            "deterministic RAG quality eval",
             "Systems Integration",
             "Customer Relationship Management (CRM)",
             "Enterprise Resource Planning (ERP)",

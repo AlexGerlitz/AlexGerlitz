@@ -21,7 +21,7 @@ Main project direction:
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) -
 AI sales/support workflow platform with document/transcript/lead intake, RAG, OpenAI/Claude/Gemini provider boundary,
 transcript analysis, lead scoring, Telegram approval, importable n8n workflow artifacts, CRM adapter contracts, audit, retries, Docker,
-CI, and runbooks.
+CI, RAG quality eval, and runbooks.
 
 Latest public signal:
 

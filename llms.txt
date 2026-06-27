@@ -35,7 +35,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 ## Pinned Proof Repositories
 
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core): FastAPI/PostgreSQL operations platform foundation with tenants, RBAC, audit/outbox, adapters, OpenAPI, Docker, pytest, CI, docs, and public demo.
-- [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit): document intake, privacy redaction before RAG/approval/CRM handoff, RAG retrieval, transcript analysis, approvals, Telegram callback, dry-run Bitrix CRM handoff, outbox, CI, and smoke checks.
+- [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit): document intake, privacy redaction before RAG/approval/CRM handoff, deterministic RAG quality eval, RAG retrieval, transcript analysis, approvals, Telegram callback, dry-run Bitrix CRM handoff, outbox, CI, and smoke checks.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate): self-hosted Docker deployment control panel direction with FastAPI, Next.js, PostgreSQL, SSH runtime tooling, health checks, logs, release gates, and runbooks.
 - [MPlusForm](https://github.com/AlexGerlitz/MPlusForm): validation-boundary and trust-model automation proof with untrusted local files, optional Python sync, server-approved snapshots, Windows operations docs, Lua addon boundary, and [public verification run](https://github.com/AlexGerlitz/MPlusForm/actions/runs/28285062880).
 
@@ -56,4 +56,4 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 ## Review Notes
 
 - I use AI-assisted execution as an engineering accelerator, but I keep ownership of architecture, state, tests, logs, verification, deployment, docs, and shipped quality.
-- The main signal is not no-code node wiring. The signal is backend-owned state, RAG quality, privacy boundaries, audit, retries, idempotency, integration contracts, smoke checks, and runbooks.
+- The main signal is not no-code node wiring. The signal is backend-owned state, deterministic RAG quality eval, privacy boundaries, audit, retries, idempotency, integration contracts, smoke checks, and runbooks.
