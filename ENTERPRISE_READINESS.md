@@ -2,7 +2,7 @@
 
 Public route: https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html
 
-This is the proof route for international remote teams that need a reliable backend/platform owner, not a prompt-only or no-code workflow operator.
+This is the proof route for international employer-grade review: teams that need a reliable backend/platform owner, not a prompt-only or no-code workflow operator.
 
 ## What To Inspect
 
@@ -14,6 +14,14 @@ This is the proof route for international remote teams that need a reliable back
 | Privacy and integration discipline | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), Bitrix dry-run contract, Telegram callback evidence, and CRM outbox state | Sensitive input, approvals, and CRM mutations are handled through explicit boundaries instead of hidden workflow glue. |
 | International team fit | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [llms.txt](https://alexgerlitz.github.io/AlexGerlitz/llms.txt), [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), and [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) | English-first docs, async review paths, explicit ownership boundaries, and compact evidence routes make the profile reviewable without a live walkthrough. |
 | Remote review clarity | [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [First month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | Recruiters, hiring managers, and technical reviewers get a short path from role/project context to verifiable proof. |
+
+## International Employer Signals
+
+- Qualification depth: backend/platform work, AI workflow engineering, CRM/ERP/API integration, DevOps, and support of real business infrastructure are tied to public proof.
+- Enterprise constraints: privacy boundaries, approvals, audit trail, retries, idempotency, rollback thinking, and runbooks are visible instead of hidden behind workflow glue.
+- Business-system context: DriveDesk focuses on documents, transcripts, leads, operator queues, CRM handoff, records, roles, payments, logs, backups, and recovery paths.
+- Async review quality: English-first docs, proof routes, CI, smoke checks, and compact evidence make it possible to evaluate work across time zones.
+- Team onboarding signal: first-month ownership, smallest responsible slice, verification plan, and handoff route are explicit before a project or role starts.
 
 ## Operating Principle
 
