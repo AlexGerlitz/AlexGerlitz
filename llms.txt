@@ -8,7 +8,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html): backend-owned AI workflow proof for RAG, transcript analysis, privacy redaction, lead scoring, approvals, CRM handoff, audit, retries, and adapter boundaries.
 - [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html): compact route through AI workflow, backend/platform, integration, DevOps, live proof, verification, and resume evidence.
-- [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html): international remote-team review route for architecture, state ownership, integration contracts, reliability, privacy, observability, CI, runbooks, and handoff quality.
+- [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html): international remote-team review route for architecture, state ownership, integration contracts, English-first docs, async proof paths, reliability, privacy, observability, CI, runbooks, and handoff quality.
 - [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html): larger backend/platform direction around roles, records, workflows, adapters, audit/outbox, admin/operator surfaces, DevOps, observability, backups, and recovery paths.
 - [Hiring decision route](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html): one-minute role fit, strongest proof, first-month ownership, and contact route.
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html): recruiter shortcut, role-target links, PDF resume, proof route, and the fastest contact path.

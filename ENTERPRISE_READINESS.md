@@ -12,6 +12,7 @@ This is the proof route for international remote teams that need a reliable back
 | AI workflow engineering | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [Public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), [Live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) | RAG quality eval, transcript analysis, Telegram approval, CRM-safe handoff, live PostgreSQL/pgvector storage, and reviewer evidence. |
 | Reliability and operations | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), CI checks, runbooks, and smoke routes | Behavior is checked through commands, CI, health routes, release gates, docs, and recovery-oriented proof. |
 | Privacy and integration discipline | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), Bitrix dry-run contract, Telegram callback evidence, and CRM outbox state | Sensitive input, approvals, and CRM mutations are handled through explicit boundaries instead of hidden workflow glue. |
+| International team fit | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [llms.txt](https://alexgerlitz.github.io/AlexGerlitz/llms.txt), [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), and [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) | English-first docs, async review paths, explicit ownership boundaries, and compact evidence routes make the profile reviewable without a live walkthrough. |
 | Remote review clarity | [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [First month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | Recruiters, hiring managers, and technical reviewers get a short path from role/project context to verifiable proof. |
 
 ## Operating Principle
@@ -19,6 +20,13 @@ This is the proof route for international remote teams that need a reliable back
 I use AI tooling to move faster, but I keep responsibility for architecture, state, integration contracts, tests, deployment, docs, evidence, and shipped behavior.
 
 The main engineering distinction: n8n can orchestrate events, while backend code owns state, RAG, approvals, adapter contracts, audit, retries, idempotency, and verification.
+
+## International Team Fit
+
+- English-first public docs and proof routes so recruiters, hiring managers, and technical reviewers can inspect work asynchronously.
+- Short evidence path: proof pack, flagship route, enterprise readiness, verification pack, resume, and current CI/live smoke status.
+- Clear ownership boundaries: what the backend owns, what orchestration owns, what is dry-run/sandboxed, and what must be approved before external writes.
+- Handoff discipline: tests, logs, runbooks, public-safe evidence, and smallest responsible first slice instead of vague "AI automation" claims.
 
 ## Best Fit
 
