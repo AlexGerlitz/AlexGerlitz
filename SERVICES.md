@@ -46,6 +46,23 @@ Project signal:
 - one success condition, access constraints, deadline or timebox, and handoff depth;
 - useful first outcome: working slice with tests, logs, docs, and handoff.
 
+## Proposal-Ready LinkedIn Services Request
+
+If LinkedIn Services asks for a short project request, send it in this shape:
+
+- current workflow or system: what happens today and where it breaks;
+- inputs and systems: documents, calls, transcripts, CRM/ERP/1C/banking/API, spreadsheets, chats, or code;
+- success condition: one observable result that would make the first slice useful;
+- constraints: access limits, hosting, language, deadline, budget range, and what must not break.
+
+What I can send back:
+
+- fit read against backend/platform, AI workflow, integration, DevOps, or internal-operations ownership;
+- smallest responsible working slice;
+- risky assumptions and missing information;
+- proof route: repo, demo, CI, runbook, or public artifact to inspect before deciding;
+- scope boundary for a paid teardown, MVP, integration adapter, or recovery sprint.
+
 ## What I Can Build
 
 | Service | Best for | Typical output |
