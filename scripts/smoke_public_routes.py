@@ -374,7 +374,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Hiring decision route",
             "one-minute role fit, why to shortlist me, risk reduction, strongest proof, first-month ownership, and contact route",
             "LinkedIn Recruiter Packet",
-            "search filters, 30-second fit, featured work samples, proof order, message triggers, decision-ready reply, expected first result, shortlist signal, risk reduction, AI-assisted execution proof, and international remote-team proof routing",
+            "search filters, 30-second fit, shortlist scorecard, featured work samples, proof order, message triggers, decision-ready reply, expected first result, shortlist signal, risk reduction, AI-assisted execution proof, and international remote-team proof routing",
             "Recruiter Preferences",
             "Open-to-Work alignment for job titles, remote work mode, employment types, recruiter search keywords, proof stack by search intent, proof order, and first contact fit.",
             "Decision-Ready Contact",
