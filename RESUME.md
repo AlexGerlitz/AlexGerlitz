@@ -119,6 +119,8 @@ Applied Informatics, 2025 - Present
 
 ## Review Links
 
+- [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
+- [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
@@ -142,5 +144,6 @@ Applied Informatics, 2025 - Present
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/alex-gerlitz-a659ab3bb](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
+- Message on LinkedIn: [linkedin.com/in/alex-gerlitz-a659ab3bb](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
+- LinkedIn Services: [linkedin.com/services/page/3153b734507b8a60ab](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - GitHub: [github.com/AlexGerlitz](https://github.com/AlexGerlitz)
