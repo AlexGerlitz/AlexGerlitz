@@ -141,6 +141,8 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Recruiter shortcut / 30-second screen",
             "LinkedIn recruiter packet",
             "linkedin-recruiter-packet.html",
+            "shortlist signal, risk reduction, and AI execution proof",
+            "Search filters, shortlist signal, risk reduction and AI execution proof.",
             "Recruiter preferences",
             "recruiter-preferences.html",
             "Decision-ready contact",
