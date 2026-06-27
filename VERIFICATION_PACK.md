@@ -66,10 +66,10 @@ Checked on 2026-06-28:
 - DeployMate latest public evidence bundle succeeded on `b139a9a`: https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
-- Profile funnel is green on `b73bd85`.
-- Profile Funnel Audit succeeded on `b73bd85`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28298702738
-- Profile Pages deployment succeeded on `b73bd85`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28298702360
-- Live Profile Smoke succeeded on `b73bd85`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28298702707
+- Profile funnel has current default-branch checks for public audit, Pages deployment, and live smoke.
+- Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
+- Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
+- Live Profile Smoke workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml?query=branch%3Amain
 - Work With Me and Role Targets routes are published: https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html and https://alexgerlitz.github.io/AlexGerlitz/role-targets.html
 - MPlusForm `main` is green on `e0e6876`.
 - MPlusForm Public Verification succeeded on `e0e6876`: https://github.com/AlexGerlitz/MPlusForm/actions/runs/28296918568
