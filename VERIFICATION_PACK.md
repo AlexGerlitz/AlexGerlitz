@@ -34,9 +34,9 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 | Claim | Evidence | How to verify |
 | --- | --- | --- |
 | Backend/platform engineering | DriveDesk Core: tenant model, RBAC, audit/outbox, workflow rules, adapter boundaries, OpenAPI, tests, docs, public demo. | Open the [DriveDesk Core review route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), the [public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/), and the latest checked [CI run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062). |
-| Public demo and release discipline | DriveDesk Core GitHub Pages demo is published from the repo and checked by Actions. | Open the [Pages deployment run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544), the [public demo health run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892), and the demo URL. |
+| Public demo and release discipline | DriveDesk Core GitHub Pages demo is published from the repo and checked by Actions. | Open the [Pages deployment run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544), the [scheduled validation run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28282542868), the [public demo health run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28278340108), and the demo URL. |
 | AI workflow / RAG backend | AI Ops Workflow Kit: document/CRM/call intake, importable n8n workflow artifact, offer demo, LLM/transcription provider boundaries, reviewer acceptance report, ingestion/retrieval, transcript analysis, lead scoring, approvals, Telegram callback approval, dry-run Bitrix CRM handoff, idempotent outbox drain, opt-in worker, pgvector-ready storage, deterministic tests, Docker, and n8n/Telegram boundaries. | Open the [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), the [reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md), the [live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), the [role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md), the [repo](https://github.com/AlexGerlitz/ai-ops-workflow-kit), and the [CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml). |
-| DevOps and release ownership | DeployMate: self-hosted deployment control panel direction, release gates, production contract checks, strict SSH host-key posture, runbooks, incident automation, and evidence bundle. | Open [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), the [CI run](https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684), the [public evidence bundle](https://github.com/AlexGerlitz/deploymate/actions/runs/28203961395), and the [release-secrets audit](https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814). |
+| DevOps and release ownership | DeployMate: self-hosted deployment control panel direction, release gates, production contract checks, strict SSH host-key posture, runbooks, incident automation, and evidence bundle. | Open [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), the [CI run](https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684), the latest [public evidence bundle](https://github.com/AlexGerlitz/deploymate/actions/runs/28281348824), the [release maintenance status](https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309), and the [release-secrets audit](https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779). |
 | Validation and trust boundaries | MPlusForm: client-side data is treated as untrusted until server-side validation creates an approved public snapshot. | Open [MPlusForm](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot). |
 | Remote business infrastructure support | Autoschool54 / DriveDesk private work since March 2024, represented publicly through sanitized architecture, docs, proof repos, and operational case studies. | Read [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html), [Proof of Work](./PROOF_OF_WORK.md), and [Resume](./RESUME.md). |
 
@@ -48,7 +48,8 @@ Checked on 2026-06-27:
 - DriveDesk Core `main` is green on `633e92a`.
 - DriveDesk Core latest checked CI run succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062
 - DriveDesk Core Pages deployment succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544
-- DriveDesk Core latest scheduled public demo health succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892
+- DriveDesk Core scheduled public validation succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28282542868
+- DriveDesk Core latest scheduled public demo health succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28278340108
 - AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
@@ -58,8 +59,9 @@ Checked on 2026-06-27:
 - AI Ops public proof status tracks the live-runtime boundary, local public gate, committed runtime evidence, LLM provider fallback state, and transcription provider state: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - DeployMate default branch `develop` is green on `237b2c9`.
 - DeployMate CI succeeded on `237b2c9`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684
-- DeployMate public evidence bundle succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28203961395
-- DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814
+- DeployMate latest public evidence bundle succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28281348824
+- DeployMate release maintenance status succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
+- DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
 - MPlusForm `main` is current on `9c55283`; repository and reviewer snapshot were reachable.
 
 ## Recovery Trail
@@ -81,7 +83,7 @@ What was improved publicly:
   `DEPLOY_SSH_KNOWN_HOSTS` secret, re-run the audit manually, then close the incident only after a
   successful run.
 - The latest checked `Release Secrets Audit` run passed staging and production audit jobs:
-  https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814
+  https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
 
 What is intentionally not claimed:
 

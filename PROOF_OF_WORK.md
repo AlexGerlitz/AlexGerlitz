@@ -48,7 +48,8 @@ Checked on 2026-06-27:
 - DriveDesk Core `main` is green on `633e92a`.
 - DriveDesk Core public CI run succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203636062
 - DriveDesk Core GitHub Pages deployment succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544
-- DriveDesk Core latest scheduled public demo health run succeeded on `e67e478`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28198174892
+- DriveDesk Core scheduled public validation succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28282542868
+- DriveDesk Core latest scheduled public demo health run succeeded on `633e92a`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28278340108
 - DriveDesk Core has a public fast reviewer route and public demo path.
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
@@ -58,8 +59,9 @@ Checked on 2026-06-27:
 - AI Ops public proof status tracks live-runtime reachability, local public gate, committed runtime evidence, LLM provider fallback state, and transcription provider state without exposing secrets: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - DeployMate default branch `develop` is green on `237b2c9`.
 - DeployMate CI succeeded on `237b2c9`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684
-- DeployMate public evidence bundle succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28203961395
-- DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28151327814
+- DeployMate latest public evidence bundle succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28281348824
+- DeployMate release maintenance status succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
+- DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
 - MPlusForm has a public 60-second reviewer snapshot for trust-model and validation-boundary review.
 - MPlusForm `main` is current on `9c55283`.
 - Public proof repositories are reachable.
