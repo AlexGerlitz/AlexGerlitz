@@ -187,6 +187,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
         ),
         social_preview=True,
+        social_image_prefix="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png",
     ),
     RouteCheck(
         "recruiter-preferences",
@@ -215,6 +216,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
         ),
         social_preview=True,
+        social_image_prefix="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png",
     ),
     RouteCheck(
         "hiring-decision",
@@ -998,6 +1000,13 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "social-card-image",
         "https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route",
+        content_type="image/png",
+        min_bytes=10_000,
+        png_dimensions=(1200, 630),
+    ),
+    RouteCheck(
+        "recruiter-card-image",
+        "https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-27-recruiter-route",
         content_type="image/png",
         min_bytes=10_000,
         png_dimensions=(1200, 630),

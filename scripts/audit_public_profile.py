@@ -130,6 +130,8 @@ REQUIRED_FILES = [
     "assets/linkedin-banner.svg",
     "assets/social-card.png",
     "assets/social-card.svg",
+    "assets/recruiter-card.png",
+    "assets/recruiter-card.svg",
     "assets/ai-backend-proof-pack-card.png",
     "assets/ai-backend-proof-pack-card.svg",
     "assets/favicon.svg",
@@ -266,7 +268,7 @@ REQUIRED_TEXT = {
         "<title>LinkedIn Recruiter Packet - Alex Gerlitz</title>",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html"',
         'property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html"',
-        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route"',
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-27-recruiter-route"',
         'property="og:image:width" content="1200"',
         'property="og:image:height" content="630"',
         'name="twitter:card" content="summary_large_image"',
@@ -293,7 +295,7 @@ REQUIRED_TEXT = {
         "<title>Recruiter Preferences - Alex Gerlitz</title>",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html"',
         'property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html"',
-        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route"',
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-27-recruiter-route"',
         'property="og:image:width" content="1200"',
         'property="og:image:height" content="630"',
         'name="twitter:card" content="summary_large_image"',
@@ -1032,6 +1034,16 @@ REQUIRED_TEXT = {
         "Technical proof",
         "drivedesk-proof-route.html",
     ],
+    "assets/recruiter-card.svg": [
+        "Recruiter Preferences - Alex Gerlitz",
+        "LINKEDIN RECRUITER FIT / REMOTE BACKEND + AI AUTOMATION",
+        "Recruiter",
+        "Preferences",
+        "Open-to-Work alignment / proof map / PDF resume",
+        "Full-time / contract",
+        "RAG / CRM / DevOps",
+        "alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html",
+    ],
     "assets/ai-backend-proof-pack-card.svg": [
         "AI Backend Proof Pack - Alex Gerlitz",
         "LINKEDIN FEATURED / REMOTE AI AUTOMATION + BACKEND PLATFORM",
@@ -1190,6 +1202,28 @@ SOCIAL_PREVIEW_SNIPPETS = [
 ]
 
 SOCIAL_PREVIEW_PAGE_SNIPPETS = {
+    "linkedin-recruiter-packet.html": [
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-27-recruiter-route"',
+        'property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-27-recruiter-route"',
+        'property="og:image:type" content="image/png"',
+        'property="og:image:width" content="1200"',
+        'property="og:image:height" content="630"',
+        'property="og:image:alt"',
+        'name="twitter:card" content="summary_large_image"',
+        'name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-27-recruiter-route"',
+        'name="twitter:image:alt"',
+    ],
+    "recruiter-preferences.html": [
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-27-recruiter-route"',
+        'property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-27-recruiter-route"',
+        'property="og:image:type" content="image/png"',
+        'property="og:image:width" content="1200"',
+        'property="og:image:height" content="630"',
+        'property="og:image:alt"',
+        'name="twitter:card" content="summary_large_image"',
+        'name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-27-recruiter-route"',
+        'name="twitter:image:alt"',
+    ],
     "ai-backend-proof-pack.html": [
         'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png?v=2026-06-27-proof-pack"',
         'property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png?v=2026-06-27-proof-pack"',
@@ -1543,6 +1577,7 @@ def check_png_dimensions(errors: list[str], relative: str, expected: tuple[int, 
 
 def check_png_size(errors: list[str]) -> None:
     check_png_dimensions(errors, "assets/social-card.png", (1200, 630))
+    check_png_dimensions(errors, "assets/recruiter-card.png", (1200, 630))
     check_png_dimensions(errors, "assets/ai-backend-proof-pack-card.png", (1200, 630))
     check_png_dimensions(errors, "assets/linkedin-banner.png", (1584, 396))
 
