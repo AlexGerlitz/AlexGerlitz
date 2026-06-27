@@ -26,6 +26,7 @@ CI, RAG quality eval, and runbooks.
 Latest public signal:
 
 - [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) for search filters, 30-second fit, proof order, first result, and first message context
+- [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for Open-to-Work alignment, remote work mode, employment types, search keywords, proof order, and first contact fit
 - [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) for a one-minute remote role / proof / first-month ownership route
 - [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) for the compact route through AI workflow, backend/platform, integration, DevOps, CI, runbooks, and resume proof
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
@@ -44,6 +45,7 @@ Useful first context: a remote role, project, or messy workflow plus one success
 
 Public role-fit route:
 [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html),
+[Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html),
 [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html),
 [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html),
 [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html),

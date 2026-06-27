@@ -12,6 +12,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html): larger backend/platform direction around roles, records, workflows, adapters, audit/outbox, admin/operator surfaces, DevOps, observability, backups, and recovery paths.
 - [Hiring decision route](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html): one-minute role fit, strongest proof, first-month ownership, and contact route.
 - [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html): search filters, 30-second fit, proof order, expected first result, first message context, and international remote-team proof routing.
+- [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html): Open-to-Work alignment for job titles, remote work mode, employment types, recruiter search keywords, proof order, and first contact fit.
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html): recruiter shortcut, role-target links, PDF resume, proof route, and the fastest contact path.
 - [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html): repo-level evidence across DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm.
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html): search-fit roles mapped to proof, first-month ownership, and direct review routes.
@@ -47,7 +48,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 ## Fast Contact
 
-- Recruiter shortcut: for a remote role, start with LinkedIn Recruiter Packet, Hiring decision route, Remote role targets, Skill evidence, and the PDF resume. Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.
+- Recruiter shortcut: for a remote role, start with LinkedIn Recruiter Packet, Recruiter Preferences, Hiring decision route, Remote role targets, Skill evidence, and the PDF resume. Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.
 - [LinkedIn profile](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - [LinkedIn Service Page Fit](https://alexgerlitz.github.io/AlexGerlitz/LINKEDIN_SERVICE_PAGE_FIT.md)
