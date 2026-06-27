@@ -25,6 +25,15 @@ Use this packet when a LinkedIn search, profile view, or first message needs a f
 | Work mode | Remote-only full-time roles, plus concrete fixed-scope projects with a working backend/AI/integration slice. |
 | First message trigger | Send one remote role or one business workflow with one success condition, systems involved, ownership boundary, and timeline. |
 
+## Decision-Ready Reply
+
+Send one role, workflow, or proof question with one success condition. I can return:
+
+- fit read against backend/platform, AI workflow, integration, DevOps, or internal-tools ownership;
+- risk check for missing data, access, privacy, integration boundaries, and delivery assumptions;
+- first working slice with success criteria, proof route, and expected handoff artifact;
+- next step: role screen, technical proof review, first-month plan, or fixed-scope starting point.
+
 ## When To Message Me
 
 - Remote role with backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.
