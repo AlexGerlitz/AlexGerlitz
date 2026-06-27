@@ -15,6 +15,14 @@ This is the proof route for international employer-grade review: teams that need
 | International team fit | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [llms.txt](https://alexgerlitz.github.io/AlexGerlitz/llms.txt), [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), and [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) | English-first docs, async review paths, explicit ownership boundaries, and compact evidence routes make the profile reviewable without a live walkthrough. |
 | Remote review clarity | [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [First month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | Recruiters, hiring managers, and technical reviewers get a short path from role/project context to verifiable proof. |
 
+## Employer Decision Path
+
+| Timebox | What to inspect | Decision signal |
+| --- | --- | --- |
+| 2-minute fit check | [DriveDesk proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [project role signal map](https://alexgerlitz.github.io/AlexGerlitz/projects.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | Fast answer to whether the work needs backend-owned AI workflow, CRM/ERP/API integration, DevOps reliability, or internal platform ownership. |
+| 10-minute technical review | [AI Ops reviewer snapshot](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), and [verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) | Proof that RAG, approvals, adapter contracts, state, tests, CI, docs, and public-safe evidence are inspectable. |
+| 30-minute specialist review | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), [live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), and current CI/smoke routes | Evidence for specialist ownership: privacy, audit, retries, idempotency, deployment/recovery thinking, runbooks, and handoff quality. |
+
 ## International Employer Signals
 
 - Qualification depth: backend/platform work, AI workflow engineering, CRM/ERP/API integration, DevOps, and support of real business infrastructure are tied to public proof.

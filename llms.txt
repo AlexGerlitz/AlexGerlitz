@@ -25,6 +25,12 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Enterprise Readiness Markdown](https://alexgerlitz.github.io/AlexGerlitz/ENTERPRISE_READINESS.md): GitHub-readable matrix for enterprise/backend/platform review signals.
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html): public HTML fit filter for broad LinkedIn Services labels around backend/platform ownership, AI workflow, integration, data, DevOps, and internal operations.
 
+## Employer Decision Path
+
+- 2-minute fit check: DriveDesk proof route, project role signal map, and PDF resume.
+- 10-minute technical review: AI Ops reviewer snapshot, DriveDesk Core, and verification pack.
+- 30-minute specialist review: privacy boundary, live owner proof, DeployMate proof, current CI/smoke routes, and handoff evidence.
+
 ## Best-Fit Work
 
 - Remote-only backend, platform, DevOps, AI automation, integration, and internal operations roles.
