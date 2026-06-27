@@ -25,7 +25,7 @@ class ExpectedPin:
 EXPECTED_PINS: tuple[ExpectedPin, ...] = (
     ExpectedPin(
         "AlexGerlitz/drivedesk-core",
-        ("Operations and integration platform", "FastAPI", "PostgreSQL", "OpenAPI"),
+        ("Operations and CRM/ERP integration platform", "FastAPI", "PostgreSQL", "OpenAPI"),
         "Python",
         "https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/",
         ("backend", "fastapi", "postgresql", "integration-platform", "operations-platform"),
