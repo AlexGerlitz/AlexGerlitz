@@ -182,7 +182,8 @@
       <article class="panel">
         <h2>60-second proof map</h2>
         <ul class="proof-list">
-          <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md">Live owner proof</a>: Telegram approval, CRM-safe handoff boundary, and live `rag_eval=2/2` proof.</li>
+          <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt">Live Postgres proof</a>: public runtime runs with `storage=postgres`, `rag_eval=2/2`, and restart persistence.</li>
+          <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md">Live owner proof</a>: Telegram approval and CRM-safe handoff boundary.</li>
           <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md">Privacy boundary</a>: redaction before RAG retrieval, approval context, and CRM handoff.</li>
           <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md">Acceptance report</a>: live API, RAG quality eval, smoke checks, CI, Pages, and PDF evidence.</li>
           <li><a href="https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml">Profile funnel health</a>: portfolio, pinned proof repos, GitHub metadata, PDF, demo, and AI Ops docs are checked by live smoke.</li>
@@ -198,14 +199,14 @@
           <li><a href="./drivedesk-ai-operator.html">DriveDesk AI Operator</a>: flagship AI sales/support workflow case.</li>
           <li><a href="./projects.html">Selected proof projects</a>: project-level proof map for LinkedIn and GitHub review.</li>
           <li><a href="https://github.com/AlexGerlitz/drivedesk-core">DriveDesk Core</a>: operations and integration platform foundation.</li>
-          <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit">AI Ops Workflow Kit</a>: live FastAPI AI/RAG workflow backend with deterministic retrieval-quality checks.</li>
+          <li><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit">AI Ops Workflow Kit</a>: live FastAPI AI/RAG workflow backend with deterministic retrieval-quality checks and PostgreSQL/pgvector state.</li>
         </ul>
       </article>
       <article class="panel">
         <h2>What I prove</h2>
         <ul class="proof-list">
           <li>AI tooling accelerates execution while architecture, verification, deployment, and quality stay my responsibility.</li>
-          <li>n8n stays an orchestration layer while backend code owns state, RAG quality eval, privacy redaction, contracts, retries, audit, and idempotency.</li>
+          <li>n8n stays an orchestration layer while backend code owns state, PostgreSQL/pgvector persistence, RAG quality eval, privacy redaction, contracts, retries, audit, and idempotency.</li>
           <li>External writes are guarded by approvals, dry-run adapters, observable handoff events, and recovery paths.</li>
         </ul>
       </article>

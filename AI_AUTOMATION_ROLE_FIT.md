@@ -21,7 +21,7 @@ business workflow where AI has to be useful, inspectable, and operated by people
 | Step | Output |
 | --- | --- |
 | Intake | Normalize documents, transcripts, tickets, leads, or webhook payloads into a backend-owned record. |
-| Retrieval | Store and retrieve relevant context through PostgreSQL/pgvector-ready storage or a compatible vector layer. |
+| Retrieval | Store and retrieve relevant context through PostgreSQL/pgvector-backed storage or a compatible vector layer. |
 | AI analysis | Produce structured summaries, risk flags, scoring, routing reasons, and draft actions. |
 | Approval | Keep human review explicit through approval states, audit notes, Telegram payloads, and operator handoff. |
 | Integration | Push the approved result into CRM/API/webhook boundaries with mapping, validation, retries, and logs. |
@@ -47,7 +47,7 @@ business workflow where AI has to be useful, inspectable, and operated by people
 | Need | Fit |
 | --- | --- |
 | Backend-owned AI workflow | Python, FastAPI, PostgreSQL, service contracts, structured outputs, provider boundaries, tests. |
-| RAG / embeddings / context | Vector Databases, pgvector-ready storage, retrieval boundaries, citations/context discipline, quality checks. |
+| RAG / embeddings / context | Vector Databases, PostgreSQL/pgvector-backed storage, retrieval boundaries, citations/context discipline, quality checks. |
 | LLM API integration | OpenAI/Claude/Gemini-ready boundary with local fallback, provider runtime, and payload contract tests. |
 | Automation orchestration | Importable n8n workflow artifact, n8n-compatible webhook boundaries, document intake, call-audio transcription boundary, Telegram approval payloads and callback handling, queue/outbox worker thinking. |
 | CRM / Bitrix / API handoff | Adapter contracts, field mapping, validation, retries, logs, and rollout notes. |

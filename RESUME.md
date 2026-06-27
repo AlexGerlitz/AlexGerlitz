@@ -11,7 +11,7 @@ Docker/CI deployment paths, health checks, runbooks, and recovery procedures.
 
 Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8n, Telegram,
 CRM/ERP/API integrations, Systems Integration, Backend Development, Platform Engineering,
-Workflow Automation, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
+Workflow Automation, DevOps, GitHub Actions, OpenAPI, and PostgreSQL/pgvector-backed workflows.
 
 Search-fit role titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial
 Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, and
@@ -74,7 +74,7 @@ Public proof built from the same operational direction:
 | --- | --- | --- |
 | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md) | Main flagship case direction: ingest documents, call audio, transcripts, or CRM leads; run RAG; produce call-analysis JSON; send Telegram approval; and create CRM action through an auditable adapter. | FastAPI, PostgreSQL/pgvector, document APIs, RAG, n8n, Telegram, CRM/Bitrix adapter, Docker, CI |
 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | Backend/platform foundation for operations and integrations: tenants, RBAC, audit/outbox, workers, adapter boundaries, OpenAPI, CI, docs, public demo. | Python, FastAPI, PostgreSQL, Alembic, Docker Compose, pytest, OpenAPI |
-| [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | Live AI workflow backend proof: document/CRM/call intake, privacy redaction before RAG/approval/CRM handoff, RAG, transcript analysis, Telegram approvals, dry-run Bitrix CRM handoff, idempotent outbox, reviewer acceptance report, production-readiness drill, Docker, and importable n8n workflow artifact. | FastAPI, PostgreSQL, pgvector-ready storage, Docker, document APIs, n8n, Telegram, LLM APIs |
+| [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | Live AI workflow backend proof: document/CRM/call intake, privacy redaction before RAG/approval/CRM handoff, RAG, transcript analysis, Telegram approvals, dry-run Bitrix CRM handoff, idempotent outbox, live PostgreSQL/pgvector persistence, reviewer acceptance report, production-readiness drill, Docker, and importable n8n workflow artifact. | FastAPI, PostgreSQL/pgvector, Docker, document APIs, n8n, Telegram, LLM APIs |
 | [DeployMate](https://github.com/AlexGerlitz/deploymate) | Self-hosted deployment control panel direction: Docker apps, VPS/SSH tooling, CI/CD, health checks, logs, runbooks, release discipline. | FastAPI, Next.js, PostgreSQL, Docker, SSH, CI/CD |
 | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation and trust boundaries around client-side data, sync pipeline, Windows automation, operational docs. | Python, Lua, PowerShell |
 

@@ -63,7 +63,7 @@ Built proof includes:
 - transcript analysis;
 - approval queue, Telegram callback approval, and explicit state transitions;
 - idempotent outbox drain and opt-in worker handoff;
-- pgvector-ready storage direction;
+- PostgreSQL/pgvector-backed storage direction;
 - deterministic local embedding path for repeatable tests;
 - Docker runtime;
 - n8n and Telegram integration boundaries.

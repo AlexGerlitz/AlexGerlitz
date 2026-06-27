@@ -10,7 +10,7 @@ evaluate my work. It combines the strongest parts of the current proof stack:
   audit/outbox, workflow rules, adapters, OpenAPI, Docker, CI, and docs.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) for document intake,
   RAG, OpenAI/Claude/Gemini provider boundary, call-audio transcription, transcript analysis, lead scoring, approval queues,
-  Telegram callback handling, dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight, idempotent outbox drain, opt-in worker, pgvector-ready storage, importable n8n
+  Telegram callback handling, dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight, idempotent outbox drain, opt-in worker, live PostgreSQL/pgvector persistence, importable n8n
   workflow artifacts, and n8n/Telegram boundaries.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate) for deployment, health checks, release
   gates, runbooks, and recovery discipline.
@@ -141,7 +141,7 @@ tests, and review. I still own architecture, verification, logs, deployment, and
 
 1. Data model and API contracts.
 2. document/transcript/lead ingestion.
-3. pgvector-ready RAG path with citations.
+3. PostgreSQL/pgvector-backed RAG path with citations and restart persistence proof.
 4. Call analysis JSON contract and tests.
 5. Approval state machine.
 6. Telegram approval route.

@@ -167,7 +167,7 @@ Output can include:
   filtering broad LinkedIn Services requests toward backend/platform, AI workflow, integration,
   data, and DevOps work.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - AI/RAG workflow backend
-  backend with transcript analysis, approval queues, pgvector-ready storage, Docker, and tests.
+  backend with transcript analysis, approval queues, PostgreSQL/pgvector-backed storage, Docker, and tests.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate) - self-hosted deployment control panel
   direction with SSH runtime tooling, CI/CD, health checks, and runbooks.
 - [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) - addon and sync pipeline work around

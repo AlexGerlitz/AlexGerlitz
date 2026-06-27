@@ -219,7 +219,8 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Remote role decision",
             "Project decision",
             "Technical proof decision",
-            "live `rag_eval=2/2` proof",
+            "public runtime runs with `storage=postgres`",
+            "restart persistence",
             "RAG quality eval",
             "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
             "Profile funnel health",
@@ -762,6 +763,11 @@ ROUTES: tuple[RouteCheck, ...] = (
         "ai-ops-reviewer-acceptance",
         "https://raw.githubusercontent.com/AlexGerlitz/ai-ops-workflow-kit/main/docs/REVIEWER_ACCEPTANCE_REPORT.md",
         ("Reviewer Acceptance Report", "public AI Ops proof surface"),
+    ),
+    RouteCheck(
+        "ai-ops-live-postgres-persistence",
+        "https://raw.githubusercontent.com/AlexGerlitz/ai-ops-workflow-kit/main/docs/evidence/live-postgres-persistence.txt",
+        ("storage_after=postgres", "query_after_restart_source_found=true", "postgres_public_listener=false"),
     ),
     RouteCheck(
         "ai-ops-live-owner-proof",
