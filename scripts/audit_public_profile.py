@@ -1149,6 +1149,8 @@ REQUIRED_TEXT = {
     ],
     "resume-pdf.html": [
         "Proof route: alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
+        "Start: alexgerlitz.github.io/AlexGerlitz/start-conversation.html",
+        "Services fit: alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html",
         "focused on DriveDesk AI Operator",
         "Search-fit titles: Back End Developer, Python Developer",
         "Fast fit: remote-only work with a concrete technical outcome",
@@ -1524,6 +1526,8 @@ PDF_ARTIFACTS = {
             "live PostgreSQL/pgvector persistence",
             "FastAPI, PostgreSQL/pgvector, Docker, document APIs, n8n, Telegram",
             "Shortlist signal: backend-owned state, integrations, logs, tests, docs, and handoff.",
+            "Start: alexgerlitz.github.io/AlexGerlitz/start-conversation.html",
+            "Services fit: alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html",
             "AI Ops Workflow Kit",
         ],
         "forbidden": [

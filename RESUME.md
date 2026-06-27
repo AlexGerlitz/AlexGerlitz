@@ -120,6 +120,8 @@ Applied Informatics, 2025 - Present
 ## Review Links
 
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+- [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
+- [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
 - [PDF resume for application upload](./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 - [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
 - [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
