@@ -27,6 +27,7 @@ Latest public signal:
 
 - [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) for a one-minute remote role / proof / first-month ownership route
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+- [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) for international remote-team review of architecture, state, integration contracts, reliability, privacy, CI, runbooks, and handoff quality
 - [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) with AI automation, backend/platform, CRM/ERP integration, Docker/CI, DevOps, and validation proof mapped to public evidence
 - [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html) and [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) with remote-only AI automation proof samples
 - [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) for the shortest useful first context
@@ -50,7 +51,8 @@ AI automation reviewer route:
 [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md) ->
 [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) ->
 [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) ->
-[Verification Pack](./VERIFICATION_PACK.md).
+[Verification Pack](./VERIFICATION_PACK.md) ->
+[Enterprise Readiness](./ENTERPRISE_READINESS.md).
 
 Current platform anchor:
 [DriveDesk flagship platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
@@ -63,7 +65,7 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 | Recruiter | Role title, remote setup, stack, product domain, first-month ownership, hiring timeline. | [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html), [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [PDF Resume](./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf), [Role Fit Pack](./APPLICATION_PACK.md) |
 | Hiring manager | Current technical/business pain, systems involved, what should improve first. | [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md), [Verification Pack](./VERIFICATION_PACK.md) |
 | Founder / client | Workflow, tools/data, success condition, deadline, budget range, handoff depth. | [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html), [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/), [Fixed-Scope Offers](./FIXED_SCOPE_OFFERS.md), [Inbound Brief](./intake-brief.html) |
-| Technical reviewer | Repo/system link, failure mode, logs/error text, what must not break, current verification. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), [Verification Pack](./VERIFICATION_PACK.md), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
+| Technical reviewer | Repo/system link, failure mode, logs/error text, what must not break, current verification. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), [Verification Pack](./VERIFICATION_PACK.md), [Enterprise Readiness](./ENTERPRISE_READINESS.md), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
 | Warm inbound | Message context, role/project link, success condition, next step. | [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html) |
 
 ## Best-Fit Problems

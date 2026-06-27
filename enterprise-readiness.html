@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Enterprise Readiness - Alex Gerlitz</title>
+  <meta name="description" content="Enterprise and international-team readiness proof for Alex Gerlitz: backend-owned AI workflows, FastAPI/PostgreSQL, CRM/ERP integrations, Docker, CI, privacy, audit, retries, runbooks, and verification routes.">
+  <link rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html">
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Enterprise Readiness - Alex Gerlitz">
+  <meta property="og:description" content="A public proof route for international remote teams: architecture, state, integration contracts, reliability, privacy, observability, CI, runbooks, and DriveDesk AI Operator evidence.">
+  <meta property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html">
+  <meta property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route">
+  <meta property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Alex Gerlitz enterprise-ready backend and AI workflow proof.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Enterprise Readiness - Alex Gerlitz">
+  <meta name="twitter:description" content="Proof route for backend/platform, AI workflow, integration, DevOps, privacy, CI, runbooks, and international remote review.">
+  <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route">
+  <meta name="twitter:image:alt" content="Alex Gerlitz enterprise-ready backend and AI workflow proof.">
+  <style>
+    :root { --ink: #18202a; --muted: #52616f; --line: #d8e0e7; --paper: #f7f8fa; --panel: #fff; --accent: #0f766e; --blue: #1d4ed8; --soft: #eef4ff; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: var(--ink); background: var(--paper); line-height: 1.55; }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .shell { max-width: 1080px; margin: 0 auto; padding: 28px 20px 48px; }
+    .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+    .nav a, .button { display: inline-flex; align-items: center; justify-content: center; min-height: 38px; border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; background: var(--panel); color: var(--ink); font-weight: 650; }
+    .button.primary { border-color: var(--accent); background: var(--accent); color: #fff; }
+    .hero, .panel, .card { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 16px 34px rgba(24, 32, 42, 0.08); }
+    .hero { padding: 30px; margin-bottom: 18px; }
+    .panel, .card { padding: 22px; }
+    .section { margin-top: 18px; }
+    .eyebrow { color: var(--accent); font-weight: 760; text-transform: uppercase; font-size: 0.78rem; letter-spacing: 0; }
+    h1 { margin: 8px 0 10px; font-size: clamp(2rem, 5vw, 3.25rem); line-height: 1.05; letter-spacing: 0; }
+    h2 { margin: 0 0 12px; font-size: 1.25rem; }
+    h3 { margin: 0 0 8px; font-size: 1rem; }
+    p { margin: 0 0 12px; }
+    .lead { max-width: 900px; color: var(--muted); font-size: 1.08rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+    .two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    ul, ol { margin: 0; padding-left: 20px; }
+    li { margin: 7px 0; }
+    .tag-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+    .tag { border: 1px solid var(--line); border-radius: 999px; padding: 5px 9px; background: var(--soft); color: var(--blue); font-size: 0.86rem; font-weight: 700; }
+    .matrix { width: 100%; border-collapse: collapse; }
+    .matrix th, .matrix td { border-top: 1px solid var(--line); padding: 11px 10px; text-align: left; vertical-align: top; }
+    .matrix th { color: var(--muted); font-size: 0.88rem; }
+    @media (max-width: 860px) { .grid, .two { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .actions { display: grid; } .button, .nav a { width: 100%; } .matrix, .matrix tbody, .matrix tr, .matrix td, .matrix th { display: block; width: 100%; } .matrix th { display: none; } }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <nav class="nav" aria-label="Profile navigation">
+      <a href="./">Portfolio</a>
+      <a href="./drivedesk-proof-route.html">Proof route</a>
+      <a href="./verification-pack.html">Verification</a>
+      <a href="./role-fit.html">Role fit</a>
+      <a href="./start-conversation.html">Start conversation</a>
+      <a href="./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf">Resume</a>
+      <a href="https://github.com/AlexGerlitz">GitHub</a>
+    </nav>
+
+    <section class="hero">
+      <div class="eyebrow">Enterprise readiness</div>
+      <h1>Proof for teams that need a reliable backend/platform owner.</h1>
+      <p class="lead">This route maps my public work to the signals an international remote team can inspect before starting a role, project, or technical review: architecture, state ownership, integration contracts, reliability, privacy, observability, CI, runbooks, and handoff quality.</p>
+      <p class="lead">The main direction is DriveDesk AI Operator: backend-owned AI workflows where documents, transcripts, call audio, and CRM leads become RAG-backed analysis, approvals, CRM-safe handoff, audit trail, retries, and operational proof.</p>
+      <div class="actions">
+        <a class="button primary" href="./drivedesk-proof-route.html">Open proof route</a>
+        <a class="button" href="./verification-pack.html">Verification pack</a>
+        <a class="button" href="./drivedesk-ai-operator.html">AI Operator case</a>
+        <a class="button" href="./start-conversation.html">Start conversation</a>
+        <a class="button" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>
+      </div>
+      <div class="tag-row" aria-label="Enterprise readiness tags">
+        <span class="tag">Backend-owned state</span>
+        <span class="tag">Integration contracts</span>
+        <span class="tag">Audit trail</span>
+        <span class="tag">Retries and idempotency</span>
+        <span class="tag">Privacy boundary</span>
+        <span class="tag">CI and smoke checks</span>
+        <span class="tag">Runbooks</span>
+        <span class="tag">Remote collaboration</span>
+      </div>
+    </section>
+
+    <section class="grid section" aria-label="Readiness signals">
+      <article class="card">
+        <h2>Systems Thinking</h2>
+        <p>I separate orchestration from core state: n8n can route events, while FastAPI/PostgreSQL owns records, RAG state, approvals, adapter contracts, outbox events, and verification.</p>
+      </article>
+      <article class="card">
+        <h2>Production Boundaries</h2>
+        <p>External writes are guarded by approvals, dry-run adapters, idempotency keys, retry/dead-letter behavior, metrics, logs, and clear rollout notes.</p>
+      </article>
+      <article class="card">
+        <h2>AI With Accountability</h2>
+        <p>I use AI tooling to move faster, but I keep responsibility for architecture, tests, deployment, docs, evidence, and shipped behavior.</p>
+      </article>
+    </section>
+
+    <section class="panel section">
+      <h2>Evidence Matrix</h2>
+      <table class="matrix">
+        <thead>
+          <tr>
+            <th>Review signal</th>
+            <th>Public evidence</th>
+            <th>Why it matters</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Backend/platform ownership</td>
+            <td><a href="https://github.com/AlexGerlitz/drivedesk-core">DriveDesk Core</a>, <a href="./drivedesk-core-review.html">Core review</a>, and <a href="./flagship-platform.html">Flagship platform</a></td>
+            <td>Shows FastAPI/PostgreSQL, roles, records, audit/outbox, adapters, OpenAPI, Docker, tests, CI, and public demo direction.</td>
+          </tr>
+          <tr>
+            <td>AI workflow engineering</td>
+            <td><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit">AI Ops Workflow Kit</a>, <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md">public proof status</a>, and <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md">live owner proof</a></td>
+            <td>Shows RAG quality eval, transcript analysis, Telegram approval, CRM-safe handoff, live PostgreSQL/pgvector storage, and reviewer evidence.</td>
+          </tr>
+          <tr>
+            <td>Reliability and operations</td>
+            <td><a href="./verification-pack.html">Verification pack</a>, <a href="https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot">DeployMate</a>, CI checks, runbooks, and smoke routes</td>
+            <td>Shows that behavior is checked through commands, CI, health routes, release gates, docs, and recovery-oriented proof.</td>
+          </tr>
+          <tr>
+            <td>Privacy and integration discipline</td>
+            <td><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md">Privacy boundary</a>, Bitrix dry-run contract, Telegram callback evidence, and CRM outbox state</td>
+            <td>Shows that sensitive input, approvals, and CRM mutations are handled through explicit boundaries instead of hidden workflow glue.</td>
+          </tr>
+          <tr>
+            <td>Remote review clarity</td>
+            <td><a href="./start-conversation.html">Start conversation</a>, <a href="./role-fit.html">Role fit</a>, <a href="./first-30-days.html">First month plan</a>, and <a href="./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf">PDF resume</a></td>
+            <td>Gives recruiters, hiring managers, and technical reviewers a short path from role/project context to verifiable proof.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="two section">
+      <div class="panel">
+        <h2>Best International-Remote Fit</h2>
+        <ul>
+          <li>Remote backend/platform role with Python, FastAPI, PostgreSQL, Docker, CI, integrations, internal tools, or DevOps ownership.</li>
+          <li>AI automation role where RAG, transcripts, approvals, CRM/ERP/API boundaries, and quality checks must be inspectable.</li>
+          <li>Fixed-scope workflow project where the output is a working slice with tests, logs, docs, runbook, and handoff route.</li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h2>Not Just No-Code Glue</h2>
+        <ul>
+          <li>Core state and contracts live in backend code.</li>
+          <li>n8n is treated as an orchestration layer, not the system of record.</li>
+          <li>Approvals, audit, retries, dead-letter behavior, and idempotency are explicit.</li>
+          <li>Proof is published through code, docs, CI, smoke checks, demos, and reviewer routes.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="grid section" aria-label="Next proof targets">
+      <article class="card">
+        <h2>Next Stronger Proof</h2>
+        <p>Keep extending DriveDesk AI Operator with a visible observability dashboard, integration drill, real sandbox adapter proof, and a short demo video/GIF once the runtime is stable.</p>
+      </article>
+      <article class="card">
+        <h2>First Month Signal</h2>
+        <p>The first useful outcome should be a responsible slice: map the current workflow, define contracts, ship a working path, verify it, document it, and leave an operator handoff route.</p>
+      </article>
+      <article class="card">
+        <h2>Contact Shortcut</h2>
+        <p>Send one role, workflow, or technical proof question with the systems involved and the first success condition. I will respond with the smallest responsible slice and verification route.</p>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
