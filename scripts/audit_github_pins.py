@@ -41,10 +41,10 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
     ),
     ExpectedPin(
         "AlexGerlitz/ai-ops-workflow-kit",
-        ("FastAPI AI workflow backend", "RAG", "approvals", "Telegram"),
+        ("FastAPI LLM/RAG workflow backend", "transcript analysis", "approvals", "CRM handoff", "Telegram"),
         "Python",
         "https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md",
-        ("ai-automation", "rag", "fastapi", "n8n", "telegram-bot", "workflow-automation"),
+        ("ai-automation", "llm-workflows", "rag", "crm", "fastapi", "n8n", "telegram-bot", "workflow-automation"),
         (
             "Production-minded reference implementation for AI workflow orchestration",
             "Profile / contact route",
