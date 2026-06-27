@@ -13,6 +13,13 @@ checks, deployment notes, and a handoff path.
 Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
+Best-fit request shape: backend-owned state, data sources, integration boundaries, approval flow,
+deployment/recovery path, or AI/RAG step that can be proven with logs, tests, docs, and a handoff.
+
+Not my target right now: isolated brochure/static websites, student/course assignments, standalone
+game clones, or generic mobile/ecommerce apps without backend, integration, or operations
+ownership.
+
 ## What I Can Build
 
 | Service | Best for | Typical output |
