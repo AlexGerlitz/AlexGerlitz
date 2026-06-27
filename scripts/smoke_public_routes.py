@@ -148,6 +148,10 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "DriveDesk AI Operator: backend-owned AI workflow proof",
             "FastAPI + PostgreSQL",
+            '"@type": "ProfilePage"',
+            '"jobTitle": "AI Automation / Backend / Platform Engineer"',
+            '"Transcript analysis"',
+            '"name": "Start conversation"',
             "Message on LinkedIn",
             "Remote role note",
             "Workflow project note",
