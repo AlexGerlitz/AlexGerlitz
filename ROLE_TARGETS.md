@@ -23,33 +23,62 @@ conversation.
 
 These are the terms that best match the current public proof:
 
+- AI Automation / Backend / Platform Engineer
 - Remote Backend Engineer
 - Remote Python Developer
 - Back End Developer
 - Python Developer
-- Artificial Intelligence Engineer
+- Python Backend Engineer
+- Artificial Intelligence Engineer with a workflow/backend focus
 - FastAPI Engineer
 - Backend Platform Engineer
+- Backend Development
+- Platform Engineering
 - AI Automation Engineer
+- AI Workflow Automation Engineer
 - LLM Workflow Engineer
 - RAG Workflow Engineer
+- LLM Workflows
+- RAG / Retrieval-Augmented Generation
 - Vector Databases Engineer
 - n8n AI Workflow Engineer
 - AI Sales Automation Engineer
 - AI Support Automation Engineer
+- Workflow Automation
 - Internal Tools Engineer
 - Business Automation Engineer
 - Integration Engineer
 - API Integration Engineer
 - Systems Integration Engineer
+- Systems Integration
 - CRM Integration Engineer
 - Customer Relationship Management (CRM) Engineer
 - ERP Integration Engineer
 - Enterprise Resource Planning (ERP) Engineer
+- CRM / ERP Integrations
+- Bitrix24 / CRM Adapter Work
+- 1C / Accounting / Banking Integration Boundaries
 - DevOps Engineer
 - Self-Hosting Engineer
+- Docker Compose
+- GitHub Actions
 - Docker / CI Engineer
 - Platform / Operations Engineer
+
+## Recruiter Search Snapshot
+
+The fastest search match is remote work where the title or job description includes backend,
+platform, AI automation, LLM/RAG workflow, CRM/ERP integration, internal tools, or DevOps ownership.
+
+| Search cluster | Exact fit signal | First proof |
+| --- | --- | --- |
+| Backend / platform | Python, FastAPI, PostgreSQL, OpenAPI, Docker, CI, roles, records, audit/outbox, workflow state. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
+| AI automation / LLM workflows | RAG, transcript/call analysis, structured JSON output, lead scoring, approvals, Telegram callback, provider boundaries. | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
+| CRM / ERP / systems integration | CRM/ERP/API/1C/accounting/banking adapter contracts, field mapping, validation, retries, idempotency, rollout notes. | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md) |
+| DevOps / self-hosting | Docker Compose, GitHub Actions, release gates, health checks, logs, backups, runbooks, recovery paths. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
+
+Remote-only is intentional. I am strongest when the first month can be evaluated through one working
+business workflow slice with tests, logs, docs, a deploy path, and a handoff route.
 
 ## First 30 Days I Can Own
 

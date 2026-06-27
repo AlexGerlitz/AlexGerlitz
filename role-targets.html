@@ -21,6 +21,65 @@
   <meta name="twitter:description" content="Remote backend, AI automation, LLM/RAG workflow, integration, internal tools, and DevOps role targets with proof links.">
   <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route">
   <meta name="twitter:image:alt" content="Alex Gerlitz remote role targets preview.">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "ProfilePage",
+          "@id": "https://alexgerlitz.github.io/AlexGerlitz/role-targets.html#profile",
+          "url": "https://alexgerlitz.github.io/AlexGerlitz/role-targets.html",
+          "name": "Remote Role Targets - Alex Gerlitz",
+          "description": "Remote role targets for AI Automation Engineer, Python Backend Engineer, LLM/RAG Workflow Engineer, Integration Engineer, Internal Tools Engineer, and DevOps work.",
+          "mainEntity": {
+            "@id": "https://alexgerlitz.github.io/AlexGerlitz/#alex-gerlitz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://alexgerlitz.github.io/AlexGerlitz/#alex-gerlitz",
+          "name": "Alex Gerlitz",
+          "url": "https://alexgerlitz.github.io/AlexGerlitz/",
+          "sameAs": [
+            "https://github.com/AlexGerlitz",
+            "https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/"
+          ],
+          "jobTitle": "AI Automation / Backend / Platform Engineer",
+          "knowsAbout": [
+            "Backend Development",
+            "Platform Engineering",
+            "AI Automation",
+            "LLM Workflows",
+            "RAG",
+            "Workflow Automation",
+            "Systems Integration",
+            "CRM Integrations",
+            "ERP Integrations",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker Compose",
+            "GitHub Actions",
+            "DevOps",
+            "Internal Tools"
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://alexgerlitz.github.io/AlexGerlitz/role-targets.html#role-targets",
+          "name": "Remote role targets",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Back End Developer" },
+            { "@type": "ListItem", "position": 2, "name": "Python Developer" },
+            { "@type": "ListItem", "position": 3, "name": "AI Automation Engineer" },
+            { "@type": "ListItem", "position": 4, "name": "Artificial Intelligence Engineer with workflow/backend focus" },
+            { "@type": "ListItem", "position": 5, "name": "Platform Engineer" },
+            { "@type": "ListItem", "position": 6, "name": "DevOps Engineer" },
+            { "@type": "ListItem", "position": 7, "name": "Integration Engineer" }
+          ]
+        }
+      ]
+    }
+  </script>
   <style>
     :root {
       --ink: #18202a;
@@ -83,13 +142,14 @@
     .role-card { padding: 18px; }
     .role-card p { color: var(--muted); }
     .two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    .keyword-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
     .snippet { padding: 14px; border: 1px solid var(--line); border-radius: 8px; background: var(--blue-soft); }
     .callout { background: var(--green-soft); border-color: #c7ebe4; }
     .tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
     .tag { border: 1px solid var(--line); border-radius: 999px; padding: 5px 9px; background: var(--blue-soft); color: var(--blue); font-size: 0.84rem; font-weight: 700; }
     ul { margin: 0; padding-left: 20px; }
     li { margin: 7px 0; }
-    @media (max-width: 900px) { .roles, .two { grid-template-columns: 1fr; } }
+    @media (max-width: 900px) { .roles, .two, .keyword-grid { grid-template-columns: 1fr; } }
     @media (max-width: 620px) {
       .shell { padding: 18px 14px 32px; }
       .hero { padding: 22px; }
@@ -125,13 +185,50 @@
       </div>
       <div class="tags" aria-label="Search keywords">
         <span class="tag">Remote Backend Engineer</span>
+        <span class="tag">Back End Developer</span>
         <span class="tag">Python Developer</span>
+        <span class="tag">Python Backend Engineer</span>
         <span class="tag">AI Automation Engineer</span>
+        <span class="tag">Artificial Intelligence Engineer</span>
         <span class="tag">LLM Workflow Engineer</span>
         <span class="tag">RAG Workflow Engineer</span>
+        <span class="tag">Backend Development</span>
+        <span class="tag">Platform Engineering</span>
+        <span class="tag">Workflow Automation</span>
+        <span class="tag">Systems Integration</span>
+        <span class="tag">CRM / ERP Integrations</span>
         <span class="tag">Integration Engineer</span>
         <span class="tag">DevOps Engineer</span>
+        <span class="tag">Docker Compose</span>
+        <span class="tag">GitHub Actions</span>
         <span class="tag">Internal Tools Engineer</span>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Recruiter Search Snapshot</h2>
+      <p>The strongest search match is remote work where the role or project needs backend, platform, AI automation, LLM/RAG workflow, CRM/ERP integration, internal tools, or DevOps ownership.</p>
+      <div class="keyword-grid">
+        <div class="snippet">
+          <h3>Backend / Platform</h3>
+          <p>Python, FastAPI, PostgreSQL, OpenAPI, Docker, CI, roles, records, audit/outbox, and workflow state.</p>
+          <p><a href="https://github.com/AlexGerlitz/drivedesk-core">DriveDesk Core</a></p>
+        </div>
+        <div class="snippet">
+          <h3>AI / LLM Workflows</h3>
+          <p>RAG, transcript and call analysis, structured JSON output, scoring, approvals, Telegram callbacks, and provider boundaries.</p>
+          <p><a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit">AI Ops Workflow Kit</a></p>
+        </div>
+        <div class="snippet">
+          <h3>CRM / ERP Integration</h3>
+          <p>CRM, ERP, API, 1C, accounting, and banking adapter contracts with mapping, validation, retries, idempotency, and rollout notes.</p>
+          <p><a href="./drivedesk-ai-operator.html">DriveDesk AI Operator</a></p>
+        </div>
+        <div class="snippet">
+          <h3>DevOps / Self-Hosting</h3>
+          <p>Docker Compose, GitHub Actions, release gates, health checks, logs, backups, runbooks, and recovery paths.</p>
+          <p><a href="https://github.com/AlexGerlitz/deploymate">DeployMate</a></p>
+        </div>
       </div>
     </section>
 
