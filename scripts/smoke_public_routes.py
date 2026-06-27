@@ -300,7 +300,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "AI Backend Proof Pack",
             "compact route through AI workflow, backend/platform, integration, DevOps, live proof, verification, and resume evidence",
             "Enterprise Readiness",
-            "international employer-grade review route for architecture, state ownership, integration contracts, English-first docs, async proof paths, reliability, privacy, observability, CI, runbooks, and handoff quality",
+            "international employer-grade review route for architecture, state ownership, integration contracts, English-first docs, async proof paths, specialist backend-owned AI workflow signal, reliability, privacy, observability, CI, runbooks, and handoff quality",
             "DriveDesk Flagship Platform",
             "Hiring decision route",
             "one-minute role fit, why to shortlist me, risk reduction, strongest proof, first-month ownership, and contact route",
