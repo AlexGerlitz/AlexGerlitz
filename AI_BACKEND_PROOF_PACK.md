@@ -17,6 +17,17 @@ I do not just connect workflow nodes. I move state, RAG, approvals, audit, retri
 5. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) - current CI, live smoke, public demos, docs, runbooks, proof freshness, and reviewer links.
 6. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) - compact resume for application upload or recruiter handoff.
 
+## Role Shortlist
+
+| Role or request | Strong match | First result |
+| --- | --- | --- |
+| Backend / Platform Engineer | APIs, data models, workflow state, internal tools, tenants, records, roles, tests, and handoff docs. | One backend slice with contract, tests, docs, and deployment path. |
+| AI Automation / RAG Engineer | Documents, transcripts, tickets, or leads need retrieval, analysis JSON, scoring, citations, approvals, and quality checks. | One inspectable RAG or transcript workflow with eval and approval boundary. |
+| Integration Engineer | CRM, ERP, 1C, banking, accounting, webhook, spreadsheet, or custom database boundaries need reliable adapters. | Source/target contract, mapping, validation, idempotency, retry state, and rollout notes. |
+| DevOps / Self-Hosting Engineer | Docker, CI, release gates, health checks, logs, backup/recovery, smoke checks, or runbooks need ownership. | One hardened deployment or recovery path with visible verification. |
+| Internal Tools Engineer | Operators need admin surfaces, queues, approvals, audit trail, notifications, validation, and repeatable workflows. | One working operator flow with state, permissions, and support handoff. |
+| Technical Proof Review | A repo, workflow, integration, deployment, or AI claim needs review before committing more budget. | Claim-to-evidence map, risks, smallest responsible slice, and verification route. |
+
 ## Strong Match
 
 - Remote backend/platform role with Python, FastAPI, PostgreSQL, Docker, CI, integrations, or internal tools.
