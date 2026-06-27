@@ -61,6 +61,7 @@ BAD_PATTERNS = [
 REQUIRED_FILES = [
     "README.md",
     "index.html",
+    "hiring-decision.html",
     "drivedesk-proof-route.html",
     "drivedesk-ai-operator.html",
     "projects.html",
@@ -107,6 +108,7 @@ REQUIRED_TEXT = {
         "Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps recovery sprint, or DriveDesk AI Operator-style proof route.",
         "decision prompts",
         "DriveDesk Proof Route",
+        "hiring-decision.html",
         "skill evidence",
         "pinned proof repos",
         "Live owner proof",
@@ -124,6 +126,7 @@ REQUIRED_TEXT = {
     "index.html": [
         '<link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">',
         "./drivedesk-proof-route.html",
+        "./hiring-decision.html",
         "./projects.html",
         "./case-studies.html",
         "https://www.linkedin.com/services/page/3153b734507b8a60ab/",
@@ -144,6 +147,27 @@ REQUIRED_TEXT = {
         "Live route smoke",
         "pinned proof repos",
         "First month plan",
+    ],
+    "hiring-decision.html": [
+        "<title>Hiring Decision - Alex Gerlitz</title>",
+        'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html"',
+        'property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html"',
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route"',
+        'property="og:image:width" content="1200"',
+        'property="og:image:height" content="630"',
+        'name="twitter:card" content="summary_large_image"',
+        "One-minute hiring decision route",
+        "I build backend-owned AI workflow and operations systems for real businesses.",
+        "remote-only full-time roles",
+        "Best-fit roles",
+        "Main proof",
+        "Hiring signal",
+        "What I can own in the first month",
+        "DriveDesk AI Operator",
+        "Message on LinkedIn",
+        "./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
+        "./start-conversation.html",
+        "./intake-brief.html",
     ],
     "role-fit.html": [
         "AI Ops proof status",
@@ -521,6 +545,7 @@ REQUIRED_TEXT = {
 
 SOCIAL_PREVIEW_PAGES = [
     "index.html",
+    "hiring-decision.html",
     "drivedesk-proof-route.html",
     "projects.html",
     "case-studies.html",
@@ -551,6 +576,7 @@ SOCIAL_PREVIEW_SNIPPETS = [
 
 SITEMAP_LASTMOD_REQUIREMENTS = {
     "https://alexgerlitz.github.io/AlexGerlitz/": "2026-06-27",
+    "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html": "2026-06-27",
     "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html": "2026-06-26",
     "https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html": "2026-06-26",
     "https://alexgerlitz.github.io/AlexGerlitz/VERIFICATION_PACK.md": "2026-06-26",
