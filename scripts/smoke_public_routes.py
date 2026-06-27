@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import os
+import subprocess
 import sys
 import struct
 import time
@@ -15,6 +17,29 @@ TIMEOUT_SECONDS = 20
 USER_AGENT = "AlexGerlitz-public-profile-smoke/1.0"
 LIVE_RETRY_ATTEMPTS = 6
 LIVE_RETRY_DELAY_SECONDS = 10
+
+
+def current_profile_ref() -> str:
+    github_sha = os.environ.get("GITHUB_SHA", "").strip()
+    if github_sha:
+        return github_sha
+    try:
+        result = subprocess.run(
+            ["git", "rev-parse", "HEAD"],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except (OSError, subprocess.CalledProcessError):
+        return "main"
+    return result.stdout.strip() or "main"
+
+
+PROFILE_RAW_REF = current_profile_ref()
+
+
+def profile_raw_url(path: str) -> str:
+    return f"https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/{PROFILE_RAW_REF}/{path}"
 
 
 @dataclass(frozen=True)
@@ -253,7 +278,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "proof-of-work-md",
-        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/PROOF_OF_WORK.md",
+        profile_raw_url("PROOF_OF_WORK.md"),
         (
             "Proof of Work",
             "Fast Proof Review",
@@ -319,7 +344,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "skill-evidence-md",
-        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/SKILL_EVIDENCE.md",
+        profile_raw_url("SKILL_EVIDENCE.md"),
         (
             "Skill Evidence Matrix",
             "Vector Databases",
@@ -330,7 +355,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "role-targets",
-        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/ROLE_TARGETS.md",
+        profile_raw_url("ROLE_TARGETS.md"),
         (
             "Remote Role Targets",
             "Systems Integration Engineer",
@@ -341,7 +366,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "start-here-md",
-        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/START_HERE.md",
+        profile_raw_url("START_HERE.md"),
         (
             "Start Here",
             "Skill Evidence",
@@ -372,7 +397,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "services-md",
-        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/SERVICES.md",
+        profile_raw_url("SERVICES.md"),
         (
             "Remote AI Automation Services",
             "https://alexgerlitz.github.io/AlexGerlitz/services.html",
@@ -404,7 +429,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "inbound-brief-md",
-        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/INTAKE_BRIEF.md",
+        profile_raw_url("INTAKE_BRIEF.md"),
         (
             "Inbound Brief",
             "Best immediate starts",
@@ -481,7 +506,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "contact-routes-md",
-        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/INBOUND_RESPONSE_PACK.md",
+        profile_raw_url("INBOUND_RESPONSE_PACK.md"),
         (
             "Contact Routes",
             "Fast fit checklist:",
@@ -497,7 +522,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "work-with-me-md",
-        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/WORK_WITH_ME.md",
+        profile_raw_url("WORK_WITH_ME.md"),
         (
             "Work With Me",
             "Fast fit checklist: remote-only work",
@@ -509,7 +534,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "role-project-brief-md",
-        "https://raw.githubusercontent.com/AlexGerlitz/AlexGerlitz/main/ROLE_PROJECT_BRIEF.md",
+        profile_raw_url("ROLE_PROJECT_BRIEF.md"),
         (
             "Role / Project Brief",
             "Remote AI automation, backend/platform and DevOps engineer building DriveDesk",
