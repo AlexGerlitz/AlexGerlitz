@@ -15,6 +15,16 @@ Current LinkedIn Services categories observed on 2026-06-27:
 - Information Management
 - IT Consulting
 
+Read-only category picker observed on 2026-06-27:
+
+- current six services leave four open slots before the 10-service limit;
+- after removing `Web Development` and `Application Development`, the practical saved set can keep
+  four current services and add six stronger services;
+- available target services include `Cloud Management`, `Database Development`, `Business
+  Analytics`, `Software Testing`, `Cybersecurity`, `Data Reporting`, and `Technical Support`;
+- `Technical Support` is a fallback, not the primary add, because it can route generic support
+  requests instead of backend/platform ownership.
+
 Current live service-page assets observed on 2026-06-27:
 
 - description: targeted to remote AI automation/backend systems, RAG/document pipelines,
@@ -55,21 +65,25 @@ Remove:
 - Web Development
 - Application Development
 
-Add if LinkedIn allows it:
+Primary add set:
 
 - Cloud Management
 - Database Development
 - Data Reporting
 - Business Analytics
 - Software Testing
-- Technical Support
 - Cybersecurity
+
+Fallback only if one primary category is unavailable:
+
+- Technical Support
 
 Do not add:
 
 - Mobile Application Development
 - broad web-only categories
-- categories that mainly route design, content, marketing, simple site refreshes, or student work
+- categories that mainly route design, content, marketing, simple site refreshes, student work, or
+  generic low-level support
 
 ## Request Triage Rule
 
@@ -102,9 +116,16 @@ The next live category edit should use this package:
 - keep `Custom Software Development`;
 - keep `Information Management`;
 - keep `IT Consulting`;
-- add `Cloud Management`, `Database Development`, `Data Reporting`, `Business Analytics`,
-  `Software Testing`, `Technical Support`, and `Cybersecurity` only if LinkedIn accepts them and
-  the category limit allows it.
+- add `Cloud Management`;
+- add `Database Development`;
+- add `Business Analytics`;
+- add `Software Testing`;
+- add `Cybersecurity`;
+- add `Data Reporting`.
+
+Target saved package: 10 services total, with the two broad request magnets removed and six
+backend/platform/data/security services added. Use `Technical Support` only as a fallback if one of
+the primary add services cannot be selected.
 
 Do not save a category set that removes the backend/platform/integration routing surface completely.
 If broad requests continue to route generic mobile/ecommerce work without backend or integration
