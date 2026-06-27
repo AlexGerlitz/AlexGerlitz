@@ -457,7 +457,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "remote-only backend, AI automation",
             "Best-fit request shape: backend-owned state",
             "LinkedIn Services request filter",
-            "if LinkedIn routes the request as Web Development or Custom",
+            "if LinkedIn routes the request as Web Development, Application",
             "LinkedIn Service Page Fit",
             "./LINKEDIN_SERVICE_PAGE_FIT.md",
             "Not my target right now: isolated brochure/static websites",
