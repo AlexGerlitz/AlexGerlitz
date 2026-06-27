@@ -126,6 +126,8 @@ REQUIRED_FILES = [
     "assets/linkedin-banner.svg",
     "assets/social-card.png",
     "assets/social-card.svg",
+    "assets/ai-backend-proof-pack-card.png",
+    "assets/ai-backend-proof-pack-card.svg",
     "assets/favicon.svg",
     "llms.txt",
     "sitemap.xml",
@@ -352,6 +354,9 @@ REQUIRED_TEXT = {
         "<title>AI Backend Proof Pack - Alex Gerlitz</title>",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html"',
         'property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html"',
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png?v=2026-06-27-proof-pack"',
+        'property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png?v=2026-06-27-proof-pack"',
+        'name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png?v=2026-06-27-proof-pack"',
         "Featured proof pack",
         "AI workflow and backend/platform proof in one route.",
         "The core signal: I do not just connect workflow nodes.",
@@ -896,6 +901,12 @@ REQUIRED_TEXT = {
         "Technical proof",
         "drivedesk-proof-route.html",
     ],
+    "assets/ai-backend-proof-pack-card.svg": [
+        "AI Backend Proof Pack - Alex Gerlitz",
+        "LINKEDIN FEATURED / REMOTE AI AUTOMATION + BACKEND PLATFORM",
+        "RAG workflows / FastAPI + PostgreSQL / CRM adapters / Docker + CI",
+        "alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html",
+    ],
     "assets/linkedin-banner.svg": [
         "Alex Gerlitz LinkedIn banner",
         "DriveDesk AI Operator",
@@ -1034,6 +1045,20 @@ SOCIAL_PREVIEW_SNIPPETS = [
     'name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route"',
     'name="twitter:image:alt"',
 ]
+
+SOCIAL_PREVIEW_PAGE_SNIPPETS = {
+    "ai-backend-proof-pack.html": [
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png?v=2026-06-27-proof-pack"',
+        'property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png?v=2026-06-27-proof-pack"',
+        'property="og:image:type" content="image/png"',
+        'property="og:image:width" content="1200"',
+        'property="og:image:height" content="630"',
+        'property="og:image:alt"',
+        'name="twitter:card" content="summary_large_image"',
+        'name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png?v=2026-06-27-proof-pack"',
+        'name="twitter:image:alt"',
+    ],
+}
 
 SITEMAP_LASTMOD_REQUIREMENTS = {
     "https://alexgerlitz.github.io/AlexGerlitz/": "2026-06-27",
@@ -1308,7 +1333,8 @@ def check_social_preview_metadata(errors: list[str]) -> None:
             errors.append(f"missing social preview page: {relative}")
             continue
         text = path.read_text(encoding="utf-8")
-        for snippet in SOCIAL_PREVIEW_SNIPPETS:
+        snippets = SOCIAL_PREVIEW_PAGE_SNIPPETS.get(relative, SOCIAL_PREVIEW_SNIPPETS)
+        for snippet in snippets:
             if snippet not in text:
                 errors.append(f"{relative}: missing social preview metadata: {snippet}")
 
@@ -1370,6 +1396,7 @@ def check_png_dimensions(errors: list[str], relative: str, expected: tuple[int, 
 
 def check_png_size(errors: list[str]) -> None:
     check_png_dimensions(errors, "assets/social-card.png", (1200, 630))
+    check_png_dimensions(errors, "assets/ai-backend-proof-pack-card.png", (1200, 630))
     check_png_dimensions(errors, "assets/linkedin-banner.png", (1584, 396))
 
 

@@ -50,6 +50,7 @@ class RouteCheck:
     content_type: str | None = None
     min_bytes: int = 0
     social_preview: bool = False
+    social_image_prefix: str = "https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"
     canonical_url: str | None = None
     pdf_pages: int | None = None
     png_dimensions: tuple[int, int] | None = None
@@ -117,8 +118,8 @@ def social_preview_errors(route: RouteCheck, text: str) -> list[str]:
 
     for key in ("og:image", "twitter:image"):
         image = parser.meta.get(key, "")
-        if not image.startswith("https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"):
-            errors.append(f"{route.name}: expected {key} to use social-card.png, got {image!r}")
+        if not image.startswith(route.social_image_prefix):
+            errors.append(f"{route.name}: expected {key} to use {route.social_image_prefix}, got {image!r}")
 
     if parser.meta.get("twitter:card") != "summary_large_image":
         errors.append(
@@ -157,6 +158,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Inbound brief",
         ),
         social_preview=True,
+        social_image_prefix="https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png",
     ),
     RouteCheck(
         "hiring-decision",
@@ -868,6 +870,13 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "social-card-image",
         "https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-26-decision-route",
+        content_type="image/png",
+        min_bytes=10_000,
+        png_dimensions=(1200, 630),
+    ),
+    RouteCheck(
+        "ai-backend-proof-pack-card-image",
+        "https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png?v=2026-06-27-proof-pack",
         content_type="image/png",
         min_bytes=10_000,
         png_dimensions=(1200, 630),
