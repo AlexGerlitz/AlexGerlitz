@@ -8,6 +8,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html): backend-owned AI workflow proof for RAG, transcript analysis, lead scoring, approvals, CRM handoff, audit, retries, and adapter boundaries.
 - [Hiring decision route](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html): one-minute role fit, strongest proof, first-month ownership, and contact route.
+- [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html): repo-level evidence across DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm.
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html): search-fit roles mapped to proof, first-month ownership, and direct review routes.
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html): remote role and fixed-scope project route with best immediate starts, fit filter, proof links, and contact path.
 - [Skill evidence map](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skills mapped to public proof for AI automation, backend/platform, CRM/ERP integration, and DevOps.
@@ -34,7 +35,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core): FastAPI/PostgreSQL operations platform foundation with tenants, RBAC, audit/outbox, adapters, OpenAPI, Docker, pytest, CI, docs, and public demo.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit): document intake, RAG retrieval, transcript analysis, approvals, Telegram callback, dry-run Bitrix CRM handoff, outbox, CI, and smoke checks.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate): self-hosted Docker deployment control panel direction with FastAPI, Next.js, PostgreSQL, SSH runtime tooling, health checks, logs, release gates, and runbooks.
-- [MPlusForm](https://github.com/AlexGerlitz/MPlusForm): validation-boundary automation proof with Python sync pipeline, server-approved snapshots, Windows operations docs, and Lua addon.
+- [MPlusForm](https://github.com/AlexGerlitz/MPlusForm): validation-boundary and trust-model automation proof with untrusted local files, optional Python sync, server-approved snapshots, Windows operations docs, Lua addon boundary, and public verification.
 
 ## Fast Contact
 
