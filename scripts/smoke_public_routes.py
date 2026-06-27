@@ -4,6 +4,7 @@ from __future__ import annotations
 import sys
 import time
 from dataclasses import dataclass, field
+from html.parser import HTMLParser
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
@@ -21,6 +22,80 @@ class RouteCheck:
     snippets: tuple[str, ...] = field(default_factory=tuple)
     content_type: str | None = None
     min_bytes: int = 0
+    social_preview: bool = False
+    canonical_url: str | None = None
+
+
+class SocialPreviewParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.title = ""
+        self._in_title = False
+        self.canonical = ""
+        self.meta: dict[str, str] = {}
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        values = {key.lower(): value or "" for key, value in attrs}
+        if tag == "title":
+            self._in_title = True
+        elif tag == "link" and values.get("rel") == "canonical":
+            self.canonical = values.get("href", "")
+        elif tag == "meta":
+            key = values.get("property") or values.get("name")
+            content = values.get("content", "")
+            if key and content:
+                self.meta[key] = content
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag == "title":
+            self._in_title = False
+
+    def handle_data(self, data: str) -> None:
+        if self._in_title:
+            self.title += data
+
+
+def social_preview_errors(route: RouteCheck, text: str) -> list[str]:
+    parser = SocialPreviewParser()
+    parser.feed(text)
+    expected_canonical = route.canonical_url or route.url
+    errors: list[str] = []
+
+    if parser.canonical != expected_canonical:
+        errors.append(
+            f"{route.name}: expected canonical {expected_canonical!r}, got {parser.canonical!r}"
+        )
+
+    required_meta = (
+        "og:title",
+        "og:description",
+        "og:url",
+        "og:image",
+        "twitter:card",
+        "twitter:title",
+        "twitter:description",
+        "twitter:image",
+    )
+    for key in required_meta:
+        value = parser.meta.get(key, "").strip()
+        if not value:
+            errors.append(f"{route.name}: missing social preview meta {key!r}")
+
+    og_url = parser.meta.get("og:url", "")
+    if og_url != expected_canonical:
+        errors.append(f"{route.name}: expected og:url {expected_canonical!r}, got {og_url!r}")
+
+    for key in ("og:image", "twitter:image"):
+        image = parser.meta.get(key, "")
+        if not image.startswith("https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png"):
+            errors.append(f"{route.name}: expected {key} to use social-card.png, got {image!r}")
+
+    if parser.meta.get("twitter:card") != "summary_large_image":
+        errors.append(
+            f"{route.name}: expected twitter:card 'summary_large_image', got {parser.meta.get('twitter:card')!r}"
+        )
+
+    return errors
 
 
 ROUTES: tuple[RouteCheck, ...] = (
@@ -39,6 +114,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "intake-brief.html",
             "Inbound brief",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "proof-route",
@@ -53,6 +129,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Profile funnel health",
             "skill-evidence.html",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "featured-drivedesk-alias",
@@ -85,11 +162,13 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Backend Ownership",
             "Production Proof",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "projects",
         "https://alexgerlitz.github.io/AlexGerlitz/projects.html",
         ("Selected Proof Projects", "AI Ops Workflow Kit - RAG"),
+        social_preview=True,
     ),
     RouteCheck(
         "case-studies",
@@ -103,6 +182,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "MPlusForm",
             "The operating loop",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "technical-proof",
@@ -117,6 +197,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "After Review",
             "one success condition",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "proof-of-work-md",
@@ -143,6 +224,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "LLM Workflow / RAG Engineer",
             "n8n AI Workflow Engineer",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "resume",
@@ -153,6 +235,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "PDF resume",
             "Remote-only backend, platform, DevOps, and AI automation roles.",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "role-fit-pack",
@@ -166,6 +249,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "LLM Workflow / RAG Engineer",
             "PDF resume",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "skill-evidence",
@@ -179,6 +263,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "DevOps / Self-Hosting",
             "Best Skills To Evaluate",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "skill-evidence-md",
@@ -226,6 +311,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Proof-Backed Handoff",
             "GitHub-readable services page",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "services-md",
@@ -253,6 +339,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "The smallest responsible first slice.",
             "GitHub-readable inbound brief",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "inbound-brief-md",
@@ -271,11 +358,13 @@ ROUTES: tuple[RouteCheck, ...] = (
         "first-30-days",
         "https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html",
         ("First Month Delivery Plan", "First 48 Hours", "Week 2"),
+        social_preview=True,
     ),
     RouteCheck(
         "fixed-scope-offers",
         "https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html",
         ("Fixed-scope AI automation", "services.html", "Best first step", "USD 3,000-12,000", "USD 25,000+ by phase"),
+        social_preview=True,
     ),
     RouteCheck(
         "start-conversation",
@@ -291,6 +380,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Fast Decision Prompts",
             "whether a practical first slice can ship quickly",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "contact-routes",
@@ -314,6 +404,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Smallest responsible working slice",
             "Claim-to-evidence map",
         ),
+        social_preview=True,
     ),
     RouteCheck(
         "verification-pack",
@@ -385,6 +476,10 @@ def check_route(route: RouteCheck) -> list[str]:
         for snippet in route.snippets:
             if snippet not in text:
                 errors.append(f"{route.name}: missing snippet {snippet!r} for {route.url}")
+
+    if route.social_preview:
+        text = body.decode("utf-8", errors="replace")
+        errors.extend(social_preview_errors(route, text))
 
     if not errors:
         print(f"ok {route.name}: {route.url}")
