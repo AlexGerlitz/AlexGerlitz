@@ -5,6 +5,13 @@ Public contact guide for role, project, founder, and technical-review conversati
 Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
+Fast fit checklist:
+
+- strongest match: remote-only work with a concrete technical outcome;
+- useful target: backend-owned AI workflow, CRM/ERP/API integration, internal operations tool,
+  DevOps hardening, or one first working slice with tests, logs, docs, and handoff;
+- not my target right now: onsite-only roles, pure prompt/content tasks, or undefined outcomes.
+
 ## Best First Link
 
 | Conversation type | Best first link | Why |

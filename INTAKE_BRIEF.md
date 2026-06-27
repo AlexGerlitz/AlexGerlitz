@@ -14,6 +14,13 @@ Fast contact links:
 Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
+Fast fit checklist:
+
+- remote-only role or fixed-scope work;
+- backend-owned AI workflow, CRM/ERP/API integration, internal operations tool, DevOps hardening,
+  or one working slice with tests/logs/docs/handoff;
+- not a fit right now: onsite-only roles, pure prompt/content tasks, or undefined outcomes.
+
 ## For A Role
 
 Send:

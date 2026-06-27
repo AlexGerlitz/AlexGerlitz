@@ -9,6 +9,11 @@ context to choose the first responsible slice.
 Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
+Fast fit checklist: message me when the work is remote-only and needs a backend-owned AI workflow,
+CRM/ERP/API integration, internal operations tool, DevOps recovery/hardening path, or one first
+working slice with tests, logs, docs, and handoff. Not my target right now: onsite-only roles,
+pure prompt/content tasks, or undefined outcomes with no way to verify success.
+
 Main project direction:
 [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) ->
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) -
@@ -66,6 +71,12 @@ and [platform notes](./FLAGSHIP_PLATFORM.md).
 - CRM/ERP/1C/banking/API integration adapter.
 - Docker/CI/deployment/recovery hardening.
 - Admin tools, audit trails, workflow state, validation, logs, runbooks, and handoff docs.
+
+## Not A Fit Right Now
+
+- onsite-only roles;
+- pure prompt/content tasks without engineering ownership;
+- undefined outcomes where success cannot be tested, demonstrated, or handed off.
 
 ## Useful First Context
 
