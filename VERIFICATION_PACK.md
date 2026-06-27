@@ -10,11 +10,12 @@ Last checked: 2026-06-27.
 1. Open the DriveDesk Core review route and public demo.
 2. Open the latest DriveDesk Core CI and Pages runs.
 3. Scan the Skill Evidence Matrix for the role keywords that matter.
-4. For AI automation roles, open the AI Ops public proof status, reviewer acceptance report, role requirements map,
-   live approval proof, and CI workflow first.
-5. Open one proof repo that matches the role: DriveDesk Core, AI Ops Workflow Kit, DeployMate, or
+4. For AI automation roles, open the AI Ops public proof status, reviewer acceptance report,
+   role requirements map, live approval proof, role targets, and CI workflow first.
+5. For inbound fit, open Work With Me and Role Targets to check the exact remote/fixed-scope entry points.
+6. Open one proof repo that matches the role: DriveDesk Core, AI Ops Workflow Kit, DeployMate, or
    MPlusForm.
-6. Check whether the project has tests, CI, docs, runbooks, demo paths, or explicit reviewer
+7. Check whether the project has tests, CI, docs, runbooks, demo paths, or explicit reviewer
    snapshots.
 
 ## Pinned Repository Order
@@ -37,7 +38,7 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 | Public demo and release discipline | DriveDesk Core GitHub Pages demo is published from the repo and checked by Actions. | Open the [Pages deployment run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28203635544), the [scheduled validation run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28282542868), the [public demo health run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28278340108), and the demo URL. |
 | AI workflow / RAG backend | AI Ops Workflow Kit: document/CRM/call intake, importable n8n workflow artifact, offer demo, LLM/transcription provider boundaries, reviewer acceptance report, ingestion/retrieval, transcript analysis, lead scoring, approvals, Telegram callback approval, dry-run Bitrix CRM handoff, idempotent outbox drain, opt-in worker, pgvector-ready storage, deterministic tests, Docker, and n8n/Telegram boundaries. | Open the [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), the [reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md), the [live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), the [role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md), the [repo](https://github.com/AlexGerlitz/ai-ops-workflow-kit), and the [CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml). |
 | DevOps and release ownership | DeployMate: self-hosted deployment control panel direction, release gates, production contract checks, strict SSH host-key posture, runbooks, incident automation, and evidence bundle. | Open [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), the [CI run](https://github.com/AlexGerlitz/deploymate/actions/runs/28203923684), the latest [public evidence bundle](https://github.com/AlexGerlitz/deploymate/actions/runs/28281348824), the [release maintenance status](https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309), and the [release-secrets audit](https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779). |
-| Validation and trust boundaries | MPlusForm: client-side data is treated as untrusted until server-side validation creates an approved public snapshot. | Open [MPlusForm](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot). |
+| Validation and trust boundaries | MPlusForm: client-side data is treated as untrusted until server-side validation creates an approved public snapshot. | Open [MPlusForm](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot) and the latest [public verification run](https://github.com/AlexGerlitz/MPlusForm/actions/runs/28285062880). |
 | Remote business infrastructure support | Autoschool54 / DriveDesk private work since March 2024, represented publicly through sanitized architecture, docs, proof repos, and operational case studies. | Read [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html), [Proof of Work](./PROOF_OF_WORK.md), and [Resume](./RESUME.md). |
 
 ## Current External Verification
@@ -62,7 +63,14 @@ Checked on 2026-06-27:
 - DeployMate latest public evidence bundle succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28281348824
 - DeployMate release maintenance status succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
-- MPlusForm `main` is current on `9c55283`; repository and reviewer snapshot were reachable.
+- Profile funnel `main` is green on `ae2865c`.
+- Profile Funnel Audit succeeded on `ae2865c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28285471853
+- Profile Pages deployment succeeded on `ae2865c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28285471635
+- Live Profile Smoke succeeded on `ae2865c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28285471840
+- Work With Me and Role Targets routes are published: https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html and https://alexgerlitz.github.io/AlexGerlitz/role-targets.html
+- MPlusForm `main` is green on `f7b952c`.
+- MPlusForm Public Verification succeeded on `f7b952c`: https://github.com/AlexGerlitz/MPlusForm/actions/runs/28285062880
+- MPlusForm repository and reviewer snapshot were reachable.
 
 ## Recovery Trail
 

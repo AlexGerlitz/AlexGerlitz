@@ -39,6 +39,7 @@ If you only have a few minutes, review these first:
 - [MPlusForm README](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot) - trust-model and desktop automation reviewer path.
 - [Skill evidence matrix](./SKILL_EVIDENCE.md) - role keywords mapped to public proof.
 - [Work with me](./WORK_WITH_ME.md) - fixed-scope project entry points.
+- [Role targets](./ROLE_TARGETS.md) - remote backend/platform/AI automation roles mapped to proof.
 
 ## Current Public Verification
 
@@ -62,8 +63,14 @@ Checked on 2026-06-27:
 - DeployMate latest public evidence bundle succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28281348824
 - DeployMate release maintenance status succeeded on `237b2c9`: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
+- Profile funnel `main` is green on `ae2865c`.
+- Profile Funnel Audit succeeded on `ae2865c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28285471853
+- Profile Pages deployment succeeded on `ae2865c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28285471635
+- Live Profile Smoke succeeded on `ae2865c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28285471840
+- Work With Me and Role Targets routes are published: https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html and https://alexgerlitz.github.io/AlexGerlitz/role-targets.html
 - MPlusForm has a public 60-second reviewer snapshot for trust-model and validation-boundary review.
-- MPlusForm `main` is current on `9c55283`.
+- MPlusForm `main` is green on `f7b952c`.
+- MPlusForm Public Verification succeeded on `f7b952c`: https://github.com/AlexGerlitz/MPlusForm/actions/runs/28285062880
 - Public proof repositories are reachable.
 
 ## DriveDesk Core Case Study
