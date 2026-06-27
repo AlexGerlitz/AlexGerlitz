@@ -56,7 +56,7 @@ Technical review:
 - risk, claim, or delivery question to validate;
 - useful evidence: CI, logs, docs, runbook, demo path, or smoke command.
 
-## Fast Decision Prompts
+## Fast Decision Routes
 
 Remote role:
 
