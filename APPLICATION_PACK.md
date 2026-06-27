@@ -9,8 +9,9 @@ I build working business systems: FastAPI/PostgreSQL backends, AI/RAG workflows,
 analysis, approval flows, integration adapters, Docker/CI release paths, health checks, docs,
 runbooks, and recovery procedures.
 
-Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API
-integrations, Systems Integration, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
+Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8n, Telegram,
+CRM/ERP/API integrations, Systems Integration, Backend Development, Platform Engineering,
+Workflow Automation, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
 
 Main case direction:
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html).

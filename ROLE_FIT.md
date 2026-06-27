@@ -16,8 +16,9 @@ I am strongest when the work has:
 
 Current anchor: remote Autoschool54 / DriveDesk digital infrastructure work since March 2024.
 
-Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API
-integrations, Systems Integration, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
+Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8n, Telegram,
+CRM/ERP/API integrations, Systems Integration, Backend Development, Platform Engineering,
+Workflow Automation, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
 
 Main case direction:
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) for

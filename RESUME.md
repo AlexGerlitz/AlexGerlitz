@@ -9,8 +9,9 @@ I turn messy operational problems into working systems: FastAPI/PostgreSQL backe
 workflows, call-audio transcription, transcript/call analysis, approval flows, internal admin panels, integration adapters,
 Docker/CI deployment paths, health checks, runbooks, and recovery procedures.
 
-Search-match stack: Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, CRM/ERP/API
-integrations, Systems Integration, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
+Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8n, Telegram,
+CRM/ERP/API integrations, Systems Integration, Backend Development, Platform Engineering,
+Workflow Automation, DevOps, GitHub Actions, OpenAPI, and pgvector-ready workflows.
 
 Search-fit role titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial
 Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, and
