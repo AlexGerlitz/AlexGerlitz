@@ -103,6 +103,8 @@
       color: var(--ink);
       background: var(--paper);
       line-height: 1.55;
+      max-width: 100%;
+      overflow-x: hidden;
     }
 
     a {
@@ -118,6 +120,7 @@
 
     .shell {
       max-width: 1160px;
+      width: 100%;
       margin: 0 auto;
       padding: 22px 20px 44px;
     }
@@ -128,12 +131,17 @@
       justify-content: space-between;
       gap: 18px;
       margin-bottom: 16px;
+      min-width: 0;
     }
 
     .identity {
       display: flex;
       align-items: center;
       gap: 14px;
+      min-width: 0;
+    }
+
+    .identity > div {
       min-width: 0;
     }
 
@@ -158,6 +166,7 @@
       margin: 2px 0 0;
       color: var(--muted);
       font-size: 0.95rem;
+      overflow-wrap: anywhere;
     }
 
     .nav {
@@ -165,6 +174,8 @@
       flex-wrap: wrap;
       justify-content: flex-end;
       gap: 8px;
+      min-width: 0;
+      max-width: 100%;
     }
 
     .nav a,
@@ -235,6 +246,7 @@
       line-height: 1.04;
       letter-spacing: 0;
       max-width: 920px;
+      overflow-wrap: anywhere;
     }
 
     .summary {
@@ -242,6 +254,27 @@
       max-width: 820px;
       color: var(--muted);
       font-size: 1.08rem;
+      overflow-wrap: anywhere;
+    }
+
+    .signal-list {
+      display: grid;
+      gap: 8px;
+      margin: 16px 0 0;
+      padding: 0;
+      list-style: none;
+      max-width: 820px;
+    }
+
+    .signal-list li {
+      border-left: 3px solid var(--accent);
+      padding-left: 12px;
+      color: var(--muted);
+      overflow-wrap: anywhere;
+    }
+
+    .signal-list strong {
+      color: var(--ink);
     }
 
     .actions {
@@ -472,6 +505,7 @@
         flex-wrap: nowrap;
         overflow-x: auto;
         padding-bottom: 4px;
+        width: 100%;
       }
 
       .nav a {
@@ -529,6 +563,11 @@
           a working system with proof. Best immediate starts: AI workflow automation, CRM/ERP/API adapter,
           backend/platform slice, DevOps recovery sprint, or DriveDesk AI Operator-style proof route.
         </p>
+        <ul class="signal-list">
+          <li><strong>Message me first when</strong> there is one messy workflow, one risky integration boundary, or one backend/platform/DevOps slice that should become testable, logged, documented, and handed off.</li>
+          <li><strong>Shortest proof path</strong> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> PDF resume.</li>
+          <li><strong>First useful result</strong> a verified slice with backend-owned state, tests, logs, docs, and a handoff route.</li>
+        </ul>
         <p class="summary">
           Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer,
           Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer,

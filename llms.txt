@@ -59,6 +59,9 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 ## Fast Contact
 
+- Message me first when there is one messy workflow, one risky integration boundary, or one backend/platform/DevOps slice that should become testable, logged, documented, and handed off.
+- Shortest proof path: LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> PDF resume.
+- First useful result: a verified slice with backend-owned state, tests, logs, docs, and a handoff route.
 - Message reason router: use Start conversation to choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context.
 - Recruiter shortcut: for a remote role, start with LinkedIn Recruiter Packet, Recruiter Preferences, Hiring decision route, Remote role targets, Skill evidence, and the PDF resume. Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.
 - [LinkedIn profile](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)

@@ -6,7 +6,12 @@ AI Automation / Backend / Platform Engineer building **DriveDesk**: operations w
 
 Now open for **remote-only full-time roles** and fixed-scope projects where the output is a working system, not a demo shell.
 
-**Recruiter shortcut / 30-second screen:** start with the [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) for shortlist signal, risk reduction, AI execution proof, and message triggers, then check [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for the search-intent proof stack, [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html), [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html), [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), and the [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf). Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership. International team fit: English-first docs, async proof routes, integration contracts, privacy boundaries, CI, runbooks, and operational handoff quality. Shortlist scorecard: real business infrastructure support, backend/platform implementation, AI workflow engineering, CRM/ERP/API integration, DevOps/recovery thinking, English-first async proof, and public verification discipline.
+**Message me first when:** there is one messy workflow, one risky integration boundary, or one backend/platform/DevOps slice that should become testable, logged, documented, and handed off.
+
+**Shortest proof path:** [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf).
+
+**Recruiter shortcut / 30-second screen:** start with the [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) for shortlist signal, risk reduction, AI execution proof, and message triggers, then check [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for the search-intent proof stack, [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html), [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), and the [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf).
+Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership. International team fit: English-first docs, async proof routes, integration contracts, privacy boundaries, CI, runbooks, and operational handoff quality. Shortlist scorecard: real business infrastructure support, backend/platform implementation, AI workflow engineering, CRM/ERP/API integration, DevOps/recovery thinking, English-first async proof, and public verification discipline.
 
 | Featured work sample | What it proves |
 | --- | --- |
@@ -43,11 +48,7 @@ Fast fit checklist: message me when the work is remote-only and needs a backend-
 
 ## Flagship Direction
 
-**DriveDesk AI Operator** is the sharpest current proof direction: documents, call audio, transcripts,
-or CRM leads -> RAG, analysis, scoring, tasks, Telegram approval, and CRM handoff with backend-owned
-state, audit, retries, idempotency, and adapter contracts. The larger [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
-connects that slice to roles, records, workflows, adapters, audit/outbox, admin/operator surfaces,
-DevOps, observability, backups, and recovery paths.
+**DriveDesk AI Operator** is the sharpest current proof direction: documents, call audio, transcripts, or CRM leads -> RAG, analysis, scoring, tasks, Telegram approval, and CRM handoff with backend-owned state, audit, retries, idempotency, and adapter contracts. The larger [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) connects that slice to roles, records, workflows, adapters, audit/outbox, admin/operator surfaces, DevOps, observability, backups, and recovery paths.
 
 Since **March 2024**, I have supported Autoschool54 digital infrastructure remotely while turning real operational problems into a broader platform direction: admin workflows, documents, schedules, payments, accounts, access, automation, deployment, logs, backups, and recovery paths.
 
@@ -74,7 +75,6 @@ Since **March 2024**, I have supported Autoschool54 digital infrastructure remot
 ## How I Use AI
 
 AI tooling is part of my engineering workflow: domain research, decomposition, implementation options, code/script generation, debugging, docs, tests, and review move faster. I still own the architecture, state, security boundaries, verification, deployment, logs, fixes, and shipped quality.
-
 ## Contact
 - LinkedIn: [linkedin.com/in/alex-gerlitz-a659ab3bb](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - LinkedIn Services: [linkedin.com/services/page/3153b734507b8a60ab](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
