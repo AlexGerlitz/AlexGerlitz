@@ -43,6 +43,17 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 | 4 | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation, trust-boundary, client/server sync, and Windows automation proof. |
 | 5 | [AlexGerlitz profile](https://github.com/AlexGerlitz/AlexGerlitz) | Index for resume, services, role targets, and verification links. |
 
+## Pinned Repo First-Screen Check
+
+Read-only checked on 2026-06-28. The pinned repositories are not random code samples; each first screen is routed to a hiring or project signal.
+
+| Repository | First-screen signal | Why it helps the review |
+| --- | --- | --- |
+| DriveDesk Core | Backend/platform foundation behind DriveDesk AI Operator: business operations, integrations, workflows, audit/outbox, adapter boundaries, recovery paths, CI, OpenAPI, SDK drift checks, docs, and public demo. | Shows I can own the system of record and integration foundation, not only an AI workflow wrapper. |
+| AI Ops Workflow Kit | Production-minded AI workflow backend: document/CRM/call intake, RAG, transcript analysis, approvals, outbox handoff, n8n/Telegram/CRM boundaries, privacy redaction, CI, and reviewer evidence. | Shows I can make AI workflow output reviewable through state, quality checks, approvals, logs, and contracts. |
+| DeployMate | Self-hosted Docker deployment control panel with FastAPI/Next.js/PostgreSQL, SSH runtime tooling, CI/CD, health checks, release gates, evidence bundles, runbooks, backup/restore thinking, and production review flows. | Shows platform/DevOps/recovery ownership and public incident/release discipline. |
+| MPlusForm | Validation-boundary and desktop-automation proof: untrusted local files, optional Python sync, server-side approval, safe snapshots, Windows operations scripts, and trust-model docs. | Shows I can define trust boundaries around fragile local data and package operator workflows for non-developer environments. |
+
 ## Claim To Evidence Map
 
 | Claim | Evidence | How to verify |
