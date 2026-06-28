@@ -4,6 +4,12 @@ Public route: https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.h
 
 Use this when a profile view, recruiter screen, founder request, or technical proof check should turn into a concrete next step instead of a generic intro.
 
+## First Reply Promise
+
+Send one remote role, workflow, project, or proof question plus one success condition. I will answer
+with a fit read, risky assumptions, the smallest responsible first slice, proof path to inspect, and
+the right next route: remote role, fixed-scope project, technical review, or no-fit.
+
 ## Send This Minimum Context
 
 | Context | Useful details |
