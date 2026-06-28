@@ -22,7 +22,7 @@ Fast fit checklist:
 | Technical review | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Short route into DriveDesk AI Operator, verification links, repos, demos, CI, docs, and runbooks. |
 | Enterprise review | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` | International employer-grade route for backend/platform ownership, integration discipline, reliability, privacy, and async proof. |
 | AI workflow / RAG | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast route into the DriveDesk AI Operator case direction and AI Ops proof links. |
-| Fixed-scope project | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | One page for proof, project shape, offer surface, and the next context needed. |
+| Fixed-scope project | `https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html` -> `https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md` | Proof-backed offer route: choose the closest trigger, inspect repo evidence, then send the workflow, systems, success condition, constraints, and handoff depth. |
 | First conversation | `https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html` | Simple structure for sending role/project context. |
 
 ## Search Intent First Links
@@ -58,6 +58,7 @@ Fixed-scope project:
 
 - manual or fragile workflow and the systems involved;
 - practical success condition and what must not break;
+- closest proof-backed offer route;
 - access, hosting, deadline, budget, and handoff constraints.
 
 Technical review:
@@ -129,6 +130,7 @@ clear ownership, and a practical proof path before any larger production commitm
 - Inbound brief: https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html
 - Enterprise readiness: https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html
 - LinkedIn Services: https://www.linkedin.com/services/page/3153b734507b8a60ab/
+- AI Ops Employer Trigger Proof: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md
 - DriveDesk Proof Route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - First month plan: https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html
 - Role fit: https://alexgerlitz.github.io/AlexGerlitz/role-fit.html
