@@ -25,6 +25,13 @@ This profile is strongest when the role needs a builder who can connect business
 - Remote/international signal: English-first docs, async review paths, compact evidence routes, privacy boundaries, CI, smoke checks, and handoff quality.
 - Next useful step: send one role or workflow; I can return fit, risks, smallest responsible first slice, and verification route.
 
+## Ownership Signal
+
+- I can start from incomplete business context, identify the risky boundary, and turn it into a small verifiable delivery plan.
+- I separate backend-owned state from orchestration, prompts, external APIs, and human approval points.
+- I make AI output reviewable through citations, structured JSON, eval checks, logs, approval states, and rollback notes.
+- I leave enough evidence for an async team to review the work without relying on a live explanation: code, CI, smoke checks, docs, runbooks, and handoff notes.
+
 ## Search Alignment
 
 | Search field | Best-fit signal |
