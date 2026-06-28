@@ -20,6 +20,17 @@ Send one remote role, workflow, project, or proof question plus one success cond
 with a fit read, risky assumptions, the smallest responsible first slice, proof path to inspect, and
 the right next route: remote role, fixed-scope project, technical review, or no-fit.
 
+## Message Triggers
+
+Message me when the decision needs a working slice, not a generic intro.
+
+| Trigger | Decision signal | Open first |
+| --- | --- | --- |
+| Remote role needs ownership | Backend/platform, AI automation, integrations, internal tools, or DevOps ownership with a first-month outcome. | `https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html` -> `https://alexgerlitz.github.io/AlexGerlitz/role-targets.html` |
+| Workflow needs AI/RAG | Documents, transcripts, leads, tickets, or operator actions need retrieval, structured analysis, approval, and handoff. | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` -> `https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md` |
+| Integration needs reliability | CRM, ERP, API, 1C, banking, or database handoff needs adapter contracts, retries, idempotency, audit, and rollback notes. | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html` |
+| DevOps needs recovery | Docker, CI, health checks, logs, backups, release gates, or runbooks need a verified recovery path. | `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` -> `https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot` |
+
 ## Best First Link
 
 | Conversation type | Best first link | Why |
