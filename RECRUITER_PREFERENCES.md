@@ -68,7 +68,7 @@ This page mirrors the visible LinkedIn setup recruiters should expect before sen
 3. [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) - flagship backend-owned AI workflow proof route.
 4. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) - 30-second role screen and first-month ownership.
 5. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) - compact route through backend/platform, AI workflow, integration, DevOps, CI, and resume proof.
-6. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.
+6. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international and Europe-compatible remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.
 7. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) - compact resume route.
 
 ## First Contact Fit

@@ -90,7 +90,7 @@ Send one role, workflow, or proof question with one success condition. I can ret
 4. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) - compact proof order for AI workflow/backend/platform work.
 5. [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) - skill-to-proof map plus AI-assisted execution discipline.
 6. [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html) - job title and skill search alignment.
-7. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.
+7. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international and Europe-compatible remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.
 8. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) - CI, live smoke, demos, docs, and proof freshness.
 9. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) - shortest contact route.
 

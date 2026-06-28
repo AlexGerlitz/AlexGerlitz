@@ -20,6 +20,9 @@ Shortlist signal: messy business workflows become backend-owned systems with rec
 integrations, logs, tests, docs, and handoff. Risk I reduce: hidden automation state, brittle
 no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.
 
+Europe-compatible remote signal: written proof routes, English-first docs, async technical review,
+privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff.
+
 Current proof foundation:
 
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)

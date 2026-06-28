@@ -25,6 +25,9 @@ Fast fit checklist: remote-only work with a concrete technical outcome, real sys
 working slice that can be tested, logged, documented, demonstrated, and handed off. Not my target
 right now: onsite-only roles, pure prompt/content tasks, or undefined outcomes.
 
+Europe-compatible remote signal: written proof routes, English-first docs, async technical review,
+privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff.
+
 Shortlist signal: I turn messy business workflows into backend-owned systems with records, state,
 integrations, logs, tests, docs, and handoff. Risk I reduce: hidden automation state, brittle
 no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.

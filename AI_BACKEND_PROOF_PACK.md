@@ -11,7 +11,7 @@ I do not just connect workflow nodes. I move state, RAG, approvals, audit, retri
 ## Proof Order
 
 1. [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) - shortest route through DriveDesk AI Operator, current proof repos, contact path, and role-fit links.
-2. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international remote-team review of architecture, state ownership, reliability, privacy, integration contracts, CI, runbooks, and handoff quality.
+2. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international and Europe-compatible remote-team review of architecture, state ownership, reliability, privacy, integration contracts, CI, runbooks, and handoff quality.
 3. [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) - real Telegram approval evidence with CRM-safe outbox handoff and Bitrix dry-run boundary.
 4. [Live PostgreSQL/pgvector proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt) - runtime storage, RAG quality eval, and restart persistence evidence.
 5. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) - current CI, live smoke, public demos, docs, runbooks, proof freshness, and reviewer links.
