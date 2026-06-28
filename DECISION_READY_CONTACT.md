@@ -11,14 +11,14 @@ Use this when a profile view, recruiter screen, founder request, or technical pr
 | Remote role | Role title, remote setup, product domain, stack, team surface, first-month ownership, hiring timeline. |
 | Workflow / integration | Business process, systems involved, data/documents/leads/tickets, success condition, what must not break, deadline. |
 | Technical proof review | Repo, demo, architecture, claim or risk to validate, current verifier, logs/docs/runbook if safe to share. |
-| Fixed-scope project | Workflow, systems, access/hosting constraints, budget range, deadline, expected handoff depth. |
+| Fixed-scope project | Workflow, systems, closest proof-backed offer route, access/hosting constraints, budget range, deadline, expected handoff depth. |
 
 ## What I Send Back
 
 1. Fit read: whether the role or project matches backend/platform, AI automation, integrations, internal tools, or DevOps ownership.
 2. Risk check: missing information, fragile assumptions, integration/data/access risks, and what should be verified first.
 3. First slice: the smallest responsible working outcome that can prove value.
-4. Proof route: the public repo, live route, CI run, doc, demo, or PDF resume path that best supports the decision.
+4. Proof route: the public repo, live route, CI run, doc, demo, proof-backed offer route, or PDF resume path that best supports the decision.
 5. Next step: call, technical screen, repo review, project scope, or no-fit response.
 
 ## Best First Links
@@ -29,6 +29,8 @@ Use this when a profile view, recruiter screen, founder request, or technical pr
 - [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
 - [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html)
+- [proof-backed fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html)
+- [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
 - [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 
 ## Fast Fit

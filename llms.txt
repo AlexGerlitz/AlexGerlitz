@@ -15,7 +15,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html): search filters, 30-second fit, employer trigger matrix, shortlist scorecard, featured work samples, proof order, message triggers, decision-ready reply, expected first result, shortlist signal, risk reduction, AI-assisted execution proof, and international remote-team proof routing.
 - [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md): maps employer triggers to concrete repo evidence, verification commands, first-result proof, and backend-owned workflow boundaries.
 - [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html): Open-to-Work alignment for job titles, remote work mode, employment types, recruiter search keywords, proof stack by search intent, proof order, and first contact fit.
-- [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html): minimum first context, fit read, risk check, smallest responsible first slice, proof route, and next step.
+- [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html): minimum first context, fit read, risk check, smallest responsible first slice, proof-backed offer route, and next step.
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html): recruiter shortcut, role-target links, PDF resume, proof-backed project offer route, and the fastest contact path.
 - [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html): search intent first links for AI Automation/RAG, Backend/Python/Platform, CRM/ERP/API Integration, DevOps/Reliability, proof-backed fixed-scope offers, plus decision-ready context and response shape.
 - [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html): repo-level evidence across DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm.
@@ -69,7 +69,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 - [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
-- [Inbound brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html)
+- [Inbound brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html): role, project, proof-backed offer route, success condition, systems involved, constraints, and verification context.
 - [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
 - [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 

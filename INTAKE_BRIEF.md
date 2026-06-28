@@ -10,6 +10,8 @@ Fast contact links:
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 - [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
 - [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html)
+- [proof-backed fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html)
+- [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
 Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
@@ -39,13 +41,15 @@ Send:
 ## For A Fixed-Scope Project
 
 If you want a concrete menu before writing, start with
-[Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
+[Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md) and
+[AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 
 Send:
 
 - business process or problem;
 - current tools, data sources, APIs, databases, spreadsheets, chats, or documents;
 - what "done" means in practical terms;
+- closest proof-backed offer route or employer trigger;
 - required output: MVP, working slice, integration adapter, AI workflow, internal tool, DevOps fix,
   runbook, or recovery plan;
 - deadline and budget range;
@@ -88,5 +92,6 @@ I will usually respond with:
 - [Enterprise Readiness](./ENTERPRISE_READINESS.md)
 - [Remote AI Automation Services](./SERVICES.md)
 - [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md)
+- [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
 - [Proof of Work](./PROOF_OF_WORK.md)
 - [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
