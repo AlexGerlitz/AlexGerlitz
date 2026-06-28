@@ -30,6 +30,22 @@ Not my target right now: isolated brochure/static websites, student/course assig
 game clones, or generic mobile/ecommerce apps without backend, integration, or operations
 ownership.
 
+## Proof-Backed Offer Router
+
+Choose the closest trigger, then open the package and proof route that matches it. The proof link shows the implementation pattern before a paid scope starts.
+
+- **AI workflow / RAG:** DriveDesk AI Operator demo or AI workflow / RAG MVP. Proof:
+  [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
+- **CRM/ERP/API integration:** CRM / ERP / API Adapter. Proof:
+  [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
+  and [Skill evidence](./SKILL_EVIDENCE.md).
+- **Backend/platform ownership:** Internal operations platform. Proof:
+  [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and
+  [Enterprise readiness](./ENTERPRISE_READINESS.md).
+- **DevOps / reliability:** DevOps / recovery sprint. Proof:
+  [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and
+  [Verification pack](./VERIFICATION_PACK.md).
+
 Fast first message: send one remote role or one messy workflow with a concrete success condition.
 I can respond fastest when the first context names the business process, systems involved, what
 should improve first, and what must not break.

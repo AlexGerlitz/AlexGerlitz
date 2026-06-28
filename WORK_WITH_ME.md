@@ -22,6 +22,8 @@ For the live LinkedIn service page, see
 For the fastest contact route, see [Start Here](./START_HERE.md).
 For concrete project packages and budget signals, see
 [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
+For proof-backed routing from employer pain to repo evidence, use
+[AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 For useful first context, see [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html).
 
 ## Best Entry Points

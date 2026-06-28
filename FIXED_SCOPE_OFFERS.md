@@ -16,6 +16,24 @@ condition, one small working path, and a clear decision on whether to expand.
 If the workflow is already clear, choose the closest offer below and send the offer name, current
 workflow, systems involved, one success condition, constraints, and what must not break.
 
+## Proof-Backed Offer Router
+
+Use this when the business problem is clear enough to choose a starting package. Each route has a
+public proof map, so the first message can point to an inspectable implementation pattern instead of
+a vague automation request.
+
+- **AI workflow / RAG:** choose DriveDesk AI Operator Demo or AI Ops / RAG Workflow MVP. Proof:
+  [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
+- **CRM/ERP/API integration:** choose Integration Adapter MVP. Proof:
+  [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
+  and [Skill Evidence](./SKILL_EVIDENCE.md).
+- **Backend/platform ownership:** choose Internal Operations Platform Slice. Proof:
+  [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and
+  [Enterprise Readiness](./ENTERPRISE_READINESS.md).
+- **DevOps / reliability:** choose DevOps / Release Recovery Sprint. Proof:
+  [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and
+  [Verification Pack](./VERIFICATION_PACK.md).
+
 ## Fast Menu
 
 | Offer | Best for | Timebox | Budget signal | Public proof |
