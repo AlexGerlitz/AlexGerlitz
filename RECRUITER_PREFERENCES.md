@@ -62,6 +62,16 @@ PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CR
 Integration, Systems Integration, DevOps, n8n, Telegram, runbooks, audit logs, idempotency,
 retries, and operational handoff.
 
+## Current Search-Surface Audit
+
+| Surface | Current target | Proof / next check |
+| --- | --- | --- |
+| Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer. | Keep these aligned with the headline, About, resume, Role Targets, and AI Backend Proof Pack. |
+| Search expansion titles | AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer, Internal Tools Engineer, Backend Platform Engineer, Systems Integration Engineer. | Use these in posts, proof routes, and recruiter search strings rather than widening into unrelated roles. |
+| Top skills order target | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CRM, ERP, API Integration, Systems Integration, DevOps, n8n, Telegram, audit logs, idempotency, retries, runbooks. | Keep the first visible skills tied to proof, not generic AI claims. |
+| Services search surface | Cloud Application Development, Web Development, Application Development, Custom Software Development, Information Management, and IT Consulting are broad labels only. | Route each request through LinkedIn Services Fit, Services, Fixed-Scope Offers, and DriveDesk Proof Route. |
+| Services response loop | Target first response: fit/no-fit, risky assumptions, smallest responsible first slice, proof route, and handoff path. | Strongest for requests that name the current workflow, systems involved, one observable success condition, and what must not break. |
+
 ## LinkedIn Profile Alignment
 
 This page mirrors the visible LinkedIn setup recruiters should expect before sending a message.

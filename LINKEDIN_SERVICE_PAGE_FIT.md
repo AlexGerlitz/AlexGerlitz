@@ -59,6 +59,19 @@ Send one concrete workflow or service request with:
 - what must not break;
 - deadline, budget range, access limits, hosting constraints, and handoff depth when relevant.
 
+## Services Response Loop
+
+When a LinkedIn Services request is a fit, the first response should be concrete:
+
+- fit/no-fit against backend/platform, AI workflow, integration, data, DevOps, or internal-operations ownership;
+- risky assumptions and missing context;
+- smallest responsible first slice;
+- proof route to inspect before paying or scheduling a call;
+- handoff path: tests, logs, docs, runbook, smoke check, deployment note, or support boundary.
+
+Best first message: current workflow, systems involved, one observable success condition, access limits,
+and what must not break.
+
 ## What I Can Send Back
 
 - Fit read against backend/platform, AI workflow, integration, data, DevOps, and internal-operations ownership.
