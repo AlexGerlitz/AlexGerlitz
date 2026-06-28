@@ -12,10 +12,11 @@ I do not just connect workflow nodes. I move state, RAG, approvals, audit, retri
 
 1. [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) - shortest route through DriveDesk AI Operator, current proof repos, contact path, and role-fit links.
 2. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international and Europe-compatible remote-team review of architecture, state ownership, reliability, privacy, integration contracts, CI, runbooks, and handoff quality.
-3. [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) - real Telegram approval evidence with CRM-safe outbox handoff and Bitrix dry-run boundary.
-4. [Live PostgreSQL/pgvector proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt) - runtime storage, RAG quality eval, and restart persistence evidence.
-5. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) - current CI, live smoke, public demos, docs, runbooks, proof freshness, and reviewer links.
-6. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) - compact resume for application upload or recruiter handoff.
+3. [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) - concrete first slices for RAG/transcript, CRM handoff, human approval, and reliability routes.
+4. [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) - real Telegram approval evidence with CRM-safe outbox handoff and Bitrix dry-run boundary.
+5. [Live PostgreSQL/pgvector proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt) - runtime storage, RAG quality eval, and restart persistence evidence.
+6. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) - current CI, live smoke, public demos, docs, runbooks, proof freshness, and reviewer links.
+7. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) - compact resume for application upload or recruiter handoff.
 
 ## Role Shortlist
 
@@ -33,7 +34,7 @@ I do not just connect workflow nodes. I move state, RAG, approvals, audit, retri
 | If the role/request is | I can own first | Proof to open |
 | --- | --- | --- |
 | Backend/platform role | Map one business workflow, model records and state, expose API/admin behavior, add tests, docs, and a deploy path. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html). |
-| AI automation / RAG role | Build one retrieval or transcript workflow with citations, structured output, quality eval, approval boundary, and logs. | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) and [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md). |
+| AI automation / RAG role | Build one retrieval or transcript workflow with citations, structured output, quality eval, approval boundary, and logs. | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md), and [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md). |
 | CRM/ERP/API integration role | Define source/target contracts, map fields, validate input, add retries/idempotency, dry-run boundary, and rollout notes. | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) and [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html). |
 | DevOps/recovery role | Add or harden Docker/CI, health checks, logs, smoke checks, backup/recovery notes, and operator runbook. | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html). |
 
