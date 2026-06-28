@@ -26,6 +26,12 @@ Fast fit checklist:
   student/course assignments, standalone game clones, generic mobile/ecommerce apps without
   backend/integration ownership, or undefined outcomes.
 
+## First Reply Promise
+
+Send one remote role, workflow, project, or technical review plus one success condition. I will answer
+with a fit read, risky assumptions, the smallest responsible first slice, proof path to inspect, and
+the right next route: remote role, fixed-scope project, technical review, or no-fit.
+
 ## For A Role
 
 Send:
