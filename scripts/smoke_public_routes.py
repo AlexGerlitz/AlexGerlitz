@@ -200,7 +200,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "LinkedIn recruiter packet",
             "linkedin-recruiter-packet.html",
             "shortlist signal, risk-to-proof routing, AI execution proof, recruiter Boolean search strings, and message triggers",
-            "Risk-to-proof screen: hidden automation state -&gt; audit/outbox/retries; unverifiable AI output -&gt; citations/eval/approval; brittle CRM handoff -&gt; adapter contract/idempotency/dead-letter; remote delivery risk -&gt; CI/smoke/runbooks/handoff notes.",
+            "Risk-to-proof screen: hidden automation state -> audit/outbox/retries; unverifiable AI output -> citations/eval/approval; brittle CRM handoff -> adapter contract/idempotency/dead-letter; remote delivery risk -> CI/smoke/runbooks/handoff notes.",
             "AI output, automation state, CRM handoff, and remote delivery risks are mapped to citations, eval checks, approvals, outbox, retries, CI, smoke checks, runbooks, and handoff notes.",
             "Recruiter Boolean search strings",
             "Search filters, shortlist signal, risk reduction, AI execution proof, recruiter Boolean search strings, and message triggers.",
