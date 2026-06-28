@@ -18,6 +18,19 @@ Last checked: 2026-06-28.
 7. Check whether the project has tests, CI, docs, runbooks, demo paths, or explicit reviewer
    snapshots.
 
+## Live LinkedIn Alignment
+
+Read-only checked on 2026-06-28.
+
+| LinkedIn surface | Current public signal |
+| --- | --- |
+| Headline | AI Automation / Backend / Platform Engineer with RAG, LLM workflows, CRM/ERP integrations, FastAPI, Docker, DevOps, and DriveDesk AI Operator. |
+| Open-to-Work | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, and DevOps Engineer. |
+| About | Starts with backend-owned AI workflow and operations systems for real businesses and uses AI-assisted execution language. |
+| Experience | Profile shows AutoSchool54 / Автошкола 54 remote infrastructure support since March 2024. |
+| Featured route | DriveDesk AI Operator - Proof Route first, then Fixed-Scope AI Automation Offers and DriveDesk Core; extended proof stack is routed through GitHub/Pages. |
+| Services | Available remote Services route for concrete backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow requests. |
+
 ## Pinned Repository Order
 
 The GitHub profile pins are intentionally ordered as a review funnel:

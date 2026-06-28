@@ -23,6 +23,18 @@ This is the proof route for international employer-grade review: teams that need
 | 10-minute technical review | [AI Ops reviewer snapshot](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), and [verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) | Proof that RAG, approvals, adapter contracts, state, tests, CI, docs, and public-safe evidence are inspectable. |
 | 30-minute specialist review | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), [live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), and current CI/smoke routes | Evidence for specialist ownership: privacy, audit, retries, idempotency, deployment/recovery thinking, runbooks, and handoff quality. |
 
+## International Specialist Signal
+
+For high-bar international teams, the strongest signal is not broad availability. It is a specific overlap that is expensive to assemble: backend/platform ownership, AI workflow engineering, CRM/ERP/API integration, DevOps recovery, business operations context, and public verification discipline.
+
+| High-bar question | Evidence to inspect | Signal |
+| --- | --- | --- |
+| Can I own the system of record, not only an automation layer? | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html), and [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) | FastAPI/PostgreSQL state, roles, records, audit/outbox, adapter contracts, OpenAPI, CI, and demo routes. |
+| Can AI output be reviewed and trusted? | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), RAG quality eval, citations, structured JSON, approval states, and live proof | RAG and transcript workflows have quality checks, human approval, logs, and rollback-aware handoff. |
+| Can integrations survive real business constraints? | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), Bitrix dry-run, Telegram approval, [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), and [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) | External writes are behind contracts, retries, idempotency, dead-letter behavior, CI, smoke checks, and runbooks. |
+| Can a remote team evaluate me asynchronously? | English-first docs, [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html), [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | Reviewers can check role fit, evidence, current proof, and first-month ownership without a live explanation. |
+| Can I turn unclear operations into a first working slice? | [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html), [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html), and [Work With Me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html) | Incomplete context becomes a risk map, smallest responsible slice, test path, docs, and handoff route. |
+
 ## International Employer Signals
 
 - Qualification depth: backend/platform work, AI workflow engineering, CRM/ERP/API integration, DevOps, and support of real business infrastructure are tied to public proof.
@@ -83,4 +95,4 @@ The main engineering distinction: n8n can orchestrate events, while backend code
 
 ## Next Stronger Proof
 
-Keep extending DriveDesk AI Operator with a visible observability dashboard, integration drill, real sandbox adapter proof, and a short demo video/GIF once the runtime is stable.
+Keep extending DriveDesk AI Operator with a visible observability dashboard, real sandbox adapter proof, cloud/IaC deployment proof, data-retention/privacy notes, and a short demo video/GIF once the runtime is stable.
