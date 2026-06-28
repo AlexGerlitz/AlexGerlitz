@@ -53,6 +53,16 @@
             { "@type": "ListItem", "position": 3, "name": "English-first docs, async proof routes, compact reviewer paths, CI, smoke checks, runbooks, and handoff quality" },
             { "@type": "ListItem", "position": 4, "name": "One messy workflow can become a verified first slice with operator handoff" }
           ]
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html#specialist-reason",
+          "name": "Specialist reason to message",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "One person can connect business workflow, backend state, AI output, integration contracts, and operational handoff" },
+            { "@type": "ListItem", "position": 2, "name": "The proof is not a prompt demo: it includes RAG eval, approvals, audit, retries, idempotency, CI, smoke checks, and runbooks" },
+            { "@type": "ListItem", "position": 3, "name": "Best first assignment is a risky workflow slice that needs to become inspectable, repeatable, and safe to hand off" }
+          ]
         }
       ],
       "mainEntity": {
@@ -100,10 +110,12 @@
       color: var(--ink);
       background: var(--paper);
       line-height: 1.55;
+      max-width: 100%;
+      overflow-x: hidden;
     }
     a { color: var(--blue); text-decoration: none; }
     a:hover { text-decoration: underline; text-underline-offset: 3px; }
-    .shell { max-width: 1080px; margin: 0 auto; padding: 28px 20px 48px; }
+    .shell { max-width: 1080px; width: 100%; margin: 0 auto; padding: 28px 20px 48px; }
     .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
     .nav a,
     .button {
@@ -127,6 +139,8 @@
       border: 1px solid var(--line);
       border-radius: 8px;
       box-shadow: 0 16px 34px rgba(24, 32, 42, 0.08);
+      max-width: 100%;
+      min-width: 0;
     }
     .hero { padding: 30px; margin-bottom: 18px; }
     .panel,
@@ -139,18 +153,18 @@
       font-size: 0.78rem;
       letter-spacing: 0;
     }
-    h1 { margin: 8px 0 10px; font-size: clamp(2.1rem, 5vw, 3.45rem); line-height: 1.04; letter-spacing: 0; }
+    h1 { margin: 8px 0 10px; font-size: clamp(2.1rem, 5vw, 3.45rem); line-height: 1.04; letter-spacing: 0; max-width: 100%; overflow-wrap: anywhere; word-break: break-word; }
     h2 { margin: 0 0 12px; font-size: 1.25rem; }
     h3 { margin: 0 0 8px; font-size: 1rem; }
-    p { margin: 0 0 12px; }
-    .lead { max-width: 880px; color: var(--muted); font-size: 1.08rem; }
-    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    p { margin: 0 0 12px; max-width: 100%; overflow-wrap: anywhere; word-break: break-word; }
+    .lead { max-width: 880px; color: var(--muted); font-size: 1.08rem; overflow-wrap: anywhere; word-break: break-word; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; max-width: 100%; min-width: 0; }
     .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
     .two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
     .card p { color: var(--muted); }
     ul, ol { margin: 0; padding-left: 20px; }
-    li { margin: 7px 0; }
-    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+    li { margin: 7px 0; max-width: 100%; overflow-wrap: anywhere; word-break: break-word; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; max-width: 100%; min-width: 0; }
     .tag {
       display: inline-flex;
       min-height: 32px;
@@ -168,10 +182,16 @@
     @media (max-width: 860px) {
       .grid,
       .two { grid-template-columns: 1fr; }
-      h1 { font-size: 2rem; }
+      .hero { padding: 22px; }
+      h1 { font-size: 1.72rem; }
+      .lead { font-size: 1rem; }
       .actions { display: grid; }
       .button,
       .nav a { width: 100%; }
+    }
+    @media (max-width: 480px) {
+      h1,
+      .lead { max-width: calc(100vw - 96px); }
     }
   </style>
 </head>
@@ -251,6 +271,16 @@
         <li>Engineering surface: backend/platform implementation, AI workflow engineering, CRM/ERP/API integration, DevOps recovery thinking, and public verification discipline.</li>
         <li>Remote execution: English-first docs, async proof routes, compact reviewer paths, CI, smoke checks, runbooks, and handoff quality.</li>
         <li>Hiring reason: I can take one messy workflow, define the first responsible slice, ship it, verify it, document it, and leave an operator path.</li>
+      </ul>
+    </section>
+
+    <section class="panel section">
+      <h2>Specialist Reason To Message</h2>
+      <p>The useful overlap is one person who can connect business workflow, backend state, AI output, integration contracts, and operational handoff without turning the system into hidden glue.</p>
+      <ul>
+        <li>Best first assignment: a risky workflow slice that needs to become inspectable, repeatable, and safe to hand off.</li>
+        <li>Proof style: RAG eval, approvals, audit, retries, idempotency, CI, smoke checks, runbooks, and public-safe evidence.</li>
+        <li>Team value: I can reduce ambiguity before scale by proving the first backend-owned path and documenting what should happen next.</li>
       </ul>
     </section>
 
