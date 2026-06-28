@@ -788,6 +788,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Open recruiter packet",
         ),
         social_preview=True,
+        social_image_prefix="https://alexgerlitz.github.io/AlexGerlitz/assets/drivedesk-demo-card.png",
         canonical_url="https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html",
     ),
     RouteCheck(
@@ -1754,6 +1755,13 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "ai-backend-proof-pack-card-image",
         "https://alexgerlitz.github.io/AlexGerlitz/assets/ai-backend-proof-pack-card.png?v=2026-06-28-proof-pack",
+        content_type="image/png",
+        min_bytes=10_000,
+        png_dimensions=(1200, 630),
+    ),
+    RouteCheck(
+        "drivedesk-demo-card-image",
+        "https://alexgerlitz.github.io/AlexGerlitz/assets/drivedesk-demo-card.png?v=2026-06-28-demo-card",
         content_type="image/png",
         min_bytes=10_000,
         png_dimensions=(1200, 630),

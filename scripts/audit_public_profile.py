@@ -141,6 +141,8 @@ REQUIRED_FILES = [
     "assets/recruiter-card.svg",
     "assets/ai-backend-proof-pack-card.png",
     "assets/ai-backend-proof-pack-card.svg",
+    "assets/drivedesk-demo-card.png",
+    "assets/drivedesk-demo-card.svg",
     "assets/favicon.svg",
     "llms.txt",
     "sitemap.xml",
@@ -1652,6 +1654,8 @@ REQUIRED_TEXT = {
         "n8n can orchestrate events, while backend code owns records, state, audit, retries, idempotency, privacy boundaries, and integration contracts.",
         "The current AI Ops proof is green on commit <code>56c03fe</code> with CI run <code>28322174530</code>.",
         "Open recruiter packet",
+        'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/drivedesk-demo-card.png?v=2026-06-28-demo-card"',
+        'name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/drivedesk-demo-card.png?v=2026-06-28-demo-card"',
     ],
     "ONE_PAGE_BRIEF.md": [
         "DriveDesk AI Operator Proof Route",
@@ -1703,6 +1707,14 @@ REQUIRED_TEXT = {
         "LINKEDIN FEATURED / AI WORKFLOWS + BACKEND PLATFORM",
         "RAG workflows / FastAPI + PostgreSQL / CRM adapters / Docker + CI",
         "alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html",
+    ],
+    "assets/drivedesk-demo-card.svg": [
+        "DriveDesk AI Operator Demo - Alex Gerlitz",
+        "DRIVEDESK AI OPERATOR DEMO / BACKEND-OWNED WORKFLOW",
+        "Transcript -> RAG ->",
+        "approval -> CRM-safe",
+        "Backend owns state, RAG quality, audit, retries, and contracts.",
+        "alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html",
     ],
     "assets/linkedin-banner.svg": [
         "Alex Gerlitz LinkedIn banner",
@@ -2410,6 +2422,7 @@ def check_png_size(errors: list[str]) -> None:
     check_png_dimensions(errors, "assets/social-card.png", (1200, 630))
     check_png_dimensions(errors, "assets/recruiter-card.png", (1200, 630))
     check_png_dimensions(errors, "assets/ai-backend-proof-pack-card.png", (1200, 630))
+    check_png_dimensions(errors, "assets/drivedesk-demo-card.png", (1200, 630))
     check_png_dimensions(errors, "assets/linkedin-banner.png", (1584, 396))
 
 
