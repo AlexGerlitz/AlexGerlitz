@@ -58,7 +58,7 @@ Checked on 2026-06-28:
 - DriveDesk Core has a public fast reviewer route and public demo path.
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
-- AI Ops latest checked CI run succeeded on `f08ca0d`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28296918579
+- AI Ops latest checked CI run succeeded on `dc0c307`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28321731019
 - AI Ops live smoke passed on app SHA `1a83406` with `storage=postgres` and `rag_eval=2/2` at https://saleops.duckdns.org.
 - AI Ops live PostgreSQL/pgvector persistence proof survived an API container restart: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt
 - AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
