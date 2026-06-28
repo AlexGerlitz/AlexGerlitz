@@ -4,6 +4,9 @@ Public route: https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.h
 
 Use this when a profile view, recruiter screen, founder request, or technical proof check should turn into a concrete next step instead of a generic intro.
 
+The public HTML route also exposes structured contact-route data: minimum first-contact context,
+decision-ready reply shape, and best first proof links.
+
 ## First Reply Promise
 
 Send one remote role, workflow, project, or proof question plus one success condition. I will answer
