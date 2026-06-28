@@ -65,6 +65,16 @@ These are the terms that best match the current public proof:
 - Docker / CI Engineer
 - Platform / Operations Engineer
 
+## Recruiter Boolean Search Strings
+
+These short strings match the public proof without requiring a recruiter to infer the stack:
+
+- `("AI Automation Engineer" OR "LLM Workflow" OR RAG) AND (Python OR FastAPI) AND (CRM OR ERP OR integration)`
+- `(Python OR FastAPI) AND (PostgreSQL OR pgvector) AND (Docker OR "GitHub Actions") AND (remote OR async)`
+- `("Backend Platform Engineer" OR "Platform Engineer") AND (OpenAPI OR audit OR outbox OR "workflow state")`
+- `("Integration Engineer" OR "Systems Integration") AND (CRM OR ERP OR 1C OR banking OR webhooks) AND (idempotency OR retries OR audit)`
+- `(DevOps OR self-hosting) AND (Docker OR CI OR "health checks" OR runbooks) AND FastAPI`
+
 ## Recruiter Search Snapshot
 
 The fastest search match is remote work where the title or job description includes backend,

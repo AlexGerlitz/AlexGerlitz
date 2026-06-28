@@ -21,6 +21,16 @@ Use this as the aligned Open-to-Work and recruiter-search preference set for rem
 
 Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM, ERP, Systems Integration, API Integration, n8n, Telegram, DevOps, OpenAPI, pgvector, CI, runbooks, audit logs, idempotency, retries, backend-owned state, and operational handoff.
 
+## Recruiter Boolean Search Strings
+
+Use short keyword strings when a recruiter needs to find this profile by technical intent:
+
+- `("AI Automation Engineer" OR "LLM Workflow" OR RAG) AND (Python OR FastAPI) AND (CRM OR ERP OR integration)`
+- `(Python OR FastAPI) AND (PostgreSQL OR pgvector) AND (Docker OR "GitHub Actions") AND (remote OR async)`
+- `("Backend Platform Engineer" OR "Platform Engineer") AND (OpenAPI OR audit OR outbox OR "workflow state")`
+- `("Integration Engineer" OR "Systems Integration") AND (CRM OR ERP OR 1C OR banking OR webhooks) AND (idempotency OR retries OR audit)`
+- `(DevOps OR self-hosting) AND (Docker OR CI OR "health checks" OR runbooks) AND FastAPI`
+
 ## LinkedIn Skills Search Surface
 
 The profile is easiest to evaluate when every major skill filter has the same public pattern:

@@ -42,6 +42,14 @@ This profile is strongest when the role needs a builder who can connect business
 | Work mode | Remote-only full-time roles, plus concrete fixed-scope projects with a working backend/AI/integration slice. |
 | First message trigger | Send one remote role or one business workflow with one success condition, systems involved, ownership boundary, and timeline. |
 
+## Recruiter Search Queries
+
+- AI workflow: `("AI Automation Engineer" OR "LLM Workflow" OR RAG) AND (Python OR FastAPI) AND (CRM OR ERP OR integration)`
+- Backend/platform: `(Python OR FastAPI) AND (PostgreSQL OR pgvector) AND (Docker OR "GitHub Actions") AND (remote OR async)`
+- Platform ownership: `("Backend Platform Engineer" OR "Platform Engineer") AND (OpenAPI OR audit OR outbox OR "workflow state")`
+- CRM/ERP/API integration: `("Integration Engineer" OR "Systems Integration") AND (CRM OR ERP OR 1C OR banking OR webhooks) AND (idempotency OR retries OR audit)`
+- DevOps/self-hosting: `(DevOps OR self-hosting) AND (Docker OR CI OR "health checks" OR runbooks) AND FastAPI`
+
 ## Employer Trigger Matrix
 
 Message me when the hiring or project need matches one of these concrete triggers. Each route has a short proof path and a first result that can be reviewed quickly.
