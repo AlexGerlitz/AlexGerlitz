@@ -17,6 +17,8 @@ Now open for **remote-only full-time roles** and fixed-scope projects where the 
 | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | Compact technical screen across backend/platform, integrations, DevOps, verification, and resume evidence. |
 | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) | Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-assisted execution discipline. |
 
+Employer trigger router: message me for AI workflow/RAG, CRM/ERP/API integration, backend/platform ownership, or DevOps reliability work when the first useful result should be a verified slice with tests, logs, docs, and handoff.
+
 Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, Integration Engineer.
 
 LinkedIn recruiter search alignment: remote-only full-time roles where Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM/ERP/API integration, Systems Integration, DevOps, OpenAPI, n8n, Telegram, or pgvector appear in the role.
@@ -71,9 +73,7 @@ Since **March 2024**, I have supported Autoschool54 digital infrastructure remot
 
 ## How I Use AI
 
-AI tooling is part of my engineering workflow: domain research, decomposition, implementation
-options, code/script generation, debugging, docs, tests, and review move faster. I still own the
-architecture, state, security boundaries, verification, deployment, logs, fixes, and shipped quality.
+AI tooling is part of my engineering workflow: domain research, decomposition, implementation options, code/script generation, debugging, docs, tests, and review move faster. I still own the architecture, state, security boundaries, verification, deployment, logs, fixes, and shipped quality.
 
 ## Contact
 - LinkedIn: [linkedin.com/in/alex-gerlitz-a659ab3bb](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)

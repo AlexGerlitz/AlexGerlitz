@@ -34,6 +34,17 @@ This profile is strongest when the role needs a builder who can connect business
 | Work mode | Remote-only full-time roles, plus concrete fixed-scope projects with a working backend/AI/integration slice. |
 | First message trigger | Send one remote role or one business workflow with one success condition, systems involved, ownership boundary, and timeline. |
 
+## Employer Trigger Matrix
+
+Message me when the hiring or project need matches one of these concrete triggers. Each route has a short proof path and a first result that can be reviewed quickly.
+
+| Trigger | Employer pain | Proof to open | First result I can own |
+| --- | --- | --- | --- |
+| AI workflow / RAG | Documents, transcripts, calls, or leads need retrieval, structured analysis, scoring, and human approval. | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) and [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) | One backend-owned workflow slice with RAG, structured output, approval, tests, logs, and operator handoff. |
+| CRM/ERP/API integration | Business systems are connected through brittle manual steps, hidden automation state, or unclear ownership. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) and [live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) | Adapter contract, idempotent handoff, retries/dead-letter path, audit trail, and rollback notes. |
+| Backend/platform ownership | The team needs records, roles, state, admin/operator flows, integration boundaries, and OpenAPI clarity. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) | FastAPI/PostgreSQL slice with records, access boundaries, API contract, CI, docs, and demo route. |
+| DevOps / reliability | A self-hosted workflow needs Docker, health checks, smoke tests, logs, recovery, and a runbook. | [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) and [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) | Verified deployment/recovery path with smoke checks, metrics/log notes, runbook, and release gate. |
+
 ## Featured Work Samples
 
 Use the visible work-sample stack as a fast proof route:

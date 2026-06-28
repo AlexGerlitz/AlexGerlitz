@@ -48,7 +48,10 @@
     li { margin: 7px 0; }
     .tag-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
     .tag { border: 1px solid var(--line); border-radius: 999px; padding: 5px 9px; background: var(--soft); color: var(--blue); font-size: 0.86rem; font-weight: 700; }
-    @media (max-width: 920px) { .grid, .two { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .actions { display: grid; } .button, .nav a { width: 100%; } }
+    .matrix { width: 100%; border-collapse: collapse; }
+    .matrix th, .matrix td { border-top: 1px solid var(--line); padding: 11px 10px; text-align: left; vertical-align: top; }
+    .matrix th { color: var(--muted); font-size: 0.88rem; }
+    @media (max-width: 920px) { .grid, .two { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .actions { display: grid; } .button, .nav a { width: 100%; } .matrix, .matrix tbody, .matrix tr, .matrix td, .matrix th { display: block; width: 100%; } .matrix th { display: none; } }
   </style>
 </head>
 <body>
@@ -127,6 +130,47 @@
         <h2>Fast Next Step</h2>
         <p>Send one role or workflow with one success condition and the systems involved. I can map fit, risks, first slice, and verification route.</p>
       </article>
+    </section>
+
+    <section class="section panel" aria-label="Employer trigger matrix">
+      <h2>Employer Trigger Matrix</h2>
+      <p>Message me when the hiring or project need matches one of these concrete triggers. Each route has a short proof path and a first result that can be reviewed quickly.</p>
+      <table class="matrix">
+        <thead>
+          <tr>
+            <th>Trigger</th>
+            <th>Employer pain</th>
+            <th>Proof to open</th>
+            <th>First result I can own</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>AI workflow / RAG</td>
+            <td>Documents, transcripts, calls, or leads need retrieval, structured analysis, scoring, and human approval.</td>
+            <td><a href="./drivedesk-proof-route.html">DriveDesk Proof Route</a> and <a href="./ai-automation-role-fit.html">AI Automation Role Fit</a></td>
+            <td>One backend-owned workflow slice with RAG, structured output, approval, tests, logs, and operator handoff.</td>
+          </tr>
+          <tr>
+            <td>CRM/ERP/API integration</td>
+            <td>Business systems are connected through brittle manual steps, hidden automation state, or unclear ownership.</td>
+            <td><a href="./skill-evidence.html">Skill Evidence</a> and <a href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md">live owner proof</a></td>
+            <td>Adapter contract, idempotent handoff, retries/dead-letter path, audit trail, and rollback notes.</td>
+          </tr>
+          <tr>
+            <td>Backend/platform ownership</td>
+            <td>The team needs records, roles, state, admin/operator flows, integration boundaries, and OpenAPI clarity.</td>
+            <td><a href="https://github.com/AlexGerlitz/drivedesk-core">DriveDesk Core</a> and <a href="./enterprise-readiness.html">Enterprise Readiness</a></td>
+            <td>FastAPI/PostgreSQL slice with records, access boundaries, API contract, CI, docs, and demo route.</td>
+          </tr>
+          <tr>
+            <td>DevOps / reliability</td>
+            <td>A self-hosted workflow needs Docker, health checks, smoke tests, logs, recovery, and a runbook.</td>
+            <td><a href="./verification-pack.html">Verification Pack</a> and <a href="https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot">DeployMate proof</a></td>
+            <td>Verified deployment/recovery path with smoke checks, metrics/log notes, runbook, and release gate.</td>
+          </tr>
+        </tbody>
+      </table>
     </section>
 
     <section class="section panel" aria-label="Shortlist scorecard">
