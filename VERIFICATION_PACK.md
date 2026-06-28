@@ -91,13 +91,15 @@ Checked on 2026-06-28:
 - DeployMate latest public evidence bundle succeeded on `b139a9a`: https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
-- Profile funnel has current default-branch checks for public audit, Pages deployment, and live smoke.
-- Profile proof is guarded by Profile Funnel Audit, Pages deploy, and Live Profile Smoke on `main`.
+- Latest checked profile-proof snapshot is green on `6c18a5c`.
+- Profile Funnel Audit succeeded on `6c18a5c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326042302
+- Profile Pages deployment succeeded on `6c18a5c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326041898
+- Live Profile Smoke succeeded on `6c18a5c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326042317
 - GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
 - Live Profile Smoke workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml?query=branch%3Amain
-- Live Profile Smoke includes rendered GitHub profile checks for the bio, recruiter shortcut, LinkedIn contact path, and message reason router: https://github.com/AlexGerlitz
+- Live Profile Smoke includes rendered GitHub profile checks for the bio, recruiter shortcut, LinkedIn contact path, message reason router, Recruiter Filter Map, Message Triggers, pinned repositories, PDF resume, social cards/images, and proof routes: https://github.com/AlexGerlitz
 - Work With Me and Role Targets routes are published: https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html and https://alexgerlitz.github.io/AlexGerlitz/role-targets.html
 - MPlusForm `main` is green on `e0e6876`.
 - MPlusForm Public Verification succeeded on `e0e6876`: https://github.com/AlexGerlitz/MPlusForm/actions/runs/28296918568
