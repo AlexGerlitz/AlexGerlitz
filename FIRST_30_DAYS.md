@@ -6,6 +6,19 @@ fixed-scope engagement.
 The pattern is direct: understand the messy workflow, identify the risky boundary, ship a small
 working slice, then leave verification and handoff artifacts behind.
 
+## Month-One Decision Scorecard
+
+Use this as the fast hiring or project decision: if the team has one painful workflow and enough
+access to test it safely, I can make the first month measurable instead of exploratory.
+
+| Decision question | Month-one output | Proof left behind |
+| --- | --- | --- |
+| Can I understand the business workflow quickly? | Workflow/risk map, systems inventory, first success condition, and explicit unknowns. | Notes that show users, data, failure points, boundaries, and what should not be automated blindly. |
+| Can I ship backend/platform value without waiting for perfect specs? | One API, admin, workflow, or data-state slice with validation and a small deploy/review path. | Code, tests or smoke checks, docs, and a clear next slice. |
+| Can I make AI output reviewable? | One RAG, transcript, ticket, lead, or approval path with structured output and human review. | Citations or source links, JSON shape, eval/smoke evidence, logs, and approval state. |
+| Can I handle messy integrations? | One source/target contract, mapping, validation, retry/error path, or sandbox handoff. | Adapter notes, idempotency/retry behavior, audit/log evidence, and rollout risks. |
+| Can I improve reliability? | One CI/release gate, health check, smoke command, backup/recovery note, or runbook improvement. | Command output, CI link, health/log evidence, and operator handoff notes. |
+
 ## First 48 Hours
 
 | Focus | Output |
@@ -67,6 +80,16 @@ Expected evidence:
 | Verification | Keep the proof inspectable: CI, tests, smoke checks, logs, screenshots only when useful, and docs. |
 | Roadmap | Turn findings into the next 2-4 slices with risk, effort, dependencies, and expected value. |
 | Ownership | Leave behind enough docs/runbooks that someone else can operate or review the result. |
+
+## Role-Specific First-Month Outcomes
+
+| Role / project surface | Useful first-month outcome |
+| --- | --- |
+| Backend / Python | Ship one FastAPI/PostgreSQL slice with records, validation, tests, docs, and an operator handoff note. |
+| AI automation / RAG | Ship one document/transcript/ticket/lead workflow with retrieval or analysis, structured output, approval state, and repeatable checks. |
+| CRM / ERP / API integration | Ship one adapter or sandbox handoff with source/target contract, mapping, validation, idempotency, retry/error path, and logs. |
+| Platform / DevOps | Improve one deploy, health, smoke, backup, recovery, or release gate so the team can verify service state faster. |
+| Internal tools | Replace one manual spreadsheet/chat/admin step with records, roles, actions, audit trail, and handoff docs. |
 
 ## What I Need To Start
 
