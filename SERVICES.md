@@ -16,6 +16,11 @@ recovery sprint, or DriveDesk AI Operator-style proof route.
 Best-fit request shape: backend-owned state, data sources, integration boundaries, approval flow,
 deployment/recovery path, or AI/RAG step that can be proven with logs, tests, docs, and a handoff.
 
+First reply promise: send one remote role or one workflow plus one success condition. I will answer
+with a fit read, risky assumptions, the smallest responsible first slice, the proof path to inspect
+before committing, and whether the next step is a role conversation, fixed-scope project, technical
+review, or no-fit.
+
 LinkedIn Services request filter: if LinkedIn routes the request as Web Development, Application
 Development, or Custom Software Development, I still treat it as a fit only when the work has
 backend/platform, AI workflow, integration, DevOps, or internal-operations ownership. A website

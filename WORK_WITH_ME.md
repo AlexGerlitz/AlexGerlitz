@@ -26,6 +26,12 @@ For proof-backed routing from employer pain to repo evidence, use
 [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 For useful first context, see [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html).
 
+## First Reply Promise
+
+Send one remote role or one workflow plus one success condition. I will return a fit read, risky
+assumptions, the smallest responsible first slice, proof path, and the right next route: remote role
+conversation, fixed-scope project, technical review, or no-fit.
+
 ## Best Entry Points
 
 ### 1. Workflow Teardown + Working Slice
