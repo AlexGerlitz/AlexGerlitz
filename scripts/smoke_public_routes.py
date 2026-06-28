@@ -136,6 +136,8 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "AlexGerlitz - Overview",
             "AI Automation / Backend / Platform Engineer building DriveDesk",
+            "backend-owned AI automation and platform systems",
+            "RAG/LLM workflows, CRM/ERP integrations, FastAPI/PostgreSQL, Docker/CI, DevOps",
             "Recruiter shortcut / 30-second screen",
             "Message me first when",
             "one messy workflow, one risky integration boundary, or one",

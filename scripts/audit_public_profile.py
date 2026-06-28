@@ -150,6 +150,8 @@ REQUIRED_TEXT = {
     "README.md": [
         "actions/workflows/profile-audit.yml/badge.svg?branch=main",
         "actions/workflows/live-profile-smoke.yml/badge.svg?branch=main",
+        "AI Automation / Backend / Platform Engineer building **DriveDesk** as backend-owned AI automation and platform systems",
+        "RAG/LLM workflows, CRM/ERP integrations, FastAPI/PostgreSQL, Docker/CI, DevOps, runbooks, and recovery paths",
         "Now open for **remote-only full-time roles**",
         "Search-fit titles: Back End Developer, Python Developer",
         "LinkedIn recruiter search alignment",
