@@ -21,6 +21,7 @@ Use this packet when a LinkedIn search, profile view, or first message needs a f
 This profile is strongest when the role needs a builder who can connect business operations, backend systems, AI workflow, integrations, and reliability into one verified slice.
 
 - Business context: real operational infrastructure support since March 2024, with admin/operator workflows, documents, accounts, access, deployment, logs, backups, and recovery paths.
+- Specialist overlap: backend/platform ownership, AI workflow engineering, CRM/ERP/API integration, DevOps reliability, and real business operations context are tied to public proof.
 - Technical overlap: Python/FastAPI/PostgreSQL, RAG and transcript workflows, CRM/ERP/API adapters, Docker/CI, audit logs, retries, idempotency, runbooks, and public proof routes.
 - Remote/international signal: English-first docs, async review paths, compact evidence routes, privacy boundaries, CI, smoke checks, and handoff quality.
 - Next useful step: send one role or workflow; I can return fit, risks, smallest responsible first slice, and verification route.

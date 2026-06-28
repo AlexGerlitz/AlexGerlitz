@@ -41,6 +41,18 @@ These are the signals a distributed product or operations team can inspect befor
 - Delivery loop: define the smallest responsible slice, ship it, verify it with tests/CI/live smoke, and document the operator handoff.
 - Business fit: AI workflow/RAG, CRM/ERP/API integration, internal operations tooling, and DevOps recovery work where results must be inspectable.
 
+## Specialist Review Evidence
+
+This is the useful hiring signal: not generic AI tooling, but a rare overlap of business operations, backend/platform ownership, AI workflow engineering, integrations, and DevOps discipline.
+
+| Specialist signal | Public proof | Why it matters |
+| --- | --- | --- |
+| Real operations context | Autoschool54 digital infrastructure support since March 2024, DriveDesk platform direction, and public proof routes | The work is grounded in real admin/operator workflows, not only portfolio exercises. |
+| Backend-owned AI systems | DriveDesk AI Operator, AI Ops Workflow Kit, FastAPI/PostgreSQL, pgvector, approvals, audit, retries, and idempotency | AI workflows stay reviewable because state, quality checks, and external writes have explicit backend boundaries. |
+| Integration depth | CRM/ERP/API/1C/accounting/banking adapter direction, Bitrix dry-run handoff, Telegram approval, and adapter contracts | Business systems need field mapping, validation, retries, idempotency, and rollback notes, not hidden automation glue. |
+| Production review discipline | CI, smoke checks, verification pack, live owner proof, privacy boundary, runbooks, and public-safe evidence | A remote team can inspect risk, behavior, and handoff quality before a live walkthrough. |
+| International async readiness | English-first docs, compact proof order, first-month ownership, and explicit next decision routes | The profile can be evaluated across time zones through written evidence instead of personal explanation. |
+
 ## Specialist Review Signal
 
 My strongest surface is not generic AI automation. It is backend-owned business workflow engineering where AI, data, approvals, CRM/ERP/API adapters, DevOps, and handoff quality have explicit contracts.
