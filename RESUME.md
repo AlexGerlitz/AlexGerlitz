@@ -28,6 +28,8 @@ right now: onsite-only roles, pure prompt/content tasks, or undefined outcomes.
 Shortlist signal: I turn messy business workflows into backend-owned systems with records, state,
 integrations, logs, tests, docs, and handoff. Risk I reduce: hidden automation state, brittle
 no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.
+Ownership signal: incomplete context -> risky boundary -> reviewable outcome with backend-owned
+state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
 
 ## Target Work
 

@@ -854,6 +854,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "DriveDesk AI Operator proof route",
             "Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.",
             "Risk I reduce: hidden automation state, brittle no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.",
+            "Ownership signal: incomplete context -> risky boundary -> reviewable outcome with backend-owned state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.",
             "PDF resume",
             "Remote-only backend, platform, DevOps, and AI automation roles.",
         ),
