@@ -171,6 +171,7 @@ REQUIRED_TEXT = {
         "AI Automation Role Fit",
         "Flagship backend-owned AI workflow: RAG, transcript analysis, approval, CRM handoff, audit, retries, and adapter boundaries.",
         "Compact technical screen across backend/platform, integrations, DevOps, verification, and resume evidence.",
+        "Ownership signal: incomplete business context -> risky boundary -> small verifiable delivery plan with backend-owned state, AI-output review, CI, smoke checks, docs, runbooks, and handoff notes.",
         "International async-team readiness: architecture, state ownership, integration contracts, privacy, CI, runbooks, verification, and handoff quality.",
         "Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-assisted execution discipline.",
         "Employer trigger router: message me for AI workflow/RAG, CRM/ERP/API integration, backend/platform ownership, or DevOps reliability work",

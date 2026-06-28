@@ -142,6 +142,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "AI Automation Role Fit",
             "Flagship backend-owned AI workflow",
             "Compact technical screen across backend/platform",
+            "Ownership signal: incomplete business context -&gt; risky boundary -&gt; small verifiable delivery plan with backend-owned state, AI-output review, CI, smoke checks, docs, runbooks, and handoff notes.",
             "International async-team readiness: architecture, state ownership, integration contracts, privacy, CI, runbooks, verification, and handoff quality.",
             "International team fit: English-first docs, async proof routes, integration contracts, privacy boundaries, CI, runbooks, and operational handoff quality.",
             "proof-backed fixed-scope offers",
