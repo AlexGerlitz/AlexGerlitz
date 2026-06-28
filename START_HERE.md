@@ -34,6 +34,10 @@ CI, RAG quality eval, and runbooks.
 
 Useful first context: a remote role, project, or messy workflow plus one success condition.
 
+Ownership-first context: incomplete business context is enough when the message names the risky
+boundary, the systems involved, the first useful outcome, and what must be reviewable through
+code, CI, smoke checks, docs, runbooks, or handoff notes.
+
 ## Search Intent Router
 
 | If your search starts with | Open first |
