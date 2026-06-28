@@ -4,6 +4,17 @@ Public route: https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.htm
 
 This is the proof route for international employer-grade review: teams that need a reliable backend/platform owner, not a prompt-only or no-code workflow operator.
 
+## Structured Review Data
+
+The HTML route now exposes machine-readable enterprise-readiness data for recruiter and AI review tooling:
+
+- ProfilePage: enterprise-readiness proof route, date, language, and main profile entity.
+- Person: role, GitHub/LinkedIn identity, and the strongest technical knowledge surface.
+- Decision path: 2-minute fit check, 10-minute technical review, and 30-minute specialist review.
+- Specialist signal: backend/platform ownership, AI workflow engineering, CRM/ERP/API integration depth, DevOps reliability, business operations context, and public verification discipline.
+- Evidence matrix: DriveDesk Core, AI Ops Workflow Kit, privacy boundary, Verification Pack, and DeployMate.
+- Next proof targets: observability dashboard, sandbox adapter proof, cloud/IaC proof, data-retention/privacy notes, and short demo media.
+
 ## What To Inspect
 
 | Review signal | Public evidence | Why it matters |
