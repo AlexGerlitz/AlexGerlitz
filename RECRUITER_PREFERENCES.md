@@ -17,6 +17,19 @@ Use this as the aligned Open-to-Work and recruiter-search preference set for rem
 | Strongest match | Backend-owned AI workflow, CRM/ERP/API integration, internal operations tooling, DevOps reliability, or one working business slice with tests, logs, docs, deployment path, and handoff. |
 | Europe-compatible signal | Written proof routes, English-first docs, async technical review, privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff. |
 
+## Recruiter Filter Map
+
+Use this as the public filter map for LinkedIn Recruiter-style searches and fast manual screening.
+
+| Filter | Match signal | Proof route |
+| --- | --- | --- |
+| Title | Back End Developer, Python Developer, AI Automation Engineer, Platform Engineer, DevOps Engineer, Integration Engineer, LLM Workflow / RAG Engineer. | [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html) |
+| Skills | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, pgvector, CRM/ERP/API integration, Systems Integration, OpenAPI, DevOps, n8n, Telegram. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
+| Remote / location | Remote-only, international distributed teams, Europe-compatible async review, and written handoff. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
+| Language / review | English-first public docs, async proof routes, CI, smoke checks, runbooks, diagrams, and handoff notes. | [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| Featured proof | DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, DriveDesk Core, AI Backend Proof Pack, Enterprise Readiness, and PDF Resume. | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) |
+| Seniority / specialist signal | Backend-owned state, AI-output review, CRM/ERP/API adapter contracts, privacy boundary, audit, retries, idempotency, DevOps recovery, and runbooks. | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
+
 ## Recruiter Search Keywords
 
 Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM, ERP, Systems Integration, API Integration, n8n, Telegram, DevOps, OpenAPI, pgvector, CI, runbooks, audit logs, idempotency, retries, backend-owned state, and operational handoff.

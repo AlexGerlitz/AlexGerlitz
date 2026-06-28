@@ -40,7 +40,24 @@ This profile is strongest when the role needs a builder who can connect business
 | Job title filters | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer, AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer, Internal Tools Engineer, Backend Platform Engineer, Systems Integration Engineer. |
 | Skill filters | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM, ERP, Systems Integration, API Integration, n8n, Telegram, DevOps, OpenAPI, pgvector. |
 | Work mode | Remote-only full-time roles, plus concrete fixed-scope projects with a working backend/AI/integration slice. |
+| Remote/location filter | International remote teams, Europe-compatible async teams, US-compatible async teams, and distributed product/operations teams. |
+| Language/review filter | English-first documentation and proof routes; async technical review through code, CI, smoke checks, diagrams, runbooks, and handoff notes. |
+| Specialist/seniority filter | Backend/platform ownership, AI workflow engineering, CRM/ERP/API integration depth, DevOps reliability, and real business operations context. |
+| Featured proof filter | DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, DriveDesk Core, AI Backend Proof Pack, Enterprise Readiness, and PDF Resume. |
 | First message trigger | Send one remote role or one business workflow with one success condition, systems involved, ownership boundary, and timeline. |
+
+## Recruiter Filter Map
+
+Use these filters when the goal is to find the profile quickly and decide whether to send a message.
+
+| Recruiter filter | Match signal | Proof to open |
+| --- | --- | --- |
+| Job title | AI Automation Engineer, Back End Developer, Python Developer, Platform Engineer, DevOps Engineer, Integration Engineer. | [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html) |
+| Skills | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, pgvector, CRM/ERP/API integration, DevOps, n8n, Telegram, OpenAPI. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
+| Remote / location | Remote-only, international distributed teams, Europe-compatible async review, written handoff. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
+| Language / review | English-first docs, diagrams, runbooks, CI, live smoke, proof routes, and async technical review. | [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| Featured proof | Flagship workflow proof, fixed-scope offer route, DriveDesk Core, and compact PDF handoff. | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
+| Seniority / specialist signal | Backend-owned state, adapter contracts, privacy boundary, audit, retries, idempotency, runbooks, and recovery thinking. | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
 
 ## Recruiter Search Queries
 
