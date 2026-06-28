@@ -80,6 +80,7 @@ Checked on 2026-06-28:
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
 - AI Ops latest checked CI run succeeded on `184b46d`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28323928151
 - AI Ops demo walkthrough is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md
+- AI Ops GitHub repository metadata foregrounds AI sales/support workflow backend proof and routes the repository homepage to the demo walkthrough: https://github.com/AlexGerlitz/ai-ops-workflow-kit
 - AI Ops live smoke passed on app SHA `1a83406` with `storage=postgres` and `rag_eval=2/2` at https://saleops.duckdns.org.
 - AI Ops live PostgreSQL/pgvector persistence proof survived an API container restart: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt
 - AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
@@ -91,10 +92,10 @@ Checked on 2026-06-28:
 - DeployMate latest public evidence bundle succeeded on `b139a9a`: https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
-- Latest checked profile-proof snapshot is green on `6c18a5c`.
-- Profile Funnel Audit succeeded on `6c18a5c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326042302
-- Profile Pages deployment succeeded on `6c18a5c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326041898
-- Live Profile Smoke succeeded on `6c18a5c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326042317
+- Latest checked profile-proof snapshot is green on `3f2b03b`.
+- Profile Funnel Audit succeeded on `3f2b03b`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326670759
+- Profile Pages deployment succeeded on `3f2b03b`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326670736
+- Live Profile Smoke succeeded on `3f2b03b`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326670751
 - GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
