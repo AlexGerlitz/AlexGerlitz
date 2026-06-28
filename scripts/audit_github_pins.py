@@ -52,9 +52,9 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
     ),
     ExpectedPin(
         "AlexGerlitz/ai-ops-workflow-kit",
-        ("FastAPI LLM/RAG workflow backend", "transcript analysis", "approvals", "CRM handoff", "Telegram"),
+        ("AI sales/support workflow backend", "RAG", "transcript analysis", "Telegram approvals", "CRM handoff"),
         "Python",
-        "https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md",
+        "https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md",
         (
             "ai-automation",
             "llm-workflows",
@@ -74,7 +74,11 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
             "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
             "https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html",
             "https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html",
+            "Message me first when there is one messy sales/support workflow",
+            "DriveDesk AI Operator demo GIF",
+            "Short visual route: [Demo walkthrough](docs/DEMO_WALKTHROUGH.md)",
             "60-Second Reviewer Snapshot",
+            "Hiring relevance",
             "RAG/backend ownership",
             "human-in-the-loop workflow ownership",
             "Fast evaluation path",
