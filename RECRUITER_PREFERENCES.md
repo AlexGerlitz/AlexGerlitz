@@ -20,6 +20,24 @@ Use this as the aligned Open-to-Work and recruiter-search preference set for rem
 
 Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM, ERP, Systems Integration, API Integration, n8n, Telegram, DevOps, OpenAPI, pgvector, CI, runbooks, audit logs, idempotency, retries, backend-owned state, and operational handoff.
 
+## LinkedIn Skills Search Surface
+
+The profile is easiest to evaluate when every major skill filter has the same public pattern:
+it appears in the visible LinkedIn surface, it is attached to real experience, and it points to
+inspectable proof instead of staying as a loose keyword.
+
+| Skill cluster | LinkedIn surface | Public proof |
+| --- | --- | --- |
+| Backend / platform | Headline, About, Skills, Autoschool54 experience, and Featured DriveDesk Core route. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| AI workflow / RAG | Headline, About, Skills, Featured DriveDesk Proof Route, and AI Ops proof links. | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md), [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) |
+| CRM / ERP / API integration | About, Experience, Skills, Services, and proof routes for adapter contracts and handoff. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html), [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |
+| DevOps / reliability | Experience, Skills, Featured verification routes, and proof projects with CI/smoke/runbook evidence. | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [First 30 Days Delivery Plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html) |
+
+Best high-signal skills to keep aligned across LinkedIn and proof routes: Python, FastAPI,
+PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CRM, ERP, API
+Integration, Systems Integration, DevOps, n8n, Telegram, runbooks, audit logs, idempotency,
+retries, and operational handoff.
+
 ## LinkedIn Profile Alignment
 
 This page mirrors the visible LinkedIn setup recruiters should expect before sending a message.
