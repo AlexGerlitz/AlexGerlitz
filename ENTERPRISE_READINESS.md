@@ -31,6 +31,16 @@ This is the proof route for international employer-grade review: teams that need
 - Async review quality: English-first docs, proof routes, CI, smoke checks, and compact evidence make it possible to evaluate work across time zones.
 - Team onboarding signal: first-month ownership, smallest responsible slice, verification plan, and handoff route are explicit before a project or role starts.
 
+## International Hiring Readiness
+
+These are the signals a distributed product or operations team can inspect before a call:
+
+- Async communication: written context, reviewer links, proof order, first-month ownership, and an explicit next decision.
+- Ownership model: backend owns state, contracts, evidence, and handoff; orchestration owns routing; external writes stay behind approval or sandbox boundaries.
+- Risk handling: privacy boundary, audit trail, idempotency, retry/dead-letter state, rollback notes, and runbooks.
+- Delivery loop: define the smallest responsible slice, ship it, verify it with tests/CI/live smoke, and document the operator handoff.
+- Business fit: AI workflow/RAG, CRM/ERP/API integration, internal operations tooling, and DevOps recovery work where results must be inspectable.
+
 ## Specialist Review Signal
 
 My strongest surface is not generic AI automation. It is backend-owned business workflow engineering where AI, data, approvals, CRM/ERP/API adapters, DevOps, and handoff quality have explicit contracts.

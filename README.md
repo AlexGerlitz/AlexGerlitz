@@ -2,9 +2,7 @@
 
 [![Profile Funnel Audit](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml) [![Live Profile Smoke](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml)
 
-AI Automation / Backend / Platform Engineer building **DriveDesk**:
-operations workflows, integrations, RAG, FastAPI/PostgreSQL backends, Docker, CI, runbooks,
-and recovery paths for real business processes.
+AI Automation / Backend / Platform Engineer building **DriveDesk**: operations workflows, integrations, RAG, FastAPI/PostgreSQL backends, Docker, CI, runbooks, and recovery paths for real business processes.
 
 Now open for **remote-only full-time roles** and fixed-scope projects where the output is a working system, not a demo shell.
 
@@ -15,6 +13,7 @@ Now open for **remote-only full-time roles** and fixed-scope projects where the 
 | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) | Flagship backend-owned AI workflow: RAG, transcript analysis, approval, CRM handoff, audit, retries, and adapter boundaries. |
 | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) | Precise fit for RAG, structured output, CRM/API handoff, tests, logs, and runbooks. |
 | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | Compact technical screen across backend/platform, integrations, DevOps, verification, and resume evidence. |
+| [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) | International async-team readiness: architecture, state ownership, integration contracts, privacy, CI, runbooks, verification, and handoff quality. |
 | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) | Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-assisted execution discipline. |
 
 Employer trigger router: message me for AI workflow/RAG, CRM/ERP/API integration, backend/platform ownership, or DevOps reliability work when the first useful result should be a verified slice with tests, logs, docs, and handoff. Proof map: [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
