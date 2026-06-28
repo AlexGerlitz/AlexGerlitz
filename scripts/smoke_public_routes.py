@@ -1480,6 +1480,9 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Contact route for remote roles, fixed-scope projects, and proof reviews",
             "Send one role, workflow, or proof question",
+            "First Reply Promise",
+            "Send one remote role, workflow, project, or proof question plus one success condition.",
+            "right next route: remote role, fixed-scope project, technical review, or no-fit",
             "Decision-Ready Signals",
             "Search Intent First Links",
             "Open the proof route that matches the role or workflow first",
@@ -1524,6 +1527,9 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Contact Routes",
             "Fast fit checklist:",
+            "First Reply Promise",
+            "Send one remote role, workflow, project, or proof question plus one success condition.",
+            "right next route: remote role, fixed-scope project, technical review, or no-fit.",
             "student/course assignments",
             "generic mobile/ecommerce apps without",
             "with no way to verify success",
