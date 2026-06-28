@@ -5,7 +5,9 @@ Public fit filter for LinkedIn Services requests.
 Clean web route:
 https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html
 
-The live LinkedIn Services categories are broad routing labels. The actual offer is narrower:
+The visible LinkedIn Services categories are broad routing labels: Cloud Application Development,
+Web Development, Application Development, Custom Software Development, Information Management, and
+IT Consulting. The actual offer is narrower:
 remote AI automation, backend/platform systems, CRM/ERP/API integration, internal tools, data
 workflows, and DevOps/recovery work for real business operations.
 
@@ -28,6 +30,16 @@ LinkedIn can route a request through labels such as Cloud Application Developmen
 Application Development, Custom Software Development, Information Management, or IT Consulting.
 Those labels are a fit only when the request has backend/platform, AI workflow, integration, data,
 DevOps, or internal-operations ownership.
+
+## Structured Request Filter
+
+Use the broad LinkedIn category only as a routing hint. The request is high-signal when it names:
+
+- backend-owned state, records, audit, workers, outbox, tests, or deployment path;
+- RAG, transcript/call/document analysis, structured output, approval, or CRM handoff;
+- CRM, ERP, 1C, banking, accounting, API, webhook, or database adapter boundary;
+- Docker, CI, health checks, logs, backup/restore, rollback, or runbook;
+- one success condition and what must not break.
 
 Not a fit unless there is a real backend/integration system to own:
 

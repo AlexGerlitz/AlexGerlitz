@@ -24,23 +24,72 @@
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "WebPage",
-      "@id": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html#service-fit",
-      "name": "LinkedIn Services Fit - Alex Gerlitz",
-      "url": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html",
-      "description": "Public fit filter for broad LinkedIn Services categories around backend-owned AI workflow, integration, data, DevOps, and internal operations ownership.",
-      "about": [
-        "AI workflow automation",
-        "CRM/ERP/API integration",
-        "Backend platform engineering",
-        "Internal operations systems",
-        "DevOps recovery"
-      ],
-      "isPartOf": {
-        "@type": "WebSite",
-        "@id": "https://alexgerlitz.github.io/AlexGerlitz/#website",
-        "name": "Alex Gerlitz Proof Route"
-      }
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html#service-fit",
+          "name": "LinkedIn Services Fit - Alex Gerlitz",
+          "url": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html",
+          "description": "Public fit filter for broad LinkedIn Services categories around backend-owned AI workflow, integration, data, DevOps, and internal operations ownership.",
+          "inLanguage": "en",
+          "dateModified": "2026-06-28",
+          "about": [
+            "AI workflow automation",
+            "CRM/ERP/API integration",
+            "Backend platform engineering",
+            "Internal operations systems",
+            "DevOps recovery"
+          ],
+          "isPartOf": {
+            "@type": "WebSite",
+            "@id": "https://alexgerlitz.github.io/AlexGerlitz/#website",
+            "name": "Alex Gerlitz Proof Route"
+          },
+          "hasPart": [
+            { "@id": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html#broad-service-categories" },
+            { "@id": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html#best-fit-requests" },
+            { "@id": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html#not-fit-filter" }
+          ]
+        },
+        {
+          "@type": "DefinedTermSet",
+          "@id": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html#broad-service-categories",
+          "name": "Visible LinkedIn Services categories",
+          "description": "Broad LinkedIn routing labels that should be interpreted through backend/platform, AI workflow, integration, data, DevOps, or internal-operations ownership.",
+          "hasDefinedTerm": [
+            { "@type": "DefinedTerm", "name": "Cloud Application Development" },
+            { "@type": "DefinedTerm", "name": "Web Development" },
+            { "@type": "DefinedTerm", "name": "Application Development" },
+            { "@type": "DefinedTerm", "name": "Custom Software Development" },
+            { "@type": "DefinedTerm", "name": "Information Management" },
+            { "@type": "DefinedTerm", "name": "IT Consulting" }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html#best-fit-requests",
+          "name": "Best-fit LinkedIn Services requests",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Backend-owned AI workflow with RAG, transcript/call/document analysis, approval, CRM action, citations, quality checks, and audit trail" },
+            { "@type": "ListItem", "position": 2, "name": "CRM, ERP, 1C, banking, accounting, API, webhook, or database integration with contracts, retries, logs, rollout notes, and safe handoff" },
+            { "@type": "ListItem", "position": 3, "name": "FastAPI/PostgreSQL backend, admin workflow, audit trail, worker/outbox, tests, Docker, CI, and runbook" },
+            { "@type": "ListItem", "position": 4, "name": "DevOps, recovery, or hardening work with deploy path, health checks, smoke tests, backup/restore, rollback, and operator handoff" },
+            { "@type": "ListItem", "position": 5, "name": "Data workflow where the useful output is a repeatable system, not a spreadsheet-only or presentation-only deliverable" }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html#not-fit-filter",
+          "name": "Not-fit service request filter",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Isolated website refresh without backend or integration ownership" },
+            { "@type": "ListItem", "position": 2, "name": "Student or course assignment" },
+            { "@type": "ListItem", "position": 3, "name": "Standalone game clone" },
+            { "@type": "ListItem", "position": 4, "name": "Generic mobile or ecommerce app without backend/integration ownership" },
+            { "@type": "ListItem", "position": 5, "name": "Vague request with no system boundary and no verifiable success condition" }
+          ]
+        }
+      ]
     }
   </script>
   <style>
@@ -133,7 +182,7 @@
     <section class="hero">
       <div class="eyebrow">LinkedIn Services fit</div>
       <h1>Broad service labels, narrow engineering ownership.</h1>
-      <p class="lead">LinkedIn may route requests through broad labels such as Cloud Application Development, Web Development, Application Development, Custom Software Development, Information Management, or IT Consulting. I treat those labels as a fit only when the work has backend/platform, AI workflow, integration, data, DevOps, or internal-operations ownership.</p>
+      <p class="lead">LinkedIn currently routes my Services page through broad labels such as Cloud Application Development, Web Development, Application Development, Custom Software Development, Information Management, and IT Consulting. I treat those labels as a fit only when the work has backend/platform, AI workflow, integration, data, DevOps, or internal-operations ownership.</p>
       <p class="lead">The actual offer is concrete: turn one messy business workflow into a backend-owned system with records, state, adapter contracts, logs, tests, docs, deployment/recovery path, and a handoff route.</p>
       <div class="actions">
         <a class="button primary" href="https://www.linkedin.com/services/page/3153b734507b8a60ab/">Open LinkedIn Services</a>
