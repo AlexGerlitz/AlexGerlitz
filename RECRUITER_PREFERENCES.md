@@ -15,6 +15,7 @@ Use this as the aligned Open-to-Work and recruiter-search preference set for rem
 | Employment types | Full-time and contract. |
 | Availability | Open to remote full-time roles and concrete fixed-scope projects. |
 | Strongest match | Backend-owned AI workflow, CRM/ERP/API integration, internal operations tooling, DevOps reliability, or one working business slice with tests, logs, docs, deployment path, and handoff. |
+| Europe-compatible signal | Written proof routes, English-first docs, async technical review, privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff. |
 
 ## Recruiter Search Keywords
 
