@@ -779,7 +779,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "DriveDesk AI Operator Demo - Alex Gerlitz",
             'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/featured-drivedesk.html"',
             "Share-ready DriveDesk demo",
-            "Transcript -&gt; RAG -&gt; approval -&gt; CRM-safe handoff.",
+            "Transcript -> RAG -> approval -> CRM-safe handoff.",
             "https://raw.githubusercontent.com/AlexGerlitz/ai-ops-workflow-kit/main/docs/assets/drive-operator-demo.gif",
             "Open demo walkthrough",
             "https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md",
