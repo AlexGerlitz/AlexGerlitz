@@ -1769,6 +1769,15 @@ ROUTES: tuple[RouteCheck, ...] = (
         ("Public Proof Status", "AI Ops Workflow Kit"),
     ),
     RouteCheck(
+        "ai-ops-demo-walkthrough",
+        "https://raw.githubusercontent.com/AlexGerlitz/ai-ops-workflow-kit/main/docs/DEMO_WALKTHROUGH.md",
+        (
+            "Demo Walkthrough",
+            "DriveDesk AI Operator demo GIF",
+            "Transcript -> RAG -> approval -> CRM-safe handoff",
+        ),
+    ),
+    RouteCheck(
         "ai-ops-reviewer-acceptance",
         "https://raw.githubusercontent.com/AlexGerlitz/ai-ops-workflow-kit/main/docs/REVIEWER_ACCEPTANCE_REPORT.md",
         ("Reviewer Acceptance Report", "public AI Ops proof surface"),

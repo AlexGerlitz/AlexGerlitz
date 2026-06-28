@@ -106,4 +106,4 @@ The main engineering distinction: n8n can orchestrate events, while backend code
 
 ## Next Stronger Proof
 
-Keep extending DriveDesk AI Operator with a visible observability dashboard, real sandbox adapter proof, cloud/IaC deployment proof, data-retention/privacy notes, and a short demo video/GIF once the runtime is stable.
+Keep extending DriveDesk AI Operator from the committed demo walkthrough/GIF toward a visible observability dashboard, real sandbox adapter proof, cloud/IaC deployment proof, and data-retention/privacy notes.

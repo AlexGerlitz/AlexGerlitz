@@ -11,7 +11,7 @@ evaluate my work. It combines the strongest parts of the current proof stack:
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) for document intake,
   RAG, OpenAI/Claude/Gemini provider boundary, call-audio transcription, transcript analysis, lead scoring, approval queues,
   Telegram callback handling, dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight, idempotent outbox drain, opt-in worker, live PostgreSQL/pgvector persistence, importable n8n
-  workflow artifacts, and n8n/Telegram boundaries.
+  workflow artifacts, committed demo GIF/walkthrough, and n8n/Telegram boundaries.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate) for deployment, health checks, release
   gates, runbooks, and recovery discipline.
 
@@ -147,13 +147,14 @@ tests, and review. I still own architecture, verification, logs, deployment, and
 6. Telegram approval route.
 7. n8n webhook orchestration.
 8. Fake CRM/Bitrix adapter with idempotency and retries.
-9. Screenshots, demo video/GIF, runbook, metrics/cost notes.
+9. Committed demo walkthrough/GIF, screenshots, runbook, and metrics/cost notes.
 10. Real CRM adapter after the sandbox contract is proven.
 
 ## Review Links
 
 - Visual page: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html
 - AI Ops Workflow Kit: https://github.com/AlexGerlitz/ai-ops-workflow-kit
+- AI Ops demo walkthrough: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md
 - AI Ops public proof status: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops reviewer acceptance report: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
 - AI Ops live approval proof: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
