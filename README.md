@@ -17,7 +17,7 @@ Now open for **remote-only full-time roles** and fixed-scope projects where the 
 | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | Compact technical screen across backend/platform, integrations, DevOps, verification, and resume evidence. |
 | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) | Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-assisted execution discipline. |
 
-Employer trigger router: message me for AI workflow/RAG, CRM/ERP/API integration, backend/platform ownership, or DevOps reliability work when the first useful result should be a verified slice with tests, logs, docs, and handoff.
+Employer trigger router: message me for AI workflow/RAG, CRM/ERP/API integration, backend/platform ownership, or DevOps reliability work when the first useful result should be a verified slice with tests, logs, docs, and handoff. Proof map: [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 
 Search-fit titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, Integration Engineer.
 
