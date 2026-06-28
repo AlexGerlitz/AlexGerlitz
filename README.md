@@ -6,7 +6,7 @@ AI Automation / Backend / Platform Engineer building **DriveDesk** as backend-ow
 
 Now open for **remote-only full-time roles** and fixed-scope projects where the output is a working system, not a demo shell.
 
-**Message me first when:** there is one messy workflow, one risky integration boundary, or one backend/platform/DevOps slice that should become testable, logged, documented, and handed off.
+**Message me first when:** there is one messy workflow, one risky integration boundary, or one backend/platform/DevOps slice that should become testable, logged, documented, and handed off. **First reply promise:** I will answer with a fit read, risky assumptions, the smallest responsible first slice, the proof path to inspect, and the right next route: remote role, fixed-scope project, technical review, or no-fit.
 
 **Shortest proof path:** [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf).
 
