@@ -23,7 +23,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html): remote role and fixed-scope project route with best immediate starts, fit filter, proof links, and contact path.
 - [Proposal-ready Services request](https://alexgerlitz.github.io/AlexGerlitz/services.html): LinkedIn Services request shape with proof-backed offer router, current workflow, systems involved, one observable success condition, constraints, and what must not break.
 - [Skill evidence map](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skills mapped to public proof for AI automation, backend/platform, CRM/ERP integration, DevOps, and AI-assisted execution discipline.
-- [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public demo, evidence links, and proof freshness.
+- [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public demo, evidence links, proof freshness, current green proof, and structured technical verification data.
 - [AI Backend Proof Pack Markdown](https://alexgerlitz.github.io/AlexGerlitz/AI_BACKEND_PROOF_PACK.md): GitHub-readable proof order for recruiters, hiring managers, and technical reviewers.
 - [Enterprise Readiness Markdown](https://alexgerlitz.github.io/AlexGerlitz/ENTERPRISE_READINESS.md): GitHub-readable matrix for enterprise/backend/platform review signals.
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html): public HTML fit filter for broad LinkedIn Services labels around backend/platform ownership, AI workflow, integration, data, DevOps, and internal operations.
