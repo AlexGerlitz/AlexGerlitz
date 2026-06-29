@@ -43,7 +43,7 @@ The value is speed through uncertainty with engineering discipline still intact.
 - **AI Ops Workflow Kit:** document intake, RAG ingestion/retrieval, OpenAI/Claude/Gemini provider boundary, transcript analysis, approval queues,
   Telegram callback approval, dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight, idempotent outbox drain, opt-in worker,
   PostgreSQL/pgvector-backed storage, deterministic tests, Docker, and integration boundaries.
-- **DeployMate:** self-hosted Docker deployment control panel direction with VPS targets, SSH
+- **DeployMate:** self-hosted Docker deployment control panel proof with VPS targets, SSH
   runtime tooling, logs, health checks, admin flows, CI/CD, and release safety docs.
 - **MPlusForm:** addon and sync pipeline work around validation boundaries, server-side trust
   checks, Windows automation, and operational docs.

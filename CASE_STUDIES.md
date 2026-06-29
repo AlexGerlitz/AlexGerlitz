@@ -59,11 +59,11 @@ AI Ops Workflow Kit turns that into a backend pattern for AI-native operations a
 
 Built proof includes:
 
-- document ingestion and retrieval direction;
+- document ingestion and retrieval proof;
 - transcript analysis;
 - approval queue, Telegram callback approval, and explicit state transitions;
 - idempotent outbox drain and opt-in worker handoff;
-- PostgreSQL/pgvector-backed storage direction;
+- PostgreSQL/pgvector-backed storage proof;
 - deterministic local embedding path for repeatable tests;
 - Docker runtime;
 - n8n and Telegram integration boundaries.
@@ -89,14 +89,14 @@ fragile even when features exist.
 
 ### Build
 
-DeployMate is a self-hosted deployment control panel direction focused on making deployment and
+DeployMate is a self-hosted deployment control panel proof surface focused on making deployment and
 operations reviewable.
 
 Built proof includes:
 
-- FastAPI/Next.js/PostgreSQL product direction;
+- FastAPI/Next.js/PostgreSQL product surface;
 - Docker app deployment model;
-- VPS/SSH runtime tooling direction;
+- VPS/SSH runtime tooling;
 - logs, health checks, admin flows, and release docs;
 - CI/CD and public proof route cleanup;
 - repo-first public review path after removing dead external-site dependency.
@@ -127,7 +127,7 @@ MPlusForm is an addon and sync-pipeline proof around validation and trust bounda
 Built proof includes:
 
 - Lua addon surface;
-- Python sync pipeline direction;
+- Python sync pipeline;
 - server-side trust validation layer;
 - approved public snapshot concept;
 - Windows operation scripts and handoff docs;
