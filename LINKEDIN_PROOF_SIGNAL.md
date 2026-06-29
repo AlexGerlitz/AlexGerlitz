@@ -25,8 +25,7 @@ Read-only checked on 2026-06-30. The live All skills view currently surfaces:
 9. Systems Integration
 10. DevOps
 
-The live Tools & Technologies filter currently surfaces Python, REST APIs, GitHub, Telegram,
-pytest, OpenAPI, Software as a Service (SaaS), Docker, FastAPI, and PostgreSQL.
+The live Tools & Technologies filter currently surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, Software as a Service (SaaS), Docker, FastAPI, and PostgreSQL.
 
 ## Fast Proof Route
 
