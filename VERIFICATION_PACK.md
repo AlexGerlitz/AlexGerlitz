@@ -3,7 +3,7 @@
 Fast technical verification path for the public profile. This page is for reviewers who want to
 check claims directly instead of relying on summaries.
 
-Last checked: 2026-06-29.
+Last checked: 2026-06-30.
 
 ## 15-Minute Review Path
 
@@ -30,6 +30,20 @@ Read-only checked on 2026-06-29.
 | Experience | Profile shows AutoSchool54 / Автошкола 54 remote infrastructure support since March 2024. |
 | Featured route | DriveDesk AI Operator - Proof Route first, then Fixed-Scope AI Automation Offers and DriveDesk Core; extended proof stack is routed through GitHub/Pages. |
 | Services | Available remote Services route for concrete backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow requests. |
+
+## LinkedIn Activation Status
+
+Prepared on 2026-06-30, not published without owner confirmation.
+Selected next post: Post B - role-fit/search signal in LinkedIn Proof Signal.
+Publication proof: pending live LinkedIn activity URL after explicit owner approval.
+
+| Activation item | Current status |
+| --- | --- |
+| Selected next post | Post B - role-fit/search signal in LinkedIn Proof Signal. |
+| Search titles carried by the post | Back End Developer, Python Developer, AI Automation Engineer, Platform Engineer, DevOps Engineer, Integration Engineer, and LLM Workflow / RAG Engineer. |
+| Skill filters carried by the post | FastAPI, GitHub Actions, RAG, Python, PostgreSQL, Docker, CRM/ERP/API integration, OpenAPI, Systems Integration, and DevOps. |
+| First comment route | Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack. |
+| Publication proof | Pending live LinkedIn activity URL after explicit owner approval. |
 
 ## Pinned Repository Order
 

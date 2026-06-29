@@ -26,8 +26,8 @@ This is the recruiter-facing top order after the live Skills reorder pass:
 
 ## Fast Proof Route
 
-1. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
-2. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
+1. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
+2. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
 3. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
 4. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 5. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
@@ -43,12 +43,13 @@ What to inspect first:
 - AI Backend Proof Pack: compact technical screen across FastAPI/PostgreSQL, integrations, Docker/CI, verification, and handoff.
 - Decision-Ready Contact: the shortest route for a role, workflow, or proof review.
 
-Best first message: send one remote role or one messy workflow, one success condition, and the systems involved. I will reply with fit, risky assumptions, the smallest responsible first slice, and the proof path to inspect.
+Best first message: send one remote role or one messy workflow, one success condition, and the systems involved. I will reply with fit, risky assumptions, the smallest responsible first slice, the proof path to inspect, and the next screen path.
 ```
 
 ## LinkedIn Activation Pack
 
 Use one of these as the next public post. Do not publish all at once; each one has a different job.
+Selected next post: Post B - role-fit/search signal. It carries the clearest recruiter search surface without sounding like a generic profile update.
 
 ### Post A - profile refresh
 
@@ -62,7 +63,7 @@ Best first proof:
 - AI Backend Proof Pack
 - Decision-Ready Contact
 
-Best first message: send one remote role or one messy workflow, one success condition, and the systems involved. I will answer with fit, risky assumptions, the smallest responsible first slice, and the proof path to inspect.
+Best first message: send one remote role or one messy workflow, one success condition, and the systems involved. I will answer with fit, risky assumptions, the smallest responsible first slice, the proof path to inspect, and the next screen path.
 ```
 
 ### Post B - role-fit check
@@ -78,7 +79,11 @@ That is what my public proof route is organized around:
 - CRM/ERP/API integration proof
 - DevOps and operational handoff proof
 
-If the role is remote backend/platform, AI automation, integration, internal tools, or DevOps reliability, send the role and the first-month ownership surface.
+Best-fit titles: Back End Developer, Python Developer, AI Automation Engineer, Platform Engineer, DevOps Engineer, Integration Engineer, and LLM Workflow / RAG Engineer.
+
+Skill filters that should find me: FastAPI, GitHub Actions, RAG, Python, PostgreSQL, Docker, CRM/ERP/API integration, OpenAPI, Systems Integration, and DevOps.
+
+If the role is remote backend/platform, AI automation, integration, internal tools, or DevOps reliability, send the role, remote setup, first-month ownership surface, and hiring timeline.
 ```
 
 ### Post C - workflow owner
@@ -101,7 +106,7 @@ Best fit: backend-owned AI workflows, CRM/ERP/API adapters, internal operations 
 
 ```text
 Proof route:
-LinkedIn Proof Signal -> LinkedIn Recruiter Packet -> Decision-Ready Contact -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack.
+Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack.
 
 Start here: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
 ```

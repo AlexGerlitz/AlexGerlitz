@@ -69,10 +69,10 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - First reply promise: fit read, risky assumptions, smallest responsible first slice, proof path to inspect, and the right next route: remote role, fixed-scope project, technical review, or no-fit.
 - Copy-ready first messages cover remote role screens, workflow projects, and technical proof reviews.
 - Message prompt anchors: "Can you send the best proof route and the smallest first slice you would own?", "Can you map the risks, proof route, and first responsible slice?", and "strongest repo, CI/live-smoke evidence".
-- Shortest proof path: LinkedIn Proof Signal -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> Decision-Ready Contact -> PDF resume.
+- Shortest inbound path: Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack -> PDF resume.
 - First useful result: a verified slice with backend-owned state, tests, logs, docs, and a handoff route.
 - Message reason router: use Start conversation to choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context.
-- Recruiter shortcut: for a remote role, start with LinkedIn Recruiter Packet, Recruiter Preferences, Hiring decision route, Remote role targets, Skill evidence, Decision-Ready Contact, recruiter Boolean search strings, and the PDF resume. Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.
+- Recruiter shortcut: for a remote role, message first through Decision-Ready Contact with role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable, then use LinkedIn Recruiter Packet, Hiring decision route, Recruiter Preferences, Remote role targets, Skill evidence, recruiter Boolean search strings, and the PDF resume. Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.
 - [LinkedIn profile](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
