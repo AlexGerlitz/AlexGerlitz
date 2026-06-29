@@ -20,6 +20,16 @@ Send one remote role, workflow, project, or proof question plus one success cond
 with a fit read, risky assumptions, the smallest responsible first slice, proof path to inspect, and
 the right next route: remote role, fixed-scope project, technical review, or no-fit.
 
+## Recruiter Offer Triage
+
+For an inbound role or shortlist screen, send role title, remote setup, product domain, stack, team
+surface, first-month ownership, hiring timeline, and compensation band if shareable. I will reply
+with fit/no-fit, strongest proof route, risky assumptions, smallest first slice, and next screen path.
+
+Best matches: remote-only backend/platform, AI automation, RAG workflow, CRM/ERP/API integration,
+internal tools, DevOps reliability, and international or Europe-compatible async teams that can
+review written proof before a live screen.
+
 ## Copy-Ready First Messages
 
 Use one of these when the next step should be a concrete role screen, workflow/project discussion, or
@@ -28,7 +38,7 @@ technical proof review instead of a generic intro.
 Remote role screen:
 
 ```text
-Hi Alex, I am looking at a remote role. Role title: ..., stack/systems: ..., team surface: ..., first-month ownership: .... Can you send the best proof route and the smallest first slice you would own?
+Hi Alex, I am looking at a remote role. Role title: ..., remote setup: ..., stack/systems: ..., team surface: ..., first-month ownership: ..., hiring timeline: ..., compensation band if shareable: .... Can you send the best proof route and the smallest first slice you would own?
 ```
 
 Workflow project:

@@ -5,7 +5,7 @@ Public route: https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.h
 Use this when a profile view, recruiter screen, founder request, or technical proof check should turn into a concrete next step instead of a generic intro.
 
 The public HTML route also exposes structured contact-route data: minimum first-contact context,
-decision-ready reply shape, and best first proof links.
+recruiter offer triage, decision-ready reply shape, and best first proof links.
 
 ## First Reply Promise
 
@@ -13,12 +13,22 @@ Send one remote role, workflow, project, or proof question plus one success cond
 with a fit read, risky assumptions, the smallest responsible first slice, proof path to inspect, and
 the right next route: remote role, fixed-scope project, technical review, or no-fit.
 
+## Recruiter Offer Triage
+
+For an inbound role or shortlist screen, send role title, remote setup, product domain, stack, team
+surface, first-month ownership, hiring timeline, and compensation band if shareable. I will reply
+with fit/no-fit, strongest proof route, risky assumptions, smallest first slice, and next screen path.
+
+Best matches: remote-only backend/platform, AI automation, RAG workflow, CRM/ERP/API integration,
+internal tools, DevOps reliability, and international or Europe-compatible async teams that can
+review written proof before a live screen.
+
 ## Copy-Ready First Messages
 
 Remote role screen:
 
 ```text
-Hi Alex, I am looking at a remote role. Role title: ..., stack/systems: ..., team surface: ..., first-month ownership: .... Can you send the best proof route and the smallest first slice you would own?
+Hi Alex, I am looking at a remote role. Role title: ..., remote setup: ..., stack/systems: ..., team surface: ..., first-month ownership: ..., hiring timeline: ..., compensation band if shareable: .... Can you send the best proof route and the smallest first slice you would own?
 ```
 
 Workflow project:
@@ -37,7 +47,7 @@ Hi Alex, I want to review your fit for AI workflow, backend/platform, integratio
 
 | Context | Useful details |
 | --- | --- |
-| Remote role | Role title, remote setup, product domain, stack, team surface, first-month ownership, hiring timeline. |
+| Remote role | Role title, remote setup, product domain, stack, team surface, first-month ownership, hiring timeline, and compensation band if shareable. |
 | Workflow / integration | Business process, systems involved, data/documents/leads/tickets, success condition, what must not break, deadline. |
 | Technical proof review | Repo, demo, architecture, claim or risk to validate, current verifier, logs/docs/runbook if safe to share. |
 | Fixed-scope project | Workflow, systems, closest proof-backed offer route, access/hosting constraints, budget range, deadline, expected handoff depth. |
@@ -48,7 +58,7 @@ Hi Alex, I want to review your fit for AI workflow, backend/platform, integratio
 2. Risk check: missing information, fragile assumptions, integration/data/access risks, and what should be verified first.
 3. First slice: the smallest responsible working outcome that can prove value.
 4. Proof route: the public repo, live route, CI run, doc, demo, proof-backed offer route, or PDF resume path that best supports the decision.
-5. Next step: call, technical screen, repo review, project scope, or no-fit response.
+5. Next step: offer screen, call, technical screen, repo review, project scope, or no-fit response.
 
 ## Best First Links
 

@@ -27,10 +27,10 @@ This is the recruiter-facing top order after the live Skills reorder pass:
 ## Fast Proof Route
 
 1. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
-2. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
-3. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-4. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
-5. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
+2. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
+3. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
+4. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+5. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
 
 ## Copy-Ready LinkedIn Update
 
@@ -101,7 +101,7 @@ Best fit: backend-owned AI workflows, CRM/ERP/API adapters, internal operations 
 
 ```text
 Proof route:
-LinkedIn Proof Signal -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack -> Decision-Ready Contact.
+LinkedIn Proof Signal -> LinkedIn Recruiter Packet -> Decision-Ready Contact -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack.
 
 Start here: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
 ```
