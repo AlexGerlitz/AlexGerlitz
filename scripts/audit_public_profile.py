@@ -2540,9 +2540,13 @@ STALE_PUBLIC_WORDING = {
         "Why This Direction Matters",
         "Stack Direction",
         "proves the direction",
+        "first working path proves",
     ],
     "WORK_WITH_ME.md": [
         "proves the direction",
+    ],
+    "INTAKE_BRIEF.md": [
+        "what should wait until after the first working path",
     ],
     "SERVICES.md": [
         "DriveDesk AI Operator demo",
@@ -2562,11 +2566,18 @@ STALE_PUBLIC_WORDING = {
         "DriveDesk AI Operator Demo",
         "after the demo",
     ],
+    "intake-brief.html": [
+        "working path proves the direction",
+    ],
+    "start-conversation.html": [
+        "first working path proves the direction",
+    ],
     "flagship-platform.html": [
         "Flagship DriveDesk direction",
         "larger platform direction",
         "Flagship platform direction",
         "operations platform direction centered",
+        "first working path proves the direction",
     ],
     "README.md": [
         "sharpest current proof direction",
@@ -2575,6 +2586,7 @@ STALE_PUBLIC_WORDING = {
     "START_HERE.md": [
         "Main project direction:",
         "Flagship platform direction",
+        "what should wait until after the first working path",
     ],
     "projects.html": [
         "current direction",

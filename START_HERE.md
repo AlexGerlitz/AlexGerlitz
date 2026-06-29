@@ -161,7 +161,7 @@ Technical proof signal:
 - likely data model / integration boundary;
 - verification plan;
 - what can ship first;
-- what should wait until after the first working path.
+- what should wait until the first working path produces reviewable evidence.
 
 ## Contact
 

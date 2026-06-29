@@ -81,7 +81,7 @@ I will usually respond with:
 - the risky assumptions;
 - the smallest responsible first slice;
 - what evidence should prove it works;
-- what should wait until after the first working path.
+- what should wait until the first working path produces reviewable evidence.
 
 ## Best Fit Problems
 

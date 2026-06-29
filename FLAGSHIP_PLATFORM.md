@@ -115,8 +115,8 @@ For a project, the strongest first step is one real workflow, the systems or dat
 one clear success condition.
 
 I will respond with the smallest responsible first slice, risky assumptions, likely data model or
-integration boundary, verification plan, and what should wait until the first working path proves
-the operating path.
+integration boundary, verification plan, and what should wait until the first working path produces
+reviewable operating evidence.
 
 ## Links
 
