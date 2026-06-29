@@ -5,8 +5,24 @@ Use this as the short public update route for a LinkedIn profile view, a recruit
 ## What Changed
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same backend/platform, AI workflow, integration, and DevOps proof route.
-- The visible skills layer ties REST APIs, OpenAPI Specification (OAS), GitHub, Python, and DevOps to role/project context instead of leaving them as loose keywords.
+- The visible skills layer now starts with Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, and CRM instead of leading with a low-signal tool keyword.
+- The top visible skills tie role/project context to backend/platform, integration, and DevOps proof instead of standing as loose keywords.
 - The public GitHub route connects search-fit signal, proof, contact context, and resume handoff.
+
+## Visible LinkedIn Skill Order
+
+This is the recruiter-facing top order after the live Skills reorder pass:
+
+1. Python (Programming Language)
+2. REST APIs
+3. OpenAPI Specification (OAS)
+4. GitHub
+5. DevOps
+6. Platform Architecture
+7. Systems Integration
+8. Vector Databases
+9. Enterprise Resource Planning (ERP)
+10. Customer Relationship Management (CRM)
 
 ## Fast Proof Route
 
@@ -22,6 +38,7 @@ Use this as the short public update route for a LinkedIn profile view, a recruit
 I refreshed my public proof route for remote backend/platform, AI workflow, integration, and DevOps work.
 
 What to inspect first:
+- LinkedIn profile signal: visible Skills now start with Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, and Systems Integration.
 - DriveDesk AI Operator proof route: backend-owned RAG/transcript/approval/CRM handoff with audit, retries, adapter boundaries, CI, and runbooks.
 - AI Backend Proof Pack: compact technical screen across FastAPI/PostgreSQL, integrations, Docker/CI, verification, and handoff.
 - Decision-Ready Contact: the shortest route for a role, workflow, or proof review.
