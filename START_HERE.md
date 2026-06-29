@@ -28,7 +28,7 @@ CI, RAG quality eval, and runbooks.
 
 | Time available | Start with | Decision signal |
 | --- | --- | --- |
-| 30 seconds | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) | Search filters, LinkedIn profile alignment, search-intent proof stack, 30-second fit, proof order, shortlist signal, risk reduction, and first contact context. |
+| 30 seconds | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) | Search filters, LinkedIn profile alignment, search-intent proof stack, 30-second fit, proof order, shortlist signal, risk reduction, copy-ready first messages, and first contact context. |
 | 60 seconds | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | A compact route through AI workflow, backend/platform, integration, DevOps, CI, runbooks, and resume proof. |
 | 2 minutes | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Role Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-pack.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | An international employer-grade review of architecture, state, integration contracts, English-first docs, specialist backend-owned AI workflow signal, reliability, privacy, CI, runbooks, and handoff quality. |
 | Project request | [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html) -> [proof-backed fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html) -> [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) -> [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md) -> [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) -> [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) | Proposal-ready Services request: choose the closest trigger, inspect the proof map and business scenario replay, then send current workflow, systems involved, one observable success condition, constraints, and what must not break. |
@@ -50,6 +50,12 @@ code, CI, smoke checks, docs, runbooks, or handoff notes.
 
 Message reason router: use [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 to choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context.
+
+Copy-ready first message anchors:
+
+- remote role screen: "Can you send the best proof route and the smallest first slice you would own?"
+- workflow project: "Can you map the risks, proof route, and first responsible slice?"
+- technical proof review: "Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to prove value."
 
 Deep review route:
 [AI Backend Proof Pack](./AI_BACKEND_PROOF_PACK.md) ->

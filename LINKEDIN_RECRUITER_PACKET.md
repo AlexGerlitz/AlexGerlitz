@@ -25,7 +25,7 @@ This profile is strongest when the role needs a builder who can connect business
 - Specialist overlap: backend/platform ownership, AI workflow engineering, CRM/ERP/API integration, DevOps reliability, and real business operations context are tied to public proof.
 - Technical overlap: Python/FastAPI/PostgreSQL, RAG and transcript workflows, CRM/ERP/API adapters, Docker/CI, audit logs, retries, idempotency, runbooks, and public proof routes.
 - Remote/international signal: English-first docs, Europe-compatible async review paths, compact evidence routes, privacy boundaries, CI, smoke checks, and handoff quality.
-- Next useful step: send one role or workflow; I can return fit, risks, smallest responsible first slice, and verification route.
+- Next useful step: use the copy-ready first messages below, or send one role or workflow; I can return fit, risks, smallest responsible first slice, and verification route.
 
 ## Ownership Signal
 
@@ -45,7 +45,7 @@ This profile is strongest when the role needs a builder who can connect business
 | Language/review filter | English-first documentation and proof routes; async technical review through code, CI, smoke checks, diagrams, runbooks, and handoff notes. |
 | Specialist/seniority filter | Backend/platform ownership, AI workflow engineering, CRM/ERP/API integration depth, DevOps reliability, and real business operations context. |
 | Featured proof filter | DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, DriveDesk Core, AI Backend Proof Pack, Enterprise Readiness, and PDF Resume. |
-| First message trigger | Send one remote role or one business workflow with one success condition, systems involved, ownership boundary, and timeline. |
+| First message trigger | Use a copy-ready first message for one remote role or one business workflow with one success condition, systems involved, ownership boundary, and timeline. |
 
 ## Recruiter Filter Map
 
@@ -103,6 +103,12 @@ Send one role, workflow, or proof question with one success condition. I can ret
 - first working slice with success criteria, proof route, and expected handoff artifact;
 - next step: role screen, technical proof review, first-month plan, or fixed-scope starting point.
 
+## Copy-Ready First Messages
+
+- Remote role screen: "Can you send the best proof route and the smallest first slice you would own?"
+- Workflow project: "Can you map the risks, proof route, and first responsible slice?"
+- Technical proof review: "Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to prove value."
+
 ## When To Message Me
 
 - Remote role with backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership.
@@ -124,8 +130,9 @@ Send one role, workflow, or proof question with one success condition. I can ret
 9. [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html) - job title and skill search alignment.
 10. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international and Europe-compatible remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.
 11. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) - CI, live smoke, demos, docs, and proof freshness.
-12. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) - shortest contact route.
+12. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) - shortest contact route with copy-ready first messages.
+13. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - minimum context, fit read, risk check, smallest responsible first slice, proof path, and next route.
 
 ## First Message Shape
 
-Send one role, workflow, or project; one success condition; the systems involved; the ownership boundary; and the timeline. I can turn that into role/project fit, risky assumptions, first working slice, and verification route.
+Send one role, workflow, or project; one success condition; the systems involved; the ownership boundary; and the timeline. The fastest route is to reuse one of the copy-ready first messages above or open Decision-Ready Contact. I can turn that into role/project fit, risky assumptions, first working slice, and verification route.
