@@ -35,6 +35,7 @@ public proof map, so the first message can point to an inspectable implementatio
 a vague automation request.
 
 - **AI workflow / RAG:** choose DriveDesk AI Operator Demo or AI Ops / RAG Workflow MVP. Proof:
+  [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt),
   [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt)
   and [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 - **CRM/ERP/API integration:** choose Integration Adapter MVP. Proof:

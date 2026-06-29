@@ -36,6 +36,7 @@ the right next route: remote role, fixed-scope project, technical review, or no-
 - [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html)
 - [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
 - [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+- [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt)
 - [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
 - [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html)
 - [proof-backed fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html)
