@@ -19,8 +19,8 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md): maps employer triggers to concrete repo evidence, verification commands, first-result proof, and backend-owned workflow boundaries.
 - [AI Ops demo walkthrough](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md): committed visual route for transcript -> RAG -> approval -> CRM-safe handoff.
 - [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html): Open-to-Work alignment for job titles, remote work mode, employment types, recruiter search keywords, recruiter filter map, proof stack by search intent, proof order, and first contact fit. It also maps the LinkedIn skills search surface to public proof and exposes structured data for recruiter/search tooling.
-- [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html): minimum first context, fit read, risk check, smallest responsible first slice, proof-backed offer route, next step, structured contact-route data, and best first proof links.
-- [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html): recruiter shortcut, message triggers, role-target links, PDF resume, proof-backed project offer route, ownership-first context, and the fastest contact path.
+- [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html): minimum first context, copy-ready first messages, fit read, risk check, smallest responsible first slice, proof-backed offer route, next step, structured contact-route data, and best first proof links.
+- [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html): recruiter shortcut, copy-ready first messages, message triggers, role-target links, PDF resume, proof-backed project offer route, ownership-first context, and the fastest contact path.
 - [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html): message triggers, search intent first links for AI Automation/RAG, Backend/Python/Platform, CRM/ERP/API Integration, DevOps/Reliability, proof-backed fixed-scope offers, plus decision-ready context and response shape.
 - [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html): repo-level evidence across DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm.
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html): search-fit roles mapped to proof, first-month ownership, direct review routes, and structured recruiter search snapshot data.
@@ -65,6 +65,8 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 - Message me first when there is one messy workflow, one risky integration boundary, or one backend/platform/DevOps slice that should become testable, logged, documented, and handed off.
 - First reply promise: fit read, risky assumptions, smallest responsible first slice, proof path to inspect, and the right next route: remote role, fixed-scope project, technical review, or no-fit.
+- Copy-ready first messages cover remote role screens, workflow projects, and technical proof reviews.
+- Message prompt anchors: "Can you send the best proof route and the smallest first slice you would own?", "Can you map the risks, proof route, and first responsible slice?", and "strongest repo, CI/live-smoke evidence".
 - Shortest proof path: LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> PDF resume.
 - First useful result: a verified slice with backend-owned state, tests, logs, docs, and a handoff route.
 - Message reason router: use Start conversation to choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context.

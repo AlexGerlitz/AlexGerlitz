@@ -13,6 +13,26 @@ Send one remote role, workflow, project, or proof question plus one success cond
 with a fit read, risky assumptions, the smallest responsible first slice, proof path to inspect, and
 the right next route: remote role, fixed-scope project, technical review, or no-fit.
 
+## Copy-Ready First Messages
+
+Remote role screen:
+
+```text
+Hi Alex, I am looking at a remote role. Role title: ..., stack/systems: ..., team surface: ..., first-month ownership: .... Can you send the best proof route and the smallest first slice you would own?
+```
+
+Workflow project:
+
+```text
+Hi Alex, we have one workflow that needs to become reliable. Workflow: ..., systems to inspect: CRM/ERP/API/database/docs, success condition: ..., what must not break: .... Can you map the risks, proof route, and first responsible slice?
+```
+
+Technical proof review:
+
+```text
+Hi Alex, I want to review your fit for AI workflow, backend/platform, integration, or DevOps work. Claim or risk to validate: .... Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to prove value.
+```
+
 ## Send This Minimum Context
 
 | Context | Useful details |
