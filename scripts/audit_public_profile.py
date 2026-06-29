@@ -2002,6 +2002,9 @@ REQUIRED_TEXT = {
         "LinkedIn banner asset",
         "prepared 1584x396 top-card cover image",
         "https://alexgerlitz.github.io/AlexGerlitz/assets/linkedin-banner.png",
+        "PDF resume",
+        "one-page application handoff with remote backend/platform fit, public proof projects, AI-native delivery loop",
+        "Europe-compatible async signal, proof-by-intent routes, and contact paths.",
         "AI Ops Hiring Signal Brief",
         "hiring-signal-brief.txt",
         "search filters, recruiter filter map, 30-second fit, employer trigger matrix, shortlist scorecard, ownership signal, featured work samples, proof order, message triggers, decision-ready reply, expected first result, shortlist signal, risk reduction, AI-assisted execution proof, and international/Europe-compatible remote-team proof routing",
@@ -2066,6 +2069,8 @@ REQUIRED_TEXT = {
         "https://github.com/AlexGerlitz/MPlusForm/actions/runs/28296918568",
         "LinkedIn Services",
         "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html",
+        "AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and review",
+        "architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.",
         "The main signal is not no-code node wiring.",
     ],
     "ROLE_PROJECT_BRIEF.md": [
