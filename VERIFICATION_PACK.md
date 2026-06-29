@@ -111,11 +111,11 @@ Checked on 2026-06-30:
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
 - Profile proof freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
-- Latest concrete profile-proof snapshot is green on `cfc90f1` after the message-first recruiter route and live-smoke contract fix.
-- Profile Funnel Audit succeeded on `cfc90f1`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28390738779
-- Profile Pages deployment succeeded on `cfc90f1`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28390738168
-- Live Profile Smoke succeeded on `cfc90f1`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28390738795
-- Live Pages status is `built`, and direct live snippet checks confirmed the message-first route on the portfolio homepage, LinkedIn Proof Signal, Verification Pack, `llms.txt`, and raw `LINKEDIN_PROOF_SIGNAL.md`.
+- Latest recorded profile-proof snapshot is green on `10eb7d4` after the verified LinkedIn skill-surface sync and raw proof-smoke fix.
+- Profile Funnel Audit succeeded on `10eb7d4`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28392060409
+- Profile Pages deployment succeeded on `10eb7d4`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28392059743
+- Live Profile Smoke succeeded on `10eb7d4`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28392060429
+- Live Pages status is `built`, and direct live snippet checks confirmed the verified LinkedIn skill surface on LinkedIn Proof Signal, Verification Pack, `llms.txt`, and raw `LINKEDIN_PROOF_SIGNAL.md`.
 - GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
