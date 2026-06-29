@@ -47,7 +47,7 @@ Output:
 
 - Process breakdown and risky assumptions.
 - Minimal data model and integration map.
-- First working slice that proves the direction.
+- First working slice with a proof route and handoff evidence.
 - Next-step implementation plan with tradeoffs.
 
 ### 2. AI Ops / RAG Workflow MVP

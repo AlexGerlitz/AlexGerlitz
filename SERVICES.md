@@ -41,7 +41,7 @@ ownership.
 
 Choose the closest trigger, then open the package and proof route that matches it. The proof link shows the implementation pattern before a paid scope starts.
 
-- **AI workflow / RAG:** DriveDesk AI Operator demo or AI workflow / RAG MVP. Proof:
+- **AI workflow / RAG:** DriveDesk AI Operator proof slice or AI workflow / RAG MVP. Proof:
   [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt)
   and [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 - **CRM/ERP/API integration:** CRM / ERP / API Adapter. Proof:
@@ -95,7 +95,7 @@ What I can send back:
 
 | Service | Best for | Typical output |
 | --- | --- | --- |
-| DriveDesk AI Operator demo | Sales/support teams that need call or transcript analysis, lead scoring, follow-up drafts, approval, and CRM action. | RAG, call analysis JSON, Telegram approval, n8n orchestration, CRM sandbox adapter, audit/retry path, tests, runbook, screenshots/demo. |
+| DriveDesk AI Operator proof slice | Sales/support teams that need call or transcript analysis, lead scoring, follow-up drafts, approval, and CRM action. | RAG, call analysis JSON, Telegram approval, n8n orchestration, CRM sandbox adapter, audit/retry path, tests, runbook, screenshots, and proof walkthrough. |
 | AI workflow / RAG MVP | Teams that read, search, summarize, classify, score, route, or approve too much manual work. | Ingestion, retrieval, summaries, scoring/routing, approval queues, API/admin workflow, tests, and runbook. |
 | Internal operations platform | Businesses running operations through chats, spreadsheets, duplicated documents, or fragile admin routines. | FastAPI/PostgreSQL backend, records, roles, audit trail, tasks, notifications, admin workflows, Docker deploy path. |
 | Integration adapter | 1C, CRM/ERP, banking/accounting, custom databases, webhooks, or public APIs that need reliable data flow. | Explicit contracts, mapping/validation, sync/retry/logging path, smoke checks, rollout notes, and debugging docs. |
@@ -126,7 +126,7 @@ Output:
 - verification plan;
 - next-step implementation estimate.
 
-### 2. DriveDesk AI Operator Demo
+### 2. DriveDesk AI Operator Proof Slice
 
 Good for sales/support workflows where calls, transcripts, documents, or CRM leads should become
 RAG-backed analysis, lead scoring, follow-up drafts, approvals, and CRM actions.
@@ -212,9 +212,9 @@ Output can include:
   broad LinkedIn Services labels, backend/platform ownership, AI workflow, integration, data, and
   DevOps work.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - AI/RAG workflow backend
-  backend with transcript analysis, approval queues, PostgreSQL/pgvector-backed storage, Docker, and tests.
+  with transcript analysis, approval queues, PostgreSQL/pgvector-backed storage, Docker, and tests.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate) - self-hosted deployment control panel
-  direction with SSH runtime tooling, CI/CD, health checks, and runbooks.
+  proof path with SSH runtime tooling, CI/CD, health checks, and runbooks.
 - [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) - addon and sync pipeline work around
   validation boundaries, server-side trust checks, Windows automation, and docs.
 - [Proof of work summary](./PROOF_OF_WORK.md) - the fast reviewer path.

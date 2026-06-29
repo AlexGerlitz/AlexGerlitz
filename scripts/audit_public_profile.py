@@ -1197,7 +1197,7 @@ REQUIRED_TEXT = {
         "current workflow or system: what happens today and where it breaks",
         "fit read against backend/platform, AI workflow, integration, DevOps, or internal-operations ownership",
         "scope boundary for a paid teardown, MVP, integration adapter, or recovery sprint",
-        "DriveDesk AI Operator demo",
+        "DriveDesk AI Operator proof slice",
         "Remote-only LinkedIn service page",
         "Fixed-Scope AI Automation Offers",
         "https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html",
@@ -1244,7 +1244,7 @@ REQUIRED_TEXT = {
         "What to include",
         "What I can send back",
         "Scope boundary for a paid teardown, MVP, integration adapter, or recovery sprint.",
-        "DriveDesk AI Operator Demo",
+        "DriveDesk AI Operator Proof Slice",
         "AI Workflow / RAG MVP",
         "CRM / ERP / API Adapter",
         "Internal Operations Platform",
@@ -2540,6 +2540,27 @@ STALE_PUBLIC_WORDING = {
         "Why This Direction Matters",
         "Stack Direction",
         "proves the direction",
+    ],
+    "WORK_WITH_ME.md": [
+        "proves the direction",
+    ],
+    "SERVICES.md": [
+        "DriveDesk AI Operator demo",
+        "DriveDesk AI Operator Demo",
+        "screenshots/demo",
+        "direction with SSH runtime tooling",
+        "backend backend",
+    ],
+    "services.html": [
+        "DriveDesk AI Operator Demo",
+    ],
+    "FIXED_SCOPE_OFFERS.md": [
+        "DriveDesk AI Operator Demo",
+        "after the first demo",
+    ],
+    "fixed-scope-offers.html": [
+        "DriveDesk AI Operator Demo",
+        "after the demo",
     ],
     "flagship-platform.html": [
         "Flagship DriveDesk direction",
