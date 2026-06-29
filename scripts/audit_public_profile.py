@@ -260,6 +260,7 @@ REQUIRED_TEXT = {
         "Shortest proof path",
         "First useful result",
         "AI-native delivery loop",
+        "Remote AI-native delivery and digital infrastructure support",
         "AI tooling compresses discovery, implementation, debugging, docs, and review",
         "architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned",
         "Search-fit titles: Back End Developer, Python Developer",
@@ -1144,6 +1145,7 @@ REQUIRED_TEXT = {
         "state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.",
         "Europe-compatible remote signal: written proof routes, English-first docs, async technical review,",
         "privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff.",
+        "Remote AI-native delivery and digital infrastructure support for a live driving-school operation.",
         "right now: onsite-only roles",
         "Artificial Intelligence Engineer with a workflow/backend focus",
         "PDF resume for application upload",
@@ -1392,6 +1394,7 @@ REQUIRED_TEXT = {
         "Skill filters",
         "First message trigger",
         "AI Automation / Backend / Platform Engineer",
+        "AI-native delivery, operations workflow analysis",
         "Backend Development",
         "Platform Engineering",
         "Workflow Automation",
@@ -1667,9 +1670,11 @@ REQUIRED_TEXT = {
         "https://alexgerlitz.github.io/AlexGerlitz/case-studies.html",
         "DriveDesk / Autoschool54 Operations Platform Direction",
         "AI Ops Workflow Kit",
+        "backend pattern for AI-native operations automation",
         "DeployMate",
         "MPlusForm",
         "Common Pattern",
+        "AI tooling speed paired with engineering ownership",
     ],
     "drivedesk-proof-route.html": [
         "<title>DriveDesk AI Operator - Proof Route</title>",
@@ -1849,6 +1854,7 @@ REQUIRED_TEXT = {
         "Shortlist signal: backend-owned state, integrations, logs, tests, docs, and handoff.",
         "Europe-compatible signal: English-first docs, async review paths, privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff.",
         "AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and review while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.",
+        "Verify AI outputs and AI-accelerated changes through inspection, tests, logs, smoke checks, docs, and hands-on review before shipping.",
         "Ownership signal: incomplete context -> risky boundary -> reviewable outcome with backend-owned state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.",
         "Proof by intent: AI/RAG -> ai-automation-role-fit.html",
         "Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8n, Telegram",
@@ -2419,6 +2425,8 @@ PDF_ARTIFACTS = {
             "handoff.",
             "AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and review while architecture, state",
             "boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.",
+            "Verify AI outputs and AI-accelerated changes through inspection, tests, logs, smoke checks, docs, and hands-on review before",
+            "shipping.",
             "Ownership signal: incomplete context -> risky boundary -> reviewable outcome",
             "Message: linkedin.com/in/alex-gerlitz-a659ab3bb",
             "LinkedIn Services: linkedin.com/services/page/3153b734507b8a60ab",
@@ -2442,6 +2450,7 @@ PDF_ARTIFACTS = {
             "file://",
             "Users/alexgerlitz",
             "Documents/Codex",
+            "AI-assisted output",
         ],
     },
 }
@@ -2476,6 +2485,8 @@ STALE_PUBLIC_WORDING = {
     ],
     "CASE_STUDIES.md": [
         "AI-assisted execution",
+        "AI-assisted operations",
+        "AI-assisted speed",
     ],
     "case-studies.html": [
         "AI-assisted execution",
@@ -2493,10 +2504,20 @@ STALE_PUBLIC_WORDING = {
         "unverified AI-assisted output",
     ],
     "RESUME.md": [
+        "Remote AI-assisted engineering",
         "unverified AI-assisted output",
     ],
     "resume.html": [
         "unverified AI-assisted output",
+    ],
+    "resume-pdf.html": [
+        "AI-assisted output",
+    ],
+    "index.html": [
+        "Remote AI-assisted engineering",
+    ],
+    "ROLE_TARGETS.md": [
+        "AI-assisted development",
     ],
     "ENTERPRISE_READINESS.md": [
         "AI-assisted delivery",

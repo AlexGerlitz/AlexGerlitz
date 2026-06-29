@@ -55,7 +55,7 @@ reviewable, and higher-risk outputs need approval states instead of blind automa
 
 ### Build
 
-AI Ops Workflow Kit turns that into a backend pattern for AI-assisted operations: document intake, RAG retrieval, OpenAI/Claude/Gemini provider boundary, transcript analysis, approvals, and CRM handoff boundaries.
+AI Ops Workflow Kit turns that into a backend pattern for AI-native operations automation: document intake, RAG retrieval, OpenAI/Claude/Gemini provider boundary, transcript analysis, approvals, and CRM handoff boundaries.
 
 Built proof includes:
 
@@ -155,4 +155,4 @@ Across these projects, the pattern is the same:
 - verify with tests, CI, logs, smoke checks, or public demos;
 - leave docs and runbooks so the result can be operated after the first demo.
 
-That is the proof: AI-assisted speed paired with engineering ownership.
+That is the proof: AI tooling speed paired with engineering ownership.

@@ -64,8 +64,7 @@ state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
 **Autoschool54 / DriveDesk platform work**
 Remote, March 2024 - Present
 
-Remote AI-assisted engineering and digital infrastructure support for a live driving-school
-operation.
+Remote AI-native delivery and digital infrastructure support for a live driving-school operation.
 
 Scope:
 
