@@ -1055,8 +1055,9 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Role-fit resume",
             '<a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>',
+            "LinkedIn Recruiter Packet",
+            "Decision-Ready Contact",
             "LinkedIn Services",
-            "Contact routes",
             "Recruiter preferences",
             "Proof By Search Intent",
             "AI Automation / RAG",
