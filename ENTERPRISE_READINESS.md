@@ -81,7 +81,7 @@ This is the useful hiring signal: not generic AI tooling, but a rare overlap of 
 
 My strongest surface is not generic AI automation. It is backend-owned business workflow engineering where AI, data, approvals, CRM/ERP/API adapters, DevOps, and handoff quality have explicit contracts.
 
-- Rare overlap: real business infrastructure support since March 2024, backend/platform implementation, AI-assisted delivery, CRM/ERP/API integration, DevOps recovery, and public proof discipline.
+- Rare overlap: real business infrastructure support since March 2024, backend/platform implementation, AI-native delivery, CRM/ERP/API integration, DevOps recovery, and public proof discipline.
 - Review evidence: code, docs, CI, live smoke, runtime-boundary notes, privacy boundaries, adapter contracts, and proof routes are inspectable before a live walkthrough.
 - First proof task: DriveDesk AI Operator-style slice with document/transcript/lead intake, RAG, structured analysis, human approval, CRM-safe handoff, tests, logs, and runbook.
 - Team value: I reduce hidden automation state, brittle workflow glue, unclear ownership, missing rollback paths, and unverifiable AI outputs.

@@ -30,7 +30,7 @@ privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff.
 
 Shortlist signal: I turn messy business workflows into backend-owned systems with records, state,
 integrations, logs, tests, docs, and handoff. Risk I reduce: hidden automation state, brittle
-no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.
+no-code glue, unclear adapter boundaries, missing logs, and unverified AI output.
 Ownership signal: incomplete context -> risky boundary -> reviewable outcome with backend-owned
 state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
 
@@ -76,7 +76,7 @@ Scope:
   and repeatable workflows;
 - using LLMs daily for domain learning, debugging, scripting, implementation review, documentation,
   comparison of approaches, and root-cause analysis;
-- verifying AI-assisted outputs through inspection, tests, logs, smoke checks, docs, and hands-on
+- verifying AI outputs through inspection, tests, logs, smoke checks, docs, and hands-on
   review before shipping.
 
 Public proof built from the same operational base:

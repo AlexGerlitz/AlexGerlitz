@@ -688,7 +688,7 @@ REQUIRED_TEXT = {
         "AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and review",
         "architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned",
         "Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.",
-        "Risk I reduce: hidden automation state, brittle no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.",
+        "Risk I reduce: hidden automation state, brittle no-code glue, unclear adapter boundaries, missing logs, and unverified AI output.",
         "Ownership signal: incomplete context -> risky boundary -> reviewable outcome with backend-owned state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.",
         "Not my target right now: onsite-only roles",
         "Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8n, Telegram",
@@ -713,7 +713,7 @@ REQUIRED_TEXT = {
         "deterministic RAG quality eval",
         "Fast fit checklist: remote-only work, concrete technical outcome",
         "Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.",
-        "Risk I reduce: hidden automation state, brittle no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.",
+        "Risk I reduce: hidden automation state, brittle no-code glue, unclear adapter boundaries, missing logs, and unverified AI output.",
         "AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and review",
         "architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.",
         "Not my target right now: onsite-only roles",
@@ -1039,7 +1039,7 @@ REQUIRED_TEXT = {
         "International and Europe-compatible async readiness",
         "Specialist Review Signal",
         "My strongest surface is not generic AI automation.",
-        "Rare overlap: real business infrastructure support since March 2024, backend/platform implementation, AI-assisted delivery, CRM/ERP/API integration, DevOps recovery, and public proof discipline.",
+        "Rare overlap: real business infrastructure support since March 2024, backend/platform implementation, AI-native delivery, CRM/ERP/API integration, DevOps recovery, and public proof discipline.",
         "First proof task: DriveDesk AI Operator-style slice with document/transcript/lead intake, RAG, structured analysis, human approval, CRM-safe handoff, tests, logs, and runbook.",
         "Team value: I reduce hidden automation state, brittle workflow glue, unclear ownership, missing rollback paths, and unverifiable AI outputs.",
         "English-first docs",
@@ -1350,7 +1350,7 @@ REQUIRED_TEXT = {
         "Systems Integration",
         "Customer Relationship Management (CRM)",
         "Enterprise Resource Planning (ERP)",
-        "AI-Assisted Execution Discipline",
+        "AI-Native Delivery Discipline",
         "Fast problem decomposition",
         "Engineering ownership",
         "Verification habit",
@@ -1372,7 +1372,7 @@ REQUIRED_TEXT = {
         "CRM / ERP Integration",
         "DevOps / Self-Hosting",
         "Best Skills To Evaluate",
-        "AI-Assisted Execution Discipline",
+        "AI-Native Delivery Discipline",
         "Fast Problem Decomposition",
         "Verification Habit",
         "Full-Cycle Delivery",
@@ -2455,6 +2455,48 @@ STALE_PUBLIC_WORDING = {
     "linkedin-recruiter-packet.html": [
         "AI-assisted execution discipline",
         "AI speeds research, implementation, docs, and debugging while engineering ownership stays with me.",
+    ],
+    "SKILL_EVIDENCE.md": [
+        "AI-Assisted Execution Discipline",
+        "AI speeds research, implementation, docs, and debugging",
+    ],
+    "skill-evidence.html": [
+        "AI-Assisted Execution Discipline",
+        "AI-assisted execution evidence",
+        "AI-assisted execution discipline",
+    ],
+    "PROOF_OF_WORK.md": [
+        "I can use AI-assisted execution",
+    ],
+    "CASE_STUDIES.md": [
+        "AI-assisted execution",
+    ],
+    "case-studies.html": [
+        "AI-assisted execution",
+    ],
+    "drivedesk-ai-operator.html": [
+        "AI tooling as an engineering accelerator",
+    ],
+    "ai-backend-proof-pack.html": [
+        "AI tooling as an engineering accelerator",
+    ],
+    "APPLICATION_PACK.md": [
+        "unverified AI-assisted output",
+    ],
+    "application-pack.html": [
+        "unverified AI-assisted output",
+    ],
+    "RESUME.md": [
+        "unverified AI-assisted output",
+    ],
+    "resume.html": [
+        "unverified AI-assisted output",
+    ],
+    "ENTERPRISE_READINESS.md": [
+        "AI-assisted delivery",
+    ],
+    "enterprise-readiness.html": [
+        "AI-assisted delivery",
     ],
     "VERIFICATION_PACK.md": [
         "uses AI-assisted execution language",

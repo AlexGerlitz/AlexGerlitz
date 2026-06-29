@@ -18,7 +18,7 @@ Main case:
 
 Shortlist signal: messy business workflows become backend-owned systems with records, state,
 integrations, logs, tests, docs, and handoff. Risk I reduce: hidden automation state, brittle
-no-code glue, unclear adapter boundaries, missing logs, and unverified AI-assisted output.
+no-code glue, unclear adapter boundaries, missing logs, and unverified AI output.
 
 Europe-compatible remote signal: written proof routes, English-first docs, async technical review,
 privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff.

@@ -3,7 +3,7 @@
 Public HTML route: [case-studies.html](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html).
 
 This page is the narrative layer behind the proof links. It shows how I think about messy business
-problems, AI-assisted execution, backend/platform design, integrations, DevOps, and operational
+problems, AI-native delivery, backend/platform design, integrations, DevOps, and operational
 handoff.
 
 ## Case 1: DriveDesk / Autoschool54 Operations Platform Direction
@@ -76,7 +76,7 @@ Built proof includes:
 
 ### What This Proves
 
-I can use AI-assisted execution while keeping workflow state, approval boundaries, tests, and
+I can use an AI-native delivery loop while keeping workflow state, approval boundaries, tests, and
 integration surfaces explicit.
 
 ## Case 3: DeployMate
