@@ -68,9 +68,9 @@ Since March 2024, I have worked remotely on Autoschool54 / DriveDesk digital inf
 business workflows, admin/operator support, documents, schedules, payments, accounts, access,
 troubleshooting, automation, backups, deployment/support thinking, and recovery paths.
 
-I use AI tooling as an engineering accelerator for domain research, decomposition, implementation,
-debugging, docs, tests, and review. I still keep the engineering responsibility on my side: code
-inspection, tests, logs, smoke checks, CI, docs, deployment, and operational handoff.
+AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and
+review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks,
+and shipped quality stay engineering-owned.
 
 ## Fast Review Links
 

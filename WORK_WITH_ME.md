@@ -3,9 +3,9 @@
 I build remote-first backend, AI automation, integration, and DevOps systems for business operations.
 
 The strongest fit is a real workflow with unclear requirements, scattered data, manual operator work,
-or fragile deployment/recovery. I use AI tooling to move faster through research, decomposition,
-implementation, debugging, docs, tests, and review, but the deliverable still has to be engineered:
-tested, documented, deployed, observable, and understandable after the first demo.
+or fragile deployment/recovery. AI tooling compresses discovery, implementation, debugging, docs,
+and review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks,
+and shipped quality stay engineering-owned.
 
 Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
 recovery sprint, or DriveDesk AI Operator-style proof route.
