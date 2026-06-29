@@ -224,7 +224,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "recruiter-preferences.html",
             "Decision-ready contact",
             "decision-ready-contact.html",
-            "Copy-ready first messages, minimum context, fit read, risk check, first slice, proof path and next step.",
+            "Copy-ready first messages, recruiter offer triage, minimum context, fit read, risk check, first slice, proof path and next step.",
             "Copy-ready first messages for remote roles, workflow projects, and technical proof reviews.",
             "AI backend proof pack",
             "ai-backend-proof-pack.html",
