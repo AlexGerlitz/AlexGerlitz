@@ -1,9 +1,9 @@
-# DriveDesk Flagship Platform Direction
+# DriveDesk Flagship Platform Proof
 
-## Sharpest Current Demo: DriveDesk AI Operator
+## Sharpest Current Proof Route: DriveDesk AI Operator
 
-The main killer-demo direction is now [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md): an AI
-sales and support workflow platform.
+The main flagship proof route is [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md): an AI sales
+and support workflow platform.
 
 Scenario:
 
@@ -22,18 +22,17 @@ The important selling point: I am not just gluing no-code nodes together. Backen
 audit, retries, idempotency, quality checks, approvals, and integration contracts. n8n is the
 orchestration layer.
 
-DriveDesk is the long-term product direction behind my public proof projects: one remote-first
-operating layer for real business workflows, integrations, AI assistance, deployment, observability,
-and recovery.
+DriveDesk is the product path behind my public proof projects: one remote-first operating layer for
+real business workflows, integrations, AI assistance, deployment, observability, and recovery.
 
 The target is not a vague "integrates with everything" promise. The target is a platform that can
 connect systems like CRM, ERP, 1C, banking/accounting tools, custom databases, documents, operator
 queues, notifications, and admin workflows through explicit adapters, contracts, logs, tests, and
 rollout steps.
 
-## Why This Direction Matters
+## Why This Platform Path Matters
 
-This direction combines the surfaces remote teams and founders usually need in one technical story:
+This platform path combines the surfaces remote teams and founders usually need in one technical story:
 
 - backend/platform ownership;
 - integration architecture;
@@ -98,7 +97,7 @@ Good first slices:
 - one deployment/recovery hardening sprint for an existing service;
 - one operating dashboard with logs, health checks, statuses, and handoff notes.
 
-## Stack Direction
+## Stack
 
 - Python, FastAPI, PostgreSQL, Alembic, OpenAPI, pytest.
 - Docker Compose, GitHub Actions, release gates, smoke checks, logs, backups, runbooks.
@@ -117,7 +116,7 @@ one clear success condition.
 
 I will respond with the smallest responsible first slice, risky assumptions, likely data model or
 integration boundary, verification plan, and what should wait until the first working path proves
-the direction.
+the operating path.
 
 ## Links
 

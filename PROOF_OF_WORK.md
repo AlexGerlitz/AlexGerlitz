@@ -17,7 +17,7 @@ private Autoschool54/DriveDesk work demonstrates without exposing private busine
 
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) - backend/platform and integration foundation.
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)
-- [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) - larger backend/platform direction that connects the AI Operator slice to adapters, workflows, audit/outbox, admin/operator surfaces, DevOps, observability, and recovery.
+- [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) - larger backend/platform proof path that connects the AI Operator slice to adapters, workflows, audit/outbox, admin/operator surfaces, DevOps, observability, and recovery.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - document/CRM/call intake, first-slice playbook, importable n8n workflow artifact, privacy redaction boundary, RAG quality eval, LLM/transcription provider boundaries, reviewer acceptance report, reviewer observability snapshot, approvals, Telegram callback, idempotent outbox worker, live PostgreSQL/pgvector persistence, and n8n/Telegram integration boundary.
 - [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) - concrete RAG/transcript, CRM handoff, human approval, and reliability slices.
 - [AI Ops demo walkthrough](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md) - committed GIF route for transcript -> RAG -> approval -> CRM-safe handoff, generated from the public-safe offer demo.
@@ -96,7 +96,7 @@ Checked on 2026-06-29:
 
 ## DriveDesk Core Case Study
 
-DriveDesk Core is the public foundation for the DriveDesk direction: one operational
+DriveDesk Core is the public foundation for the DriveDesk proof path: one operational
 layer for CRM/ERP/accounting/banking integrations, documents, tasks, notifications, AI workflows,
 deployment, observability, and recovery.
 

@@ -2482,6 +2482,8 @@ STALE_PUBLIC_WORDING = {
     ],
     "PROOF_OF_WORK.md": [
         "I can use AI-assisted execution",
+        "larger backend/platform direction",
+        "DriveDesk direction: one operational",
     ],
     "CASE_STUDIES.md": [
         "AI-assisted execution",
@@ -2493,6 +2495,9 @@ STALE_PUBLIC_WORDING = {
     ],
     "drivedesk-ai-operator.html": [
         "AI tooling as an engineering accelerator",
+        "Flagship killer-demo direction",
+        "demo direction",
+        "platform direction with backend-owned state",
     ],
     "ai-backend-proof-pack.html": [
         "AI tooling as an engineering accelerator",
@@ -2515,15 +2520,59 @@ STALE_PUBLIC_WORDING = {
     ],
     "index.html": [
         "Remote AI-assisted engineering",
+        "Main project direction:",
+        "Flagship Killer Demo",
+        "sharpest demo direction",
+        "flagship platform direction",
+        "DriveDesk platform direction",
     ],
     "ROLE_TARGETS.md": [
         "AI-assisted development",
     ],
+    "DRIVEDESK_AI_OPERATOR.md": [
+        "Flagship killer-demo direction",
+        "project direction I want recruiters",
+    ],
+    "FLAGSHIP_PLATFORM.md": [
+        "Sharpest Current Demo",
+        "main killer-demo direction",
+        "long-term product direction",
+        "Why This Direction Matters",
+        "Stack Direction",
+        "proves the direction",
+    ],
+    "flagship-platform.html": [
+        "Flagship DriveDesk direction",
+        "larger platform direction",
+        "Flagship platform direction",
+        "operations platform direction centered",
+    ],
+    "README.md": [
+        "sharpest current proof direction",
+        "broader platform direction",
+    ],
+    "START_HERE.md": [
+        "Main project direction:",
+        "Flagship platform direction",
+    ],
+    "projects.html": [
+        "current direction",
+        "Flagship direction",
+        "Flagship platform direction",
+    ],
+    "llms.txt": [
+        "larger backend/platform direction",
+    ],
     "ENTERPRISE_READINESS.md": [
         "AI-assisted delivery",
+        "public demo direction",
+        "DriveDesk platform direction",
     ],
     "enterprise-readiness.html": [
         "AI-assisted delivery",
+        "The main direction is DriveDesk AI Operator",
+        "public demo direction",
+        "DriveDesk platform direction",
     ],
     "VERIFICATION_PACK.md": [
         "uses AI-assisted execution language",

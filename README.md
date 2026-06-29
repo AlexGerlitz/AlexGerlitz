@@ -51,9 +51,9 @@ Fast fit checklist: message me when the work is remote-only and needs a backend-
 
 ## Flagship Direction
 
-**DriveDesk AI Operator** is the sharpest current proof direction: documents, call audio, transcripts, or CRM leads -> RAG, analysis, scoring, tasks, Telegram approval, and CRM handoff with backend-owned state, audit, retries, idempotency, and adapter contracts. The larger [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) connects that slice to roles, records, workflows, adapters, audit/outbox, admin/operator surfaces, DevOps, observability, backups, and recovery paths.
+**DriveDesk AI Operator** is the sharpest current proof route: documents, call audio, transcripts, or CRM leads -> RAG, analysis, scoring, tasks, Telegram approval, and CRM handoff with backend-owned state, audit, retries, idempotency, and adapter contracts. The larger [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) connects that slice to roles, records, workflows, adapters, audit/outbox, admin/operator surfaces, DevOps, observability, backups, and recovery paths.
 
-Since **March 2024**, I have supported Autoschool54 digital infrastructure remotely while turning real operational problems into a broader platform direction: admin workflows, documents, schedules, payments, accounts, access, automation, deployment, logs, backups, and recovery paths.
+Since **March 2024**, I have supported Autoschool54 digital infrastructure remotely while turning real operational problems into a broader platform path: admin workflows, documents, schedules, payments, accounts, access, automation, deployment, logs, backups, and recovery paths.
 
 ## Proof Routes
 

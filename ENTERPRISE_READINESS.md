@@ -19,7 +19,7 @@ The HTML route now exposes machine-readable enterprise-readiness data for recrui
 
 | Review signal | Public evidence | Why it matters |
 | --- | --- | --- |
-| Backend/platform ownership | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), [Flagship platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) | FastAPI/PostgreSQL, roles, records, audit/outbox, adapters, OpenAPI, Docker, tests, CI, and public demo direction. |
+| Backend/platform ownership | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), [Flagship platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) | FastAPI/PostgreSQL, roles, records, audit/outbox, adapters, OpenAPI, Docker, tests, CI, and public demo proof route. |
 | AI workflow engineering | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [Public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), [Live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) | RAG quality eval, transcript analysis, Telegram approval, CRM-safe handoff, live PostgreSQL/pgvector storage, and reviewer evidence. |
 | Reliability and operations | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), CI checks, runbooks, and smoke routes | Behavior is checked through commands, CI, health routes, release gates, docs, and recovery-oriented proof. |
 | Privacy and integration discipline | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), Bitrix dry-run contract, Telegram callback evidence, and CRM outbox state | Sensitive input, approvals, and CRM mutations are handled through explicit boundaries instead of hidden workflow glue. |
@@ -71,7 +71,7 @@ This is the useful hiring signal: not generic AI tooling, but a rare overlap of 
 
 | Specialist signal | Public proof | Why it matters |
 | --- | --- | --- |
-| Real operations context | Autoschool54 digital infrastructure support since March 2024, DriveDesk platform direction, and public proof routes | The work is grounded in real admin/operator workflows, not only portfolio exercises. |
+| Real operations context | Autoschool54 digital infrastructure support since March 2024, DriveDesk platform proof path, and public proof routes | The work is grounded in real admin/operator workflows, not only portfolio exercises. |
 | Backend-owned AI systems | DriveDesk AI Operator, AI Ops Workflow Kit, FastAPI/PostgreSQL, pgvector, approvals, audit, retries, and idempotency | AI workflows stay reviewable because state, quality checks, and external writes have explicit backend boundaries. |
 | Integration depth | CRM/ERP/API/1C/accounting/banking adapter direction, Bitrix dry-run handoff, Telegram approval, and adapter contracts | Business systems need field mapping, validation, retries, idempotency, and rollback notes, not hidden automation glue. |
 | Production review discipline | CI, smoke checks, verification pack, live owner proof, privacy boundary, runbooks, and public-safe evidence | A remote team can inspect risk, behavior, and handoff quality before a live walkthrough. |

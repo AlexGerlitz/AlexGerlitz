@@ -16,7 +16,7 @@ pure prompt/content tasks, isolated static websites, student/course assignments,
 clones, generic mobile/ecommerce apps without backend/integration ownership, or undefined outcomes
 with no way to verify success.
 
-Main project direction:
+Main proof route:
 [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) ->
 [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) ->
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) -
@@ -135,7 +135,7 @@ Technical proof signal:
 1. [Portfolio page](https://alexgerlitz.github.io/AlexGerlitz/)
 2. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
 3. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-4. [Flagship platform direction](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
+4. [Flagship platform proof](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
 5. [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
 6. [Skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 7. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html), or [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)

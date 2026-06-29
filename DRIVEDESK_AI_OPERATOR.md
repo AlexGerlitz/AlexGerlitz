@@ -1,10 +1,10 @@
 # DriveDesk AI Operator
 
-Flagship killer-demo direction: an AI sales and support workflow platform that turns calls,
-documents, transcripts, CRM leads, and knowledge-base records into reviewable operator actions.
+Flagship proof route: an AI sales and support workflow platform that turns calls, documents,
+transcripts, CRM leads, and knowledge-base records into reviewable operator actions.
 
-This is the project direction I want recruiters, founders, and hiring managers to use when they
-evaluate my work. It combines the strongest parts of the current proof stack:
+This is the proof route I want recruiters, founders, and hiring managers to use when they evaluate
+my work. It combines the strongest parts of the current proof stack:
 
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) for backend/platform, tenants,
   audit/outbox, workflow rules, adapters, OpenAPI, Docker, CI, and docs.
