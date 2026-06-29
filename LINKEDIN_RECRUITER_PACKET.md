@@ -19,6 +19,19 @@ Use this packet when a LinkedIn search, profile view, or first message needs a f
 - AI-native delivery loop: architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.
 - International and Europe-compatible team fit: English-first docs, async proof routes, integration contracts, privacy boundaries, CI, runbooks, and operational handoff quality.
 
+## Inbound Offer Fit
+
+Use this block when deciding whether to message, shortlist, or forward internally. The strongest inbound offers are concrete enough to route into proof without a generic intro call.
+
+| Send if the need is | First proof to open | Expected first result |
+| --- | --- | --- |
+| Remote backend/platform role with AI workflow, internal tools, CRM/ERP/API integration, or DevOps ownership. | [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | Fit read, risk check, smallest first-month slice, proof path, and next screen route. |
+| AI automation or RAG workflow where output must be reviewed, approved, logged, and handed off. | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt) -> [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) | One backend-owned workflow slice with RAG, structured output, human approval, tests, logs, and operator handoff. |
+| Integration work where CRM, ERP, 1C, banking, or APIs need explicit contracts and rollback notes. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md) | Adapter boundary, field map, validation, idempotent handoff, retry/dead-letter path, audit trail, and rollout risk notes. |
+| International distributed team needs async proof before a live screen. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | Written review path through English-first docs, CI/live smoke, privacy boundaries, runbooks, handoff notes, and resume handoff. |
+
+Best first message: send one role or workflow, one success condition, systems involved, ownership boundary, timeline, and compensation band if shareable. I will route it to fit/no-fit, risks, first slice, proof path, and the right next step.
+
 ## Shortlist Scorecard
 
 This profile is strongest when the role needs a builder who can connect business operations, backend systems, AI workflow, integrations, and reliability into one verified slice.
