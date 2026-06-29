@@ -544,7 +544,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "shortlist scorecard data",
             "specialist-reason data",
             "LinkedIn Recruiter Packet",
-            "search filters, recruiter filter map, 30-second fit, employer trigger matrix, shortlist scorecard, ownership signal, featured work samples, proof order, copy-ready first messages, message triggers, decision-ready reply, expected first result, shortlist signal, risk reduction, AI-native execution proof, and international/Europe-compatible remote-team proof routing",
+            "search filters, recruiter filter map, 30-second fit, employer trigger matrix, shortlist scorecard, ownership signal, featured work samples, proof order, copy-ready first messages, message triggers, Decision-Ready Contact, decision-ready reply, expected first result, shortlist signal, risk reduction, AI-native execution proof, and international/Europe-compatible remote-team proof routing",
             "structured recruiter packet data",
             "AI Ops Employer Trigger Proof",
             "maps employer triggers to concrete repo evidence, verification commands, first-result proof, and backend-owned workflow boundaries.",
