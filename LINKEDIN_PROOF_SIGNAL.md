@@ -46,6 +46,72 @@ What to inspect first:
 Best first message: send one remote role or one messy workflow, one success condition, and the systems involved. I will reply with fit, risky assumptions, the smallest responsible first slice, and the proof path to inspect.
 ```
 
+## LinkedIn Activation Pack
+
+Use one of these as the next public post. Do not publish all at once; each one has a different job.
+
+### Post A - profile refresh
+
+```text
+I refreshed my LinkedIn and public proof route for remote backend/platform, AI workflow, integration, and DevOps work.
+
+The visible profile signal now starts with Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, and Systems Integration. The public route behind it points to the proof order, not just a keyword list.
+
+Best first proof:
+- DriveDesk AI Operator proof route
+- AI Backend Proof Pack
+- Decision-Ready Contact
+
+Best first message: send one remote role or one messy workflow, one success condition, and the systems involved. I will answer with fit, risky assumptions, the smallest responsible first slice, and the proof path to inspect.
+```
+
+### Post B - role-fit check
+
+```text
+A useful role-fit check for my work is not "can you use AI tools?"
+
+The better check is: can you turn an incomplete business workflow into backend-owned state, integration boundaries, tests, logs, docs, runbooks, and a handoff path an async team can inspect?
+
+That is what my public proof route is organized around:
+- AI workflow / RAG / transcript / approval proof
+- Python backend and platform proof
+- CRM/ERP/API integration proof
+- DevOps and operational handoff proof
+
+If the role is remote backend/platform, AI automation, integration, internal tools, or DevOps reliability, send the role and the first-month ownership surface.
+```
+
+### Post C - workflow owner
+
+```text
+The fastest way to evaluate me is to send one workflow, not a broad brief.
+
+Good first context:
+- what currently happens
+- which systems are involved
+- one observable success condition
+- what must not break
+
+I will map the risky assumptions, the first responsible slice, and the proof route to inspect.
+
+Best fit: backend-owned AI workflows, CRM/ERP/API adapters, internal operations tools, DevOps recovery paths, and production-style handoff.
+```
+
+### First comment
+
+```text
+Proof route:
+LinkedIn Proof Signal -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack -> Decision-Ready Contact.
+
+Start here: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
+```
+
+### Short DM reply
+
+```text
+Thanks. Send the role or workflow, one success condition, the systems involved, and what must not break. I will reply with fit, risks, the smallest responsible first slice, and the proof path to inspect.
+```
+
 ## Best First Messages
 
 - Remote role: "Can you send the best proof route and the smallest first slice you would own for this role?"
