@@ -76,10 +76,11 @@ Checked on 2026-06-28:
 - DriveDesk Core scheduled public validation remains green: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28282542868
 - DriveDesk Core latest scheduled public demo health succeeded: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28291540179
 - AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
+- AI Ops Business Scenario Replay is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt
 - AI Ops First Slice Playbook is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md
 - AI Ops Workflow Kit CI workflow is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
-- AI Ops latest checked CI run succeeded on `fe5deb8`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28327736967
+- AI Ops latest checked CI run succeeded on `3df74d9`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28342669678
 - AI Ops demo walkthrough is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md
 - AI Ops GitHub repository metadata foregrounds AI sales/support workflow backend proof and routes the repository homepage to the demo walkthrough: https://github.com/AlexGerlitz/ai-ops-workflow-kit
 - AI Ops live smoke passed on app SHA `1a83406` with `storage=postgres` and `rag_eval=2/2` at https://saleops.duckdns.org.
@@ -87,7 +88,7 @@ Checked on 2026-06-28:
 - AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops privacy boundary is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md
 - AI Ops deeper review docs are available from the public proof status when a technical reviewer wants full drill-down.
-- AI Ops public proof status tracks the live-runtime boundary, 50-pass local public gate, reviewer observability snapshot, committed runtime evidence, LLM provider fallback state, and transcription provider state: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
+- AI Ops public proof status tracks the live-runtime boundary, 52-pass local public gate, reviewer observability snapshot, committed runtime evidence, LLM provider fallback state, and transcription provider state: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - DeployMate default branch `develop` is green on `b139a9a`.
 - DeployMate CI succeeded on `b139a9a`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28296918571
 - DeployMate latest public evidence bundle succeeded on `b139a9a`: https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763
