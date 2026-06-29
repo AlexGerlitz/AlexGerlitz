@@ -356,7 +356,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "it appears in the visible LinkedIn surface, it is attached to real experience, and it points to inspectable proof",
             "Best high-signal skills to keep aligned across LinkedIn and proof routes",
             "AI Automation / Backend / Platform Engineer with RAG, LLM workflows, CRM/ERP integrations, FastAPI, Docker, DevOps, and DriveDesk AI Operator.",
-            "First-person ownership language around backend-owned AI workflow and operations systems, AI-output review, real business infrastructure support since March 2024, remote Autoschool54 work, and the public AI-native delivery loop.",
+            "First-person ownership language around backend-owned AI workflow and operations systems, the AI-native delivery loop, proof-slice contact language, real business infrastructure support since March 2024, and remote Autoschool54 work.",
             "Featured route",
             "DriveDesk Proof Route first, plus Fixed-Scope AI Automation Offers and DriveDesk Core; AI Backend Proof Pack, Enterprise Readiness, LinkedIn Recruiter Packet, and PDF Resume are routed from GitHub/Pages.",
             "LinkedIn Services should route only concrete backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow requests.",
