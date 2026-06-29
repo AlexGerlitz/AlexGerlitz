@@ -9,7 +9,7 @@ Use this packet when a LinkedIn search, profile view, or first message needs a f
 - Visible LinkedIn Open-to-Work titles: Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer.
 - Search expansion titles: AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer, Internal Tools Engineer, Backend Platform Engineer, Systems Integration Engineer.
 - Strong match: remote backend/platform, AI workflow, CRM/ERP/API integration, internal tools, or DevOps reliability work.
-- First proof: [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt) -> [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) -> [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf).
+- First proof: [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt) -> [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) -> [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf).
 - Expected first result: one working slice with backend-owned state, tests, logs, docs, demo path, and handoff route.
 - Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.
 - Risk reduction: hidden automation state becomes explicit records, audit, retries, idempotency, privacy boundaries, and recovery notes.
@@ -44,7 +44,7 @@ This profile is strongest when the role needs a builder who can connect business
 | Remote/location filter | International remote teams, Europe-compatible async teams, US-compatible async teams, and distributed product/operations teams. |
 | Language/review filter | English-first documentation and proof routes; async technical review through code, CI, smoke checks, diagrams, runbooks, and handoff notes. |
 | Specialist/seniority filter | Backend/platform ownership, AI workflow engineering, CRM/ERP/API integration depth, DevOps reliability, and real business operations context. |
-| Featured proof filter | DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, DriveDesk Core, AI Backend Proof Pack, Enterprise Readiness, and PDF Resume. |
+| Featured proof filter | DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, DriveDesk Core, AI Backend Proof Pack, Enterprise Readiness, Decision-Ready Contact, and PDF Resume. |
 | First message trigger | Use a copy-ready first message for one remote role or one business workflow with one success condition, systems involved, ownership boundary, and timeline. |
 
 ## Recruiter Filter Map
@@ -92,6 +92,7 @@ Use the visible work-sample stack as a fast proof route:
 | AI Automation Role Fit | Precise fit for RAG, LLM workflow, CRM/API handoff, structured outputs, human approval, tests, logs, and runbooks. | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) |
 | AI Backend Proof Pack | Compact technical screen for backend/platform, AI automation, integrations, DevOps, verification, and resume evidence. | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
 | Skill Evidence | Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-native delivery discipline. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
+| Decision-Ready Contact | Minimum context route for fit read, risk check, smallest responsible first slice, proof path, and next step. | [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) |
 | PDF Resume | Recruiter handoff for application systems or internal sharing. | [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) |
 
 ## Decision-Ready Reply
