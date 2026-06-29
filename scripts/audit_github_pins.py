@@ -40,6 +40,9 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         (
             "public backend/platform foundation behind the DriveDesk AI",
             "Profile / contact route",
+            "LinkedIn Recruiter Packet",
+            "Decision-Ready Contact",
+            "Shortest proof path",
             "https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/",
             "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
             "https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html",
@@ -77,6 +80,9 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         (
             "Production-minded reference implementation for AI workflow orchestration",
             "Profile / contact route",
+            "LinkedIn Recruiter Packet",
+            "Decision-Ready Contact",
+            "Shortest proof path",
             "https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/",
             "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
             "https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html",
@@ -109,6 +115,9 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         (
             "Self-hosted Docker deployment control panel",
             "Profile / contact route",
+            "LinkedIn Recruiter Packet",
+            "Decision-Ready Contact",
+            "Shortest proof path",
             "https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/",
             "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
             "https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html",
@@ -163,6 +172,9 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         (
             "validation-boundary and desktop-automation proof project",
             "Profile / contact route",
+            "LinkedIn Recruiter Packet",
+            "Decision-Ready Contact",
+            "Shortest proof path",
             "https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/",
             "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
             "https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html",
