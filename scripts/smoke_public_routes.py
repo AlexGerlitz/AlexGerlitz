@@ -1922,7 +1922,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     ),
     RouteCheck(
         "recruiter-card-image",
-        "https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-29-recruiter-card",
+        "https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-29-recruiter-route",
         content_type="image/png",
         min_bytes=10_000,
         png_dimensions=(1200, 630),
