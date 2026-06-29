@@ -11,6 +11,7 @@ Fast contact links:
 - [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
 - [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html)
 - [proof-backed fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html)
+- [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt)
 - [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
@@ -48,6 +49,7 @@ Send:
 
 If you want a concrete menu before writing, start with
 [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md) and
+[AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt), then use
 [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 
 Send:
@@ -56,6 +58,7 @@ Send:
 - current tools, data sources, APIs, databases, spreadsheets, chats, or documents;
 - what "done" means in practical terms;
 - closest proof-backed offer route or employer trigger;
+- proof route to reference first: business scenario replay or DriveDesk proof route;
 - required output: MVP, working slice, integration adapter, AI workflow, internal tool, DevOps fix,
   runbook, or recovery plan;
 - deadline and budget range;

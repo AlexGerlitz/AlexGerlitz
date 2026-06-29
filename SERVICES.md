@@ -4,6 +4,8 @@ I build remote-only backend, AI automation, integration, and DevOps systems for 
 operations.
 
 Clean web route: [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
+Fastest business-facing proof before scope:
+[AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt).
 
 The best fit is a concrete business workflow that is currently too manual, too fragile, or too
 unclear to scale. I use AI heavily to compress research, implementation, debugging, and
@@ -40,7 +42,8 @@ ownership.
 Choose the closest trigger, then open the package and proof route that matches it. The proof link shows the implementation pattern before a paid scope starts.
 
 - **AI workflow / RAG:** DriveDesk AI Operator demo or AI workflow / RAG MVP. Proof:
-  [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
+  [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt)
+  and [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 - **CRM/ERP/API integration:** CRM / ERP / API Adapter. Proof:
   [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
   and [Skill evidence](./SKILL_EVIDENCE.md).
@@ -75,6 +78,10 @@ If LinkedIn Services asks for a short project request, send it in this shape:
 - inputs and systems: documents, calls, transcripts, CRM/ERP/1C/banking/API, spreadsheets, chats, or code;
 - success condition: one observable result that would make the first slice useful;
 - constraints: access limits, hosting, language, deadline, budget range, and what must not break.
+
+Reference proof:
+[AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt)
+shows the expected backend-owned workflow shape before a paid scope starts.
 
 What I can send back:
 

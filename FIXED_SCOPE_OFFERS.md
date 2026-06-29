@@ -2,6 +2,7 @@
 
 Concrete project menu for remote AI automation, backend/platform, integration, and DevOps work.
 The fastest proof route is [DriveDesk AI Operator - Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html).
+The fastest business-facing proof before scope is [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt).
 
 These are fixed-scope project signals, not employment salary numbers and not hourly rates. Final
 pricing depends on access, urgency, data quality, reliability requirements, deployment depth, and
@@ -16,6 +17,17 @@ condition, one small working path, and a clear decision on whether to expand.
 If the workflow is already clear, choose the closest offer below and send the offer name, current
 workflow, systems involved, one success condition, constraints, and what must not break.
 
+Proposal-ready first message:
+
+```text
+Offer: closest offer name.
+Workflow: what happens today and where it breaks.
+Systems: CRM, ERP, 1C, API, documents, calls, transcripts, database, hosting, or repo involved.
+Success: one observable result.
+Constraints: access, deadline, budget range, and what must not break.
+Proof route: business scenario replay or DriveDesk proof route.
+```
+
 ## Proof-Backed Offer Router
 
 Use this when the business problem is clear enough to choose a starting package. Each route has a
@@ -23,7 +35,8 @@ public proof map, so the first message can point to an inspectable implementatio
 a vague automation request.
 
 - **AI workflow / RAG:** choose DriveDesk AI Operator Demo or AI Ops / RAG Workflow MVP. Proof:
-  [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
+  [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt)
+  and [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 - **CRM/ERP/API integration:** choose Integration Adapter MVP. Proof:
   [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
   and [Skill Evidence](./SKILL_EVIDENCE.md).
