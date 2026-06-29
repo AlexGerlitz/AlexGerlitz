@@ -51,7 +51,7 @@ If you only have a few minutes, review these first:
 
 ## Current Public Verification
 
-Checked on 2026-06-29:
+Checked on 2026-06-30:
 
 - DriveDesk Core public demo returns HTTP 200.
 - DriveDesk Core `main` is green on `228943f`.
@@ -79,11 +79,12 @@ Checked on 2026-06-29:
 - DeployMate latest public evidence bundle succeeded on `b139a9a`: https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
-- Profile proof freshness is checked through the branch workflow pages below so reviewers can open the latest run instead of relying on a stale copied SHA.
-- Latest concrete profile-proof snapshot before this verification refresh was green on `ab4149d`.
-- Profile Funnel Audit succeeded on `ab4149d`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28369907597
-- Profile Pages deployment succeeded on `ab4149d`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28369906681
-- Live Profile Smoke succeeded on `ab4149d`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28369907586
+- Profile proof freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
+- Latest concrete profile-proof snapshot is green on `cfc90f1` after the message-first recruiter route and live-smoke contract fix.
+- Profile Funnel Audit succeeded on `cfc90f1`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28390738779
+- Profile Pages deployment succeeded on `cfc90f1`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28390738168
+- Live Profile Smoke succeeded on `cfc90f1`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28390738795
+- Live Pages status is `built`, and direct live snippet checks confirmed the message-first route on the portfolio homepage, LinkedIn Proof Signal, Verification Pack, `llms.txt`, and raw `LINKEDIN_PROOF_SIGNAL.md`.
 - GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
