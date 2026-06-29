@@ -20,7 +20,7 @@ Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8
 CRM/ERP/API integrations, Systems Integration, Backend Development, Platform Engineering,
 Workflow Automation, DevOps, GitHub Actions, OpenAPI, and PostgreSQL/pgvector-backed workflows.
 
-Main case direction:
+Main case route:
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) for
 AI sales/support workflows with RAG, call-audio transcription, transcript analysis, lead scoring, Telegram approval, n8n,
 CRM adapter contracts, audit, retries, and runbook proof target.
@@ -42,7 +42,7 @@ CRM adapter contracts, audit, retries, and runbook proof target.
 | ---: | --- | --- |
 | 1 | [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) | Fastest route into current positioning, proof repos, runtime-boundary evidence, and contact surface. |
 | 2 | [Resume](https://alexgerlitz.github.io/AlexGerlitz/resume.html) | Remote experience, target work, skills, and public projects. |
-| 3 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) | Main AI workflow case direction. |
+| 3 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) | Main AI workflow proof route. |
 | 4 | [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) | Current AI Ops CI, local gate, committed evidence, privacy boundary, runtime reachability boundary, Pages route, and public boundary. |
 | 5 | [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) | Live-runtime acceptance pass across API, smoke, GitHub Actions, Pages links, and public PDF when the external edge is reachable. |
 | 6 | [DriveDesk Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) | Backend/platform foundation proof. |

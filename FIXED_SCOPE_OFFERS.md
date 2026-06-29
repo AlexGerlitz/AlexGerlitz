@@ -191,7 +191,7 @@ clear recovery notes.
 
 ## 7. DriveDesk-Style Operating Layer
 
-This is the flagship direction: a phased operating layer that integrates real business workflows
+This is the flagship proof path: a phased operating layer that integrates real business workflows
 across CRM/ERP/1C/banking/accounting/admin systems.
 
 The right version is not "connect everything to everything" on day one. The right version is:
