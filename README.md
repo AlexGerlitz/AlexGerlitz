@@ -13,6 +13,8 @@ Now open for **remote-only full-time roles** and fixed-scope projects where the 
 **Recruiter shortcut / 30-second screen:** start with the [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) for shortlist signal, risk-to-proof routing, AI execution proof, recruiter filter map, recruiter Boolean search strings, and message triggers, then check [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for LinkedIn profile alignment and the search-intent proof stack, LinkedIn skills search surface, [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html), [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), and the [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf).
 Best match: backend/platform, AI automation, CRM/ERP/API integration, internal tools, or DevOps ownership. International and Europe-compatible team fit: English-first docs, async proof routes, integration contracts, privacy boundaries, CI, runbooks, and operational handoff quality. Shortlist scorecard: real business infrastructure support, backend/platform implementation, AI workflow engineering, CRM/ERP/API integration, DevOps/recovery thinking, English-first async proof, and public verification discipline. Risk-to-proof screen: hidden automation state -> audit/outbox/retries; unverifiable AI output -> citations/eval/approval; brittle CRM handoff -> adapter contract/idempotency/dead-letter; remote delivery risk -> CI/smoke/runbooks/handoff notes.
 
+**AI-native delivery loop:** I use AI tooling to compress discovery, implementation, debugging, docs, and review into faster iteration, while the public proof stays engineering-owned: architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality remain my responsibility.
+
 | Featured work sample | What it proves |
 | --- | --- |
 | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) | Flagship backend-owned AI workflow: RAG, transcript analysis, approval, CRM handoff, audit, retries, and adapter boundaries. |
@@ -74,7 +76,4 @@ Since **March 2024**, I have supported Autoschool54 digital infrastructure remot
 | Internal ops platform | FastAPI/PostgreSQL backend, admin UI, roles, audit trail, workflows, deployment, runbook. |
 | DevOps / self-hosting hardening | Docker, CI/release gates, health checks, logs, backups, smoke checks, and rollback procedure. |
 
-## How I Use AI
-
-AI tooling is part of my engineering workflow: domain research, decomposition, implementation options, code/script generation, debugging, docs, tests, and review move faster. I still own the architecture, state, security boundaries, verification, deployment, logs, fixes, and shipped quality.
 LinkedIn: [linkedin.com/in/alex-gerlitz-a659ab3bb](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) · [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)

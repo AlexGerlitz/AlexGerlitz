@@ -14,6 +14,7 @@ Use this packet when a LinkedIn search, profile view, or first message needs a f
 - Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.
 - Risk reduction: hidden automation state becomes explicit records, audit, retries, idempotency, privacy boundaries, and recovery notes.
 - AI-assisted execution signal: AI speeds research, implementation, docs, and debugging while engineering ownership stays with me.
+- AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.
 - International and Europe-compatible team fit: English-first docs, async proof routes, integration contracts, privacy boundaries, CI, runbooks, and operational handoff quality.
 
 ## Shortlist Scorecard
