@@ -20,7 +20,7 @@ Last checked: 2026-06-30.
 
 ## Live LinkedIn Alignment
 
-Read-only checked on 2026-06-29.
+Read-only checked on 2026-06-30.
 
 | LinkedIn surface | Current public signal |
 | --- | --- |
@@ -28,8 +28,9 @@ Read-only checked on 2026-06-29.
 | Open-to-Work | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, and DevOps Engineer. |
 | About | Starts with backend-owned AI workflow and operations systems for real businesses; the public proof route frames the execution signal as an AI-native delivery loop. |
 | Experience | Profile shows AutoSchool54 / Автошкола 54 remote infrastructure support since March 2024. |
-| Featured route | DriveDesk AI Operator - Proof Route first, then Fixed-Scope AI Automation Offers and DriveDesk Core; extended proof stack is routed through GitHub/Pages. |
+| Featured route | LinkedIn Proof Signal first, then DriveDesk AI Operator - Proof Route, Fixed-Scope AI Automation Offers, and DriveDesk Core; extended proof stack is routed through GitHub/Pages. |
 | Services | Available remote Services route for concrete backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow requests. |
+| Skills surface | All view: Telegram, REST APIs, OpenAPI Specification (OAS), GitHub, Python, Vector Databases, ERP, CRM, Systems Integration, DevOps. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. |
 
 ## LinkedIn Activation Status
 

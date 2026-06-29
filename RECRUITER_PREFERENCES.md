@@ -62,12 +62,13 @@ PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CR
 Integration, Systems Integration, DevOps, n8n, Telegram, runbooks, audit logs, idempotency,
 retries, and operational handoff.
 
-Verified LinkedIn skill-filter state as of 2026-06-29: the visible All skills view surfaces
-Telegram, REST APIs, OpenAPI, GitHub, Python, Vector Databases, ERP, CRM, Systems Integration,
-and DevOps; the Tools & Technologies filter surfaces Docker, PostgreSQL, Python, and JavaScript;
-the Industry Knowledge filter surfaces Root Cause Analysis and Automation. The next LinkedIn-side
-improvement target is to strengthen the general All view with FastAPI, GitHub Actions, and RAG
-without weakening the existing Python/PostgreSQL/Docker/CRM/System Integration proof routes.
+Verified LinkedIn skill-filter state as of 2026-06-30: the visible All skills view surfaces
+Telegram, REST APIs, OpenAPI Specification (OAS), GitHub, Python, Vector Databases, ERP, CRM,
+Systems Integration, and DevOps; the Tools & Technologies filter surfaces Python, REST APIs,
+GitHub, Telegram, pytest, OpenAPI, Software as a Service (SaaS), Docker, FastAPI, and PostgreSQL.
+The next LinkedIn-side improvement target is to strengthen the general All view with Python,
+FastAPI, GitHub Actions, and RAG without weakening the existing Python/PostgreSQL/Docker/CRM/System
+Integration proof routes.
 
 ## Current Search-Surface Audit
 
@@ -76,7 +77,7 @@ without weakening the existing Python/PostgreSQL/Docker/CRM/System Integration p
 | Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer. | Keep these aligned with the headline, About, resume, Role Targets, and AI Backend Proof Pack. |
 | Search expansion titles | AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer, Internal Tools Engineer, Backend Platform Engineer, Systems Integration Engineer. | Use these in posts, proof routes, and recruiter search strings rather than widening into unrelated roles. |
 | Top skills order target | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CRM, ERP, API Integration, Systems Integration, DevOps, n8n, Telegram, audit logs, idempotency, retries, runbooks. | Keep the first visible skills tied to proof, not generic AI claims. |
-| Verified LinkedIn skill filters | All view: Telegram, REST APIs, OpenAPI, GitHub, Python, Vector Databases, ERP, CRM, Systems Integration, DevOps. Tools & Technologies: Docker, PostgreSQL, Python, JavaScript. Industry Knowledge: Root Cause Analysis, Automation. | Use Skill Evidence and proof routes to compensate where LinkedIn's general All ordering is not yet ideal. |
+| Verified LinkedIn skill filters | All view: Telegram, REST APIs, OpenAPI Specification (OAS), GitHub, Python, Vector Databases, ERP, CRM, Systems Integration, DevOps. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. | Use Skill Evidence and proof routes to compensate where LinkedIn's general All ordering is not yet ideal. |
 | Services search surface | Cloud Application Development, Web Development, Application Development, Custom Software Development, Information Management, and IT Consulting are broad marketplace labels; the live overview and media route them to AI workflow, backend, integration, and proof evidence. | Route each request through LinkedIn Services Fit, Services, Fixed-Scope Offers, and DriveDesk Proof Route. |
 | Services response loop | Target first response: fit/no-fit, risky assumptions, smallest responsible first slice, proof route, and handoff path. | Strongest for requests that name the current workflow, systems involved, one observable success condition, and what must not break. |
 
@@ -88,7 +89,7 @@ This page mirrors the visible LinkedIn setup recruiters should expect before sen
 | --- | --- |
 | Headline | AI Automation / Backend / Platform Engineer with RAG, LLM workflows, CRM/ERP integrations, FastAPI, Docker, DevOps, and DriveDesk AI Operator. |
 | About / Experience | First-person ownership language around backend-owned AI workflow and operations systems, the AI-native delivery loop, proof-slice contact language, real business infrastructure support since March 2024, and remote Autoschool54 work. |
-| Featured route | DriveDesk Proof Route first, plus Fixed-Scope AI Automation Offers and DriveDesk Core; AI Backend Proof Pack, Enterprise Readiness, LinkedIn Recruiter Packet, Decision-Ready Contact, and PDF Resume are routed from GitHub/Pages. |
+| Featured route | LinkedIn Proof Signal first, then DriveDesk Proof Route, Fixed-Scope AI Automation Offers, and DriveDesk Core; AI Backend Proof Pack, Enterprise Readiness, LinkedIn Recruiter Packet, Decision-Ready Contact, and PDF Resume are routed from GitHub/Pages. |
 | Open-to-Work | Remote job titles and skill filters aligned with backend/platform, AI automation, integration, and DevOps ownership. |
 | Resume / handoff | Decision-Ready Contact and Start Conversation routes before PDF Resume for internal sharing. |
 | Services | Live LinkedIn Services overview and media route requests toward backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow proof instead of generic web/app work. |

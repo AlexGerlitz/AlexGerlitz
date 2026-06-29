@@ -5,24 +5,28 @@ Use this as the short public update route for a LinkedIn profile view, a recruit
 ## What Changed
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same backend/platform, AI workflow, integration, and DevOps proof route.
-- The visible skills layer now starts with Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, and CRM instead of leading with a low-signal tool keyword.
-- The top visible skills tie role/project context to backend/platform, integration, and DevOps proof instead of standing as loose keywords.
+- The live Featured route now starts with LinkedIn Proof Signal, then DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core.
+- The live Skills surface is verified instead of assumed: All view starts with Telegram, REST APIs, OpenAPI Specification (OAS), GitHub, Python, Vector Databases, ERP, CRM, Systems Integration, and DevOps; Tools & Technologies surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.
+- The next LinkedIn-side edit target is to move Python, FastAPI, GitHub Actions, and RAG into stronger visible positions without weakening the existing Python/PostgreSQL/Docker/CRM/System Integration proof routes.
 - The public GitHub route connects search-fit signal, proof, contact context, and resume handoff.
 
-## Visible LinkedIn Skill Order
+## Verified LinkedIn Skill Surface
 
-This is the recruiter-facing top order after the live Skills reorder pass:
+Read-only checked on 2026-06-30. The live All skills view currently surfaces:
 
-1. Python (Programming Language)
+1. Telegram (Software)
 2. REST APIs
 3. OpenAPI Specification (OAS)
 4. GitHub
-5. DevOps
-6. Platform Architecture
-7. Systems Integration
-8. Vector Databases
-9. Enterprise Resource Planning (ERP)
-10. Customer Relationship Management (CRM)
+5. Python (Programming Language)
+6. Vector Databases
+7. Enterprise Resource Planning (ERP)
+8. Customer Relationship Management (CRM)
+9. Systems Integration
+10. DevOps
+
+The live Tools & Technologies filter currently surfaces Python, REST APIs, GitHub, Telegram,
+pytest, OpenAPI, Software as a Service (SaaS), Docker, FastAPI, and PostgreSQL.
 
 ## Fast Proof Route
 
@@ -38,7 +42,7 @@ This is the recruiter-facing top order after the live Skills reorder pass:
 I refreshed my public proof route for remote backend/platform, AI workflow, integration, and DevOps work.
 
 What to inspect first:
-- LinkedIn profile signal: visible Skills now start with Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, and Systems Integration.
+- LinkedIn profile signal: the first Featured card is LinkedIn Proof Signal, and the live Skills surface maps REST APIs, OpenAPI, GitHub, Python, Vector Databases, ERP, CRM, Systems Integration, DevOps, FastAPI, Docker, and PostgreSQL to public proof.
 - DriveDesk AI Operator proof route: backend-owned RAG/transcript/approval/CRM handoff with audit, retries, adapter boundaries, CI, and runbooks.
 - AI Backend Proof Pack: compact technical screen across FastAPI/PostgreSQL, integrations, Docker/CI, verification, and handoff.
 - Decision-Ready Contact: the shortest route for a role, workflow, or proof review.
@@ -56,7 +60,7 @@ Selected next post: Post B - role-fit/search signal. It carries the clearest rec
 ```text
 I refreshed my LinkedIn and public proof route for remote backend/platform, AI workflow, integration, and DevOps work.
 
-The visible profile signal now starts with Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, and Systems Integration. The public route behind it points to the proof order, not just a keyword list.
+The first Featured card now points to LinkedIn Proof Signal. The live Skills surface already maps REST APIs, OpenAPI, GitHub, Python, Vector Databases, ERP, CRM, Systems Integration, DevOps, FastAPI, Docker, and PostgreSQL to proof instead of leaving them as a keyword list.
 
 Best first proof:
 - DriveDesk AI Operator proof route
