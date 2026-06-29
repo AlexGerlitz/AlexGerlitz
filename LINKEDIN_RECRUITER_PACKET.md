@@ -13,8 +13,8 @@ Use this packet when a LinkedIn search, profile view, or first message needs a f
 - Expected first result: one working slice with backend-owned state, tests, logs, docs, demo path, and handoff route.
 - Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.
 - Risk reduction: hidden automation state becomes explicit records, audit, retries, idempotency, privacy boundaries, and recovery notes.
-- AI-assisted execution signal: AI speeds research, implementation, docs, and debugging while engineering ownership stays with me.
-- AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.
+- AI-native execution signal: AI tooling compresses discovery, implementation, debugging, docs, and review into faster iteration.
+- AI-native delivery loop: architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.
 - International and Europe-compatible team fit: English-first docs, async proof routes, integration contracts, privacy boundaries, CI, runbooks, and operational handoff quality.
 
 ## Shortlist Scorecard
@@ -91,7 +91,7 @@ Use the visible work-sample stack as a fast proof route:
 | AI Ops First Slice Playbook | Concrete first slices for RAG/transcript, CRM handoff, human approval, and reliability routes. | [First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) |
 | AI Automation Role Fit | Precise fit for RAG, LLM workflow, CRM/API handoff, structured outputs, human approval, tests, logs, and runbooks. | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) |
 | AI Backend Proof Pack | Compact technical screen for backend/platform, AI automation, integrations, DevOps, verification, and resume evidence. | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
-| Skill Evidence | Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-assisted execution discipline. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
+| Skill Evidence | Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-native delivery discipline. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
 | PDF Resume | Recruiter handoff for application systems or internal sharing. | [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) |
 
 ## Decision-Ready Reply
@@ -120,7 +120,7 @@ Send one role, workflow, or proof question with one success condition. I can ret
 5. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) - compact proof order for AI workflow/backend/platform work.
 6. [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) - business input, backend route, RAG quality, approval state, CRM handoff, and dry-run Bitrix proof.
 7. [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) - concrete first slices for RAG/transcript, CRM handoff, approval, and reliability routes.
-8. [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) - skill-to-proof map plus AI-assisted execution discipline.
+8. [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) - skill-to-proof map plus AI-native delivery discipline.
 9. [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html) - job title and skill search alignment.
 10. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international and Europe-compatible remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.
 11. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) - CI, live smoke, demos, docs, and proof freshness.

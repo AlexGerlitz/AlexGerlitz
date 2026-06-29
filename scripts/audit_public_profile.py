@@ -193,7 +193,7 @@ REQUIRED_TEXT = {
         "Compact technical screen across backend/platform, integrations, DevOps, verification, and resume evidence.",
         "Ownership signal: incomplete business context -> risky boundary -> small verifiable delivery plan with backend-owned state, AI-output review, CI, smoke checks, docs, runbooks, and handoff notes.",
         "International and Europe-compatible async-team readiness: architecture, state ownership, integration contracts, privacy, CI, runbooks, verification, and handoff quality.",
-        "Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-assisted execution discipline.",
+        "Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-native delivery discipline.",
         "AI-native delivery loop",
         "AI tooling to compress discovery, implementation, debugging, docs, and review into faster iteration",
         "architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality remain my responsibility",
@@ -446,10 +446,10 @@ REQUIRED_TEXT = {
         "Risk Reduction",
         "Hidden automation state becomes explicit records, audit, retries, idempotency, privacy boundaries, and recovery notes.",
         "Unverifiable AI output is routed through citations, eval checks, approvals, and reviewable handoff.",
-        "AI Execution Proof",
-        "AI speeds research, implementation, docs, and debugging while engineering ownership stays with me.",
+        "AI-Native Execution Signal",
+        "AI tooling compresses discovery, implementation, debugging, docs, and review into faster iteration.",
         "AI-Native Delivery Loop",
-        "AI tooling compresses discovery, implementation, debugging, docs, and review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.",
+        "Architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.",
         "Ownership Signal",
         "I can start from incomplete business context, identify the risky boundary, and turn it into a small verifiable delivery plan.",
         "I separate backend-owned state from orchestration, prompts, external APIs, and human approval points.",
@@ -810,8 +810,8 @@ REQUIRED_TEXT = {
         "Adapter contract, idempotent handoff, retries/dead-letter path, audit trail, and rollback notes.",
         "Shortlist signal: messy business workflows become backend-owned systems with records, state, integrations, logs, tests, docs, and handoff.",
         "Risk reduction: hidden automation state becomes explicit records, audit, retries, idempotency, privacy boundaries, and recovery notes.",
-        "AI-assisted execution signal: AI speeds research, implementation, docs, and debugging while engineering ownership stays with me.",
-        "AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.",
+        "AI-native execution signal: AI tooling compresses discovery, implementation, debugging, docs, and review into faster iteration.",
+        "AI-native delivery loop: architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.",
         "International and Europe-compatible team fit: English-first docs, async proof routes, integration contracts, privacy boundaries, CI, runbooks, and operational handoff quality.",
         "Specialist overlap: backend/platform ownership, AI workflow engineering, CRM/ERP/API integration, DevOps reliability, and real business operations context are tied to public proof.",
         "Ownership Signal",
@@ -2012,7 +2012,7 @@ REQUIRED_TEXT = {
         "Europe-compatible async signal, proof-by-intent routes, and contact paths.",
         "AI Ops Hiring Signal Brief",
         "hiring-signal-brief.txt",
-        "search filters, recruiter filter map, 30-second fit, employer trigger matrix, shortlist scorecard, ownership signal, featured work samples, proof order, message triggers, decision-ready reply, expected first result, shortlist signal, risk reduction, AI-assisted execution proof, and international/Europe-compatible remote-team proof routing",
+        "search filters, recruiter filter map, 30-second fit, employer trigger matrix, shortlist scorecard, ownership signal, featured work samples, proof order, message triggers, decision-ready reply, expected first result, shortlist signal, risk reduction, AI-native execution proof, and international/Europe-compatible remote-team proof routing",
         "structured recruiter packet data",
         "AI Ops Employer Trigger Proof",
         "maps employer triggers to concrete repo evidence, verification commands, first-result proof, and backend-owned workflow boundaries.",
@@ -2036,7 +2036,7 @@ REQUIRED_TEXT = {
         "role, project, proof-backed offer route, success condition, systems involved, constraints, and verification context.",
         "LinkedIn Services request shape with proof-backed offer router, current workflow, systems involved, one observable success condition, constraints, and what must not break.",
         "Skill evidence map",
-        "AI-assisted execution discipline",
+        "AI-native delivery discipline",
         "Verification pack",
         "current green proof",
         "structured technical verification data",
@@ -2246,7 +2246,7 @@ CURRENT_EVIDENCE_SNIPPETS = {
         "Production-minded AI workflow backend",
         "Self-hosted Docker deployment control panel",
         "Validation-boundary and desktop-automation proof",
-        "About | Starts with backend-owned AI workflow and operations systems for real businesses and uses AI-assisted execution language.",
+        "About | Starts with backend-owned AI workflow and operations systems for real businesses; the public proof route frames the execution signal as an AI-native delivery loop.",
         "Profile shows AutoSchool54 / Автошкола 54 remote infrastructure support since March 2024.",
         "DriveDesk AI Operator - Proof Route first, then Fixed-Scope AI Automation Offers and DriveDesk Core",
         "Services route for concrete backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow requests.",
@@ -2345,7 +2345,7 @@ CURRENT_EVIDENCE_SNIPPETS = {
         "production-minded AI workflow backend",
         "self-hosted Docker deployment control panel",
         "validation-boundary and desktop-automation proof",
-        "About starts with backend-owned AI workflow and operations systems for real businesses and uses AI-assisted execution language.",
+        "About starts with backend-owned AI workflow and operations systems for real businesses; the public proof route frames the execution signal as an AI-native delivery loop.",
         "profile shows AutoSchool54 / Автошкола 54 remote infrastructure support since March 2024.",
         "DriveDesk AI Operator - Proof Route first, then Fixed-Scope AI Automation Offers and DriveDesk Core",
         "Services route concrete backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow requests.",
@@ -2444,6 +2444,24 @@ PDF_ARTIFACTS = {
             "Documents/Codex",
         ],
     },
+}
+
+STALE_PUBLIC_WORDING = {
+    "LINKEDIN_RECRUITER_PACKET.md": [
+        "AI-assisted execution signal:",
+        "AI-assisted execution discipline",
+        "AI speeds research, implementation, docs, and debugging while engineering ownership stays with me.",
+    ],
+    "linkedin-recruiter-packet.html": [
+        "AI-assisted execution discipline",
+        "AI speeds research, implementation, docs, and debugging while engineering ownership stays with me.",
+    ],
+    "VERIFICATION_PACK.md": [
+        "uses AI-assisted execution language",
+    ],
+    "verification-pack.html": [
+        "uses AI-assisted execution language",
+    ],
 }
 
 
@@ -2574,6 +2592,17 @@ def check_required_text(errors: list[str]) -> None:
         for snippet in snippets:
             if snippet not in text:
                 errors.append(f"{relative}: missing required text: {snippet}")
+
+
+def check_stale_public_wording(errors: list[str]) -> None:
+    for relative, snippets in STALE_PUBLIC_WORDING.items():
+        path = ROOT / relative
+        if not path.exists():
+            continue
+        text = path.read_text(encoding="utf-8")
+        for snippet in snippets:
+            if snippet in text:
+                errors.append(f"{relative}: stale public wording: {snippet}")
 
 
 def check_social_preview_metadata(errors: list[str]) -> None:
@@ -2745,6 +2774,7 @@ def main() -> int:
     check_bad_patterns(errors)
     check_legacy_proof_route_references(errors)
     check_required_text(errors)
+    check_stale_public_wording(errors)
     check_social_preview_metadata(errors)
     check_profile_readme_shape(errors)
     check_local_html_links(errors)
