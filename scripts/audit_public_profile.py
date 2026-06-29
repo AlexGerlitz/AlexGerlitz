@@ -2498,6 +2498,7 @@ STALE_PUBLIC_WORDING = {
         "larger backend/platform direction",
         "DriveDesk direction: one operational",
         "deployment control panel direction",
+        "after the first demo",
     ],
     "CASE_STUDIES.md": [
         "AI-assisted execution",
@@ -2509,6 +2510,7 @@ STALE_PUBLIC_WORDING = {
         "product direction",
         "runtime tooling direction",
         "sync pipeline direction",
+        "after the first demo",
     ],
     "case-studies.html": [
         "AI-assisted execution",

@@ -113,7 +113,7 @@ engineering shape:
 
 That maps directly to the work I want: business-process automation, internal tools, AI/RAG
 workflows, integration adapters, backend/platform systems, DevOps hardening, and remote fixed-scope
-projects where the output must be operated after the first demo.
+projects where the output must be operated after the first working path produces reviewable evidence.
 
 ## Fast Proof Review
 

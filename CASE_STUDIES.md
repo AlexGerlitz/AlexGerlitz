@@ -153,6 +153,6 @@ Across these projects, the pattern is the same:
 - build the smallest responsible working slice;
 - make the boundaries explicit;
 - verify with tests, CI, logs, smoke checks, or public demos;
-- leave docs and runbooks so the result can be operated after the first demo.
+- leave docs and runbooks so the result can be operated after the first working path produces reviewable evidence.
 
 That is the proof: AI tooling speed paired with engineering ownership.
