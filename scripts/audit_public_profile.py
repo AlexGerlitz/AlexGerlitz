@@ -2034,6 +2034,7 @@ REQUIRED_TEXT = {
         "message triggers, search intent first links for AI Automation/RAG, Backend/Python/Platform, CRM/ERP/API Integration, DevOps/Reliability, proof-backed fixed-scope offers, plus decision-ready context and response shape.",
         "Selected proof projects",
         "DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm",
+        "self-hosted Docker deployment control panel proof",
         "structured recruiter search snapshot data",
         "Remote role targets",
         "Work with me",
@@ -2626,6 +2627,7 @@ STALE_PUBLIC_WORDING = {
     ],
     "llms.txt": [
         "larger backend/platform direction",
+        "deployment control panel direction",
     ],
     "ENTERPRISE_READINESS.md": [
         "AI-assisted delivery",

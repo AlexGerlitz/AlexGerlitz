@@ -526,6 +526,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "message triggers, search intent first links for AI Automation/RAG, Backend/Python/Platform, CRM/ERP/API Integration, DevOps/Reliability, proof-backed fixed-scope offers, plus decision-ready context and response shape.",
             "Selected proof projects",
             "DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm",
+            "self-hosted Docker deployment control panel proof",
             "structured recruiter search snapshot data",
             "Proposal-ready Services request",
             "proof-backed offer router",
