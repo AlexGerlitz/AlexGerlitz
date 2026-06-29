@@ -257,6 +257,39 @@
       overflow-wrap: anywhere;
     }
 
+    .hiring-signal {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      margin: 18px 0 0;
+      max-width: 920px;
+    }
+
+    .hiring-signal div {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fbfcfd;
+      padding: 12px;
+      min-height: 126px;
+    }
+
+    .hiring-signal strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 0.84rem;
+      color: var(--accent-strong);
+      text-transform: uppercase;
+      letter-spacing: 0;
+    }
+
+    .hiring-signal span {
+      display: block;
+      color: var(--muted);
+      font-size: 0.88rem;
+      line-height: 1.45;
+      overflow-wrap: anywhere;
+    }
+
     .signal-list {
       display: grid;
       gap: 8px;
@@ -520,6 +553,10 @@
       .actions {
         display: grid;
       }
+
+      .hiring-signal {
+        grid-template-columns: 1fr;
+      }
     }
   </style>
 </head>
@@ -563,6 +600,24 @@
           a working system with proof. Best immediate starts: AI workflow automation, CRM/ERP/API adapter,
           backend/platform slice, DevOps recovery sprint, or DriveDesk AI Operator-style proof route.
         </p>
+        <div class="hiring-signal" aria-label="10-second hiring signal">
+          <div>
+            <strong>Role signal</strong>
+            <span>Remote backend/platform engineer for AI workflow, integrations, internal tools, and DevOps reliability.</span>
+          </div>
+          <div>
+            <strong>Proof signal</strong>
+            <span>DriveDesk AI Operator, DriveDesk Core, and AI Ops Workflow Kit show backend-owned AI workflow delivery.</span>
+          </div>
+          <div>
+            <strong>First result</strong>
+            <span>One working slice with state, tests, logs, docs, smoke checks, and a handoff route.</span>
+          </div>
+          <div>
+            <strong>Team fit</strong>
+            <span>English-first async review, international remote delivery, privacy boundaries, CI, runbooks, and handoff quality.</span>
+          </div>
+        </div>
         <ul class="signal-list">
           <li><strong>Message me first when</strong> there is one messy workflow, one risky integration boundary, or one backend/platform/DevOps slice that should become testable, logged, documented, and handed off.</li>
           <li><strong>First reply promise</strong> fit read, risky assumptions, smallest responsible first slice, proof path to inspect, and the right next route: remote role, fixed-scope project, technical review, or no-fit.</li>

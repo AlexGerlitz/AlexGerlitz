@@ -4,7 +4,7 @@
 
 AI Automation / Backend / Platform Engineer building **DriveDesk** as backend-owned AI automation and platform systems: RAG/LLM workflows, CRM/ERP integrations, FastAPI/PostgreSQL, Docker/CI, DevOps, runbooks, and recovery paths for real business processes.
 
-Now open for **remote-only full-time roles** and fixed-scope projects where the output is a working system, not a demo shell.
+Now open for **remote-only full-time roles** and fixed-scope projects where the output is a working system, not a demo shell. **10-second hiring signal:** remote backend/platform engineer for AI workflow, CRM/ERP/API integration, internal tools, and DevOps reliability; fastest proof: DriveDesk AI Operator, DriveDesk Core, and AI Ops Workflow Kit; first useful result: one backend-owned workflow slice with state, tests, logs, docs, and handoff; team fit: English-first async review, international remote delivery, privacy boundaries, CI, runbooks, and operational handoff quality.
 
 **Message me first when:** there is one messy workflow, one risky integration boundary, or one backend/platform/DevOps slice that should become testable, logged, documented, and handed off. **First reply promise:** I will answer with a fit read, risky assumptions, the smallest responsible first slice, the proof path to inspect, and the right next route: remote role, fixed-scope project, technical review, or no-fit.
 
