@@ -79,10 +79,11 @@ Checked on 2026-06-29:
 - DeployMate latest public evidence bundle succeeded on `b139a9a`: https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
-- Latest checked profile-proof snapshot is green on `3f2b03b`.
-- Profile Funnel Audit succeeded on `3f2b03b`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326670759
-- Profile Pages deployment succeeded on `3f2b03b`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326670736
-- Live Profile Smoke succeeded on `3f2b03b`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28326670751
+- Profile proof freshness is checked through the branch workflow pages below so reviewers can open the latest run instead of relying on a stale copied SHA.
+- Latest concrete profile-proof snapshot before this verification refresh was green on `ab4149d`.
+- Profile Funnel Audit succeeded on `ab4149d`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28369907597
+- Profile Pages deployment succeeded on `ab4149d`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28369906681
+- Live Profile Smoke succeeded on `ab4149d`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28369907586
 - GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
