@@ -89,7 +89,7 @@ This is the public search-fit summary for recruiters and hiring managers to reco
 | Job title filters | Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer, Platform Engineer, DevOps Engineer, Integration Engineer. |
 | Work mode | Remote-only full-time roles, plus concrete fixed-scope projects when the outcome is a working backend/AI/integration slice. |
 | Skill filters | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM, ERP, Systems Integration, API Integration, n8n, Telegram, DevOps, OpenAPI, pgvector. |
-| Proof route | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf). |
+| Proof route | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf). |
 | First message trigger | Send one remote role or one business workflow that needs backend-owned AI automation, CRM/ERP/API integration, internal tools, DevOps reliability, or a verified first working slice. |
 
 | Search cluster | Exact fit signal | First proof |
