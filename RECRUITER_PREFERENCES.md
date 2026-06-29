@@ -27,7 +27,7 @@ Use this as the public filter map for LinkedIn Recruiter-style searches and fast
 | Skills | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, pgvector, CRM/ERP/API integration, Systems Integration, OpenAPI, DevOps, n8n, Telegram. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
 | Remote / location | Remote-only, international distributed teams, Europe-compatible async review, and written handoff. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
 | Language / review | English-first public docs, async proof routes, CI, smoke checks, runbooks, diagrams, and handoff notes. | [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
-| Featured proof | DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, DriveDesk Core, AI Backend Proof Pack, Enterprise Readiness, and PDF Resume. | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) |
+| Featured proof | DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, DriveDesk Core, AI Backend Proof Pack, Enterprise Readiness, Decision-Ready Contact, and PDF Resume. | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) |
 | Seniority / specialist signal | Backend-owned state, AI-output review, CRM/ERP/API adapter contracts, privacy boundary, audit, retries, idempotency, DevOps recovery, and runbooks. | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
 
 ## Recruiter Search Keywords
@@ -88,9 +88,9 @@ This page mirrors the visible LinkedIn setup recruiters should expect before sen
 | --- | --- |
 | Headline | AI Automation / Backend / Platform Engineer with RAG, LLM workflows, CRM/ERP integrations, FastAPI, Docker, DevOps, and DriveDesk AI Operator. |
 | About / Experience | First-person ownership language around backend-owned AI workflow and operations systems, the AI-native delivery loop, proof-slice contact language, real business infrastructure support since March 2024, and remote Autoschool54 work. |
-| Featured route | DriveDesk Proof Route first, plus Fixed-Scope AI Automation Offers and DriveDesk Core; AI Backend Proof Pack, Enterprise Readiness, LinkedIn Recruiter Packet, and PDF Resume are routed from GitHub/Pages. |
+| Featured route | DriveDesk Proof Route first, plus Fixed-Scope AI Automation Offers and DriveDesk Core; AI Backend Proof Pack, Enterprise Readiness, LinkedIn Recruiter Packet, Decision-Ready Contact, and PDF Resume are routed from GitHub/Pages. |
 | Open-to-Work | Remote job titles and skill filters aligned with backend/platform, AI automation, integration, and DevOps ownership. |
-| Resume / handoff | PDF Resume plus Start Conversation and Decision-Ready Contact routes for internal sharing. |
+| Resume / handoff | Decision-Ready Contact and Start Conversation routes before PDF Resume for internal sharing. |
 | Services | Live LinkedIn Services overview and media route requests toward backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow proof instead of generic web/app work. |
 
 ## Search Intent To Proof Stack
@@ -110,7 +110,8 @@ This page mirrors the visible LinkedIn setup recruiters should expect before sen
 4. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) - 30-second role screen and first-month ownership.
 5. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) - compact route through backend/platform, AI workflow, integration, DevOps, CI, and resume proof.
 6. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international and Europe-compatible remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.
-7. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) - compact resume route.
+7. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - minimum context, fit read, risk check, smallest responsible first slice, proof path, and next route.
+8. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) - compact resume route after the decision-ready contact context is clear.
 
 ## First Contact Fit
 
