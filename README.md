@@ -19,7 +19,7 @@ Best match: backend/platform, AI automation, CRM/ERP/API integration, internal t
 | --- | --- |
 | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) | Flagship backend-owned AI workflow: RAG, transcript analysis, approval, CRM handoff, audit, retries, and adapter boundaries. |
 | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) | Precise fit for RAG, structured output, CRM/API handoff, tests, logs, and runbooks. |
-| [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | Compact technical screen across backend/platform, integrations, DevOps, verification, and resume evidence. |
+| [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | Compact technical screen across backend/platform, integrations, DevOps, verification, Decision-Ready Contact, and resume evidence. |
 | [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) | Ownership signal: incomplete business context -> risky boundary -> small verifiable delivery plan with backend-owned state, AI-output review, CI, smoke checks, docs, runbooks, and handoff notes. |
 | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) | International and Europe-compatible async-team readiness: architecture, state ownership, integration contracts, privacy, CI, runbooks, verification, and handoff quality. |
 | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) | Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-native delivery discipline. |

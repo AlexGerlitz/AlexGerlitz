@@ -2,7 +2,7 @@
 
 Public route: https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html
 
-This is the compact proof route for remote AI automation, backend/platform, CRM/ERP/API integration, DevOps, internal tools, and technical proof review.
+This is the compact proof route for remote AI automation, backend/platform, CRM/ERP/API integration, DevOps, internal tools, and technical proof review. It routes technical proof into Decision-Ready Contact before the PDF resume handoff.
 
 ## Core Signal
 
@@ -18,7 +18,8 @@ I do not just connect workflow nodes. I move state, RAG, approvals, audit, retri
 6. [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) - real Telegram approval evidence with CRM-safe outbox handoff and Bitrix dry-run boundary.
 7. [Live PostgreSQL/pgvector proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt) - runtime storage, RAG quality eval, and restart persistence evidence.
 8. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) - current CI, live smoke, public demos, docs, runbooks, proof freshness, and reviewer links.
-9. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) - compact resume for application upload or recruiter handoff.
+9. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - copy-ready first-contact route with fit read, risk check, smallest responsible first slice, proof path, and next step.
+10. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) - compact resume for application upload or recruiter handoff after first-contact context is clear.
 
 ## Role Shortlist
 
