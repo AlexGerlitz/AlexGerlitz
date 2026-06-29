@@ -526,7 +526,7 @@ REQUIRED_TEXT = {
         "it appears in the visible LinkedIn surface, it is attached to real experience, and it points to inspectable proof",
         "Best high-signal skills to keep aligned across LinkedIn and proof routes",
         "AI Automation / Backend / Platform Engineer with RAG, LLM workflows, CRM/ERP integrations, FastAPI, Docker, DevOps, and DriveDesk AI Operator.",
-        "First-person ownership language: backend-owned AI workflow and operations systems, AI-assisted outputs, real business infrastructure support since March 2024, and remote Autoschool54 work.",
+        "First-person ownership language around backend-owned AI workflow and operations systems, AI-output review, real business infrastructure support since March 2024, remote Autoschool54 work, and the public AI-native delivery loop.",
         "Featured route",
         "DriveDesk Proof Route first, plus Fixed-Scope AI Automation Offers and DriveDesk Core; AI Backend Proof Pack, Enterprise Readiness, LinkedIn Recruiter Packet, and PDF Resume are routed from GitHub/Pages.",
         "LinkedIn Services should route only concrete backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow requests.",
@@ -2455,6 +2455,12 @@ STALE_PUBLIC_WORDING = {
     "linkedin-recruiter-packet.html": [
         "AI-assisted execution discipline",
         "AI speeds research, implementation, docs, and debugging while engineering ownership stays with me.",
+    ],
+    "RECRUITER_PREFERENCES.md": [
+        "AI-assisted outputs",
+    ],
+    "recruiter-preferences.html": [
+        "AI-assisted outputs",
     ],
     "SKILL_EVIDENCE.md": [
         "AI-Assisted Execution Discipline",

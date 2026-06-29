@@ -87,7 +87,7 @@ This page mirrors the visible LinkedIn setup recruiters should expect before sen
 | Surface | Current signal |
 | --- | --- |
 | Headline | AI Automation / Backend / Platform Engineer with RAG, LLM workflows, CRM/ERP integrations, FastAPI, Docker, DevOps, and DriveDesk AI Operator. |
-| About / Experience | First-person ownership language: backend-owned AI workflow and operations systems, AI-assisted outputs, real business infrastructure support since March 2024, and remote Autoschool54 work. |
+| About / Experience | First-person ownership language around backend-owned AI workflow and operations systems, AI-output review, real business infrastructure support since March 2024, remote Autoschool54 work, and the public AI-native delivery loop. |
 | Featured route | DriveDesk Proof Route first, plus Fixed-Scope AI Automation Offers and DriveDesk Core; AI Backend Proof Pack, Enterprise Readiness, LinkedIn Recruiter Packet, and PDF Resume are routed from GitHub/Pages. |
 | Open-to-Work | Remote job titles and skill filters aligned with backend/platform, AI automation, integration, and DevOps ownership. |
 | Resume / handoff | PDF Resume plus Start Conversation and Decision-Ready Contact routes for internal sharing. |
