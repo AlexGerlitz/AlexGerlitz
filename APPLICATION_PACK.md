@@ -1,7 +1,8 @@
 # Role Fit Pack
 
 Public role-fit summary for remote AI automation, backend/platform, integration, internal-tools,
-and DevOps work.
+and DevOps work. It routes role-fit review through Decision-Ready Contact before the PDF resume
+handoff, so recruiters and technical reviewers get proof context before an application artifact.
 
 ## Positioning
 
@@ -76,6 +77,7 @@ and shipped quality stay engineering-owned.
 
 - Message on LinkedIn: https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/
 - Start conversation: https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html
+- Decision-Ready Contact: https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html
 - LinkedIn Services: https://www.linkedin.com/services/page/3153b734507b8a60ab/
 - Portfolio: https://alexgerlitz.github.io/AlexGerlitz/
 - DriveDesk AI Operator proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
@@ -85,10 +87,13 @@ and shipped quality stay engineering-owned.
 - AI Ops offer demo: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md
 - Role fit page: https://alexgerlitz.github.io/AlexGerlitz/role-fit.html
 - DriveDesk proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
-- Resume: https://alexgerlitz.github.io/AlexGerlitz/resume.html
-- PDF resume: https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf
+- Resume after contact context: https://alexgerlitz.github.io/AlexGerlitz/resume.html
+- PDF resume after Decision-Ready Contact: https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf
 - Verification pack: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html
 - DriveDesk Core review: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html
+
+Role Fit Pack -> Decision-Ready Contact -> PDF Resume is the intended handoff order for
+application review.
 
 ## Good First Context
 
