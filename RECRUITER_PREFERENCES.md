@@ -77,7 +77,7 @@ without weakening the existing Python/PostgreSQL/Docker/CRM/System Integration p
 | Search expansion titles | AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer, Internal Tools Engineer, Backend Platform Engineer, Systems Integration Engineer. | Use these in posts, proof routes, and recruiter search strings rather than widening into unrelated roles. |
 | Top skills order target | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CRM, ERP, API Integration, Systems Integration, DevOps, n8n, Telegram, audit logs, idempotency, retries, runbooks. | Keep the first visible skills tied to proof, not generic AI claims. |
 | Verified LinkedIn skill filters | All view: Telegram, REST APIs, OpenAPI, GitHub, Python, Vector Databases, ERP, CRM, Systems Integration, DevOps. Tools & Technologies: Docker, PostgreSQL, Python, JavaScript. Industry Knowledge: Root Cause Analysis, Automation. | Use Skill Evidence and proof routes to compensate where LinkedIn's general All ordering is not yet ideal. |
-| Services search surface | Cloud Application Development, Web Development, Application Development, Custom Software Development, Information Management, and IT Consulting are broad labels only. | Route each request through LinkedIn Services Fit, Services, Fixed-Scope Offers, and DriveDesk Proof Route. |
+| Services search surface | Cloud Application Development, Web Development, Application Development, Custom Software Development, Information Management, and IT Consulting are broad marketplace labels; the live overview and media route them to AI workflow, backend, integration, and proof evidence. | Route each request through LinkedIn Services Fit, Services, Fixed-Scope Offers, and DriveDesk Proof Route. |
 | Services response loop | Target first response: fit/no-fit, risky assumptions, smallest responsible first slice, proof route, and handoff path. | Strongest for requests that name the current workflow, systems involved, one observable success condition, and what must not break. |
 
 ## LinkedIn Profile Alignment
@@ -91,7 +91,7 @@ This page mirrors the visible LinkedIn setup recruiters should expect before sen
 | Featured route | DriveDesk Proof Route first, plus Fixed-Scope AI Automation Offers and DriveDesk Core; AI Backend Proof Pack, Enterprise Readiness, LinkedIn Recruiter Packet, and PDF Resume are routed from GitHub/Pages. |
 | Open-to-Work | Remote job titles and skill filters aligned with backend/platform, AI automation, integration, and DevOps ownership. |
 | Resume / handoff | PDF Resume plus Start Conversation and Decision-Ready Contact routes for internal sharing. |
-| Services | LinkedIn Services should route only concrete backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow requests. |
+| Services | Live LinkedIn Services overview and media route requests toward backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow proof instead of generic web/app work. |
 
 ## Search Intent To Proof Stack
 
