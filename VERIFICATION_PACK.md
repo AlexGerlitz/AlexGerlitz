@@ -111,11 +111,11 @@ Checked on 2026-06-30:
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
 - Profile proof freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
-- Latest recorded recruiter-funnel content snapshot is green on `4bd8cc6` after adding Inbound Offer Fit to the LinkedIn Recruiter Packet.
-- Profile Funnel Audit succeeded on `4bd8cc6`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28392782807
-- Profile Pages deployment succeeded on `4bd8cc6`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28392781790
-- Live Profile Smoke succeeded on `4bd8cc6`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28392782677
-- Live Pages status is `built`, and direct live snippet checks confirmed Inbound Offer Fit on LinkedIn Recruiter Packet, verified LinkedIn skill-surface proof on LinkedIn Proof Signal, Verification Pack, `llms.txt`, and raw recruiter/proof Markdown.
+- Latest recorded recruiter-funnel content snapshot is green on `da1c2c4` after adding the International Role Screen to Enterprise Readiness and the LinkedIn Recruiter Packet.
+- Profile Funnel Audit succeeded on `da1c2c4`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28393721353
+- Profile Pages deployment succeeded on `da1c2c4`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28393720815
+- Live Profile Smoke succeeded on `da1c2c4`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28393721383
+- Live Pages status is `built`, and direct live snippet checks confirmed International Role Screen on Enterprise Readiness and LinkedIn Recruiter Packet, structured `international-role-screen` schema anchors, updated `llms.txt`, and raw Enterprise/Recruiter Markdown.
 - GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
