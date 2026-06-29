@@ -17,9 +17,9 @@ Search-fit role titles: Back End Developer, Python Developer, AI Automation Engi
 Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, and
 Integration Engineer.
 
-I use AI tooling for research, decomposition, code generation, review, debugging, documentation,
-tests, and verification. The final output still has to be inspectable:
-code, logs, tests, smoke checks, docs, and operational handoff.
+AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and
+review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks,
+and shipped quality stay engineering-owned.
 
 Fast fit checklist: remote-only work with a concrete technical outcome, real systems, and a
 working slice that can be tested, logged, documented, demonstrated, and handed off. Not my target
