@@ -62,6 +62,13 @@ PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CR
 Integration, Systems Integration, DevOps, n8n, Telegram, runbooks, audit logs, idempotency,
 retries, and operational handoff.
 
+Verified LinkedIn skill-filter state as of 2026-06-29: the visible All skills view surfaces
+Telegram, REST APIs, OpenAPI, GitHub, Python, Vector Databases, ERP, CRM, Systems Integration,
+and DevOps; the Tools & Technologies filter surfaces Docker, PostgreSQL, Python, and JavaScript;
+the Industry Knowledge filter surfaces Root Cause Analysis and Automation. The next LinkedIn-side
+improvement target is to strengthen the general All view with FastAPI, GitHub Actions, and RAG
+without weakening the existing Python/PostgreSQL/Docker/CRM/System Integration proof routes.
+
 ## Current Search-Surface Audit
 
 | Surface | Current target | Proof / next check |
@@ -69,6 +76,7 @@ retries, and operational handoff.
 | Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer. | Keep these aligned with the headline, About, resume, Role Targets, and AI Backend Proof Pack. |
 | Search expansion titles | AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer, Internal Tools Engineer, Backend Platform Engineer, Systems Integration Engineer. | Use these in posts, proof routes, and recruiter search strings rather than widening into unrelated roles. |
 | Top skills order target | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CRM, ERP, API Integration, Systems Integration, DevOps, n8n, Telegram, audit logs, idempotency, retries, runbooks. | Keep the first visible skills tied to proof, not generic AI claims. |
+| Verified LinkedIn skill filters | All view: Telegram, REST APIs, OpenAPI, GitHub, Python, Vector Databases, ERP, CRM, Systems Integration, DevOps. Tools & Technologies: Docker, PostgreSQL, Python, JavaScript. Industry Knowledge: Root Cause Analysis, Automation. | Use Skill Evidence and proof routes to compensate where LinkedIn's general All ordering is not yet ideal. |
 | Services search surface | Cloud Application Development, Web Development, Application Development, Custom Software Development, Information Management, and IT Consulting are broad labels only. | Route each request through LinkedIn Services Fit, Services, Fixed-Scope Offers, and DriveDesk Proof Route. |
 | Services response loop | Target first response: fit/no-fit, risky assumptions, smallest responsible first slice, proof route, and handoff path. | Strongest for requests that name the current workflow, systems involved, one observable success condition, and what must not break. |
 
