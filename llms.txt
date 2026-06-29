@@ -26,12 +26,12 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html): repo-level evidence across DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm.
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html): search-fit roles mapped to proof, first-month ownership, direct review routes, and structured recruiter search snapshot data.
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html): remote role and fixed-scope project route with best immediate starts, fit filter, proof links, and contact path.
-- [Proposal-ready Services request](https://alexgerlitz.github.io/AlexGerlitz/services.html): LinkedIn Services request shape with proof-backed offer router, current workflow, systems involved, one observable success condition, constraints, and what must not break.
+- [Proposal-ready Services request](https://alexgerlitz.github.io/AlexGerlitz/services.html): LinkedIn Services request shape with proof-backed offer router, current workflow, systems involved, one observable success condition, constraints, what must not break, Decision-Ready Contact before PDF resume, and services decision-route structured data.
 - [Skill evidence map](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skills mapped to public proof for AI automation, backend/platform, CRM/ERP integration, DevOps, and AI-native delivery discipline.
 - [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public demo, evidence links, proof freshness, current green proof, and structured technical verification data.
 - [AI Backend Proof Pack Markdown](https://alexgerlitz.github.io/AlexGerlitz/AI_BACKEND_PROOF_PACK.md): GitHub-readable proof order for recruiters, hiring managers, and technical reviewers, with Decision-Ready Contact before PDF resume.
 - [Enterprise Readiness Markdown](https://alexgerlitz.github.io/AlexGerlitz/ENTERPRISE_READINESS.md): GitHub-readable matrix for enterprise/backend/platform review signals, Decision-Ready Contact before PDF resume, and the structured review data exposed by the HTML route.
-- [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html): public HTML fit filter for broad LinkedIn Services labels around backend/platform ownership, AI workflow, integration, data, DevOps, and internal operations. It also exposes structured broad-category, best-fit request, and not-fit service filter data.
+- [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html): public HTML fit filter for broad LinkedIn Services labels around backend/platform ownership, AI workflow, integration, data, DevOps, internal operations, and Decision-Ready Contact before PDF resume. It also exposes structured broad-category, best-fit request, not-fit service filter, and services decision-route data.
 
 ## Employer Decision Path
 
@@ -75,7 +75,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [LinkedIn profile](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
-- [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html): fast first message and proposal-ready route for one remote role or one messy workflow, one success condition, systems involved, constraints, what must not break, and a working-slice outcome.
+- [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html): fast first message and proposal-ready route for one remote role or one messy workflow, one success condition, systems involved, constraints, what must not break, Decision-Ready Contact, and a working-slice outcome.
 - [Remote role targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html)
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)

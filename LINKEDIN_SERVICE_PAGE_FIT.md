@@ -5,6 +5,10 @@ Public fit filter for LinkedIn Services requests.
 Clean web route:
 https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html
 
+Decision route:
+LinkedIn Services -> Decision-Ready Contact -> Inbound Brief -> proof route -> PDF resume after
+the contact context is clear.
+
 The visible LinkedIn Services categories are broad routing labels: Cloud Application Development,
 Web Development, Application Development, Custom Software Development, Information Management, and
 IT Consulting. The actual offer is narrower:
@@ -67,6 +71,7 @@ When a LinkedIn Services request is a fit, the first response should be concrete
 - risky assumptions and missing context;
 - smallest responsible first slice;
 - proof route to inspect before paying or scheduling a call;
+- decision-ready contact route before any resume-first handoff;
 - handoff path: tests, logs, docs, runbook, smoke check, deployment note, or support boundary.
 
 Best first message: current workflow, systems involved, one observable success condition, access limits,
@@ -77,13 +82,16 @@ and what must not break.
 - Fit read against backend/platform, AI workflow, integration, data, DevOps, and internal-operations ownership.
 - Smallest responsible working slice.
 - Risk check: missing information, fragile assumptions, access/data/integration risks.
-- Proof route: repo, CI run, live route, doc, demo, or PDF resume path that supports the decision.
+- Decision-Ready Contact route, then proof route: repo, CI run, live route, doc, demo, or PDF resume
+  path that supports the decision after first-contact context is clear.
 - Handoff route: tests, logs, docs, runbook, smoke check, deployment note, or support boundary.
 
 ## Proof Route
 
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
 - [Remote AI Automation Services](./SERVICES.md)
+- [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
+- [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html)
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html)
 - [Fixed-scope offers](./FIXED_SCOPE_OFFERS.md)

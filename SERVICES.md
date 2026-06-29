@@ -6,6 +6,11 @@ operations.
 Clean web route: [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
 Fastest business-facing proof before scope:
 [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt).
+Decision route for LinkedIn Services:
+[LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) ->
+[Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) ->
+[Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) -> proof route -> PDF
+resume after the contact context is clear.
 
 The best fit is a concrete business workflow that is currently too manual, too fragile, or too
 unclear to scale. I use AI heavily to compress research, implementation, debugging, and
@@ -88,7 +93,8 @@ What I can send back:
 - fit read against backend/platform, AI workflow, integration, DevOps, or internal-operations ownership;
 - smallest responsible working slice;
 - risky assumptions and missing information;
-- proof route: repo, demo, CI, runbook, or public artifact to inspect before deciding;
+- Decision-Ready Contact route, then proof route: repo, demo, CI, runbook, or public artifact to
+  inspect before deciding;
 - scope boundary for a paid teardown, MVP, integration adapter, or recovery sprint.
 
 ## What I Can Build
@@ -211,6 +217,8 @@ Output can include:
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) - public request-fit filter for
   broad LinkedIn Services labels, backend/platform ownership, AI workflow, integration, data, and
   DevOps work.
+- [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - first-contact route before the PDF resume or a paid-scope handoff.
+- [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) - concise context shape for a role, workflow, project, proof route, success condition, systems, constraints, and verification.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - AI/RAG workflow backend
   with transcript analysis, approval queues, PostgreSQL/pgvector-backed storage, Docker, and tests.
 - [DeployMate](https://github.com/AlexGerlitz/deploymate) - self-hosted deployment control panel
@@ -237,6 +245,6 @@ what is risky, what should wait, and what evidence will show that the result act
 The fastest route is the
 [Remote AI Automation Services page](https://alexgerlitz.github.io/AlexGerlitz/services.html),
 the [LinkedIn Services page](https://www.linkedin.com/services/page/3153b734507b8a60ab/), or the
-[Start Conversation page](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html).
+[Decision-Ready Contact page](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html).
 For a concrete project menu, use the [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
 For concise first context, use the [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html).
