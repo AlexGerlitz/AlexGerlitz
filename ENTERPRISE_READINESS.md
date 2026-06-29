@@ -13,6 +13,7 @@ The HTML route now exposes machine-readable enterprise-readiness data for recrui
 - Decision path: 2-minute fit check, 10-minute technical review, and 30-minute specialist review.
 - Specialist signal: backend/platform ownership, AI workflow engineering, CRM/ERP/API integration depth, DevOps reliability, business operations context, Europe-compatible async collaboration, and public verification discipline.
 - Evidence matrix: DriveDesk Core, AI Ops Workflow Kit, privacy boundary, Verification Pack, and DeployMate.
+- International role screen: role context, operating proof, and first-contact decision signal for distributed teams.
 - Next proof targets: observability dashboard, sandbox adapter proof, cloud/IaC proof, data-retention/privacy notes, and short demo media.
 
 ## What To Inspect
@@ -64,6 +65,16 @@ These are the signals a distributed product or operations team can inspect befor
 - Risk handling: privacy boundary, audit trail, idempotency, retry/dead-letter state, rollback notes, and runbooks.
 - Delivery loop: define the smallest responsible slice, ship it, verify it with tests/CI/live smoke, and document the operator handoff.
 - Business fit: AI workflow/RAG, CRM/ERP/API integration, internal operations tooling, and DevOps recovery work where results must be inspectable.
+
+## International Role Screen
+
+Use this when a recruiter or hiring manager needs to decide whether the profile fits an international distributed team before a live call.
+
+| Role context | Operating proof recruiters can inspect | First-contact decision signal |
+| --- | --- | --- |
+| International backend/platform role with AI workflow, internal tools, or integration ownership | English-first docs, CI/live smoke, public proof order, Decision-Ready Contact, and first-month ownership route | Fit can be checked through written proof before scheduling a technical screen. |
+| Europe-compatible async product or operations team | Timezone-friendly handoff, privacy/integration boundaries, compact evidence routes, runbooks, and clear ownership model | Team can review risk, handoff quality, and working-slice expectations without an onsite walkthrough. |
+| AI workflow or CRM/ERP/API integration-heavy role | DriveDesk Proof Route, AI Ops Hiring Signal Brief, adapter contracts, eval/approval/audit evidence, and Verification Pack | First slice can be scoped as a backend-owned workflow with tests, logs, docs, and handoff notes. |
 
 ## Specialist Review Evidence
 

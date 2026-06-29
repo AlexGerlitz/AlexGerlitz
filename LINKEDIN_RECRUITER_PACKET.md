@@ -32,6 +32,16 @@ Use this block when deciding whether to message, shortlist, or forward internall
 
 Best first message: send one role or workflow, one success condition, systems involved, ownership boundary, timeline, and compensation band if shareable. I will route it to fit/no-fit, risks, first slice, proof path, and the right next step.
 
+## International Role Screen
+
+Use this when a recruiter is screening for an international distributed team and needs proof before a live call.
+
+| Screen for | Public proof route | Message to send |
+| --- | --- | --- |
+| International backend/platform role with AI workflow or integration ownership | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) | Send role title, remote setup, stack, first-month ownership, and expected review path. |
+| Europe-compatible async product or operations team | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | Send overlap expectations, systems involved, success condition, and timeline. |
+| AI workflow / CRM / ERP / API integration role | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt) -> [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) | Ask for fit risks, smallest first slice, and the proof route to inspect first. |
+
 ## Shortlist Scorecard
 
 This profile is strongest when the role needs a builder who can connect business operations, backend systems, AI workflow, integrations, and reliability into one verified slice.
