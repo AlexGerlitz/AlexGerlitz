@@ -266,6 +266,7 @@ REQUIRED_TEXT = {
         "what must not break",
         '<a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>',
         "Choose First Route",
+        '"dateModified": "2026-06-29"',
         "Recruiter hiring",
         "Fixed-scope project",
         "Proof-backed offer router, timeboxes",
@@ -1986,6 +1987,9 @@ REQUIRED_TEXT = {
         "shortlist scorecard data",
         "specialist-reason data",
         "LinkedIn Recruiter Packet",
+        "LinkedIn banner asset",
+        "prepared 1584x396 top-card cover image",
+        "https://alexgerlitz.github.io/AlexGerlitz/assets/linkedin-banner.png",
         "AI Ops Hiring Signal Brief",
         "hiring-signal-brief.txt",
         "search filters, recruiter filter map, 30-second fit, employer trigger matrix, shortlist scorecard, ownership signal, featured work samples, proof order, message triggers, decision-ready reply, expected first result, shortlist signal, risk reduction, AI-assisted execution proof, and international/Europe-compatible remote-team proof routing",
@@ -2161,12 +2165,12 @@ SOCIAL_PREVIEW_PAGE_SNIPPETS = {
 }
 
 SITEMAP_LASTMOD_REQUIREMENTS = {
-    "https://alexgerlitz.github.io/AlexGerlitz/": "2026-06-28",
+    "https://alexgerlitz.github.io/AlexGerlitz/": "2026-06-29",
     "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html": "2026-06-28",
     "https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html": "2026-06-28",
     "https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html": "2026-06-28",
     "https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html": "2026-06-28",
-    "https://alexgerlitz.github.io/AlexGerlitz/llms.txt": "2026-06-28",
+    "https://alexgerlitz.github.io/AlexGerlitz/llms.txt": "2026-06-29",
     "https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html": "2026-06-28",
     "https://alexgerlitz.github.io/AlexGerlitz/ENTERPRISE_READINESS.md": "2026-06-28",
     "https://alexgerlitz.github.io/AlexGerlitz/role-fit.html": "2026-06-28",
