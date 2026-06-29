@@ -52,9 +52,16 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
     ),
     ExpectedPin(
         "AlexGerlitz/ai-ops-workflow-kit",
-        ("AI sales/support workflow backend", "RAG", "transcript analysis", "Telegram approvals", "CRM handoff"),
+        (
+            "AI sales/support workflow backend",
+            "business scenario replay",
+            "RAG",
+            "transcript analysis",
+            "Telegram approvals",
+            "CRM handoff",
+        ),
         "Python",
-        "https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md",
+        "https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt",
         (
             "ai-automation",
             "llm-workflows",
