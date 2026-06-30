@@ -4,14 +4,16 @@ Public route: https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.h
 
 Use this when a profile view, recruiter screen, founder request, or technical proof check should turn into a concrete next step instead of a generic intro.
 
-The public HTML route also exposes structured contact-route data: minimum first-contact context,
-recruiter offer triage, decision-ready reply shape, and best first proof links.
+The public HTML route also exposes structured contact-route data: first backend role context,
+minimum first-contact context, recruiter offer triage, decision-ready reply shape, and best first
+proof links.
 
 ## First Reply Promise
 
-Send one remote role, workflow, project, or proof question plus one success condition. I will answer
-with a fit read, risky assumptions, the smallest responsible first slice, proof path to inspect, and
-the right next route: remote role, fixed-scope project, technical review, or no-fit.
+Send one first backend/Python role, remote role, workflow, project, or proof question plus one
+success condition. I will answer with a fit read, risky assumptions, the smallest responsible first
+slice, proof path to inspect, and the right next route: first backend screen, remote role,
+fixed-scope project, technical review, or no-fit.
 
 ## Recruiter Offer Triage
 
@@ -19,11 +21,22 @@ For an inbound role or shortlist screen, send role title, remote setup, product 
 surface, first-month ownership, hiring timeline, and compensation band if shareable. I will reply
 with fit/no-fit, strongest proof route, risky assumptions, smallest first slice, and next screen path.
 
+For a first backend/Python role, send role title, stack, team review path, first ticket shape,
+tests or smoke expectations, onboarding owner, and hiring timeline. I will route the answer through
+First Backend Role Screen -> Backend First Screen -> Autoschool Intake/Admin Proof before deeper
+AI/platform proof.
+
 Best matches: remote-only backend/platform, AI automation, RAG workflow, CRM/ERP/API integration,
 internal tools, DevOps reliability, and international or Europe-compatible async teams that can
 review written proof before a live screen.
 
 ## Copy-Ready First Messages
+
+First backend / Python role:
+
+```text
+Hi Alex, we are screening for a first backend/Python role. Role title: ..., stack: Python/FastAPI/PostgreSQL, Docker/Compose if used, team review path: ..., first ticket shape: ..., tests or smoke checks expected: ..., hiring timeline: .... Can you send the first backend proof route and the smallest reviewed ticket you would start with?
+```
 
 Remote role screen:
 
@@ -47,6 +60,7 @@ Hi Alex, I want to review your fit for AI workflow, backend/platform, integratio
 
 | Context | Useful details |
 | --- | --- |
+| First backend / Python role | Role title, stack, team review path, first ticket shape, tests or smoke expectations, onboarding owner, and hiring timeline. |
 | Remote role | Role title, remote setup, product domain, stack, team surface, first-month ownership, hiring timeline, and compensation band if shareable. |
 | Workflow / integration | Business process, systems involved, data/documents/leads/tickets, success condition, what must not break, deadline. |
 | Technical proof review | Repo, demo, architecture, claim or risk to validate, current verifier, logs/docs/runbook if safe to share. |
@@ -65,6 +79,9 @@ Hi Alex, I want to review your fit for AI workflow, backend/platform, integratio
 - [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
 - [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html)
 - [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
+- [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
+- [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
+- [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
 - [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt)
 - [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
@@ -75,6 +92,8 @@ Hi Alex, I want to review your fit for AI workflow, backend/platform, integratio
 
 ## Fast Fit
 
-Strongest match: remote-only backend/platform, AI workflow, CRM/ERP/API integration, internal operations tooling, DevOps reliability, or one working business slice with tests, logs, docs, deployment path, and handoff.
+Strongest match: first backend/Python roles with review, remote-only backend/platform, AI workflow,
+CRM/ERP/API integration, internal operations tooling, DevOps reliability, or one working business
+slice with tests, logs, docs, deployment path, and handoff.
 
 Not my target right now: onsite-only roles, pure prompt/content tasks, isolated static websites, student/course assignments, standalone game clones, generic mobile/ecommerce apps without backend/integration ownership, and undefined work where success cannot be tested or handed off.
