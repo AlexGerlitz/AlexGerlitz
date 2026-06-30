@@ -547,7 +547,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             '"@context": "https://schema.org"',
             '"@type": "ContactPage"',
             '"@type": "Person"',
-            '"dateModified": "2026-06-30"',
+            '"dateModified": "2026-06-29"',
             '"@id": "https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html#minimum-context"',
             '"@id": "https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html#reply-shape"',
             '"@id": "https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html#recruiter-offer-triage"',
