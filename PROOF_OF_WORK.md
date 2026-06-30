@@ -7,7 +7,7 @@ private Autoschool54/DriveDesk work demonstrates without exposing private busine
 
 | Signal | Evidence |
 | --- | --- |
-| I can turn a messy business domain into a backend/platform foundation. | DriveDesk Core: tenant model, RBAC, audit/outbox, business records, workflow rules, adapter boundaries, OpenAPI/SDK, CI, docs, and public demo. |
+| I can turn a messy business domain into a backend automation and integration foundation. | DriveDesk Core: tenant model, RBAC, audit/outbox, business records, workflow rules, adapter boundaries, OpenAPI/SDK, CI, docs, and public demo. |
 | I can use an AI-native delivery loop without losing verification discipline. | AI Ops Workflow Kit: document/CRM/call intake, importable n8n workflow artifact, privacy redaction before RAG/approval/CRM handoff, RAG ingestion/retrieval, deterministic RAG quality eval with citations, LLM/transcription provider boundaries, transcript analysis, lead scoring, approval queue, Telegram callback approval, dry-run CRM handoff, idempotent outbox drain, reviewer acceptance report, reviewer observability snapshot, opt-in worker, live PostgreSQL/pgvector runtime, API restart persistence proof, deterministic tests, Docker and integration boundaries. |
 | I can move a real request from a bot into an admin workflow. | Autoschool Intake/Admin Proof: public-safe route for Telegram intake, backend validation, database record, admin queue handoff, status workflow, and privacy boundary without exposing learner data or live admin screenshots. |
 | I understand operations, deployment, and recovery, not only feature code. | DeployMate: self-hosted deployment control panel proof with Docker apps, VPS targets, SSH runtime tooling, logs, health checks, CI/CD, public-review gate, evidence bundle, review packet, and release safety docs. |
@@ -16,22 +16,22 @@ private Autoschool54/DriveDesk work demonstrates without exposing private busine
 
 ## Public Proof Links
 
-- [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) - backend/platform and integration foundation.
+- [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) - backend automation and integration foundation.
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)
 - [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - public-safe route for Telegram request -> backend validation -> database record -> admin queue -> operator status workflow.
-- [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) - larger backend/platform proof path that connects the AI Operator slice to adapters, workflows, audit/outbox, admin/operator surfaces, DevOps, observability, and recovery.
+- [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) - larger backend automation proof path that connects the AI Operator slice to adapters, workflows, audit/outbox, admin/operator surfaces, Docker/CI handoff, observability, and recovery.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - document/CRM/call intake, first-slice playbook, importable n8n workflow artifact, privacy redaction boundary, RAG quality eval, LLM/transcription provider boundaries, reviewer acceptance report, reviewer observability snapshot, approvals, Telegram callback, idempotent outbox worker, live PostgreSQL/pgvector persistence, and n8n/Telegram integration boundary.
 - [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) - concrete RAG/transcript, CRM handoff, human approval, and reliability slices.
 - [AI Ops demo walkthrough](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md) - committed GIF route for transcript -> RAG -> approval -> CRM-safe handoff, generated from the public-safe offer demo.
 - [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) - document intake -> call-audio transcription -> transcript -> RAG -> scoring -> approval -> Telegram callback -> outbox drain -> dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight.
-- [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - self-hosted deployment control panel, DevOps/platform proof snapshot, evidence bundle, and release discipline.
+- [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - self-hosted deployment control panel, Docker/CI handoff proof snapshot, evidence bundle, and release discipline.
 - [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) - trust-model, validation-boundary, desktop automation proof.
 
 ## Reviewer Shortcuts
 
 If you only have a few minutes, review these first:
 
-- [DriveDesk Core README](https://github.com/AlexGerlitz/drivedesk-core) - fast backend/platform reviewer route.
+- [DriveDesk Core README](https://github.com/AlexGerlitz/drivedesk-core) - fast backend automation and integration reviewer route.
 - [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - first-job-ready business workflow proof with synthetic-only public examples and no live admin data.
 - [DriveDesk Core case study](https://github.com/AlexGerlitz/drivedesk-core/blob/main/docs/public/PORTFOLIO_CASE_STUDY.md) - business problem, architecture, integration model, and evidence.
 - [Verification pack](./VERIFICATION_PACK.md) - current CI/demo/recovery verification links.
@@ -46,7 +46,7 @@ If you only have a few minutes, review these first:
 - [AI Ops live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) - Telegram approval callback and CRM-safe boundary proof.
 - [Engineering case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) - narrative problem/build/evidence summaries.
 - [AI Ops Workflow Kit README](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot) - 60-second AI/RAG workflow reviewer path.
-- [DeployMate engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - repo-first DevOps/platform proof route.
+- [DeployMate engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - repo-first Docker/CI handoff proof route.
 - [MPlusForm README](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot) - trust-model and desktop automation reviewer path.
 - [Skill evidence matrix](./SKILL_EVIDENCE.md) - role keywords mapped to public proof.
 - [Work with me](./WORK_WITH_ME.md) - fixed-scope project entry points.
@@ -117,7 +117,7 @@ engineering shape:
 - public demo so the work is inspectable without private data.
 
 That maps directly to the work I want: business-process automation, internal tools, AI/RAG
-workflows, integration adapters, backend/platform systems, DevOps hardening, and remote fixed-scope
+workflows, integration adapters, backend automation systems, Docker/CI handoff, and remote fixed-scope
 projects where the output must be operated after the first working path produces reviewable evidence.
 
 ## Fast Proof Review

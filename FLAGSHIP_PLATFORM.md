@@ -37,7 +37,7 @@ This platform path combines the surfaces remote teams and founders usually need 
 - Python/backend ownership;
 - integration architecture;
 - AI workflow automation;
-- DevOps and recovery discipline;
+- Docker/CI handoff and recovery discipline;
 - product execution from messy business context to a working system.
 
 Since March 2024, I have supported Autoschool54 digital infrastructure remotely and used that
@@ -65,7 +65,7 @@ An operations platform where different roles can work from one reliable layer:
 | Workflow layer | Tasks, approvals, status transitions, routing, notifications, operator queues, exception handling. |
 | AI layer | Document/transcript/ticket analysis, summaries, retrieval, scoring, routing suggestions, draft actions. |
 | Admin / operator UI | Human review, corrections, approval, search, dashboards, and operational controls. |
-| DevOps layer | Docker, CI/release gates, health checks, logs, backups, smoke checks, rollback and recovery docs. |
+| Docker/CI layer | Docker, CI/release gates, health checks, logs, backups, smoke checks, rollback and recovery docs. |
 
 ## Current Public Proof
 
@@ -73,7 +73,7 @@ An operations platform where different roles can work from one reliable layer:
 | --- | --- |
 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | FastAPI/PostgreSQL SaaS/backend foundation with tenants, RBAC, audit/outbox, adapter boundaries, OpenAPI, CI, docs, and public demo. |
 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md) | One-command AI workflow demo: document/transcript/lead intake, retrieval, OpenAI/Claude/Gemini provider boundary, transcript/document analysis, lead scoring, approvals, Telegram callback approval, dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight, idempotent outbox drain, opt-in worker, deterministic tests, and integration boundaries. |
-| [DeployMate](https://github.com/AlexGerlitz/deploymate) | DevOps/release proof: deployment control panel proof, SSH/runtime surface, health checks, release gates, runbooks, and incident handling. |
+| [DeployMate](https://github.com/AlexGerlitz/deploymate) | Docker/CI release proof: deployment control panel proof, SSH/runtime surface, health checks, release gates, runbooks, and incident handling. |
 | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Trust-boundary proof around sync, validation, client-side data, server checks, Windows automation, and operator docs. |
 | [Verification Pack](./VERIFICATION_PACK.md) | Reviewer route through demos, CI, docs, role evidence, and operational proof. |
 

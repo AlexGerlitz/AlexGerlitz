@@ -61,7 +61,7 @@ Tools Developer, or L2/L3 automation roles because it maps directly to common bu
 
 Start with the public routes:
 
-- [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) for FastAPI/PostgreSQL platform foundations.
+- [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) for FastAPI/PostgreSQL backend foundations.
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/) for public-safe admin surface proof.
 - [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) for the Autoschool54 operational context.
 - [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) for CI, smoke, demo, and proof freshness.

@@ -1,6 +1,6 @@
 # Fixed-Scope AI Automation Offers
 
-Concrete project menu for remote AI automation, backend/platform, integration, and DevOps work.
+Concrete project menu for remote AI automation, backend automation, integration, and Docker/CI handoff work.
 The fastest proof route is [DriveDesk AI Operator - Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html).
 The fastest business-facing proof before scope is [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt).
 
@@ -41,10 +41,10 @@ a vague automation request.
 - **CRM/ERP/API integration:** choose Integration Adapter MVP. Proof:
   [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
   and [Skill Evidence](./SKILL_EVIDENCE.md).
-- **Backend/platform ownership:** choose Internal Operations Platform Slice. Proof:
+- **Backend automation and integration ownership:** choose Internal Operations Platform Slice. Proof:
   [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and
   [Enterprise Readiness](./ENTERPRISE_READINESS.md).
-- **DevOps / reliability:** choose DevOps / Release Recovery Sprint. Proof:
+- **Docker/CI reliability:** choose Docker/CI Release Recovery Sprint. Proof:
   [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and
   [Verification Pack](./VERIFICATION_PACK.md).
 
@@ -56,7 +56,7 @@ a vague automation request.
 | DriveDesk AI Operator Proof Slice | Sales/support call, transcript, document, or CRM lead workflow that needs RAG, scoring, follow-up, approval, and CRM action. | 1-3 weeks | USD 3,000-12,000 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html), [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
 | AI Ops / RAG Workflow MVP | Documents, transcripts, tickets, leads, orders, approvals, internal knowledge. | 1-3 weeks | USD 3,000-10,000 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
 | Integration Adapter MVP | CRM/ERP/1C/banking/accounting/API/custom database sync boundary. | 1-4 weeks | USD 4,000-15,000 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) |
-| DevOps / Release Recovery Sprint | Self-hosted service that is hard to deploy, observe, back up, or recover. | 3-10 days | USD 2,000-8,000 | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
+| Docker/CI Release Recovery Sprint | Self-hosted service that is hard to deploy, observe, back up, or recover. | 3-10 days | USD 2,000-8,000 | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
 | Internal Operations Platform Slice | Owned backend/admin workflow instead of spreadsheets, chats, or fragile routines. | 2-6 weeks | USD 8,000-30,000 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
 | DriveDesk-Style Operating Layer | Multi-system operations platform with phased CRM/ERP/1C/bank/admin integrations. | Phased | USD 25,000+ by phase | [flagship platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) |
 
@@ -151,7 +151,7 @@ One source object can move through validation, mapping, sync, retry/error handli
 review without losing traceability.
 ```
 
-## 5. DevOps / Release Recovery Sprint
+## 5. Docker/CI Release Recovery Sprint
 
 Use this when a service exists but deployment, rollback, logs, backups, or recovery are fragile.
 

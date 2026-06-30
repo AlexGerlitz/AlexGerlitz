@@ -15,7 +15,7 @@ Best-fit roles:
 - Internal Tools Engineer
 - Integration Engineer
 - CRM/Admin Tools Developer
-- Platform Engineer when the first month is a concrete backend slice
+- Internal Tools Engineer when the first month is a concrete backend slice
 
 Fastest proof route:
 

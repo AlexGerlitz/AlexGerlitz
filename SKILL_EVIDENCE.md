@@ -10,9 +10,9 @@ For role-level matching, see [Remote Role Targets](./ROLE_TARGETS.md).
 | Role / search keyword | Evidence | Proof link |
 | --- | --- | --- |
 | Backend Engineer | FastAPI/PostgreSQL backend foundations, tenant model, RBAC, audit trail, outbox worker, business records, OpenAPI, tests. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
-| Platform Engineer | Operations platform proof with adapter boundaries, SDK/OpenAPI surfaces, CI, docs, and public demo. | [DriveDesk Core fast review route](https://github.com/AlexGerlitz/drivedesk-core) |
+| Internal Tools Engineer | Operations platform proof with adapter boundaries, SDK/OpenAPI surfaces, CI, docs, and public demo. | [DriveDesk Core fast review route](https://github.com/AlexGerlitz/drivedesk-core) |
 | AI Automation Engineer | Document/transcript/lead intake, importable n8n workflow artifact, privacy redaction before RAG/approval/CRM handoff, RAG ingestion/retrieval, deterministic RAG quality eval with citations, OpenAI/Claude/Gemini provider boundary, call-audio transcription, transcript analysis, lead scoring, approval queues, Telegram callback approval, dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight, idempotent outbox drain, reviewer acceptance report, opt-in worker, deterministic local test paths, n8n/Telegram boundaries. | [AI Ops role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md) |
-| DevOps Engineer | Docker runtime work, CI/CD, deployment control panel proof, health checks, logs, release gates, runbooks, recovery thinking. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
+| Support Engineer with Python | Docker runtime work, CI/CD, deployment control panel proof, health checks, logs, release gates, runbooks, recovery thinking. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
 | Integration Engineer | Explicit adapter contracts, mapping/validation mindset, CRM/ERP/1C/banking boundaries, webhooks, sync and rollout docs. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
 | Internal Tools Engineer | Admin/operator workflow thinking, FastAPI/PostgreSQL backend surfaces, roles, records, tasks, audit, docs, deployment path. | [Proof of Work](./PROOF_OF_WORK.md) |
 | Remote Operator / Builder | Autoschool54 digital infrastructure support since March 2024, remote troubleshooting, workflows, docs, backups, deploy/recovery thinking. | [Role / Project Brief](./ROLE_PROJECT_BRIEF.md) |
@@ -52,9 +52,9 @@ For role-level matching, see [Remote Role Targets](./ROLE_TARGETS.md).
 
 | Project | Best evidence for | Fast review path |
 | --- | --- | --- |
-| DriveDesk Core | Backend/platform engineering, adapter boundaries, SaaS foundation, operations platform proof. | [Fast review route](https://github.com/AlexGerlitz/drivedesk-core) |
+| DriveDesk Core | Backend automation and integration engineering, adapter boundaries, SaaS foundation, operations platform proof. | [Fast review route](https://github.com/AlexGerlitz/drivedesk-core) |
 | AI Ops Workflow Kit | AI automation, DriveDesk AI Operator-style RAG/transcript workflows, hiring signal brief, business scenario replay, first-slice playbook, committed demo GIF/walkthrough, deterministic RAG quality eval, privacy redaction before RAG/approval/CRM handoff, LLM/transcription provider boundaries, transcript processing, Telegram approvals, CRM-safe outbox handoff, retry/dead-letter behavior, live PostgreSQL/pgvector persistence, reviewer acceptance report, reviewer observability snapshot, live approval proof, CI, and integration boundaries. | [hiring signal brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt), [business scenario replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt), [First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md), [demo walkthrough](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md), [public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), [live Postgres persistence proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt), [privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), [reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md), [live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), [latest CI run](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28344277704), [repo](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
-| DeployMate | DevOps, self-hosting, deployment automation, health checks, runbooks, release discipline. | [Engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
+| DeployMate | Docker/CI handoff, self-hosting, deployment automation, health checks, runbooks, release discipline. | [Engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
 | MPlusForm | Trust model, validation boundaries, Python/Lua/PowerShell automation, Windows operations, public verification gate. | [60-second reviewer snapshot](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot), [public verification run](https://github.com/AlexGerlitz/MPlusForm/actions/runs/28296918568) |
 
 ## Best Skills To Evaluate
@@ -68,7 +68,7 @@ These are the skills that best match the public proof above:
 - PostgreSQL
 - Vector Databases
 - Docker
-- DevOps
+- Docker/CI handoff
 - GitHub Actions
 - RAG
 - Systems Integration
@@ -77,7 +77,7 @@ These are the skills that best match the public proof above:
 - Enterprise Resource Planning (ERP)
 - Workflow Automation
 - Internal Tools
-- Platform Engineering
+- Internal Tools Engineering
 - Observability
 - Technical Documentation
 - Runbooks

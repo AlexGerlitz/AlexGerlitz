@@ -21,7 +21,7 @@ recovery sprint, or DriveDesk AI Operator-style proof route.
 Fast fit checklist:
 
 - remote-only role or fixed-scope work;
-- backend-owned AI workflow, CRM/ERP/API integration, internal operations tool, DevOps hardening,
+- backend-owned AI workflow, CRM/ERP/API integration, internal operations tool, Docker/CI hardening,
   or one working slice with tests/logs/docs/handoff;
 - not a fit right now: onsite-only roles, pure prompt/content tasks, isolated static websites,
   student/course assignments, standalone game clones, generic mobile/ecommerce apps without
@@ -41,7 +41,7 @@ Send:
 - product domain and team context;
 - stack and systems involved;
 - expected ownership in the first month;
-- current pain: speed, reliability, integrations, AI workflow, DevOps, internal tools, support load;
+- current pain: speed, reliability, integrations, AI workflow, Docker/CI handoff, internal tools, support load;
 - hiring process and timeline;
 - links to the vacancy, product, docs, or technical description if public.
 
@@ -59,7 +59,7 @@ Send:
 - what "done" means in practical terms;
 - closest proof-backed offer route or employer trigger;
 - proof route to reference first: business scenario replay or DriveDesk proof route;
-- required output: MVP, working slice, integration adapter, AI workflow, internal tool, DevOps fix,
+- required output: MVP, working slice, integration adapter, AI workflow, internal tool, Docker/CI fix,
   runbook, or recovery plan;
 - deadline and budget range;
 - access constraints: credentials, test data, hosting, compliance, language, timezone;
@@ -85,7 +85,7 @@ I will usually respond with:
 
 ## Best Fit Problems
 
-- backend/platform foundations;
+- backend automation and integration foundations;
 - AI/RAG workflow automation;
 - document, transcript, ticket, lead, or operator routing workflows;
 - CRM/ERP/1C/banking/API integration boundaries;

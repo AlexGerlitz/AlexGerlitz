@@ -8,7 +8,7 @@ internal-tools, and fixed-scope business automation work.
 I am strongest when the work has:
 
 - one messy business or technical workflow;
-- Python/FastAPI/PostgreSQL or adjacent backend/platform surface;
+- Python/FastAPI/PostgreSQL or adjacent backend automation and integration surface;
 - AI/RAG, document, transcript, ticket, lead, or operator workflow potential;
 - CRM/ERP/1C/accounting/banking/API/custom database integration boundaries;
 - Docker/CI/deployment/recovery work that needs tests, logs, docs, and runbooks;
@@ -17,8 +17,8 @@ I am strongest when the work has:
 Current anchor: remote Autoschool54 / DriveDesk digital infrastructure work since March 2024.
 
 Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8n, Telegram,
-CRM/ERP/API integrations, Systems Integration, Backend Development, Platform Engineering,
-Workflow Automation, DevOps, GitHub Actions, OpenAPI, and PostgreSQL/pgvector-backed workflows.
+CRM/ERP/API integrations, Systems Integration, Backend Development, Internal Tools Engineering,
+Workflow Automation, Docker/CI handoff, GitHub Actions, OpenAPI, and PostgreSQL/pgvector-backed workflows.
 
 Main case route:
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) for
@@ -31,7 +31,7 @@ CRM adapter contracts, audit, retries, and runbook proof target.
 | --- | --- | --- |
 | AI Automation Engineer | DriveDesk AI Operator-style systems: document/transcript/lead ingestion, RAG retrieval, summaries, scoring, routing, Telegram approvals, outbox worker handoff, CRM handoff, and auditability. | [AI Ops role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md) |
 | Backend Engineer | FastAPI/PostgreSQL systems, records, roles, workflow state, OpenAPI, tests, Docker, and docs. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
-| Platform Engineer | Tenants, adapters, workers, contracts, audit/outbox, SDK/OpenAPI, CI, docs, and operations. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| Internal Tools Engineer | Tenants, adapters, workers, contracts, audit/outbox, SDK/OpenAPI, CI, docs, and operations. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
 | Integration Engineer | CRM/ERP/1C/banking/API/custom database boundaries, mapping, validation, retries, and logs. | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |
 | Reliability / Docker Handoff | Docker, CI gates, health checks, logs, backups, release notes, recovery paths, and runbooks. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
 | Internal Tools / Ops Automation Engineer | Admin panels, operator workflows, roles, records, audit, docs, deployment, and support paths. | [Proof of Work](./PROOF_OF_WORK.md) |
@@ -45,7 +45,7 @@ CRM adapter contracts, audit, retries, and runbook proof target.
 | 3 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) | Main AI workflow proof route. |
 | 4 | [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) | Current AI Ops CI, local gate, committed evidence, privacy boundary, runtime reachability boundary, Pages route, and public boundary. |
 | 5 | [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) | Live-runtime acceptance pass across API, smoke, GitHub Actions, Pages links, and public PDF when the external edge is reachable. |
-| 6 | [DriveDesk Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) | Backend/platform foundation proof. |
+| 6 | [DriveDesk Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) | Backend automation and integration foundation proof. |
 | 7 | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) | Demos, CI, docs, runbooks, and evidence links. |
 
 Full AI Ops proof stays available from the
@@ -68,7 +68,7 @@ Useful questions for a role or project discussion:
 | Topic | Answer |
 | --- | --- |
 | Work mode | Remote-only. Full-time roles and contract/fixed-scope work are both relevant. |
-| Best environment | Real ownership, messy workflows, backend/platform surface, and evidence-friendly delivery. |
+| Best environment | Real ownership, messy workflows, backend automation and integration surface, and evidence-friendly delivery. |
 | Strongest stack | Python, FastAPI, PostgreSQL, Docker, RAG, n8n, Telegram, GitHub Actions, OpenAPI, PostgreSQL/pgvector-backed workflows, tests, and CRM/ERP/API integrations. |
 | AI usage | AI accelerates research, implementation, debugging, review, docs, tests, and comparison. Verification still happens through code, logs, CI, smoke checks, docs, and hands-on inspection. |
 | Best first task | One real workflow with one success condition and enough access/context to ship a verified slice. |

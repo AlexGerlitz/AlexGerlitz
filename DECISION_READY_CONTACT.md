@@ -26,7 +26,7 @@ tests or smoke expectations, onboarding owner, and hiring timeline. I will route
 Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof before deeper
 AI/platform proof.
 
-Best matches: remote-only backend/platform, AI automation, RAG workflow, CRM/ERP/API integration,
+Best matches: remote-only backend automation and integration, AI automation, RAG workflow, CRM/ERP/API integration,
 internal tools, QA/API verification, reliability handoff, and international or Europe-compatible async teams that can
 review written proof before a live screen.
 
@@ -53,7 +53,7 @@ Hi Alex, we have one workflow that needs to become reliable. Workflow: ..., syst
 Technical proof review:
 
 ```text
-Hi Alex, I want to review your fit for AI workflow, backend/platform, integration, or DevOps work. Claim or risk to validate: .... Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to prove value.
+Hi Alex, I want to review your fit for AI workflow, backend automation, integration, or Docker/CI handoff work. Claim or risk to validate: .... Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to prove value.
 ```
 
 ## Send This Minimum Context
@@ -68,7 +68,7 @@ Hi Alex, I want to review your fit for AI workflow, backend/platform, integratio
 
 ## What I Send Back
 
-1. Fit read: whether the role or project matches backend/platform, AI automation, integrations, internal tools, or DevOps ownership.
+1. Fit read: whether the role or project matches backend automation and integration, AI automation, integrations, internal tools, or Docker/CI handoff ownership.
 2. Risk check: missing information, fragile assumptions, integration/data/access risks, and what should be verified first.
 3. First slice: the smallest responsible working outcome that can prove value.
 4. Proof route: the public repo, live route, CI run, doc, demo, proof-backed offer route, or PDF resume path that best supports the decision.
@@ -92,7 +92,7 @@ Hi Alex, I want to review your fit for AI workflow, backend/platform, integratio
 
 ## Fast Fit
 
-Strongest match: first backend/Python roles with review, remote-only backend/platform, AI workflow,
+Strongest match: first backend/Python roles with review, remote-only backend automation and integration, AI workflow,
 CRM/ERP/API integration, internal operations tooling, reliability handoff, or one working business
 slice with tests, logs, docs, deployment path, and handoff.
 

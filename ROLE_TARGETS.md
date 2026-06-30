@@ -116,7 +116,7 @@ For a role, I am easiest to evaluate through a real workflow, not a generic exer
 | AI automation | Pick one document/transcript/ticket/operator workflow, build ingestion/retrieval or routing, add approval states, and prove it with repeatable tests. |
 | AI sales/support operator | Build the DriveDesk AI Operator slice: transcript/lead ingestion, RAG retrieval, analysis JSON, Telegram approval, CRM sandbox adapter, audit, retries, screenshots, and runbook. |
 | Integration work | Define source/target contracts, map data fields, add validation and logging, build a first sync/import path, and document rollout risks. |
-| DevOps / recovery | Add or tighten Docker/CI/health/logging/smoke checks, document backup/restore or rollback, and leave a runbook. |
+| Docker/CI / recovery | Add or tighten Docker/CI/health/logging/smoke checks, document backup/restore or rollback, and leave a runbook. |
 | Internal tools | Turn one manual workflow into records, roles, admin actions, notifications/tasks, and a deployable backend surface. |
 
 Detailed plan: [First 30 Days Delivery Plan](./FIRST_30_DAYS.md).
@@ -129,7 +129,7 @@ If the conversation is not a full-time role, the strongest project shapes are:
 - AI ops / RAG workflow MVP;
 - CRM/ERP/1C/bank/API integration adapter;
 - internal operations platform;
-- DevOps/release/recovery hardening.
+- Docker/CI release/recovery hardening.
 
 Details: [Remote AI Automation Services](./SERVICES.md).
 

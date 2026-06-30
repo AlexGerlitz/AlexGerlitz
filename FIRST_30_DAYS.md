@@ -14,7 +14,7 @@ access to test it safely, I can make the first month measurable instead of explo
 | Decision question | Month-one output | Proof left behind |
 | --- | --- | --- |
 | Can I understand the business workflow quickly? | Workflow/risk map, systems inventory, first success condition, and explicit unknowns. | Notes that show users, data, failure points, boundaries, and what should not be automated blindly. |
-| Can I ship backend/platform value without waiting for perfect specs? | One API, admin, workflow, or data-state slice with validation and a small deploy/review path. | Code, tests or smoke checks, docs, and a clear next slice. |
+| Can I ship backend automation and integration value without waiting for perfect specs? | One API, admin, workflow, or data-state slice with validation and a small deploy/review path. | Code, tests or smoke checks, docs, and a clear next slice. |
 | Can I make AI output reviewable? | One RAG, transcript, ticket, lead, or approval path with structured output and human review. | Citations or source links, JSON shape, eval/smoke evidence, logs, and approval state. |
 | Can I handle messy integrations? | One source/target contract, mapping, validation, retry/error path, or sandbox handoff. | Adapter notes, idempotency/retry behavior, audit/log evidence, and rollout risks. |
 | Can I improve reliability? | One CI/release gate, health check, smoke command, backup/recovery note, or runbook improvement. | Command output, CI link, health/log evidence, and operator handoff notes. |
@@ -32,10 +32,10 @@ access to test it safely, I can make the first month measurable instead of explo
 
 | Track | What I do |
 | --- | --- |
-| Backend/platform | Read the domain model, trace critical flows, add missing smoke checks, document the first service boundary. |
+| Backend automation and integration | Read the domain model, trace critical flows, add missing smoke checks, document the first service boundary. |
 | AI automation | Pick one document/transcript/ticket/operator flow and define inputs, retrieval/scoring, approval, and review states. |
 | Integration | Define source/target contracts, field mapping, validation rules, retry/error states, and logging expectations. |
-| DevOps/recovery | Check deploy path, env/config boundaries, health checks, logs, backup/restore assumptions, and rollback path. |
+| Docker/CI recovery | Check deploy path, env/config boundaries, health checks, logs, backup/restore assumptions, and rollback path. |
 | Internal tools | Turn one manual workflow into records, states, roles, actions, and an operator handoff path. |
 
 Expected evidence:
@@ -49,10 +49,10 @@ Expected evidence:
 
 | Track | Working slice |
 | --- | --- |
-| Backend/platform | One API/admin workflow with data validation, tests, docs, and deploy notes. |
+| Backend automation and integration | One API/admin workflow with data validation, tests, docs, and deploy notes. |
 | AI automation | Ingestion/retrieval or classification/routing path with deterministic tests and reviewable outputs. |
 | Integration | First import/sync/webhook path with mapping, validation, error handling, and logs. |
-| DevOps/recovery | CI/release gate, health check, smoke command, or backup/restore proof. |
+| Docker/CI recovery | CI/release gate, health check, smoke command, or backup/restore proof. |
 | Internal tools | Small operator workflow that replaces a spreadsheet/chat/manual step. |
 
 Expected evidence:
@@ -88,7 +88,7 @@ Expected evidence:
 | Backend / Python | Ship one FastAPI/PostgreSQL slice with records, validation, tests, docs, and an operator handoff note. |
 | AI automation / RAG | Ship one document/transcript/ticket/lead workflow with retrieval or analysis, structured output, approval state, and repeatable checks. |
 | CRM / ERP / API integration | Ship one adapter or sandbox handoff with source/target contract, mapping, validation, idempotency, retry/error path, and logs. |
-| Platform / DevOps | Improve one deploy, health, smoke, backup, recovery, or release gate so the team can verify service state faster. |
+| Docker/CI Handoff | Improve one deploy, health, smoke, backup, recovery, or release gate so the team can verify service state faster. |
 | Internal tools | Replace one manual spreadsheet/chat/admin step with records, roles, actions, audit trail, and handoff docs. |
 
 ## What I Need To Start

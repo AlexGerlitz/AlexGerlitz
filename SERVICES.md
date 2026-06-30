@@ -1,6 +1,6 @@
 # Remote AI Automation Services
 
-I build remote-only backend, AI automation, integration, and DevOps systems for business
+I build remote-only backend, AI automation, integration, and Docker/CI handoff systems for business
 operations.
 
 Clean web route: [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
@@ -30,13 +30,13 @@ review, or no-fit.
 
 LinkedIn Services request filter: if LinkedIn routes the request as Web Development, Application
 Development, or Custom Software Development, I still treat it as a fit only when the work has
-backend/platform, AI workflow, integration, DevOps, or internal-operations ownership. A website
+backend automation and integration, AI workflow, integration, Docker/CI handoff, or internal-operations ownership. A website
 refresh, a student assignment, a standalone game, or a generic mobile store is not the right request
 unless there is a real backend/integration system to own.
 
 Category routing note: [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) explains the
 public fit filter for broad LinkedIn Services labels so first requests stay focused on
-backend/platform, AI workflow, integration, data, DevOps, and internal-operations ownership.
+backend automation and integration, AI workflow, integration, data, Docker/CI handoff, and internal-operations ownership.
 
 Not my target right now: isolated brochure/static websites, student/course assignments, standalone
 game clones, or generic mobile/ecommerce apps without backend, integration, or operations
@@ -52,10 +52,10 @@ Choose the closest trigger, then open the package and proof route that matches i
 - **CRM/ERP/API integration:** CRM / ERP / API Adapter. Proof:
   [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
   and [Skill evidence](./SKILL_EVIDENCE.md).
-- **Backend/platform ownership:** Internal operations platform. Proof:
+- **Backend automation and integration ownership:** Internal operations platform. Proof:
   [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and
   [Enterprise readiness](./ENTERPRISE_READINESS.md).
-- **DevOps / reliability:** DevOps / recovery sprint. Proof:
+- **Docker/CI reliability:** Docker/CI recovery sprint. Proof:
   [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and
   [Verification pack](./VERIFICATION_PACK.md).
 
@@ -66,7 +66,7 @@ should improve first, and what must not break.
 Remote role signal:
 
 - role title, remote setup, stack, team surface, and hiring timeline;
-- first-month ownership: the workflow, integration, platform, or DevOps problem that should improve;
+- first-month ownership: the workflow, integration, internal tool, or Docker/CI handoff problem that should improve;
 - best proof route: <https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html>.
 
 Project signal:
@@ -90,7 +90,7 @@ shows the expected backend-owned workflow shape before a paid scope starts.
 
 What I can send back:
 
-- fit read against backend/platform, AI workflow, integration, DevOps, or internal-operations ownership;
+- fit read against backend automation and integration, AI workflow, integration, Docker/CI handoff, or internal-operations ownership;
 - smallest responsible working slice;
 - risky assumptions and missing information;
 - Decision-Ready Contact route, then proof route: repo, demo, CI, runbook, or public artifact to
@@ -105,7 +105,7 @@ What I can send back:
 | AI workflow / RAG MVP | Teams that read, search, summarize, classify, score, route, or approve too much manual work. | Ingestion, retrieval, summaries, scoring/routing, approval queues, API/admin workflow, tests, and runbook. |
 | Internal operations platform | Businesses running operations through chats, spreadsheets, duplicated documents, or fragile admin routines. | FastAPI/PostgreSQL backend, records, roles, audit trail, tasks, notifications, admin workflows, Docker deploy path. |
 | Integration adapter | 1C, CRM/ERP, banking/accounting, custom databases, webhooks, or public APIs that need reliable data flow. | Explicit contracts, mapping/validation, sync/retry/logging path, smoke checks, rollout notes, and debugging docs. |
-| DevOps / release recovery | Self-hosted services that are hard to deploy, observe, back up, or recover. | Docker/CI gates, health checks, logs, backup/restore path, smoke tests, and recovery procedure. |
+| Docker/CI release recovery | Self-hosted services that are hard to deploy, observe, back up, or recover. | Docker/CI gates, health checks, logs, backup/restore path, smoke tests, and recovery procedure. |
 | Workflow teardown + working slice | Messy requirements where the first need is clarity plus proof. | Risk map, data model, integration boundaries, smallest working slice, and next implementation plan. |
 
 ## Fixed-Scope Entry Points
@@ -186,7 +186,7 @@ Output can include:
 - Docker Compose runtime;
 - tests, health checks, docs, and recovery notes.
 
-### 6. DevOps / Recovery Hardening
+### 6. Docker/CI Recovery Hardening
 
 Good when a service already exists but breaks during deployment, recovery, updates, or operations.
 
@@ -216,7 +216,7 @@ Output can include:
   service page with DriveDesk AI Operator and AI Ops Workflow Kit proof samples.
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) - public request-fit filter for
   broad LinkedIn Services labels, Python/backend ownership, AI workflow, integration, data, and
-  DevOps work.
+  Docker/CI handoff work.
 - [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - first-contact route before the PDF resume or a paid-scope handoff.
 - [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) - concise context shape for a role, workflow, project, proof route, success condition, systems, constraints, and verification.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - AI/RAG workflow backend

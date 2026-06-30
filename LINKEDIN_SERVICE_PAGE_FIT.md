@@ -12,8 +12,8 @@ the contact context is clear.
 The visible LinkedIn Services categories are broad routing labels: Cloud Application Development,
 Web Development, Application Development, Custom Software Development, Information Management, and
 IT Consulting. The actual offer is narrower:
-remote AI automation, backend/platform systems, CRM/ERP/API integration, internal tools, data
-workflows, and DevOps/recovery work for real business operations.
+remote AI automation, backend automation and integration systems, CRM/ERP/API integration, internal tools, data
+workflows, and Docker/CI recovery work for real business operations.
 
 ## Best-Fit Service Requests
 
@@ -23,7 +23,7 @@ workflows, and DevOps/recovery work for real business operations.
   notes, and a safe handoff path.
 - FastAPI/PostgreSQL backend, admin workflow, audit trail, worker/outbox, tests, Docker, CI, and
   runbook.
-- DevOps/recovery/hardening work with deploy, logs, health checks, smoke tests, backup/restore, or
+- Docker/CI recovery/hardening work with deploy, logs, health checks, smoke tests, backup/restore, or
   rollback.
 - Data/reporting workflow where the useful output is a repeatable system, not a spreadsheet-only
   or presentation-only deliverable.
@@ -32,8 +32,8 @@ workflows, and DevOps/recovery work for real business operations.
 
 LinkedIn can route a request through labels such as Cloud Application Development, Web Development,
 Application Development, Custom Software Development, Information Management, or IT Consulting.
-Those labels are a fit only when the request has backend/platform, AI workflow, integration, data,
-DevOps, or internal-operations ownership.
+Those labels are a fit only when the request has backend automation and integration, AI workflow, integration, data,
+Docker/CI handoff, or internal-operations ownership.
 
 ## Structured Request Filter
 
@@ -67,7 +67,7 @@ Send one concrete workflow or service request with:
 
 When a LinkedIn Services request is a fit, the first response should be concrete:
 
-- fit/no-fit against backend/platform, AI workflow, integration, data, DevOps, or internal-operations ownership;
+- fit/no-fit against backend automation and integration, AI workflow, integration, data, Docker/CI handoff, or internal-operations ownership;
 - risky assumptions and missing context;
 - smallest responsible first slice;
 - proof route to inspect before paying or scheduling a call;
@@ -79,7 +79,7 @@ and what must not break.
 
 ## What I Can Send Back
 
-- Fit read against backend/platform, AI workflow, integration, data, DevOps, and internal-operations ownership.
+- Fit read against backend automation and integration, AI workflow, integration, data, Docker/CI handoff, and internal-operations ownership.
 - Smallest responsible working slice.
 - Risk check: missing information, fragile assumptions, access/data/integration risks.
 - Decision-Ready Contact route, then proof route: repo, CI run, live route, doc, demo, or PDF resume

@@ -9,7 +9,7 @@ Fast fit checklist:
 
 - strongest match: remote-only work with a concrete technical outcome;
 - useful target: backend-owned AI workflow, CRM/ERP/API integration, internal operations tool,
-  DevOps hardening, or one first working slice with tests, logs, docs, and handoff;
+  Docker/CI hardening, or one first working slice with tests, logs, docs, and handoff;
 - not my target right now: onsite-only roles, pure prompt/content tasks, isolated static websites,
   student/course assignments, standalone game clones, generic mobile/ecommerce apps without
   backend/integration ownership, or undefined outcomes with no way to verify success.
@@ -26,7 +26,7 @@ For an inbound role or shortlist screen, send role title, remote setup, product 
 surface, first-month ownership, hiring timeline, and compensation band if shareable. I will reply
 with fit/no-fit, strongest proof route, risky assumptions, smallest first slice, and next screen path.
 
-Best matches: remote-only backend/platform, AI automation, RAG workflow, CRM/ERP/API integration,
+Best matches: remote-only backend automation and integration, AI automation, RAG workflow, CRM/ERP/API integration,
 internal tools, QA/API verification, reliability handoff, and international or Europe-compatible async teams that can
 review written proof before a live screen.
 
@@ -50,7 +50,7 @@ Hi Alex, we have one workflow that needs to become reliable. Workflow: ..., syst
 Technical proof review:
 
 ```text
-Hi Alex, I want to review your fit for AI workflow, backend/platform, integration, or DevOps work. Claim or risk to validate: .... Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to prove value.
+Hi Alex, I want to review your fit for AI workflow, backend automation, integration, or Docker/CI handoff work. Claim or risk to validate: .... Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to prove value.
 ```
 
 ## Message Triggers
@@ -59,10 +59,10 @@ Message me when the decision needs a working slice, not a generic intro.
 
 | Trigger | Decision signal | Open first |
 | --- | --- | --- |
-| Remote role needs ownership | Backend/platform, AI automation, integrations, internal tools, or DevOps ownership with a first-month outcome. | `https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html` -> `https://alexgerlitz.github.io/AlexGerlitz/role-targets.html` |
+| Remote role needs ownership | Backend automation and integration, AI automation, integrations, internal tools, or Docker/CI handoff ownership with a first-month outcome. | `https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html` -> `https://alexgerlitz.github.io/AlexGerlitz/role-targets.html` |
 | Workflow needs AI/RAG | Documents, transcripts, leads, tickets, or operator actions need retrieval, structured analysis, approval, and handoff. | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` -> `https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md` |
 | Integration needs reliability | CRM, ERP, API, 1C, banking, or database handoff needs adapter contracts, retries, idempotency, audit, and rollback notes. | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html` |
-| DevOps needs recovery | Docker, CI, health checks, logs, backups, release gates, or runbooks need a verified recovery path. | `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` -> `https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot` |
+| Docker/CI needs recovery | Docker, CI, health checks, logs, backups, release gates, or runbooks need a verified recovery path. | `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` -> `https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot` |
 
 ## Best First Link
 
@@ -80,9 +80,9 @@ Message me when the decision needs a working slice, not a generic intro.
 | Search intent | Open first |
 | --- | --- |
 | AI Automation / RAG | `https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html` -> `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` |
-| Backend / Python / Platform | `https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html` -> `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html` -> `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` |
+| Python / Backend / Internal Tools | `https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html` -> `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html` -> `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` |
 | CRM / ERP / API Integration | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/case-studies.html` -> `https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html` |
-| DevOps / Reliability | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` -> `https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot` |
+| Docker/CI / Reliability | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` -> `https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot` |
 
 ## Best-Fit Context
 
@@ -160,7 +160,7 @@ Technical proof signal:
 
 ## What I Can Evaluate Quickly
 
-- backend/platform systems;
+- backend automation and integration systems;
 - AI/RAG workflows;
 - CRM/ERP/API/database integrations;
 - internal tools and admin/operator surfaces;

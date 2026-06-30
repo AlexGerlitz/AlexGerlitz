@@ -6,7 +6,7 @@ transcripts, CRM leads, and knowledge-base records into reviewable operator acti
 This is the proof route I want recruiters, founders, and hiring managers to use when they evaluate
 my work. It combines the strongest parts of the current proof stack:
 
-- [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) for backend/platform, tenants,
+- [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) for backend automation and integration, tenants,
   audit/outbox, workflow rules, adapters, OpenAPI, Docker, CI, and docs.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) for document intake,
   RAG, OpenAI/Claude/Gemini provider boundary, call-audio transcription, transcript analysis, lead scoring, approval queues,
@@ -119,7 +119,7 @@ This single project proves the role surface better than a generic portfolio:
 - Backend engineering: FastAPI, PostgreSQL, pgvector, API contracts, data model, tests.
 - Platform thinking: state, audit, retries, idempotency, dead-letter handling, observability.
 - Integrations: Telegram, n8n, CRM/Bitrix-style adapter boundaries.
-- DevOps: Docker Compose, CI, runbook, screenshots, demo video, metrics/cost notes.
+- Docker/CI handoff: Docker Compose, CI, runbook, screenshots, demo video, metrics/cost notes.
 - Product judgment: one business workflow, one success condition, one inspectable slice.
 
 ## Positioning
@@ -132,7 +132,7 @@ Best-fit roles after this demo:
 - RAG Workflow Engineer;
 - CRM Integration Engineer;
 - Internal Tools Engineer;
-- DevOps-minded AI Workflow Engineer.
+- AI Workflow Engineer with Docker/CI handoff.
 
 Operating principle: AI tooling accelerates research, decomposition, implementation, debugging, docs,
 tests, and review. I still own architecture, verification, logs, deployment, and result quality.

@@ -1,6 +1,6 @@
 # Work With Me
 
-I build remote-first backend, AI automation, integration, and DevOps systems for business operations.
+I build remote-first backend, AI automation, integration, and Docker/CI handoff systems for business operations.
 
 The strongest fit is a real workflow with unclear requirements, scattered data, manual operator work,
 or fragile deployment/recovery. AI tooling compresses discovery, implementation, debugging, docs,
@@ -88,7 +88,7 @@ Output can include:
 - Docker deployment path.
 - Health checks, tests, docs, and recovery notes.
 
-### 5. DevOps / Release / Recovery Hardening
+### 5. Docker/CI Release Recovery Hardening
 
 Best when a service exists but is painful to deploy, observe, back up, or recover.
 

@@ -2,7 +2,7 @@
 
 Public route: https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html
 
-This is the compact proof route for remote AI automation, backend/platform, CRM/ERP/API integration, DevOps, internal tools, and technical proof review. It routes technical proof into Decision-Ready Contact before the PDF resume handoff.
+This is the compact proof route for remote AI automation, backend automation and integration, CRM/ERP/API integration, Docker/CI handoff, internal tools, and technical proof review. It routes technical proof into Decision-Ready Contact before the PDF resume handoff.
 
 ## Core Signal
 
@@ -36,14 +36,14 @@ I do not just connect workflow nodes. I move state, RAG, approvals, audit, retri
 
 | If the role/request is | I can own first | Proof to open |
 | --- | --- | --- |
-| Backend/platform role | Map one business workflow, model records and state, expose API/admin behavior, add tests, docs, and a deploy path. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html). |
+| Backend automation and integration role | Map one business workflow, model records and state, expose API/admin behavior, add tests, docs, and a deploy path. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html). |
 | AI automation / RAG role | Build one retrieval or transcript workflow with citations, structured output, quality eval, approval boundary, and logs. | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt), [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt), [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md), and [AI Ops live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md). |
 | CRM/ERP/API integration role | Define source/target contracts, map fields, validate input, add retries/idempotency, dry-run boundary, and rollout notes. | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) and [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html). |
-| DevOps/recovery role | Add or harden Docker/CI, health checks, logs, smoke checks, backup/recovery notes, and operator runbook. | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html). |
+| Docker/CI recovery role | Add or harden Docker/CI, health checks, logs, smoke checks, backup/recovery notes, and operator runbook. | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html). |
 
 ## Strong Match
 
-- Remote backend/platform role with Python, FastAPI, PostgreSQL, Docker, CI, integrations, or internal tools.
+- Remote backend automation and integration role with Python, FastAPI, PostgreSQL, Docker, CI, integrations, or internal tools.
 - AI automation role where RAG, transcripts, approvals, CRM/ERP/API handoff, and quality checks must be inspectable.
 - Fixed-scope workflow project where one messy business process needs a working slice with tests, logs, docs, and handoff.
 

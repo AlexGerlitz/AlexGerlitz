@@ -3,7 +3,7 @@
 Public HTML route: [case-studies.html](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html).
 
 This page is the narrative layer behind the proof links. It shows how I think about messy business
-problems, AI-native delivery, backend/platform design, integrations, DevOps, and operational
+problems, AI-native delivery, backend automation design, integrations, Docker/CI handoff, and operational
 handoff.
 
 ## Case 1: DriveDesk / Autoschool54 Operations Platform Direction
@@ -20,7 +20,7 @@ documents, integrations, notifications, AI assistance, deployment, observability
 
 ### Build
 
-The public proof is DriveDesk Core: a backend/platform foundation that keeps the architecture
+The public proof is DriveDesk Core: a backend automation and integration foundation that keeps the architecture
 inspectable instead of relying on vague universal-integration claims.
 
 The first-job-readable slice is the Autoschool intake/admin workflow: a Telegram request becomes a

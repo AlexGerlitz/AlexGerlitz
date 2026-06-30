@@ -110,7 +110,7 @@ Python Backend Automation Engineer | Internal Tools, API/CRM Integrations, QA Au
 About direction copy:
 
 ```text
-I build backend-owned AI workflow and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, Docker/CI, runbooks, and recovery paths.
+I build Python/backend automation, internal tools, AI workflow, and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, QA/API verification, Docker/CI handoff, runbooks, and recovery paths.
 
 Fastest proof to review: Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof - Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
 
@@ -120,6 +120,19 @@ Flagship direction: DriveDesk AI Operator - a backend-owned AI sales/support wor
 Featured order: keep LinkedIn Proof Signal first, keep Delivery Capability, Application Fit Pack, First Backend Role Screen, and Autoschool Intake/Admin Proof immediately visible, then route DriveDesk AI Operator, Fixed-Scope AI Automation Offers, and DriveDesk Core as the deeper proof stack.
 
 Public evidence boundary: Use synthetic screenshots or diagrams only; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
+
+## Manual Live Profile Activation
+
+I use this as the exact copy layer for live GitHub, LinkedIn, Open-to-Work, and first replies.
+
+| Surface | Copy |
+| --- | --- |
+| GitHub bio | Python Backend Automation Engineer building DriveDesk: internal tools, API/CRM integrations, QA Automation Python, RAG/LLM workflows, FastAPI, Docker. |
+| LinkedIn headline | Python Backend Automation Engineer \| Internal Tools, API/CRM Integrations, QA Automation Python \| DriveDesk / Autoschool54 |
+| LinkedIn About opening | I build Python/backend automation, internal tools, AI workflow, and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, QA/API verification, Docker/CI handoff, runbooks, and recovery paths. |
+| Open-to-Work titles | Junior Backend Developer, Junior Python Developer, Python Developer, Python Automation Engineer, QA Automation Python, Integration Engineer, Support Engineer with Python. |
+| First outreach or application message | Hi, I am interested in this remote Python/backend automation role. I can send a proof route first: Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff. |
+| Live update order | GitHub bio -> LinkedIn headline -> LinkedIn About opening -> Open-to-Work titles -> Featured order. |
 
 ## Search Intent To Proof Stack
 
