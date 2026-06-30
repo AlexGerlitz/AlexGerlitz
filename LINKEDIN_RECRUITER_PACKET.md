@@ -6,7 +6,7 @@ I use this packet when a LinkedIn search, profile view, or first message needs a
 
 ## 30-Second Fit
 
-- Target LinkedIn Open-to-Work titles: Junior Backend Developer, Junior Python Developer, Python Developer, Python Automation Engineer, QA Automation Python, Integration Engineer, Support Engineer with Python.
+- Target LinkedIn Open-to-Work titles: Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer.
 - Search expansion titles: Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, AI Automation Engineer, Internal Tools Engineer, LLM Workflow / RAG Engineer.
 - Strong match: first-job remote Python/backend automation, internal tools, API/CRM integrations, QA automation Python bridge, backend-owned AI workflow, or reliability work around Docker/CI/runbooks.
 - Fastest message route: [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - send one remote role or one workflow, success condition, systems, ownership boundary, and timeline.

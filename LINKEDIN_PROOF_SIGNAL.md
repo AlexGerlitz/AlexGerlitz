@@ -6,24 +6,26 @@ I use this as the short public update route for a LinkedIn profile view, a recru
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability proof route.
 - The public Featured route now starts with LinkedIn Proof Signal, then Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core.
-- The live Skills surface is verified instead of assumed: All view starts with Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, and CRM; Tools & Technologies surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.
-- The next LinkedIn-side edit target is to keep Python first while making FastAPI, GitHub Actions, and RAG more visible without weakening the existing Python/PostgreSQL/Docker/CRM/System Integration proof routes.
+- The live Skills surface is verified instead of assumed: All view starts with Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, and ERP; CRM remains proof-backed through About, Services, and public routes. Tools & Technologies surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.
+- LinkedIn did not expose a clean reorder control; the current safe state is CI/CD first, Python immediately after it, and every visible top skill tied to public proof instead of loose keywords.
 - The public GitHub route connects search-fit signal, proof, contact context, and resume handoff.
 
 ## Verified LinkedIn Skill Surface
 
-Read-only checked on 2026-06-30. The live All skills view currently surfaces:
+Live checked on 2026-07-01. The live All skills view currently surfaces:
 
-1. Python (Programming Language)
-2. REST APIs
-3. OpenAPI Specification (OAS)
-4. GitHub
-5. DevOps
-6. Platform Architecture
-7. Systems Integration
-8. Vector Databases
-9. Enterprise Resource Planning (ERP)
-10. Customer Relationship Management (CRM)
+1. Continuous Integration and Continuous Delivery (CI/CD)
+2. Python (Programming Language)
+3. REST APIs
+4. OpenAPI Specification (OAS)
+5. GitHub
+6. DevOps
+7. Platform Architecture
+8. Systems Integration
+9. Vector Databases
+10. Enterprise Resource Planning (ERP)
+
+Customer Relationship Management (CRM) remains proof-backed through About, Services, recruiter routes, and the public DriveDesk/Autoschool proof stack even when it is not in the first loaded All-skills slice.
 
 The live Tools & Technologies filter currently surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, Software as a Service (SaaS), Docker, FastAPI, and PostgreSQL.
 
@@ -47,7 +49,7 @@ I use this copy to keep the profile headline, About opening, Featured order, and
 Headline copy:
 
 ```text
-Python Backend Automation Engineer | Internal Tools, API/CRM Integrations, QA Automation Python | DriveDesk / Autoschool54
+Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG/LLM Workflows, FastAPI, Docker
 ```
 
 About opening copy:
@@ -79,7 +81,7 @@ Python Backend Automation Engineer building DriveDesk: internal tools, API/CRM i
 LinkedIn headline:
 
 ```text
-Python Backend Automation Engineer | Internal Tools, API/CRM Integrations, QA Automation Python | DriveDesk / Autoschool54
+Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG/LLM Workflows, FastAPI, Docker
 ```
 
 LinkedIn About opening:
@@ -91,7 +93,7 @@ I build Python/backend automation, internal tools, AI workflow, and operations s
 Open-to-Work titles:
 
 ```text
-Junior Backend Developer, Junior Python Developer, Python Developer, Python Automation Engineer, QA Automation Python, Integration Engineer, Support Engineer with Python
+Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer
 ```
 
 First outreach or application message:
@@ -111,7 +113,7 @@ What to inspect first:
 - Delivery Capability: my current role-market fit, first useful workflow slice, AI-assisted delivery boundary, Docker/CI boundary, and first-job application lane.
 - Application Fit Pack: parser-readable lanes for Python backend/internal tools, Integration/API/CRM, QA Automation Python, and AI workflow automation.
 - First Backend Role Screen: bounded Python/backend tasks I can take under review, with tests or smoke checks, docs, and handoff.
-- LinkedIn profile signal: the first Featured card is LinkedIn Proof Signal, and the live Skills surface maps Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, CRM, FastAPI, Docker, and PostgreSQL to public proof.
+- LinkedIn profile signal: the first Featured card is LinkedIn Proof Signal, and the live Skills surface maps CI/CD, Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, FastAPI, Docker, and PostgreSQL to public proof while CRM/API integration remains proof-backed through About, Services, and public routes.
 - Autoschool Intake/Admin Proof: first-job backend proof for Telegram intake -> backend validation -> database record -> admin queue -> operator status workflow, including a synthetic demo seed at data/autoschool-intake-admin-demo.json.
 - DriveDesk AI Operator proof route: backend-owned RAG/transcript/approval/CRM handoff with audit, retries, adapter boundaries, CI, and runbooks.
 - AI Backend Proof Pack: compact technical screen across FastAPI/PostgreSQL, integrations, Docker/CI, verification, and handoff.
@@ -130,7 +132,7 @@ Selected next post: Post B - role-fit/search signal. It carries the clearest rec
 ```text
 I refreshed my LinkedIn and public proof route for remote Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability work.
 
-The first Featured card now points to LinkedIn Proof Signal. The live Skills surface already maps Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, CRM, FastAPI, Docker, and PostgreSQL to proof instead of leaving them as a keyword list.
+The first Featured card now points to LinkedIn Proof Signal. The live Skills surface already maps CI/CD, Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, FastAPI, Docker, and PostgreSQL to proof instead of leaving them as a keyword list; CRM/API integration remains proof-backed through About, Services, and public routes.
 
 Best first proof:
 - Delivery Capability

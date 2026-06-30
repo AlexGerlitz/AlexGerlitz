@@ -3,7 +3,7 @@
 Fast technical verification path for the public profile. This page is for reviewers who want to
 check claims directly instead of relying on summaries.
 
-Last checked: 2026-06-30.
+Last checked: 2026-07-01.
 
 ## 15-Minute Review Path
 
@@ -20,17 +20,17 @@ Last checked: 2026-06-30.
 
 ## Live LinkedIn Alignment
 
-Read-only checked on 2026-06-30.
+Live checked on 2026-07-01.
 
 | LinkedIn surface | Current public signal |
 | --- | --- |
-| Headline | Python Backend Automation Engineer with internal tools, API/CRM integrations, QA Automation Python, RAG/LLM workflows, FastAPI, Docker, and DriveDesk AI Operator. |
-| Open-to-Work | Junior Backend Developer, Junior Python Developer, Python Developer, Python Automation Engineer, QA Automation Python, Integration Engineer, and Support Engineer with Python. |
+| Headline | Python Backend Automation Engineer with DriveDesk, internal tools, API/CRM integrations, QA Automation Python, RAG/LLM workflows, FastAPI, and Docker. |
+| Open-to-Work | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, and Integration Engineer. |
 | About | Starts with backend-owned AI workflow and operations systems for real businesses; the public proof route frames the execution signal as an AI-native delivery loop. |
 | Experience | Profile shows AutoSchool54 / Автошкола 54 remote infrastructure support since March 2024. |
 | Featured route | LinkedIn Proof Signal first, then DriveDesk AI Operator - Proof Route, Fixed-Scope AI Automation Offers, and DriveDesk Core; extended proof stack is routed through GitHub/Pages. |
 | Services | Available remote Services route for concrete backend-owned AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow requests. |
-| Skills surface | All view: Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, CRM. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. |
+| Skills surface | All view: Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. |
 
 ## LinkedIn Activation Status
 
@@ -111,11 +111,11 @@ Checked on 2026-06-30:
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
 - Profile proof freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
-- Latest recorded recruiter-funnel content snapshot is green on `0b3136a` after syncing LinkedIn Proof Signal and Recruiter Preferences to the Python-first live LinkedIn Skills surface.
-- Profile Funnel Audit succeeded on `0b3136a`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28416053131
-- Profile Pages deployment succeeded on `0b3136a`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28416052581
-- Live Profile Smoke succeeded on `0b3136a`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28416053122
-- Live Pages status is `built`, and direct live snippet checks confirmed LinkedIn Proof Signal, Recruiter Preferences, sitemap lastmod, Python-first LinkedIn skills copy, raw `LINKEDIN_PROOF_SIGNAL.md`, and raw `RECRUITER_PREFERENCES.md`.
+- Latest recorded recruiter-funnel content snapshot is green on `4544050` before the July 1 LinkedIn live sync; the current commit refreshes LinkedIn Proof Signal, Recruiter Preferences, and this Verification Pack to the live headline, Open-to-Work titles, and CI/CD-first Skills surface.
+- Profile Funnel Audit succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466631304
+- Profile Pages deployment succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466630461
+- Live Profile Smoke succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466631393
+- Live Pages status is `built`, and direct live snippet checks confirmed LinkedIn Proof Signal, Recruiter Preferences, sitemap lastmod, live LinkedIn skills copy, raw `LINKEDIN_PROOF_SIGNAL.md`, and raw `RECRUITER_PREFERENCES.md`.
 - GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment

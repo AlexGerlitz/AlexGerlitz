@@ -55,7 +55,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 ## Search-Fit Role Targets
 
-- Headline: Python Backend Automation Engineer | Internal Tools, API/CRM Integrations, QA Automation Python | DriveDesk AI Operator.
+- Headline: Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG/LLM Workflows, FastAPI, Docker.
 - Best-fit titles: Junior Backend Developer, Junior Python Developer, Back End Developer, Python Developer, Python Automation Engineer, Backend Automation Engineer, Internal Tools Developer, Integration Engineer, API Integration Engineer, CRM Integration Engineer, Systems Integration Engineer, QA Automation Python, Test Automation Engineer, Support Engineer with Python, AI Automation Engineer, LLM Workflow / RAG Engineer.
 - LinkedIn recruiter search alignment: remote-only full-time roles where Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM/ERP/API integration, Systems Integration, QA Automation Python, OpenAPI, n8n, Telegram, or pgvector appear in the role.
 - Work mode: remote-only full-time roles or concrete fixed-scope projects with Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, or reliability handoff.
