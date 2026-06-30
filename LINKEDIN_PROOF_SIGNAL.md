@@ -36,6 +36,31 @@ The live Tools & Technologies filter currently surfaces Python, REST APIs, GitHu
 5. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 6. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
 
+## Pending Live Profile Patch
+
+Status: prepared for the next live LinkedIn edit; not saved to live LinkedIn until explicit owner command.
+
+Target headline:
+
+```text
+AI Automation / Backend / Python Engineer | FastAPI, PostgreSQL, RAG, Telegram/Admin Workflows, CRM/ERP Integrations | DriveDesk / Autoschool54
+```
+
+Target About opening:
+
+```text
+I build backend-owned AI workflow and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, Docker/CI, runbooks, and recovery paths.
+
+Fastest proof to review: Autoschool Intake/Admin Proof - Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
+```
+
+Live edit checklist:
+
+- Keep LinkedIn Proof Signal as the first Featured route.
+- Keep Autoschool Intake/Admin Proof directly visible for first-job backend proof.
+- Keep DriveDesk AI Operator as the flagship AI/backend platform route.
+- Use only synthetic screenshots or diagrams; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
+
 ## Copy-Ready LinkedIn Update
 
 ```text

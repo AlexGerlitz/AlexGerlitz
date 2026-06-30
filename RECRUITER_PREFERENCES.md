@@ -94,6 +94,30 @@ This page mirrors the visible LinkedIn setup recruiters should expect before sen
 | Resume / handoff | Decision-Ready Contact and Start Conversation routes before PDF Resume for internal sharing. |
 | Services | Live LinkedIn Services overview and media route requests toward backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow proof instead of generic web/app work. |
 
+## Pending LinkedIn Live Patch
+
+Status: prepared for the next live LinkedIn edit; not saved to live LinkedIn until explicit owner command.
+
+Target headline:
+
+```text
+AI Automation / Backend / Python Engineer | FastAPI, PostgreSQL, RAG, Telegram/Admin Workflows, CRM/ERP Integrations | DriveDesk / Autoschool54
+```
+
+Target About direction:
+
+```text
+I build backend-owned AI workflow and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, Docker/CI, runbooks, and recovery paths.
+
+Fastest proof to review: Autoschool Intake/Admin Proof - Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
+
+Flagship direction: DriveDesk AI Operator - a backend-owned AI sales/support workflow layer for document, call, transcript, and lead intake; RAG; structured analysis; Telegram approval; CRM-safe handoff; audit/outbox; retries; and operational runbooks.
+```
+
+Featured target: keep LinkedIn Proof Signal first, keep Autoschool Intake/Admin Proof immediately visible, then route DriveDesk AI Operator, Fixed-Scope AI Automation Offers, and DriveDesk Core as the deeper proof stack.
+
+Public evidence boundary: Use synthetic screenshots or diagrams only; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
+
 ## Search Intent To Proof Stack
 
 | Recruiter/search intent | Open this proof first |
