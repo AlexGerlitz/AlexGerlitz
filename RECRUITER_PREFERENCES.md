@@ -63,12 +63,12 @@ Integration, Systems Integration, DevOps, n8n, Telegram, runbooks, audit logs, i
 retries, and operational handoff.
 
 Verified LinkedIn skill-filter state as of 2026-06-30: the visible All skills view surfaces
-Telegram, REST APIs, OpenAPI Specification (OAS), GitHub, Python, Vector Databases, ERP, CRM,
-Systems Integration, and DevOps; the Tools & Technologies filter surfaces Python, REST APIs,
-GitHub, Telegram, pytest, OpenAPI, Software as a Service (SaaS), Docker, FastAPI, and PostgreSQL.
-The next LinkedIn-side improvement target is to strengthen the general All view with Python,
-FastAPI, GitHub Actions, and RAG without weakening the existing Python/PostgreSQL/Docker/CRM/System
-Integration proof routes.
+Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture,
+Systems Integration, Vector Databases, ERP, and CRM; the Tools & Technologies filter surfaces
+Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, Software as a Service (SaaS), Docker,
+FastAPI, and PostgreSQL. The next LinkedIn-side improvement target is to keep Python first while
+making FastAPI, GitHub Actions, and RAG more visible without weakening the existing
+Python/PostgreSQL/Docker/CRM/System Integration proof routes.
 
 ## Current Search-Surface Audit
 
