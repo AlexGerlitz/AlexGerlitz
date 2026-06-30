@@ -8,8 +8,9 @@ conversation.
 
 | Role target | Why it fits | Evidence to review first |
 | --- | --- | --- |
+| Junior Backend Developer / Junior Python Developer | I can take bounded backend tickets inside review: endpoints, models, validation, admin workflow steps, integration mappings, tests, docs, and handoff notes. | [First Backend Role Screen](./FIRST_BACKEND_ROLE.md), [Backend First Screen](./BACKEND_FIRST_SCREEN.md), [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md), [First 30 Days Delivery Plan](./FIRST_30_DAYS.md) |
 | Backend Engineer | I can build FastAPI/PostgreSQL systems with records, roles, audit, workflow state, OpenAPI, tests, Docker, and docs. | [Backend First Screen](./BACKEND_FIRST_SCREEN.md), [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Skill Evidence](./SKILL_EVIDENCE.md) |
-| Back End Developer / Python Developer | I can ship practical Python backend work around APIs, data models, validation, admin workflows, tests, Docker/CI, and handoff docs. | [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md), [Resume](./RESUME.md), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [First 30 Days Delivery Plan](./FIRST_30_DAYS.md) |
+| Back End Developer / Python Developer | I can ship practical Python backend work around APIs, data models, validation, admin workflows, tests, Docker/CI, and handoff docs. | [First Backend Role Screen](./FIRST_BACKEND_ROLE.md), [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md), [Resume](./RESUME.md), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [First 30 Days Delivery Plan](./FIRST_30_DAYS.md) |
 | Platform Engineer | I think in operational boundaries: tenants, adapters, workers, contracts, SDK/OpenAPI surfaces, CI, and public proof paths. | [DriveDesk Core fast review route](https://github.com/AlexGerlitz/drivedesk-core), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
 | AI Automation Engineer | I can turn documents, transcripts, tickets, leads, or operator routines into RAG, summaries, scoring, routing, approvals, and reviewable workflows. | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md), [Remote Services](./SERVICES.md) |
 | Artificial Intelligence Engineer | Best fit when the AI work is workflow/backend/integration oriented: RAG, structured LLM output, approvals, CRM handoff, tests, logs, and reviewable production boundaries. | [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md), [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
@@ -24,6 +25,8 @@ conversation.
 These are the terms that best match the current public proof:
 
 - AI Automation / Backend / Platform Engineer
+- Junior Backend Developer
+- Junior Python Developer
 - Remote Backend Engineer
 - Remote Python Developer
 - Back End Developer
@@ -89,12 +92,12 @@ This is the public search-fit summary for recruiters and hiring managers to reco
 | Job title filters | Back End Developer, Python Developer, AI Automation Engineer, Artificial Intelligence Engineer, Platform Engineer, DevOps Engineer, Integration Engineer. |
 | Work mode | Remote-only full-time roles, plus concrete fixed-scope projects when the outcome is a working backend/AI/integration slice. |
 | Skill filters | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM, ERP, Systems Integration, API Integration, n8n, Telegram, DevOps, OpenAPI, pgvector. |
-| Proof route | [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf). |
+| Proof route | [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf). |
 | First message trigger | Send one remote role or one business workflow that needs backend-owned AI automation, CRM/ERP/API integration, internal tools, DevOps reliability, or a verified first working slice. |
 
 | Search cluster | Exact fit signal | First proof |
 | --- | --- | --- |
-| Backend / platform | Python, FastAPI, PostgreSQL, OpenAPI, Docker, CI, roles, records, audit/outbox, workflow state. | [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
+| Backend / platform | Python, FastAPI, PostgreSQL, OpenAPI, Docker, CI, roles, records, audit/outbox, workflow state. | [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
 | AI automation / LLM workflows | RAG, transcript/call analysis, structured JSON output, lead scoring, approvals, Telegram callback, provider boundaries. | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
 | CRM / ERP / systems integration | CRM/ERP/API/1C/accounting/banking adapter contracts, field mapping, validation, retries, idempotency, rollout notes. | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md) |
 | Internal tools / admin workflows | Telegram/chat intake, validation, database record, admin queue, operator status workflow, docs, and privacy-safe handoff. | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
@@ -147,13 +150,14 @@ I will turn that into assumptions, risks, a small working slice, and a verificat
 Fastest review order:
 
 1. [Resume](./RESUME.md)
-2. [Backend First Screen](./BACKEND_FIRST_SCREEN.md)
-3. [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md)
-4. [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
-5. [Role Fit](./ROLE_FIT.md)
-6. [Role / Project Brief](./ROLE_PROJECT_BRIEF.md)
-7. [First 30 Days Delivery Plan](./FIRST_30_DAYS.md)
-8. [Proof of Work](./PROOF_OF_WORK.md)
-9. [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
-10. [Skill Evidence Matrix](./SKILL_EVIDENCE.md)
-11. [Remote AI Automation Services](./SERVICES.md)
+2. [First Backend Role Screen](./FIRST_BACKEND_ROLE.md)
+3. [Backend First Screen](./BACKEND_FIRST_SCREEN.md)
+4. [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md)
+5. [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
+6. [Role Fit](./ROLE_FIT.md)
+7. [Role / Project Brief](./ROLE_PROJECT_BRIEF.md)
+8. [First 30 Days Delivery Plan](./FIRST_30_DAYS.md)
+9. [Proof of Work](./PROOF_OF_WORK.md)
+10. [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
+11. [Skill Evidence Matrix](./SKILL_EVIDENCE.md)
+12. [Remote AI Automation Services](./SERVICES.md)

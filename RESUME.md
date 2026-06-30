@@ -40,7 +40,7 @@ state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
 ## Target Work
 
 - Remote-only backend / platform / DevOps / AI automation roles.
-- Back End Developer / Python Developer roles where business workflows, APIs, data models, tests,
+- Junior Backend Developer / Junior Python Developer / Back End Developer roles where business workflows, APIs, data models, tests,
   Docker/CI, and operational handoff matter.
 - AI sales/support workflow roles around document/transcript/lead intake, RAG, call-audio transcription, transcript analysis, lead scoring, approvals, and CRM
   actions.

@@ -32,9 +32,11 @@ The live Tools & Technologies filter currently surfaces Python, REST APIs, GitHu
 1. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
 2. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
 3. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
-4. [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
-5. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-6. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
+4. [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
+5. [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
+6. [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
+7. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+8. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
 
 ## Pending Live Profile Patch
 
@@ -51,7 +53,7 @@ Target About opening:
 ```text
 I build backend-owned AI workflow and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, Docker/CI, runbooks, and recovery paths.
 
-Fastest proof to review: Autoschool Intake/Admin Proof - Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
+Fastest proof to review: First Backend Role Screen -> Backend First Screen -> Autoschool Intake/Admin Proof - Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
 ```
 
 Live edit checklist:
@@ -67,6 +69,7 @@ Live edit checklist:
 I refreshed my public proof route for remote backend/platform, AI workflow, integration, and DevOps work.
 
 What to inspect first:
+- First Backend Role Screen: bounded Python/backend tasks I can take under review, with tests or smoke checks, docs, and handoff.
 - LinkedIn profile signal: the first Featured card is LinkedIn Proof Signal, and the live Skills surface maps Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, CRM, FastAPI, Docker, and PostgreSQL to public proof.
 - Autoschool Intake/Admin Proof: first-job backend proof for Telegram intake -> backend validation -> database record -> admin queue -> operator status workflow, including a synthetic demo seed at data/autoschool-intake-admin-demo.json.
 - DriveDesk AI Operator proof route: backend-owned RAG/transcript/approval/CRM handoff with audit, retries, adapter boundaries, CI, and runbooks.
@@ -110,7 +113,7 @@ That is what my public proof route is organized around:
 - CRM/ERP/API integration proof
 - DevOps and operational handoff proof
 
-Best-fit titles: Back End Developer, Python Developer, AI Automation Engineer, Platform Engineer, DevOps Engineer, Integration Engineer, and LLM Workflow / RAG Engineer.
+Best-fit titles: Junior Backend Developer, Junior Python Developer, Back End Developer, Python Developer, AI Automation Engineer, Platform Engineer, DevOps Engineer, Integration Engineer, and LLM Workflow / RAG Engineer.
 
 Skill filters that should find me: FastAPI, GitHub Actions, RAG, Python, PostgreSQL, Docker, CRM/ERP/API integration, OpenAPI, Systems Integration, and DevOps.
 
@@ -137,7 +140,7 @@ Best fit: backend-owned AI workflows, CRM/ERP/API adapters, internal operations 
 
 ```text
 Proof route:
-Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route -> AI Backend Proof Pack.
+Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> First Backend Role Screen -> Backend First Screen -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route -> AI Backend Proof Pack.
 
 Start here: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
 ```
