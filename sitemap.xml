@@ -55,6 +55,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://alexgerlitz.github.io/AlexGerlitz/APPLICATION_FIT_PACK.md</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://alexgerlitz.github.io/AlexGerlitz/llms.txt</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
