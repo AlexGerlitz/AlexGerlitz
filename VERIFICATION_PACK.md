@@ -30,7 +30,7 @@ Read-only checked on 2026-06-30.
 | Experience | Profile shows AutoSchool54 / Автошкола 54 remote infrastructure support since March 2024. |
 | Featured route | LinkedIn Proof Signal first, then DriveDesk AI Operator - Proof Route, Fixed-Scope AI Automation Offers, and DriveDesk Core; extended proof stack is routed through GitHub/Pages. |
 | Services | Available remote Services route for concrete backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow requests. |
-| Skills surface | All view: Telegram, REST APIs, OpenAPI Specification (OAS), GitHub, Python, Vector Databases, ERP, CRM, Systems Integration, DevOps. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. |
+| Skills surface | All view: Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, CRM. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. |
 
 ## LinkedIn Activation Status
 
