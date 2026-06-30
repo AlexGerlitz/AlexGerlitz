@@ -5,7 +5,7 @@ Use this as the short public update route for a LinkedIn profile view, a recruit
 ## What Changed
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same backend/platform, AI workflow, integration, and DevOps proof route.
-- The live Featured route now starts with LinkedIn Proof Signal, then DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core.
+- The live Featured route now starts with LinkedIn Proof Signal, then Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core.
 - The live Skills surface is verified instead of assumed: All view starts with Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, and CRM; Tools & Technologies surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.
 - The next LinkedIn-side edit target is to keep Python first while making FastAPI, GitHub Actions, and RAG more visible without weakening the existing Python/PostgreSQL/Docker/CRM/System Integration proof routes.
 - The public GitHub route connects search-fit signal, proof, contact context, and resume handoff.
@@ -32,8 +32,9 @@ The live Tools & Technologies filter currently surfaces Python, REST APIs, GitHu
 1. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
 2. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
 3. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
-4. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-5. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
+4. [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
+5. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+6. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
 
 ## Copy-Ready LinkedIn Update
 
@@ -42,6 +43,7 @@ I refreshed my public proof route for remote backend/platform, AI workflow, inte
 
 What to inspect first:
 - LinkedIn profile signal: the first Featured card is LinkedIn Proof Signal, and the live Skills surface maps Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, CRM, FastAPI, Docker, and PostgreSQL to public proof.
+- Autoschool Intake/Admin Proof: first-job backend proof for Telegram intake -> backend validation -> database record -> admin queue -> operator status workflow, using synthetic-only public evidence.
 - DriveDesk AI Operator proof route: backend-owned RAG/transcript/approval/CRM handoff with audit, retries, adapter boundaries, CI, and runbooks.
 - AI Backend Proof Pack: compact technical screen across FastAPI/PostgreSQL, integrations, Docker/CI, verification, and handoff.
 - Decision-Ready Contact: the shortest route for a role, workflow, or proof review.
@@ -62,6 +64,7 @@ I refreshed my LinkedIn and public proof route for remote backend/platform, AI w
 The first Featured card now points to LinkedIn Proof Signal. The live Skills surface already maps Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, CRM, FastAPI, Docker, and PostgreSQL to proof instead of leaving them as a keyword list.
 
 Best first proof:
+- Autoschool Intake/Admin Proof
 - DriveDesk AI Operator proof route
 - AI Backend Proof Pack
 - Decision-Ready Contact
@@ -78,7 +81,7 @@ The better check is: can you turn an incomplete business workflow into backend-o
 
 That is what my public proof route is organized around:
 - AI workflow / RAG / transcript / approval proof
-- Python backend and platform proof
+- Python backend and platform proof, including Autoschool intake/admin
 - CRM/ERP/API integration proof
 - DevOps and operational handoff proof
 
@@ -109,7 +112,7 @@ Best fit: backend-owned AI workflows, CRM/ERP/API adapters, internal operations 
 
 ```text
 Proof route:
-Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack.
+Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route -> AI Backend Proof Pack.
 
 Start here: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
 ```
