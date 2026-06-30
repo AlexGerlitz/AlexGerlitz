@@ -4,6 +4,9 @@
 
 Remote-only AI automation, backend/platform, and DevOps engineer focused on DriveDesk AI Operator:
 a backend-owned AI sales/support workflow system for real business operations.
+The fastest first-job backend/internal-tools proof is Autoschool Intake/Admin: Telegram request
+intake -> backend validation -> database record -> admin queue -> operator status workflow, shown
+with synthetic public evidence only.
 
 I turn messy operational problems into working systems: FastAPI/PostgreSQL backends, RAG/transcript
 workflows, call-audio transcription, transcript/call analysis, approval flows, internal admin panels, integration adapters,
@@ -53,8 +56,8 @@ state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
 | Search intent | Open first |
 | --- | --- |
 | AI Automation / RAG | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
-| Backend / Python / Platform | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
-| CRM / ERP / API Integration | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
+| Backend / Python / Platform | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| CRM / ERP / API Integration / Internal Tools | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
 | DevOps / Reliability | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
 
 ## Current Experience
@@ -80,6 +83,7 @@ Scope:
 
 Public proof built from the same operational base:
 
+- [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md)
 - [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core)
 - [Engineering case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
@@ -89,6 +93,7 @@ Public proof built from the same operational base:
 
 | Project | What it proves | Stack / surface |
 | --- | --- | --- |
+| [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md) | First-job backend/internal-tools proof: Telegram request intake, backend validation, database record, admin queue handoff, operator status workflow, and privacy boundary using synthetic public evidence only. | Telegram bot boundary, backend validation, database records, admin workflow, operator status states, privacy review |
 | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md) | Main flagship proof: ingest documents, call audio, transcripts, or CRM leads; run RAG; produce call-analysis JSON; send Telegram approval; and create CRM action through an auditable adapter. | FastAPI, PostgreSQL/pgvector, document APIs, RAG, n8n, Telegram, CRM/Bitrix adapter, Docker, CI |
 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | Backend/platform foundation for operations and integrations: tenants, RBAC, audit/outbox, workers, adapter boundaries, OpenAPI, CI, docs, public demo. | Python, FastAPI, PostgreSQL, Alembic, Docker Compose, pytest, OpenAPI |
 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | Live AI workflow backend proof: document/CRM/call intake, privacy redaction before RAG/approval/CRM handoff, RAG, transcript analysis, Telegram approvals, dry-run Bitrix CRM handoff, idempotent outbox, live PostgreSQL/pgvector persistence, reviewer acceptance report, production-readiness drill, Docker, and importable n8n workflow artifact. | FastAPI, PostgreSQL/pgvector, Docker, document APIs, n8n, Telegram, LLM APIs |
@@ -135,6 +140,7 @@ Applied Informatics, 2025 - Present
 - [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
 - [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
+- [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)

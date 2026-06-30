@@ -26,6 +26,9 @@ privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff.
 
 Current proof foundation:
 
+- [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
+  for first-job backend/internal-tools signal: Telegram request intake, backend validation,
+  database record, admin queue handoff, operator status workflow, and synthetic-only public proof.
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
   for the fastest role, proof, and contact route.
 - [DriveDesk Core](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) for
@@ -47,11 +50,11 @@ Current proof foundation:
 | Work surface | Why it fits | First proof link |
 | --- | --- | --- |
 | AI Automation Engineer | Document/transcript/lead intake, RAG, OpenAI/Claude/Gemini provider boundary, call-audio transcription, transcript/document workflows, scoring, routing, approvals, human review, and CRM actions. | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |
-| Backend / Platform Engineer | Python/FastAPI/PostgreSQL services, workflow state, OpenAPI, tests, Docker, audit/outbox, and adapter boundaries. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| Backend / Platform Engineer | Python/FastAPI/PostgreSQL services, workflow state, validation, OpenAPI, tests, Docker, audit/outbox, admin handoff, and adapter boundaries. | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
 | LLM Workflow / RAG Engineer | Retrieval, citations, structured JSON analysis, approval history, quality checks, and testable API behavior. | [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
-| CRM / Integration Engineer | Explicit source/target contracts, mapping, validation, retries, idempotency, logs, rollout notes, and recovery path. | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |
+| CRM / Integration Engineer | Explicit source/target contracts, mapping, validation, retries, idempotency, logs, rollout notes, and recovery path. | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |
 | DevOps / Self-Hosting Engineer | Docker Compose, GitHub Actions, release gates, health checks, logs, backups, smoke checks, and runbooks. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
-| Internal Tools Engineer | Admin/operator workflows, records, roles, audit trails, docs, deployment, and support path. | [Proof of Work](./PROOF_OF_WORK.md) |
+| Internal Tools Engineer | Admin/operator workflows, records, roles, status states, audit trails, docs, deployment, and support path. | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Proof of Work](./PROOF_OF_WORK.md) |
 
 ## Remote Work Preference
 
@@ -80,6 +83,7 @@ and shipped quality stay engineering-owned.
 - Decision-Ready Contact: https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html
 - LinkedIn Services: https://www.linkedin.com/services/page/3153b734507b8a60ab/
 - Portfolio: https://alexgerlitz.github.io/AlexGerlitz/
+- Autoschool Intake/Admin Proof: https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html
 - DriveDesk AI Operator proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - DriveDesk AI Operator: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html
 - AI Ops public proof status: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
