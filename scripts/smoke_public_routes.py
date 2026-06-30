@@ -135,7 +135,8 @@ ROUTES: tuple[RouteCheck, ...] = (
         "https://github.com/AlexGerlitz",
         (
             "AlexGerlitz - Overview",
-            "I build DriveDesk and public proof routes around Python/backend automation",
+            "I build",
+            "public proof routes around Python/backend automation",
             "internal tools, API/CRM integrations, AI workflows, QA Automation Python, and reliability handoff",
             "RAG/LLM workflows, tests, smoke checks, Docker/Compose boundaries, CI",
             "Recruiter shortcut / 30-second screen",
