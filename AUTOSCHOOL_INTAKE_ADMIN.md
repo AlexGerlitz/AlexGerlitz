@@ -66,11 +66,15 @@ Start with the public routes:
 - [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) for the Autoschool54 operational context.
 - [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) for CI, smoke, demo, and proof freshness.
 
-## Next Public Artifact
+## Synthetic Demo Seed
 
-The next strongest public artifact is a sanitized demo seed:
+The strongest public artifact for this slice is now a sanitized demo seed:
 
 `Telegram-style request -> API payload -> PostgreSQL record -> admin queue row -> operator status update`
 
-All values should be synthetic and boring. No real names, no funny live-admin names, no phone numbers,
-no chat IDs, and no screenshots from the private production admin.
+Open it here: [data/autoschool-intake-admin-demo.json](./data/autoschool-intake-admin-demo.json).
+
+It shows one synthetic request moving through `telegram_style_request`, `api_payload`,
+`postgresql_record`, `admin_queue_row`, and `operator_status_update`. All values are synthetic
+and boring. No real names, no funny live-admin names, no phone numbers, no chat IDs, and no
+screenshots from the private production admin.

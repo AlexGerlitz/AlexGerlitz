@@ -1,0 +1,83 @@
+{
+  "schema_version": "autoschool_intake_admin_demo.v1",
+  "artifact": "Autoschool Intake/Admin Synthetic Demo Seed",
+  "classification": "synthetic_public_demo",
+  "privacy_contract": {
+    "contains_real_learner_data": false,
+    "contains_live_admin_capture": false,
+    "contains_private_routes": false,
+    "source": "handwritten public-safe fixture for reviewer inspection"
+  },
+  "timeline": [
+    {
+      "step": "telegram_style_request",
+      "public_demo_id": "req_demo_2026_06_30_001",
+      "received_at": "2026-06-30T09:15:00+07:00",
+      "request_summary": "Demo learner asks for a driving lesson callback.",
+      "payload": {
+        "name": "Demo Learner",
+        "contact": "demo@example.invalid",
+        "category": "lesson_request",
+        "preferred_window": "weekday_evening",
+        "source": "telegram_demo"
+      }
+    },
+    {
+      "step": "api_payload",
+      "public_demo_id": "api_demo_2026_06_30_001",
+      "validated_at": "2026-06-30T09:15:04+07:00",
+      "normalization": {
+        "category": "lesson_request",
+        "source": "telegram_demo",
+        "status": "new",
+        "tenant": "autoschool_demo",
+        "validation_result": "accepted"
+      }
+    },
+    {
+      "step": "postgresql_record",
+      "public_demo_id": "intake_demo_001",
+      "table": "intake_requests",
+      "created_at": "2026-06-30T09:15:05+07:00",
+      "record": {
+        "id": "intake_demo_001",
+        "tenant": "autoschool_demo",
+        "source": "telegram_demo",
+        "category": "lesson_request",
+        "status": "new",
+        "review_state": "queued",
+        "contact_ref": "demo_contact_ref"
+      }
+    },
+    {
+      "step": "admin_queue_row",
+      "public_demo_id": "queue_demo_001",
+      "visible_at": "2026-06-30T09:15:06+07:00",
+      "queue": {
+        "row_id": "queue_demo_001",
+        "intake_id": "intake_demo_001",
+        "visible_to_role": "operator",
+        "priority": "normal",
+        "next_action": "review_and_contact"
+      }
+    },
+    {
+      "step": "operator_status_update",
+      "public_demo_id": "status_demo_001",
+      "updated_at": "2026-06-30T09:24:30+07:00",
+      "transition": {
+        "from": "new",
+        "to": "reviewed",
+        "actor_role": "operator",
+        "audit_event": "intake_status_changed"
+      }
+    }
+  ],
+  "reviewer_checks": [
+    "Telegram-style request becomes a normalized API payload.",
+    "API payload becomes a persistent PostgreSQL-style record.",
+    "Record appears as an admin queue row.",
+    "Operator action changes status through an auditable workflow.",
+    "All values are synthetic, boring, and safe for public review."
+  ]
+}

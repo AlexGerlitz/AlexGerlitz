@@ -162,7 +162,20 @@
     <section class="panel section">
       <h2>Review Route</h2>
       <p>Use this route with <a href="https://github.com/AlexGerlitz/drivedesk-core">DriveDesk Core</a>, the <a href="https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/">DriveDesk Core public demo</a>, <a href="./case-studies.html">Engineering Case Studies</a>, and the <a href="./verification-pack.html">Verification Pack</a>.</p>
-      <p>Next public artifact: a sanitized demo seed showing <code>Telegram-style request -> API payload -> PostgreSQL record -> admin queue row -> operator status update</code> with synthetic, boring values only.</p>
+      <p>Synthetic demo seed: <a href="./data/autoschool-intake-admin-demo.json">data/autoschool-intake-admin-demo.json</a> shows <code>Telegram-style request -> API payload -> PostgreSQL record -> admin queue row -> operator status update</code> with synthetic, boring values only.</p>
+    </section>
+
+    <section class="panel section">
+      <h2>Synthetic Demo Seed</h2>
+      <p>This public JSON fixture is the reviewable data trace for the first-job backend slice. It does not contain live learner data, live admin captures, private routes, raw logs, or credentials.</p>
+      <table>
+        <tbody>
+          <tr><th>Fixture</th><td><a href="./data/autoschool-intake-admin-demo.json">data/autoschool-intake-admin-demo.json</a></td></tr>
+          <tr><th>Classification</th><td><code>synthetic_public_demo</code></td></tr>
+          <tr><th>Trace</th><td><code>telegram_style_request</code> -> <code>api_payload</code> -> <code>postgresql_record</code> -> <code>admin_queue_row</code> -> <code>operator_status_update</code></td></tr>
+          <tr><th>Reviewer checks</th><td>Request becomes payload, payload becomes persistent record, record becomes admin queue row, and operator action changes status through an auditable workflow.</td></tr>
+        </tbody>
+      </table>
     </section>
   </main>
 </body>
