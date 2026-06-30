@@ -5,7 +5,7 @@ Use this as the short public update route for a LinkedIn profile view, a recruit
 ## What Changed
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same backend/platform, AI workflow, integration, and DevOps proof route.
-- The live Featured route now starts with LinkedIn Proof Signal, then Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core.
+- The live Featured route now starts with LinkedIn Proof Signal, then First Backend Role Screen, Backend First Screen, Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core.
 - The live Skills surface is verified instead of assumed: All view starts with Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, and CRM; Tools & Technologies surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.
 - The next LinkedIn-side edit target is to keep Python first while making FastAPI, GitHub Actions, and RAG more visible without weakening the existing Python/PostgreSQL/Docker/CRM/System Integration proof routes.
 - The public GitHub route connects search-fit signal, proof, contact context, and resume handoff.
@@ -59,7 +59,7 @@ Fastest proof to review: First Backend Role Screen -> Backend First Screen -> Au
 Live edit checklist:
 
 - Keep LinkedIn Proof Signal as the first Featured route.
-- Keep Autoschool Intake/Admin Proof directly visible for first-job backend proof.
+- Keep First Backend Role Screen and Autoschool Intake/Admin Proof directly visible for first-job backend proof.
 - Keep DriveDesk AI Operator as the flagship AI/backend platform route.
 - Use only synthetic screenshots or diagrams; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
 
@@ -92,6 +92,8 @@ I refreshed my LinkedIn and public proof route for remote backend/platform, AI w
 The first Featured card now points to LinkedIn Proof Signal. The live Skills surface already maps Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, CRM, FastAPI, Docker, and PostgreSQL to proof instead of leaving them as a keyword list.
 
 Best first proof:
+- First Backend Role Screen
+- Backend First Screen
 - Autoschool Intake/Admin Proof
 - DriveDesk AI Operator proof route
 - AI Backend Proof Pack

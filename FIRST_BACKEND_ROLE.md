@@ -27,6 +27,11 @@ Fastest proof route:
 6. [Decision-Ready Contact](./DECISION_READY_CONTACT.md)
 7. [PDF Resume](./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
 
+Best immediate team context:
+
+- Russian-speaking product/backend team where the first result is a small reviewed backend ticket.
+- English-first async team where the review path is issues, pull requests, tests, docs, and handoff notes.
+
 ## Why This Exists
 
 Some proof pages show a broad platform direction. This screen answers the smaller first-role

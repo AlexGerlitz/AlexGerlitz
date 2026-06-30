@@ -11,7 +11,7 @@ Use this as the aligned Open-to-Work and recruiter-search preference set for rem
 | Visible LinkedIn Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer. |
 | Search expansion titles | Junior Backend Developer, Junior Python Developer, AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer, Internal Tools Engineer, Backend Platform Engineer, Systems Integration Engineer. |
 | Location type | Remote. |
-| Remote locations | International remote teams, Europe-compatible remote teams, US-compatible async teams, and distributed product/operations teams. |
+| Remote locations | Russian-speaking product/backend teams, international remote teams, Europe-compatible remote teams, US-compatible async teams, and distributed product/operations teams. |
 | Employment types | Full-time and contract. |
 | Availability | Open to remote full-time roles and concrete fixed-scope projects. |
 | Strongest match | A bounded first backend task or backend-owned AI workflow, CRM/ERP/API integration, internal operations tooling, DevOps reliability, with tests, logs, docs, deployment path, and handoff. |
@@ -26,7 +26,7 @@ Use this as the public filter map for LinkedIn Recruiter-style searches and fast
 | Title | Back End Developer, Python Developer, AI Automation Engineer, Platform Engineer, DevOps Engineer, Integration Engineer, LLM Workflow / RAG Engineer. | [Role Targets](https://alexgerlitz.github.io/AlexGerlitz/role-targets.html) |
 | Skills | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, pgvector, CRM/ERP/API integration, Systems Integration, OpenAPI, DevOps, n8n, Telegram. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
 | Remote / location | Remote-only, international distributed teams, Europe-compatible async review, and written handoff. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
-| Language / review | English-first public docs, async proof routes, CI, smoke checks, runbooks, diagrams, and handoff notes. | [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| Language / review | Russian-speaking product review or English-first public docs, async proof routes, CI, smoke checks, runbooks, diagrams, and handoff notes. | [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | Featured proof | First Backend Role Screen, Backend First Screen, Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, DriveDesk Core, AI Backend Proof Pack, Enterprise Readiness, Decision-Ready Contact, and PDF Resume. | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) |
 | Seniority / specialist signal | Backend-owned state, AI-output review, CRM/ERP/API adapter contracts, privacy boundary, audit, retries, idempotency, DevOps recovery, and runbooks. | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
 
@@ -114,7 +114,7 @@ Fastest proof to review: First Backend Role Screen -> Backend First Screen -> Au
 Flagship direction: DriveDesk AI Operator - a backend-owned AI sales/support workflow layer for document, call, transcript, and lead intake; RAG; structured analysis; Telegram approval; CRM-safe handoff; audit/outbox; retries; and operational runbooks.
 ```
 
-Featured target: keep LinkedIn Proof Signal first, keep Autoschool Intake/Admin Proof immediately visible, then route DriveDesk AI Operator, Fixed-Scope AI Automation Offers, and DriveDesk Core as the deeper proof stack.
+Featured target: keep LinkedIn Proof Signal first, keep First Backend Role Screen and Autoschool Intake/Admin Proof immediately visible, then route DriveDesk AI Operator, Fixed-Scope AI Automation Offers, and DriveDesk Core as the deeper proof stack.
 
 Public evidence boundary: Use synthetic screenshots or diagrams only; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
 
