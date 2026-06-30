@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Autoschool Intake Admin Proof - Alex Gerlitz</title>
+  <meta name="description" content="Public-safe proof of a private driving-school intake/admin workflow: Telegram request, backend validation, database record, admin handoff, status workflow, and privacy boundary.">
+  <link rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Autoschool Intake Admin Proof - Alex Gerlitz">
+  <meta property="og:description" content="Public-safe proof of business intake to admin handoff without exposing private learner data, live admin screenshots, tokens, logs, or internal records.">
+  <meta property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html">
+  <meta property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-29-platform-card">
+  <meta property="og:image:secure_url" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-29-platform-card">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Alex Gerlitz Autoschool intake admin proof preview.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Autoschool Intake Admin Proof - Alex Gerlitz">
+  <meta name="twitter:description" content="Public-safe route for Telegram intake, backend validation, database state, admin handoff, operator status workflow, and privacy boundary.">
+  <meta name="twitter:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/social-card.png?v=2026-06-29-platform-card">
+  <meta name="twitter:image:alt" content="Alex Gerlitz Autoschool intake admin proof preview.">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "@id": "https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html#proof",
+      "url": "https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html",
+      "headline": "Autoschool Intake Admin Proof",
+      "description": "Public-safe proof route for a private driving-school intake/admin workflow: Telegram request, backend validation, database record, admin handoff, operator status workflow, and privacy boundary.",
+      "inLanguage": "en",
+      "dateModified": "2026-06-30",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Gerlitz",
+        "url": "https://alexgerlitz.github.io/AlexGerlitz/"
+      },
+      "about": [
+        "Python backend",
+        "Telegram intake",
+        "Admin panel workflow",
+        "PostgreSQL records",
+        "Business automation",
+        "Privacy boundary"
+      ]
+    }
+  </script>
+  <style>
+    :root { --ink: #18202a; --muted: #52616f; --line: #d8e0e7; --paper: #f7f8fa; --panel: #fff; --accent: #0f766e; --blue: #1d4ed8; --soft: #e9f7f4; --warn: #fff4e5; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: var(--ink); background: var(--paper); line-height: 1.55; }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .shell { max-width: 1100px; margin: 0 auto; padding: 28px 20px 48px; }
+    .nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+    .nav a, .button { display: inline-flex; align-items: center; justify-content: center; min-height: 38px; border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; background: var(--panel); color: var(--ink); font-weight: 650; }
+    .button.primary { border-color: var(--accent); background: var(--accent); color: #fff; }
+    .hero, .panel, .card { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 16px 34px rgba(24, 32, 42, 0.08); }
+    .hero { padding: 30px; margin-bottom: 18px; }
+    .panel, .card { padding: 22px; }
+    .section { margin-top: 18px; }
+    .eyebrow { color: var(--accent); font-weight: 760; text-transform: uppercase; font-size: 0.78rem; letter-spacing: 0; }
+    h1 { margin: 8px 0 10px; font-size: clamp(2.1rem, 5vw, 3.35rem); line-height: 1.04; letter-spacing: 0; }
+    h2 { margin: 0 0 12px; font-size: 1.25rem; }
+    h3 { margin: 0 0 8px; font-size: 1rem; }
+    p { margin: 0 0 12px; }
+    .lead { max-width: 860px; color: var(--muted); font-size: 1.08rem; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    .steps { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 10px; margin-top: 16px; }
+    .step { border: 1px solid var(--line); border-radius: 8px; padding: 12px; background: #fbfcfd; min-height: 132px; }
+    .step strong { display: block; color: var(--accent); margin-bottom: 6px; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { border-top: 1px solid var(--line); padding: 10px; text-align: left; vertical-align: top; }
+    th { color: var(--muted); font-size: 0.9rem; }
+    ul { margin: 0; padding-left: 20px; }
+    li { margin: 7px 0; }
+    code { background: #eef4ff; border-radius: 6px; padding: 1px 5px; color: #1d4ed8; }
+    .safe { background: var(--soft); }
+    .warn { background: var(--warn); }
+    @media (max-width: 920px) { .grid, .steps { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .nav a, .button { width: 100%; } }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <nav class="nav" aria-label="Profile navigation">
+      <a href="./">Portfolio</a>
+      <a href="./projects.html">Projects</a>
+      <a href="./case-studies.html">Case studies</a>
+      <a href="./drivedesk-core-review.html">DriveDesk Core</a>
+      <a href="./verification-pack.html">Verification</a>
+      <a href="./AUTOSCHOOL_INTAKE_ADMIN.md">Source markdown</a>
+    </nav>
+
+    <section class="hero">
+      <div class="eyebrow">Public-safe business workflow proof</div>
+      <h1>Autoschool intake to admin handoff.</h1>
+      <p class="lead">This route explains the private driving-school workflow without exposing real learner data: a Telegram request is normalized by the backend, stored as a database record, shown in an admin panel, and moved through an operator status workflow.</p>
+      <p class="lead">The hiring signal is not "just a bot". It is user input, backend validation, persistent state, admin visibility, operator handoff, and a clear privacy boundary.</p>
+      <p><a class="button primary" href="./drivedesk-core-review.html">Open DriveDesk Core proof</a> <a class="button" href="./case-studies.html">Open case studies</a> <a class="button" href="./verification-pack.html">Open verification pack</a></p>
+    </section>
+
+    <section class="panel section">
+      <h2>Workflow</h2>
+      <div class="steps">
+        <div class="step"><strong>1. Telegram intake</strong><span>A person sends a request through a user-facing channel.</span></div>
+        <div class="step"><strong>2. Validation</strong><span>The backend normalizes fields before they become business state.</span></div>
+        <div class="step"><strong>3. Database record</strong><span>The request is stored with source, timestamp, status, and review fields.</span></div>
+        <div class="step"><strong>4. Admin handoff</strong><span>An operator sees the request in an admin queue.</span></div>
+        <div class="step"><strong>5. Status workflow</strong><span>The operator moves it through <code>new</code>, <code>reviewed</code>, <code>contacted</code>, and <code>closed</code>.</span></div>
+      </div>
+    </section>
+
+    <section class="grid section">
+      <article class="card safe">
+        <h2>Public-Safe Demo Contract</h2>
+        <table>
+          <tbody>
+            <tr><th>Telegram request</th><td>Demo learner asks for a driving lesson callback.</td></tr>
+            <tr><th>Normalized record</th><td><code>name=Demo Learner</code>, <code>contact=demo@example.invalid</code>, <code>category=lesson_request</code>, <code>status=new</code>.</td></tr>
+            <tr><th>Admin panel</th><td>Synthetic queue row with status, source, timestamp, and operator action.</td></tr>
+            <tr><th>Evidence</th><td>Architecture flow, schema shape, synthetic screenshots or GIF, tests, and runbook notes.</td></tr>
+          </tbody>
+        </table>
+      </article>
+      <article class="card warn">
+        <h2>Not Public</h2>
+        <ul>
+          <li>Real learner names, phone numbers, Telegram IDs, chat IDs, message bodies, or operator records.</li>
+          <li>Live admin screenshots, internal joke/test names from the real admin panel, admin URLs, database dumps, logs, tokens, or private repository code.</li>
+          <li>Anything that can identify a person, reconstruct the private system, or expose customer operations.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section class="panel section">
+      <h2>Engineering Surface</h2>
+      <table>
+        <tbody>
+          <tr><th>Telegram intake</th><td>Collect structured input from a real user-facing channel.</td></tr>
+          <tr><th>Backend validation</th><td>Normalize messy input before it becomes business state.</td></tr>
+          <tr><th>Database state</th><td>Use persistent records, statuses, timestamps, and review fields.</td></tr>
+          <tr><th>Admin handoff</th><td>Make a request visible and actionable for an operator.</td></tr>
+          <tr><th>Privacy boundary</th><td>Separate real business data from public proof.</td></tr>
+          <tr><th>Operations</th><td>Think through deployment, backups, logs, recovery, and handoff docs.</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="panel section">
+      <h2>First-Job Signal</h2>
+      <p>This proof maps directly to Junior Python Backend, Python Developer, Integration Developer, CRM/Admin Tools Developer, or L2/L3 automation roles.</p>
+      <ul>
+        <li>Capture a request from a user-facing channel.</li>
+        <li>Validate and store it.</li>
+        <li>Show it in an internal admin surface.</li>
+        <li>Keep statuses and operator actions clear.</li>
+        <li>Document what should happen when the workflow fails.</li>
+      </ul>
+    </section>
+
+    <section class="panel section">
+      <h2>Review Route</h2>
+      <p>Use this route with <a href="https://github.com/AlexGerlitz/drivedesk-core">DriveDesk Core</a>, the <a href="https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/">DriveDesk Core public demo</a>, <a href="./case-studies.html">Engineering Case Studies</a>, and the <a href="./verification-pack.html">Verification Pack</a>.</p>
+      <p>Next public artifact: a sanitized demo seed showing <code>Telegram-style request -> API payload -> PostgreSQL record -> admin queue row -> operator status update</code> with synthetic, boring values only.</p>
+    </section>
+  </main>
+</body>
+</html>

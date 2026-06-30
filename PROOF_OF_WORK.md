@@ -9,6 +9,7 @@ private Autoschool54/DriveDesk work demonstrates without exposing private busine
 | --- | --- |
 | I can turn a messy business domain into a backend/platform foundation. | DriveDesk Core: tenant model, RBAC, audit/outbox, business records, workflow rules, adapter boundaries, OpenAPI/SDK, CI, docs, and public demo. |
 | I can use an AI-native delivery loop without losing verification discipline. | AI Ops Workflow Kit: document/CRM/call intake, importable n8n workflow artifact, privacy redaction before RAG/approval/CRM handoff, RAG ingestion/retrieval, deterministic RAG quality eval with citations, LLM/transcription provider boundaries, transcript analysis, lead scoring, approval queue, Telegram callback approval, dry-run CRM handoff, idempotent outbox drain, reviewer acceptance report, reviewer observability snapshot, opt-in worker, live PostgreSQL/pgvector runtime, API restart persistence proof, deterministic tests, Docker and integration boundaries. |
+| I can move a real request from a bot into an admin workflow. | Autoschool Intake/Admin Proof: public-safe route for Telegram intake, backend validation, database record, admin queue handoff, status workflow, and privacy boundary without exposing learner data or live admin screenshots. |
 | I understand operations, deployment, and recovery, not only feature code. | DeployMate: self-hosted deployment control panel proof with Docker apps, VPS targets, SSH runtime tooling, logs, health checks, CI/CD, public-review gate, evidence bundle, review packet, and release safety docs. |
 | I can design trust and validation boundaries around untrusted client data. | MPlusForm: addon + Python sync pipeline with server-side validation, approved public snapshots, Windows operation scripts, and handoff docs. |
 | I can support real business infrastructure remotely. | Autoschool54 / DriveDesk private work: admin/operator workflows, Telegram bot, web admin, PostgreSQL, Docker Compose, backups, deploy workflow, release preflight, docs, and recovery thinking. |
@@ -17,6 +18,7 @@ private Autoschool54/DriveDesk work demonstrates without exposing private busine
 
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) - backend/platform and integration foundation.
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)
+- [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - public-safe route for Telegram request -> backend validation -> database record -> admin queue -> operator status workflow.
 - [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) - larger backend/platform proof path that connects the AI Operator slice to adapters, workflows, audit/outbox, admin/operator surfaces, DevOps, observability, and recovery.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - document/CRM/call intake, first-slice playbook, importable n8n workflow artifact, privacy redaction boundary, RAG quality eval, LLM/transcription provider boundaries, reviewer acceptance report, reviewer observability snapshot, approvals, Telegram callback, idempotent outbox worker, live PostgreSQL/pgvector persistence, and n8n/Telegram integration boundary.
 - [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) - concrete RAG/transcript, CRM handoff, human approval, and reliability slices.
@@ -30,6 +32,7 @@ private Autoschool54/DriveDesk work demonstrates without exposing private busine
 If you only have a few minutes, review these first:
 
 - [DriveDesk Core README](https://github.com/AlexGerlitz/drivedesk-core) - fast backend/platform reviewer route.
+- [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - first-job-ready business workflow proof with synthetic-only public examples and no live admin data.
 - [DriveDesk Core case study](https://github.com/AlexGerlitz/drivedesk-core/blob/main/docs/public/PORTFOLIO_CASE_STUDY.md) - business problem, architecture, integration model, and evidence.
 - [Verification pack](./VERIFICATION_PACK.md) - current CI/demo/recovery verification links.
 - [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international employer-grade review route for backend/platform ownership, integration discipline, reliability, privacy, and async proof.

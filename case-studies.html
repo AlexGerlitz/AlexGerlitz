@@ -79,18 +79,19 @@
         </div>
         <div class="panel">
           <h3>Build</h3>
-          <p>I use the Autoschool54 operational context to shape DriveDesk: one operations layer for workflows, records, documents, integrations, notifications, AI assistance, deployment, observability, and recovery.</p>
+          <p>I use the Autoschool54 operational context to shape DriveDesk: one operations layer for workflows, records, documents, integrations, notifications, AI assistance, deployment, observability, and recovery. The first-job-readable slice is the intake/admin workflow: Telegram request -> backend validation -> database record -> admin queue -> operator status update.</p>
         </div>
       </div>
       <div class="tags">
         <span class="tag">DriveDesk Core</span>
+        <span class="tag">Intake to admin</span>
         <span class="tag">RBAC + audit</span>
         <span class="tag">Outbox / worker</span>
         <span class="tag">Adapter boundaries</span>
         <span class="tag alt">Operational handoff</span>
       </div>
-      <p>Evidence: <a href="https://github.com/AlexGerlitz/drivedesk-core">DriveDesk Core</a>, <a href="https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/">public demo</a>, <a href="./drivedesk-core-review.html">DriveDesk Core review</a>, and <a href="./PROOF_OF_WORK.md">proof of work summary</a>.</p>
-      <p>What it proves: I can turn a vague operational domain into explicit backend boundaries, reviewable contracts, runtime checks, docs, and a public demonstration path.</p>
+      <p>Evidence: <a href="./autoschool-intake-admin.html">Autoschool Intake/Admin Proof</a>, <a href="https://github.com/AlexGerlitz/drivedesk-core">DriveDesk Core</a>, <a href="https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/">public demo</a>, <a href="./drivedesk-core-review.html">DriveDesk Core review</a>, and <a href="./PROOF_OF_WORK.md">proof of work summary</a>.</p>
+      <p>What it proves: I can turn a vague operational domain into explicit backend boundaries, reviewable contracts, runtime checks, docs, public-safe proof, and a request-to-admin workflow that maps directly to first backend/integration work.</p>
     </section>
 
     <section class="case">

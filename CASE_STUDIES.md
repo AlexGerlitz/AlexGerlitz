@@ -23,8 +23,14 @@ documents, integrations, notifications, AI assistance, deployment, observability
 The public proof is DriveDesk Core: a backend/platform foundation that keeps the architecture
 inspectable instead of relying on vague universal-integration claims.
 
+The first-job-readable slice is the Autoschool intake/admin workflow: a Telegram request becomes a
+validated backend record, appears in an admin queue, and moves through operator status changes. The
+public version is synthetic-only and does not expose learner data, live admin screenshots, private
+repository code, logs, tokens, internal URLs, or real admin records.
+
 Built proof includes:
 
+- Telegram intake to admin handoff;
 - tenant-aware backend boundaries;
 - RBAC and audit trail;
 - outbox/worker pattern for async business operations;
@@ -38,12 +44,14 @@ Built proof includes:
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core)
 - [DriveDesk Core fast review route](https://github.com/AlexGerlitz/drivedesk-core)
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)
+- [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
 - [Proof of work summary](./PROOF_OF_WORK.md)
 
 ### What This Proves
 
 I can turn a vague operational domain into explicit backend boundaries, reviewable contracts,
-runtime checks, docs, and a public demonstration path.
+runtime checks, docs, public-safe proof, and a request-to-admin workflow that maps directly to
+first backend/integration work.
 
 ## Case 2: AI Ops Workflow Kit
 
