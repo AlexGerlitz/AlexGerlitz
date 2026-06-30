@@ -23,7 +23,7 @@ with fit/no-fit, strongest proof route, risky assumptions, smallest first slice,
 
 For a first backend/Python role, send role title, stack, team review path, first ticket shape,
 tests or smoke expectations, onboarding owner, and hiring timeline. I will route the answer through
-First Backend Role Screen -> Backend First Screen -> Autoschool Intake/Admin Proof before deeper
+Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof before deeper
 AI/platform proof.
 
 Best matches: remote-only backend/platform, AI automation, RAG workflow, CRM/ERP/API integration,

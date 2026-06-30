@@ -7,7 +7,7 @@ or fragile deployment/recovery. AI tooling compresses discovery, implementation,
 and review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks,
 and shipped quality stay engineering-owned.
 
-Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
+Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
 Fast fit checklist: remote-only work, one concrete business workflow, one success condition, real

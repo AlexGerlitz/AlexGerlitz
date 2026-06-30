@@ -2,7 +2,7 @@
 
 Public contact guide for role, project, founder, and technical-review conversations.
 
-Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
+Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
 Fast fit checklist:

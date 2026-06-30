@@ -15,7 +15,7 @@ Fast contact links:
 - [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
-Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
+Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
 Fast fit checklist:

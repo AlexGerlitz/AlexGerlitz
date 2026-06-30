@@ -17,7 +17,7 @@ unclear to scale. I use AI heavily to compress research, implementation, debuggi
 documentation time, but the final output still has to be inspectable: code, tests, logs, smoke
 checks, deployment notes, and a handoff path.
 
-Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
+Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
 Best-fit request shape: backend-owned state, data sources, integration boundaries, approval flow,

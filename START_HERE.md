@@ -6,7 +6,7 @@ I build remote-first AI automation, backend/platform, integration, and DevOps sy
 operations. The best conversations start with a real workflow, a success condition, and enough
 context to choose the first responsible slice.
 
-Best immediate starts: AI workflow automation, CRM/ERP/API adapter, backend/platform slice, DevOps
+Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff
 recovery sprint, or DriveDesk AI Operator-style proof route.
 
 Fast fit checklist: message me when the work is remote-only and needs a backend-owned AI workflow,

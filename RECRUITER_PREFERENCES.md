@@ -112,7 +112,7 @@ About direction copy:
 ```text
 I build backend-owned AI workflow and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, Docker/CI, runbooks, and recovery paths.
 
-Fastest proof to review: First Backend Role Screen -> Backend First Screen -> Autoschool Intake/Admin Proof - Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
+Fastest proof to review: Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof - Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
 
 Flagship direction: DriveDesk AI Operator - a backend-owned AI sales/support workflow layer for document, call, transcript, and lead intake; RAG; structured analysis; Telegram approval; CRM-safe handoff; audit/outbox; retries; and operational runbooks.
 ```
