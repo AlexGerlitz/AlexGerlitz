@@ -1,18 +1,18 @@
 # Role Fit Pack
 
-Public role-fit summary for remote AI automation, backend/platform, integration, internal-tools,
-and DevOps work. It routes role-fit review through Decision-Ready Contact before the PDF resume
+Public role-fit summary for remote Python/backend automation, internal tools, API/CRM integration,
+QA Automation Python, AI workflow automation, and reliability handoff work. It routes role-fit review through Decision-Ready Contact before the PDF resume
 handoff, so recruiters and technical reviewers get proof context before an application artifact.
 
 ## Positioning
 
 I build working business systems: FastAPI/PostgreSQL backends, AI/RAG workflows, transcript and call
-analysis, approval flows, integration adapters, Docker/CI release paths, health checks, docs,
-runbooks, and recovery procedures.
+analysis, approval flows, integration adapters, tests, smoke checks, Docker/Compose boundaries,
+docs, runbooks, and recovery notes.
 
-Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8n, Telegram,
-CRM/ERP/API integrations, Systems Integration, Backend Development, Platform Engineering,
-Workflow Automation, DevOps, GitHub Actions, OpenAPI, and PostgreSQL/pgvector-backed workflows.
+Search-match stack: Python, FastAPI, PostgreSQL, pytest, REST APIs, OpenAPI, Docker, Docker Compose,
+GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, Systems Integration, Backend
+Development, QA Automation Python, Workflow Automation, audit logs, runbooks, and PostgreSQL/pgvector-backed workflows.
 
 Main case:
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html).
@@ -32,7 +32,7 @@ Current proof foundation:
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
   for the fastest role, proof, and contact route.
 - [DriveDesk Core](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) for
-  backend/platform structure, tenants, RBAC, audit/outbox, workflow rules, adapters, OpenAPI, CI,
+  backend structure, tenants, RBAC, audit/outbox, workflow rules, adapters, OpenAPI, CI,
   docs, and public demo.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) for DriveDesk AI Operator-style
   RAG/transcript workflow proof: document/CRM/call intake, privacy redaction before RAG/approval/CRM handoff, transcript analysis, Telegram approvals,
@@ -50,10 +50,11 @@ Current proof foundation:
 | Work surface | Why it fits | First proof link |
 | --- | --- | --- |
 | AI Automation Engineer | Document/transcript/lead intake, RAG, OpenAI/Claude/Gemini provider boundary, call-audio transcription, transcript/document workflows, scoring, routing, approvals, human review, and CRM actions. | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |
-| Backend / Platform Engineer | Python/FastAPI/PostgreSQL services, workflow state, validation, OpenAPI, tests, Docker, audit/outbox, admin handoff, and adapter boundaries. | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| Python Backend / Internal Tools Engineer | Python/FastAPI/PostgreSQL services, workflow state, validation, OpenAPI, tests, Docker, audit/outbox, admin handoff, and adapter boundaries. | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| QA Automation Python / API Testing | pytest, REST/OpenAPI checks, smoke checks, deterministic proof routes, verification pack, and reviewable handoff notes. | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | LLM Workflow / RAG Engineer | Retrieval, citations, structured JSON analysis, approval history, quality checks, and testable API behavior. | [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
 | CRM / Integration Engineer | Explicit source/target contracts, mapping, validation, retries, idempotency, logs, rollout notes, and recovery path. | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |
-| DevOps / Self-Hosting Engineer | Docker Compose, GitHub Actions, release gates, health checks, logs, backups, smoke checks, and runbooks. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
+| Reliability / Docker / Handoff | Docker Compose, GitHub Actions, release gates, health checks, logs, backups, smoke checks, and runbooks. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
 | Internal Tools Engineer | Admin/operator workflows, records, roles, status states, audit trails, docs, deployment, and support path. | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Proof of Work](./PROOF_OF_WORK.md) |
 
 ## Remote Work Preference

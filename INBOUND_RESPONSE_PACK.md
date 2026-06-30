@@ -27,7 +27,7 @@ surface, first-month ownership, hiring timeline, and compensation band if sharea
 with fit/no-fit, strongest proof route, risky assumptions, smallest first slice, and next screen path.
 
 Best matches: remote-only backend/platform, AI automation, RAG workflow, CRM/ERP/API integration,
-internal tools, DevOps reliability, and international or Europe-compatible async teams that can
+internal tools, QA/API verification, reliability handoff, and international or Europe-compatible async teams that can
 review written proof before a live screen.
 
 ## Copy-Ready First Messages
@@ -70,7 +70,7 @@ Message me when the decision needs a working slice, not a generic intro.
 | --- | --- | --- |
 | Remote role | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast role/project positioning, proof repos, runtime-boundary evidence, contact route, and current projects. |
 | Technical review | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Short route into DriveDesk AI Operator, verification links, repos, demos, CI, docs, and runbooks. |
-| Enterprise review | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` | International employer-grade route for backend/platform ownership, integration discipline, reliability, privacy, and async proof. |
+| Enterprise review | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` | International employer-grade route for Python/backend ownership, integration discipline, reliability, privacy, and async proof. |
 | AI workflow / RAG | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast route into the DriveDesk AI Operator proof route and AI Ops proof links. |
 | Fixed-scope project | `https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html` -> `https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md` | Proof-backed offer route: choose the closest trigger, inspect repo evidence, then send the workflow, systems, success condition, constraints, and handoff depth. |
 | First conversation | `https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html` | Simple structure for sending role/project context. |

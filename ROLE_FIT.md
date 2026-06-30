@@ -1,6 +1,6 @@
 # Role Fit
 
-Public role-fit page for remote backend/platform, AI automation, integration, DevOps,
+Public role-fit page for remote Python/backend automation, AI automation, integration, QA/API verification, Docker/CI handoff,
 internal-tools, and fixed-scope business automation work.
 
 ## 30-Second Fit
@@ -33,7 +33,7 @@ CRM adapter contracts, audit, retries, and runbook proof target.
 | Backend Engineer | FastAPI/PostgreSQL systems, records, roles, workflow state, OpenAPI, tests, Docker, and docs. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
 | Platform Engineer | Tenants, adapters, workers, contracts, audit/outbox, SDK/OpenAPI, CI, docs, and operations. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
 | Integration Engineer | CRM/ERP/1C/banking/API/custom database boundaries, mapping, validation, retries, and logs. | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |
-| DevOps / Self-Hosting Engineer | Docker, CI gates, health checks, logs, backups, release notes, recovery paths, and runbooks. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
+| Reliability / Docker Handoff | Docker, CI gates, health checks, logs, backups, release notes, recovery paths, and runbooks. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
 | Internal Tools / Ops Automation Engineer | Admin panels, operator workflows, roles, records, audit, docs, deployment, and support paths. | [Proof of Work](./PROOF_OF_WORK.md) |
 
 ## Fast Review Path

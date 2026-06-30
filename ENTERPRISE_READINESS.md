@@ -11,7 +11,7 @@ The HTML route now exposes machine-readable enterprise-readiness data for recrui
 - ProfilePage: enterprise-readiness proof route, date, language, and main profile entity.
 - Person: role, GitHub/LinkedIn identity, and the strongest technical knowledge surface.
 - Decision path: 2-minute fit check, 10-minute technical review, and 30-minute specialist review.
-- Specialist signal: backend/platform ownership, AI workflow engineering, CRM/ERP/API integration depth, DevOps reliability, business operations context, Europe-compatible async collaboration, and public verification discipline.
+- Specialist signal: Python/backend automation ownership, AI workflow engineering, CRM/ERP/API integration depth, QA/API verification, reliability handoff, business operations context, Europe-compatible async collaboration, and public verification discipline.
 - Evidence matrix: DriveDesk Core, AI Ops Workflow Kit, privacy boundary, Verification Pack, and DeployMate.
 - International role screen: role context, operating proof, and first-contact decision signal for distributed teams.
 - Next proof targets: observability dashboard, sandbox adapter proof, cloud/IaC proof, data-retention/privacy notes, and short demo media.
@@ -31,13 +31,13 @@ The HTML route now exposes machine-readable enterprise-readiness data for recrui
 
 | Timebox | What to inspect | Decision signal |
 | --- | --- | --- |
-| 2-minute fit check | [DriveDesk proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [project role signal map](https://alexgerlitz.github.io/AlexGerlitz/projects.html), [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | Fast answer to whether the work needs backend-owned AI workflow, CRM/ERP/API integration, DevOps reliability, or internal platform ownership, with first-contact context before resume handoff. |
+| 2-minute fit check | [DriveDesk proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [project role signal map](https://alexgerlitz.github.io/AlexGerlitz/projects.html), [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) | Fast answer to whether the work needs backend-owned AI workflow, CRM/ERP/API integration, QA/API verification, reliability handoff, or internal tools ownership, with first-contact context before resume handoff. |
 | 10-minute technical review | [AI Ops reviewer snapshot](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), and [verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) | Proof that RAG, approvals, adapter contracts, state, tests, CI, docs, and public-safe evidence are inspectable. |
 | 30-minute specialist review | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), [live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), and current CI/smoke routes | Evidence for specialist ownership: privacy, audit, retries, idempotency, deployment/recovery thinking, runbooks, and handoff quality. |
 
 ## International Specialist Signal
 
-For high-bar international teams, the strongest signal is not broad availability. It is a specific overlap that is expensive to assemble: backend/platform ownership, AI workflow engineering, CRM/ERP/API integration, DevOps recovery, business operations context, and public verification discipline.
+For high-bar international teams, the strongest signal is not broad availability. It is a specific overlap that is expensive to assemble: Python/backend automation ownership, AI workflow engineering, CRM/ERP/API integration, QA/API verification, reliability handoff, business operations context, and public verification discipline.
 
 | High-bar question | Evidence to inspect | Signal |
 | --- | --- | --- |
@@ -78,7 +78,7 @@ Use this when a recruiter or hiring manager needs to decide whether the profile 
 
 ## Specialist Review Evidence
 
-This is the useful hiring signal: not generic AI tooling, but a rare overlap of business operations, backend/platform ownership, AI workflow engineering, integrations, and DevOps discipline.
+This is the useful hiring signal: not generic AI tooling, but a rare overlap of business operations, Python/backend automation ownership, AI workflow engineering, integrations, QA/API verification, and reliability discipline.
 
 | Specialist signal | Public proof | Why it matters |
 | --- | --- | --- |

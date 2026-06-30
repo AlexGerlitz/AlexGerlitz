@@ -190,7 +190,7 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
 PROFILE_TEXT = {
     "name": ("Alex Gerlitz",),
     "bio": (
-        "AI Automation / Backend / Platform Engineer",
+        "Python Backend Automation Engineer",
         "DriveDesk",
         "RAG",
         "LLM workflows",

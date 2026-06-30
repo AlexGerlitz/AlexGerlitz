@@ -47,7 +47,7 @@ I use this copy to keep the profile headline, About opening, Featured order, and
 Headline copy:
 
 ```text
-AI Automation / Backend / Python Engineer | FastAPI, PostgreSQL, RAG, Telegram/Admin Workflows, CRM/ERP Integrations | DriveDesk / Autoschool54
+Python Backend Automation Engineer | Internal Tools, API/CRM Integrations, QA Automation Python | DriveDesk / Autoschool54
 ```
 
 About opening copy:
@@ -63,7 +63,7 @@ Profile alignment checklist:
 - Keep LinkedIn Proof Signal as the first Featured route.
 - Keep Delivery Capability and Application Fit Pack visible for parser-readable recruiter and application review.
 - Keep First Backend Role Screen and Autoschool Intake/Admin Proof directly visible for first-job backend proof.
-- Keep DriveDesk AI Operator as the flagship AI/backend platform route.
+- Keep DriveDesk AI Operator as the flagship AI/backend workflow route.
 - Use only synthetic screenshots or diagrams; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
 
 ## Copy-Ready LinkedIn Update
@@ -117,7 +117,7 @@ The better check is: can you turn an incomplete business workflow into backend-o
 
 That is what my public proof route is organized around:
 - AI workflow / RAG / transcript / approval proof
-- Python backend and platform proof, including Autoschool intake/admin
+- Python backend/internal-tools proof, including Autoschool intake/admin
 - CRM/ERP/API integration proof
 - QA/API verification, Docker/CI, and operational handoff proof
 

@@ -27,7 +27,7 @@ Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Auto
 AI/platform proof.
 
 Best matches: remote-only backend/platform, AI automation, RAG workflow, CRM/ERP/API integration,
-internal tools, DevOps reliability, and international or Europe-compatible async teams that can
+internal tools, QA/API verification, reliability handoff, and international or Europe-compatible async teams that can
 review written proof before a live screen.
 
 ## Copy-Ready First Messages
@@ -93,7 +93,7 @@ Hi Alex, I want to review your fit for AI workflow, backend/platform, integratio
 ## Fast Fit
 
 Strongest match: first backend/Python roles with review, remote-only backend/platform, AI workflow,
-CRM/ERP/API integration, internal operations tooling, DevOps reliability, or one working business
+CRM/ERP/API integration, internal operations tooling, reliability handoff, or one working business
 slice with tests, logs, docs, deployment path, and handoff.
 
 Not my target right now: onsite-only roles, pure prompt/content tasks, isolated static websites, student/course assignments, standalone game clones, generic mobile/ecommerce apps without backend/integration ownership, and undefined work where success cannot be tested or handed off.

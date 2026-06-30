@@ -35,7 +35,7 @@ If you only have a few minutes, review these first:
 - [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - first-job-ready business workflow proof with synthetic-only public examples and no live admin data.
 - [DriveDesk Core case study](https://github.com/AlexGerlitz/drivedesk-core/blob/main/docs/public/PORTFOLIO_CASE_STUDY.md) - business problem, architecture, integration model, and evidence.
 - [Verification pack](./VERIFICATION_PACK.md) - current CI/demo/recovery verification links.
-- [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international employer-grade review route for backend/platform ownership, integration discipline, reliability, privacy, and async proof.
+- [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international employer-grade review route for Python/backend ownership, integration discipline, reliability, privacy, and async proof.
 - [AI Ops demo walkthrough](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md) - short visual path for transcript -> RAG -> approval -> CRM-safe handoff.
 - [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) - fastest way to map a role or project need to one inspectable first slice.
 - [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) - current AI Ops CI, reviewer observability snapshot, live smoke, local gate, Pages route, and public boundary.
@@ -50,7 +50,7 @@ If you only have a few minutes, review these first:
 - [MPlusForm README](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot) - trust-model and desktop automation reviewer path.
 - [Skill evidence matrix](./SKILL_EVIDENCE.md) - role keywords mapped to public proof.
 - [Work with me](./WORK_WITH_ME.md) - fixed-scope project entry points.
-- [Role targets](./ROLE_TARGETS.md) - remote backend/platform/AI automation roles mapped to proof.
+- [Role targets](./ROLE_TARGETS.md) - remote Python/backend automation, internal tools, integration, QA/API, and AI automation roles mapped to proof.
 
 ## Current Public Verification
 

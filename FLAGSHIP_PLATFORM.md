@@ -34,7 +34,7 @@ rollout steps.
 
 This platform path combines the surfaces remote teams and founders usually need in one technical story:
 
-- backend/platform ownership;
+- Python/backend ownership;
 - integration architecture;
 - AI workflow automation;
 - DevOps and recovery discipline;
@@ -108,7 +108,7 @@ Good first slices:
 
 ## Proof Review Context
 
-For a role, the best fit is remote backend/platform, AI automation, integration, DevOps, or internal
+For a role, the best fit is remote Python/backend automation, AI automation, integration, QA/API, reliability handoff, or internal
 tools work where I can own one operational slice end to end.
 
 For a project, the strongest first step is one real workflow, the systems or data involved, and

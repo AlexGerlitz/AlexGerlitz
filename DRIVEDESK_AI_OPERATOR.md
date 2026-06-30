@@ -127,7 +127,7 @@ This single project proves the role surface better than a generic portfolio:
 Best-fit roles after this demo:
 
 - AI Automation Engineer;
-- Backend / Platform Engineer;
+- Python Backend / Internal Tools Engineer;
 - LLM Workflow Engineer;
 - RAG Workflow Engineer;
 - CRM Integration Engineer;

@@ -1,24 +1,27 @@
-# Alex Gerlitz - AI Automation / Backend / Platform Engineer
+# Alex Gerlitz - Python Backend Automation Engineer
 
 ## Summary
 
-Remote-only AI automation, backend/platform, and DevOps engineer focused on DriveDesk AI Operator:
-a backend-owned AI sales/support workflow system for real business operations.
+Remote-only Python/backend automation and internal-tools engineer focused on DriveDesk AI Operator:
+a backend-owned AI workflow system for real business operations, integrations, QA/API verification,
+and reviewable handoff.
 The fastest first-job backend/internal-tools proof is Autoschool Intake/Admin: Telegram request
 intake -> backend validation -> database record -> admin queue -> operator status workflow, shown
 with synthetic public evidence only.
 
 I turn messy operational problems into working systems: FastAPI/PostgreSQL backends, RAG/transcript
-workflows, call-audio transcription, transcript/call analysis, approval flows, internal admin panels, integration adapters,
-Docker/CI deployment paths, health checks, runbooks, and recovery procedures.
+workflows, call-audio transcription, transcript/call analysis, approval flows, internal admin panels,
+integration adapters, tests, smoke checks, Docker/Compose boundaries, docs, runbooks, and recovery
+notes.
 
-Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8n, Telegram,
-CRM/ERP/API integrations, Systems Integration, Backend Development, Platform Engineering,
-Workflow Automation, DevOps, GitHub Actions, OpenAPI, and PostgreSQL/pgvector-backed workflows.
+Search-match stack: Python, FastAPI, PostgreSQL, pytest, REST APIs, OpenAPI, Docker, Docker Compose,
+GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, Systems Integration, Backend
+Development, QA Automation Python, Workflow Automation, audit logs, runbooks, and PostgreSQL/pgvector-backed workflows.
 
-Search-fit role titles: Back End Developer, Python Developer, AI Automation Engineer, Artificial
-Intelligence Engineer with a workflow/backend focus, Platform Engineer, DevOps Engineer, and
-Integration Engineer.
+Search-fit titles: Junior Backend Developer, Junior Python Developer, Back End Developer,
+Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python,
+API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer,
+CRM/API Integration Engineer, Internal Tools Engineer, AI Automation Engineer, and LLM Workflow / RAG Engineer.
 
 AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and
 review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks,
@@ -39,7 +42,8 @@ state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
 
 ## Target Work
 
-- Remote-only backend / platform / DevOps / AI automation roles.
+- Remote-only Python/backend automation, internal tools, API/CRM integration, QA Automation Python,
+  AI workflow automation, and reliability handoff roles.
 - Junior Backend Developer / Junior Python Developer / Back End Developer roles where business workflows, APIs, data models, tests,
   Docker/CI, and operational handoff matter.
 - AI sales/support workflow roles around document/transcript/lead intake, RAG, call-audio transcription, transcript analysis, lead scoring, approvals, and CRM
@@ -49,22 +53,22 @@ state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
 - Fixed-scope AI workflow automation and RAG projects.
 - Internal tools, admin panels, CRM/ops MVPs, and business process automation.
 - Integration adapters for CRM, ERP, 1C, accounting, banking, custom databases, webhooks, and APIs.
-- Deployment, release, health-check, observability, backup, and recovery workflows.
+- Docker/Compose boundary, release, health-check, observability, backup, and recovery workflows.
 
 ## Proof By Search Intent
 
 | Search intent | Open first |
 | --- | --- |
 | AI Automation / RAG | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
-| Backend / Python / Platform | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| Python / Backend / Internal Tools | [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
 | CRM / ERP / API Integration / Internal Tools | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
-| DevOps / Reliability | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
+| Reliability / Docker / Handoff | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
 
 ## Current Experience
 
 ### AI Automation & Digital Infrastructure Engineer
 
-**Autoschool54 / DriveDesk platform work**
+**Autoschool54 / DriveDesk backend/internal-tools work**
 Remote, March 2024 - Present
 
 Remote AI-native delivery and digital infrastructure support for a live driving-school operation.
@@ -95,20 +99,20 @@ Public proof built from the same operational base:
 | --- | --- | --- |
 | [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md) | First-job backend/internal-tools proof: Telegram request intake, backend validation, database record, admin queue handoff, operator status workflow, and privacy boundary using synthetic public evidence only. | Telegram bot boundary, backend validation, database records, admin workflow, operator status states, privacy review |
 | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md) | Main flagship proof: ingest documents, call audio, transcripts, or CRM leads; run RAG; produce call-analysis JSON; send Telegram approval; and create CRM action through an auditable adapter. | FastAPI, PostgreSQL/pgvector, document APIs, RAG, n8n, Telegram, CRM/Bitrix adapter, Docker, CI |
-| [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | Backend/platform foundation for operations and integrations: tenants, RBAC, audit/outbox, workers, adapter boundaries, OpenAPI, CI, docs, public demo. | Python, FastAPI, PostgreSQL, Alembic, Docker Compose, pytest, OpenAPI |
+| [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | Backend/internal-tools foundation for operations and integrations: tenants, RBAC, audit/outbox, workers, adapter boundaries, OpenAPI, CI, docs, public demo. | Python, FastAPI, PostgreSQL, Alembic, Docker Compose, pytest, OpenAPI |
 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | Live AI workflow backend proof: document/CRM/call intake, privacy redaction before RAG/approval/CRM handoff, RAG, transcript analysis, Telegram approvals, dry-run Bitrix CRM handoff, idempotent outbox, live PostgreSQL/pgvector persistence, reviewer acceptance report, production-readiness drill, Docker, and importable n8n workflow artifact. | FastAPI, PostgreSQL/pgvector, Docker, document APIs, n8n, Telegram, LLM APIs |
 | [DeployMate](https://github.com/AlexGerlitz/deploymate) | Self-hosted deployment control panel proof: Docker apps, VPS/SSH tooling, CI/CD, health checks, logs, runbooks, release discipline. | FastAPI, Next.js, PostgreSQL, Docker, SSH, CI/CD |
 | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation and trust boundaries around client-side data, sync pipeline, Windows automation, operational docs. | Python, Lua, PowerShell |
 
 ## Core Skills
 
-- Backend/platform: Python, FastAPI, PostgreSQL, Alembic, OpenAPI, pytest, service contracts.
+- Python/backend/internal tools: Python, FastAPI, PostgreSQL, Alembic, OpenAPI, pytest, service contracts.
 - AI workflows: LLM/RAG systems with OpenAI/Claude/Gemini-ready provider boundaries, vector
   databases / PostgreSQL pgvector, document/call-audio/transcript processing, scoring, routing,
   approvals, operator handoff.
 - Integrations: Systems Integration, Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), APIs, webhooks, custom databases,
   accounting/banking boundaries, adapter contracts, mapping and validation.
-- DevOps/self-hosting: Docker Compose, GitHub Actions, release gates, health checks, logs, backups,
+- Reliability/Docker handoff: Docker Compose, GitHub Actions, release gates, health checks, logs, backups,
   smoke checks, rollback/recovery thinking.
 - Product execution: clarify messy requirements, scope a working slice, build the backend/admin
   surface, verify it, document it, and leave a path for operation.
@@ -120,12 +124,15 @@ Best matches:
 - Backend Engineer
 - Back End Developer
 - Python Developer
-- Platform Engineer
+- Python Automation Engineer
+- QA Automation Python
+- API Testing / Test Automation Engineer
+- Support Engineer with Python
 - AI Automation Engineer
 - Artificial Intelligence Engineer with a workflow/backend focus
 - AI / Operations Automation Lead
-- DevOps / Self-Hosting Engineer
 - Integration Engineer
+- CRM/API Integration Engineer
 - Internal Tools / Ops Automation Engineer
 
 Details: [Remote Role Targets](./ROLE_TARGETS.md).

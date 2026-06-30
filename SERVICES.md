@@ -215,7 +215,7 @@ Output can include:
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) - remote-only
   service page with DriveDesk AI Operator and AI Ops Workflow Kit proof samples.
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) - public request-fit filter for
-  broad LinkedIn Services labels, backend/platform ownership, AI workflow, integration, data, and
+  broad LinkedIn Services labels, Python/backend ownership, AI workflow, integration, data, and
   DevOps work.
 - [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - first-contact route before the PDF resume or a paid-scope handoff.
 - [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) - concise context shape for a role, workflow, project, proof route, success condition, systems, constraints, and verification.

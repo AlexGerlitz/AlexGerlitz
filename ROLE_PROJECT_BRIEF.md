@@ -2,13 +2,13 @@
 
 ## One-Line Positioning
 
-Remote AI automation, backend/platform and DevOps engineer building DriveDesk: business operations,
-integrations, RAG workflows, FastAPI/PostgreSQL systems, Docker/CI deployment paths, and recovery
-runbooks.
+Remote Python/backend automation and AI workflow engineer building DriveDesk: business operations,
+integrations, RAG workflows, FastAPI/PostgreSQL systems, QA/API verification, Docker/CI handoff,
+and recovery runbooks.
 
 ## Best Fit
 
-- Remote-only backend / platform / DevOps / AI automation roles.
+- Remote-only Python/backend automation, internal tools, QA/API, integration, and AI automation roles.
 - Fixed-scope projects where the outcome is a working business system.
 - Internal tools, admin panels, CRM/ops MVPs, integration adapters, AI/RAG workflows, deployment and
   recovery hardening.

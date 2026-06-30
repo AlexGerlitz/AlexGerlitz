@@ -23,13 +23,13 @@ International role screen: distributed teams can inspect written proof, first-mo
 | [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) / [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) | First-role Python/backend bridge: bounded tasks, reviewable diffs, tests or smoke checks, docs, privacy boundary, and Autoschool synthetic proof. |
 | [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) | Ownership signal: incomplete business context -> risky boundary -> small verifiable delivery plan with backend-owned state, AI-output review, CI, smoke checks, docs, runbooks, and handoff notes. |
 | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) | International and Europe-compatible async-team readiness: architecture, state ownership, integration contracts, privacy, CI, runbooks, verification, Decision-Ready Contact, and handoff quality. |
-| [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) | Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, DevOps, and AI-native delivery discipline. |
+| [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) | Skill-to-proof map across Python, FastAPI, PostgreSQL, RAG, Docker/CI, CRM/ERP integration, QA/API verification, and AI-native delivery discipline. |
 
 Employer trigger router: message me for Python/backend automation, AI workflow/RAG, CRM/ERP/API integration, internal tools, QA/API verification, or reliability work when the first useful result should be a verified slice with tests, logs, docs, and handoff. Proof map: [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt), [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md), [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md), and [Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt).
 
 Search-fit titles: Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, Internal Tools Engineer, AI Automation Engineer, LLM Workflow / RAG Engineer.
 
-LinkedIn recruiter search alignment: remote-only full-time roles where Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM/ERP/API integration, Systems Integration, DevOps, OpenAPI, n8n, Telegram, or pgvector appear in the role.
+LinkedIn recruiter search alignment: remote-only full-time roles where Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM/ERP/API integration, Systems Integration, QA Automation Python, OpenAPI, n8n, Telegram, or pgvector appear in the role.
 Recruiter filter map: title filters, skill filters, remote/location fit, language/review fit, featured proof, and seniority/specialist signal all point to public evidence instead of loose keywords.
 Recruiter Boolean search strings: `("AI Automation Engineer" OR "LLM Workflow" OR RAG) AND (Python OR FastAPI) AND (CRM OR ERP OR integration)`, `(Python OR FastAPI) AND (PostgreSQL OR pgvector) AND (Docker OR "GitHub Actions")`, and `("Integration Engineer" OR "Systems Integration") AND (CRM OR ERP OR 1C OR banking OR webhooks)`.
 Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff, or DriveDesk AI Operator-style proof route.
@@ -40,7 +40,7 @@ Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, inter
 
 **Message reason router:** use [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) to choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context.
 
-Fast fit checklist: message me when the work is remote-only and needs a backend-owned AI workflow, CRM/ERP/API integration, internal operations tool, DevOps recovery/hardening path, or one first working slice with tests, logs, docs, and a handoff route. I am not positioning for onsite-only roles, pure prompt/content tasks, isolated static websites, student/course assignments, standalone game clones, generic mobile/ecommerce apps without backend/integration ownership, or vague work where success cannot be defined.
+Fast fit checklist: message me when the work is remote-only and needs a backend-owned AI workflow, CRM/ERP/API integration, internal operations tool, QA/API verification path, Docker/CI handoff, or one first working slice with tests, logs, docs, and a handoff route. I am not positioning for onsite-only roles, pure prompt/content tasks, isolated static websites, student/course assignments, standalone game clones, generic mobile/ecommerce apps without backend/integration ownership, or vague work where success cannot be defined.
 
 ## Decision Snapshot
 
@@ -52,7 +52,7 @@ Fast fit checklist: message me when the work is remote-only and needs a backend-
 
 ## Flagship Direction
 
-**DriveDesk AI Operator** is the sharpest current proof route: documents, call audio, transcripts, or CRM leads -> RAG, analysis, scoring, tasks, Telegram approval, and CRM handoff with backend-owned state, audit, retries, idempotency, and adapter contracts. The larger [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) connects that slice to roles, records, workflows, adapters, audit/outbox, admin/operator surfaces, DevOps, observability, backups, and recovery paths.
+**DriveDesk AI Operator** is the sharpest current proof route: documents, call audio, transcripts, or CRM leads -> RAG, analysis, scoring, tasks, Telegram approval, and CRM handoff with backend-owned state, audit, retries, idempotency, and adapter contracts. The larger [DriveDesk Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) connects that slice to roles, records, workflows, adapters, audit/outbox, admin/operator surfaces, Docker/CI handoff, observability, backups, and recovery paths.
 
 Since **March 2024**, I have supported Autoschool54 digital infrastructure remotely while turning real operational problems into a broader platform path: admin workflows, documents, schedules, payments, accounts, access, automation, deployment, logs, backups, and recovery paths.
 
@@ -75,6 +75,6 @@ Since **March 2024**, I have supported Autoschool54 digital infrastructure remot
 | AI workflow / RAG automation | Ingestion, retrieval, analysis, scoring, approvals, operator docs, tests, and metrics. |
 | CRM/ERP/accounting/banking integration | Explicit adapters, mappings, retries, logs, idempotency, rollout notes, and recovery path. |
 | Internal ops platform | FastAPI/PostgreSQL backend, admin UI, intake/admin handoff, roles, audit trail, workflows, deployment, runbook. |
-| DevOps / self-hosting hardening | Docker, CI/release gates, health checks, logs, backups, smoke checks, and rollback procedure. |
+| Reliability / Docker handoff | Docker, CI/release gates, health checks, logs, backups, smoke checks, and rollback procedure. |
 
 LinkedIn: [linkedin.com/in/alex-gerlitz-a659ab3bb](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) · [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)

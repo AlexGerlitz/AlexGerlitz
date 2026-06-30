@@ -8,7 +8,7 @@ I use this as the aligned Open-to-Work and recruiter-search preference set for r
 
 | Field | Preference |
 | --- | --- |
-| Visible LinkedIn Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer. |
+| Target LinkedIn Open-to-Work titles | Junior Backend Developer, Junior Python Developer, Python Developer, Python Automation Engineer, QA Automation Python, Integration Engineer, Support Engineer with Python. |
 | Search expansion titles | Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, AI Automation Engineer, Internal Tools Engineer, LLM Workflow / RAG Engineer. |
 | Location type | Remote. |
 | Remote locations | Russian-speaking product/backend teams, international remote teams, Europe-compatible remote teams, US-compatible async teams, and distributed product/operations teams. |
@@ -24,16 +24,16 @@ I use this as the public filter map for LinkedIn Recruiter-style searches and fa
 | Filter | Match signal | Proof route |
 | --- | --- | --- |
 | Title | Junior Backend Developer, Junior Python Developer, Python Automation Engineer, QA Automation Python, Support Engineer with Python, Back End Developer, Python Developer, AI Automation Engineer, Integration Engineer, LLM Workflow / RAG Engineer. | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) |
-| Skills | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, pgvector, CRM/ERP/API integration, Systems Integration, OpenAPI, DevOps, n8n, Telegram. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
+| Skills | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, pgvector, CRM/ERP/API integration, Systems Integration, OpenAPI, QA Automation Python, n8n, Telegram. | [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
 | Remote / location | Remote-only, international distributed teams, Europe-compatible async review, and written handoff. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
 | Language / review | Russian-speaking product review or English-first public docs, async proof routes, CI, smoke checks, runbooks, diagrams, and handoff notes. | [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | Application / ATS shortlist | Parser-readable lanes for Python backend/internal tools, Integration/API/CRM, QA Automation Python, and AI workflow automation. | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) |
 | Featured proof | Delivery Capability, Application Fit Pack, First Backend Role Screen, Backend First Screen, Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, DriveDesk Core, AI Backend Proof Pack, Enterprise Readiness, Decision-Ready Contact, and PDF Resume. | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) |
-| Seniority / specialist signal | Backend-owned state, AI-output review, CRM/ERP/API adapter contracts, privacy boundary, audit, retries, idempotency, DevOps recovery, and runbooks. | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
+| Seniority / specialist signal | Backend-owned state, AI-output review, CRM/ERP/API adapter contracts, privacy boundary, audit, retries, idempotency, smoke checks, and runbooks. | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
 
 ## Recruiter Search Keywords
 
-Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM, ERP, Systems Integration, API Integration, n8n, Telegram, DevOps, OpenAPI, pgvector, CI, runbooks, audit logs, idempotency, retries, backend-owned state, and operational handoff.
+Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM, ERP, Systems Integration, API Integration, n8n, Telegram, QA Automation Python, OpenAPI, pgvector, CI, runbooks, audit logs, idempotency, retries, backend-owned state, and operational handoff.
 
 ## Recruiter Boolean Search Strings
 
@@ -43,9 +43,9 @@ I use short keyword strings when a recruiter needs to find my profile by technic
 - `(Python OR FastAPI OR SQL) AND ("internal tools" OR admin OR automation) AND (remote OR junior)`
 - `(Python OR FastAPI) AND (PostgreSQL OR pgvector) AND (Docker OR "GitHub Actions") AND (remote OR async)`
 - `("QA Automation" OR "Test Automation" OR "API Testing") AND Python AND (REST OR OpenAPI OR pytest)`
-- `("Backend Platform Engineer" OR "Platform Engineer") AND (OpenAPI OR audit OR outbox OR "workflow state")`
+- `("Backend Automation Engineer" OR "Internal Tools Engineer") AND (OpenAPI OR audit OR outbox OR "workflow state")`
 - `("Integration Engineer" OR "Systems Integration") AND (CRM OR ERP OR 1C OR banking OR webhooks) AND (idempotency OR retries OR audit)`
-- `(DevOps OR self-hosting) AND (Docker OR CI OR "health checks" OR runbooks) AND FastAPI`
+- `(Docker OR "Docker Compose" OR CI OR "health checks" OR runbooks) AND FastAPI AND Python`
 
 ## LinkedIn Skills Search Surface
 
@@ -55,14 +55,14 @@ inspectable proof instead of staying as a loose keyword.
 
 | Skill cluster | LinkedIn surface | Public proof |
 | --- | --- | --- |
-| Backend / platform | Headline, About, Skills, Autoschool54 experience, Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, and DriveDesk Core route. | [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html), [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html), [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html), [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html), [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| Python / backend / internal tools | Headline, About, Skills, Autoschool54 experience, Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, and DriveDesk Core route. | [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html), [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html), [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html), [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html), [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | AI workflow / RAG | Headline, About, Skills, Featured DriveDesk Proof Route, and AI Ops proof links. | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md), [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) |
 | CRM / ERP / API integration | About, Experience, Skills, Services, and proof routes for adapter contracts and handoff. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html), [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |
-| DevOps / reliability | Experience, Skills, Featured verification routes, and proof projects with CI/smoke/runbook evidence. | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [First 30 Days Delivery Plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html) |
+| Reliability / Docker handoff | Experience, Skills, Featured verification routes, and proof projects with CI/smoke/runbook evidence. | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [First 30 Days Delivery Plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html) |
 
 Best high-signal skills to keep aligned across LinkedIn and proof routes: Python, FastAPI,
 PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CRM, ERP, API
-Integration, Systems Integration, DevOps, n8n, Telegram, runbooks, audit logs, idempotency,
+Integration, Systems Integration, QA Automation Python, n8n, Telegram, runbooks, audit logs, idempotency,
 retries, and operational handoff.
 
 Verified LinkedIn skill-filter state as of 2026-06-30: the visible All skills view surfaces
@@ -77,9 +77,9 @@ Python/PostgreSQL/Docker/CRM/System Integration proof routes.
 
 | Surface | Current target | Proof / next check |
 | --- | --- | --- |
-| Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Platform Engineer, DevOps Engineer. | Keep these aligned with the headline, About, resume, Delivery Capability, Application Fit Pack, Role Targets, and AI Backend Proof Pack. |
+| Open-to-Work titles | Junior Backend Developer, Junior Python Developer, Python Developer, Python Automation Engineer, QA Automation Python, Integration Engineer, Support Engineer with Python. | Keep these aligned with the headline, About, resume, Delivery Capability, Application Fit Pack, Role Targets, and AI Backend Proof Pack. |
 | Search expansion titles | Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, AI Automation Engineer, Internal Tools Engineer, LLM Workflow / RAG Engineer. | Use these in posts, proof routes, and recruiter search strings rather than widening into unrelated roles. |
-| Top skills order target | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CRM, ERP, API Integration, Systems Integration, DevOps, n8n, Telegram, audit logs, idempotency, retries, runbooks. | Keep the first visible skills tied to proof, not generic AI claims. |
+| Top skills order target | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CRM, ERP, API Integration, Systems Integration, QA Automation Python, n8n, Telegram, audit logs, idempotency, retries, runbooks. | Keep the first visible skills tied to proof, not generic AI claims. |
 | Verified LinkedIn skill filters | All view: Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, CRM. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. | Keep Python-first visibility tied to proof; next live Skills pass should surface FastAPI, GitHub Actions, and RAG more strongly if LinkedIn exposes clean controls. |
 | Services search surface | Cloud Application Development, Web Development, Application Development, Custom Software Development, Information Management, and IT Consulting are broad marketplace labels; the live overview and media route them to AI workflow, backend, integration, and proof evidence. | Route each request through LinkedIn Services Fit, Services, Fixed-Scope Offers, and DriveDesk Proof Route. |
 | Services response loop | Target first response: fit/no-fit, risky assumptions, smallest responsible first slice, proof route, and handoff path. | Strongest for requests that name the current workflow, systems involved, one observable success condition, and what must not break. |
@@ -90,12 +90,12 @@ This page mirrors the visible LinkedIn setup I want recruiters to see before sen
 
 | Surface | Current signal |
 | --- | --- |
-| Headline | AI Automation / Backend / Platform Engineer with RAG, LLM workflows, CRM/ERP integrations, FastAPI, Docker, DevOps, and DriveDesk AI Operator. |
+| Headline | Python Backend Automation Engineer with internal tools, API/CRM integrations, QA Automation Python, FastAPI, PostgreSQL, and DriveDesk AI Operator. |
 | About / Experience | First-person ownership language around backend-owned AI workflow and operations systems, the AI-native delivery loop, proof-slice contact language, real business infrastructure support since March 2024, and remote Autoschool54 work. |
 | Featured route | LinkedIn Proof Signal first, then Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, DriveDesk Proof Route, Fixed-Scope AI Automation Offers, and DriveDesk Core; AI Backend Proof Pack, Enterprise Readiness, LinkedIn Recruiter Packet, Decision-Ready Contact, and PDF Resume are routed from GitHub/Pages. |
-| Open-to-Work | Remote job titles and skill filters aligned with backend/platform, AI automation, integration, and DevOps ownership. |
+| Open-to-Work | Remote job titles and skill filters aligned with Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, and reliability handoff. |
 | Resume / handoff | Decision-Ready Contact and Start Conversation routes before PDF Resume for internal sharing. |
-| Services | Live LinkedIn Services overview and media route requests toward backend-owned AI workflow, integration, internal-platform, DevOps, or data-workflow proof instead of generic web/app work. |
+| Services | Live LinkedIn Services overview and media route requests toward backend-owned AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow proof instead of generic web/app work. |
 
 ## LinkedIn Profile Copy Pack
 
@@ -104,7 +104,7 @@ I use this copy to keep the profile headline, About direction, Featured order, a
 Headline copy:
 
 ```text
-AI Automation / Backend / Python Engineer | FastAPI, PostgreSQL, RAG, Telegram/Admin Workflows, CRM/ERP Integrations | DriveDesk / Autoschool54
+Python Backend Automation Engineer | Internal Tools, API/CRM Integrations, QA Automation Python | DriveDesk / Autoschool54
 ```
 
 About direction copy:
@@ -129,14 +129,14 @@ Public evidence boundary: Use synthetic screenshots or diagrams only; do not use
 | Python Backend, Internal Tools, or Support Engineer with Python | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
 | QA Automation Python, API Testing, or Test Automation Engineer | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | AI Automation, LLM Workflow, or RAG Engineer | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
-| Backend, Python, or Platform Engineer | [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| Python Backend, Internal Tools, or Integration Engineer | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | CRM, ERP, API Integration, or Internal Tools | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) -> [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) |
-| DevOps, reliability, or operational handoff | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
+| Reliability, Docker/CI, or operational handoff | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
 
 ## Proof Map
 
 1. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) - search fit, proof order, and first result.
-2. [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) - current role-market fit, first useful workflow slice, AI-assisted delivery boundary, and DevOps/Docker boundary.
+2. [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) - current role-market fit, first useful workflow slice, AI-assisted delivery boundary, and Docker/CI handoff boundary.
 3. [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) - parser-readable application lanes, exact keywords, first useful result, proof route, and not-my-first-lane boundary.
 4. [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) - first-role backend proof for bounded tickets, reviewable diffs, tests or smoke checks, docs, and handoff.
 5. [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) - fast backend/internal-tools proof route before deeper portfolio review.
@@ -144,7 +144,7 @@ Public evidence boundary: Use synthetic screenshots or diagrams only; do not use
 7. [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) - precise role-fit route for AI automation, RAG, structured outputs, approvals, CRM/API handoff, tests, logs, and runbooks.
 8. [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) - flagship backend-owned AI workflow proof route.
 9. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) - 30-second role screen and first-month ownership.
-10. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) - compact route through backend/platform, AI workflow, integration, DevOps, CI, and resume proof.
+10. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) - compact route through Python/backend automation, AI workflow, integration, Docker/CI boundary, verification, and resume proof.
 11. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international and Europe-compatible remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.
 12. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - minimum context, fit read, risk check, smallest responsible first slice, proof path, and next route.
 13. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) - compact resume route after the decision-ready contact context is clear.
