@@ -43,6 +43,18 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://alexgerlitz.github.io/AlexGerlitz/DELIVERY_CAPABILITY.md</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://alexgerlitz.github.io/AlexGerlitz/llms.txt</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
