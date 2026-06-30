@@ -789,7 +789,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Enterprise Readiness Markdown",
             "structured broad-category, best-fit request, not-fit service filter, and services decision-route data",
             "Employer Decision Path",
-            "2-minute fit check: Enterprise Readiness -> Role Fit Pack -> Decision-Ready Contact -> PDF resume.",
+            "2-minute fit check: Delivery Capability -> Enterprise Readiness -> Role Fit Pack -> Decision-Ready Contact -> PDF resume.",
             "10-minute technical review: AI Ops reviewer snapshot, DriveDesk Core, and verification pack.",
             "30-minute specialist review: privacy boundary, live owner proof, DeployMate proof, current CI/smoke routes, and handoff evidence.",
             "Search-Fit Role Targets",
