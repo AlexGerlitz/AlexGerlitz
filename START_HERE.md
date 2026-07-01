@@ -74,6 +74,8 @@ Deep review route:
 [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) ->
 [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) ->
 [AI Backend Proof Pack](./AI_BACKEND_PROOF_PACK.md) ->
+[AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) ->
+[AI Automation Role Fit Markdown](./AI_AUTOMATION_ROLE_FIT.md) ->
 [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) ->
 [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) ->
 [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) ->
