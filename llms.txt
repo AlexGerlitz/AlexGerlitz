@@ -8,6 +8,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 - [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html): role-market fit for AI-assisted Python automation, internal tools, backend integration, QA Automation Python bridge, Docker/Compose boundary, parser-readable keywords, first useful workflow slice, verification, and handoff.
 - [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html): parser-readable role application lanes for Python backend/internal tools, Integration/API/CRM, QA Automation Python, AI workflow automation, exact stack keywords, role-specific proof routes, and first application message shape.
+- [Application Outreach Pack](https://alexgerlitz.github.io/AlexGerlitz/application-outreach-pack.html): role-specific application and recruiter-message layer with first-person outreach blocks, ATS keyword bundles, vacancy triage, truthful Docker/CI and AI boundaries, privacy limits, and proof routes for Python backend, QA/API Python, integration/API/CRM, and AI workflow roles.
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html): backend-owned AI workflow proof for RAG, transcript analysis, privacy redaction, lead scoring, approvals, CRM handoff, audit, retries, and adapter boundaries.
 - [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html): first-role Python/backend bridge for Junior Backend Developer, Junior Python Developer, Back End Developer, Internal Tools Developer, and Integration Developer screens, with bounded tasks, reviewable diffs, tests or smoke checks, docs, privacy boundary, and public-safe Autoschool proof.
 - [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html): fast backend/internal-tools screen for Back End Developer, Python Developer, Backend Engineer, Internal Tools Engineer, and Integration Engineer roles, using Autoschool intake/admin proof, the synthetic demo seed, DriveDesk Core, skill evidence, Decision-Ready Contact, and PDF resume.
@@ -41,7 +42,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 
 ## Employer Decision Path
 
-- 2-minute fit check: Delivery Capability -> Application Fit Pack -> Enterprise Readiness -> Role Fit Pack -> Decision-Ready Contact -> PDF resume.
+- 2-minute fit check: Delivery Capability -> Application Fit Pack -> Application Outreach Pack -> Enterprise Readiness -> Role Fit Pack -> Decision-Ready Contact -> PDF resume.
 - 10-minute technical review: AI Ops reviewer snapshot, DriveDesk Core, and verification pack.
 - 30-minute specialist review: privacy boundary, live owner proof, DeployMate proof, current CI/smoke routes, and handoff evidence.
 
@@ -76,10 +77,10 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - Copy-ready first messages cover remote role screens, workflow projects, and technical proof reviews.
 - Message prompt anchors: "Can you send the best proof route and the smallest first slice you would own?", "Can you map the risks, proof route, and first responsible slice?", and "strongest repo, CI/live-smoke evidence".
 - Inbound offer fit: best messages name one remote Python/backend automation role, internal tools role, API/CRM integration boundary, QA automation path, AI workflow, or reliability need plus one success condition, systems involved, ownership boundary, timeline, and compensation band if shareable.
-- Shortest inbound path: Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Delivery Capability -> Application Fit Pack -> Hiring Decision -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route -> AI Backend Proof Pack -> PDF resume.
+- Shortest inbound path: Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Delivery Capability -> Application Fit Pack -> Application Outreach Pack -> Hiring Decision -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route -> AI Backend Proof Pack -> PDF resume.
 - First useful result: a verified slice with backend-owned state, tests, logs, docs, and a handoff route.
 - Message reason router: use Start conversation to choose remote role hiring, workflow/project, or technical proof review before sending LinkedIn context.
-- Recruiter shortcut: for a remote role, message first through Decision-Ready Contact with role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable, then use LinkedIn Recruiter Packet, Delivery Capability, Application Fit Pack, Hiring decision route, Recruiter Preferences, Remote role targets, Skill evidence, recruiter Boolean search strings, and the PDF resume. Best match: Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, or reliability handoff.
+- Recruiter shortcut: for a remote role, message first through Decision-Ready Contact with role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable, then use LinkedIn Recruiter Packet, Delivery Capability, Application Fit Pack, Application Outreach Pack, Hiring decision route, Recruiter Preferences, Remote role targets, Skill evidence, recruiter Boolean search strings, and the PDF resume. Best match: Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, or reliability handoff.
 - [LinkedIn profile](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
@@ -88,6 +89,7 @@ This is the AI-readable proof index for my public GitHub/LinkedIn review route. 
 - [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 - [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
+- [Application Outreach Pack](https://alexgerlitz.github.io/AlexGerlitz/application-outreach-pack.html)
 - [Inbound brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html): role, project, proof-backed offer route, success condition, systems involved, constraints, and verification context.
 - [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
 - [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)

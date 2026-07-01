@@ -90,6 +90,11 @@ I keep first messages short and role-specific:
 4. I attach one proof route instead of many random links.
 5. I ask for the first task shape, review owner, and success check.
 
+For copy-ready vacancy replies and recruiter-message variants, I use
+[Application Outreach Pack](https://alexgerlitz.github.io/AlexGerlitz/application-outreach-pack.html).
+It turns this fit map into first-person messages, ATS keyword bundles, vacancy triage, truthful
+Docker/CI and AI boundaries, privacy limits, and lane-specific proof routes.
+
 Example:
 
 ```text
