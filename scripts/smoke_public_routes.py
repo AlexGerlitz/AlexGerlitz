@@ -2769,7 +2769,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "ai-ops-public-proof-status",
         "https://raw.githubusercontent.com/AlexGerlitz/ai-ops-workflow-kit/main/docs/PUBLIC_PROOF_STATUS.md",
-        ("Public Proof Status", "AI Ops Workflow Kit"),
+        ("Public Evidence Status", "AI Ops Workflow Kit"),
     ),
     RouteCheck(
         "ai-ops-hiring-signal-brief",
@@ -2802,7 +2802,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "ai-ops-live-owner-proof",
         "https://raw.githubusercontent.com/AlexGerlitz/ai-ops-workflow-kit/main/docs/LIVE_OWNER_PROOF.md",
-        ("Live Owner Proof", "Telegram"),
+        ("Live Owner Evidence", "Telegram"),
     ),
 )
 
