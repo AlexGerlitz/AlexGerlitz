@@ -25,14 +25,14 @@ Live checked on 2026-07-01.
 | LinkedIn surface | Current public signal |
 | --- | --- |
 | Headline | Python Backend Automation Engineer with DriveDesk, internal tools, API/CRM integrations, QA Automation Python, RAG/LLM workflows, FastAPI, and Docker. |
-| Open-to-Work | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, and Integration Engineer. |
+| Current live Open-to-Work | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, and Integration Engineer. |
 | About | Live About now starts with Python/backend automation and internal tools for real business workflows, foregrounds Autoschool Intake/Admin as first-role proof, states the AI-tools responsibility boundary, targets remote Junior Backend / Python / QA Automation Python / API Testing / Integration / Support Engineer with Python roles, and keeps Docker/CI as handoff evidence, not senior DevOps or platform ownership. |
 | Experience | Profile shows AutoSchool54 / Автошкола 54 remote infrastructure support since March 2024. |
 | Featured route | LinkedIn Proof Signal first, then DriveDesk AI Operator - Proof Route, Fixed-Scope AI Automation Offers, and DriveDesk Core; extended proof stack is routed through GitHub/Pages. |
 | Services | Available remote Services route for concrete backend-owned AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow requests. |
 | Skills surface | All view: Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. |
 
-Current/live boundary: LinkedIn About is live-updated and verified on the visible profile. The visible LinkedIn Featured route above is still the last live-checked Featured state. The recommended next first-job Featured order is LinkedIn Proof Signal -> Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk AI Operator proof route; I do not claim this Featured reorder as live until the LinkedIn profile visibly shows it.
+Current/live boundary: LinkedIn About is live-updated and verified on the visible profile. Open-to-Work still needs an owner-confirmed title cleanup so Artificial Intelligence Engineer stops being the main first-job filter. The visible LinkedIn Featured route above is still the last live-checked Featured state. The recommended next first-job Featured order is LinkedIn Proof Signal -> Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk AI Operator proof route; I do not claim this Featured reorder as live until the LinkedIn profile visibly shows it.
 
 ## LinkedIn Activation Status
 
@@ -54,7 +54,7 @@ Checked on 2026-07-01.
 
 | Check | Current decision |
 | --- | --- |
-| LinkedIn Open-to-Work | Current live target titles are recorded above. Preferred next edit target is Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, and Integration Engineer if LinkedIn exposes those titles. |
+| LinkedIn Open-to-Work | Current live titles are recorded above. Recommended next edit target is Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, and Integration Engineer if LinkedIn exposes those titles; if not, keep Back End Developer and Python Developer, then route AI through backend, QA/API, and integration proof. |
 | LinkedIn Skills | Keep Python, REST APIs, OpenAPI, GitHub, Systems Integration, FastAPI, Docker, PostgreSQL, and QA/API terms tied to public proof. Do not treat DevOps as the main role claim. |
 | LinkedIn Featured | Use Featured for proof samples: LinkedIn Proof Signal, Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, and DriveDesk proof routes. |
 | GitHub profile | Keep the profile README, pinned repos, Pages routes, and PDF resume aligned because they are the first public proof surface. |

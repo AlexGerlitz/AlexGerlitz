@@ -6,7 +6,7 @@ I use this packet when a LinkedIn search, profile view, or first message needs a
 
 ## 30-Second Fit
 
-- Target LinkedIn Open-to-Work titles: Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer.
+- Recommended LinkedIn Open-to-Work titles: Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. Current live cleanup is to stop using Artificial Intelligence Engineer as the main first-job filter if LinkedIn exposes a suitable replacement.
 - Search expansion titles: Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, AI Automation Engineer, Internal Tools Engineer, LLM Workflow / RAG Engineer.
 - Strong match: first-job remote Python/backend automation, internal tools, API/CRM integrations, QA automation Python bridge, backend-owned AI workflow, or reliability work around Docker/CI/runbooks.
 - Docker/CI boundary: Docker Compose, GitHub Actions, health checks, and runbooks support handoff proof; I do not lead with senior DevOps, Kubernetes, Terraform, or cloud platform ownership as the main claim.

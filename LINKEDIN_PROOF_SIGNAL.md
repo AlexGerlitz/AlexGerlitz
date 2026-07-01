@@ -128,13 +128,13 @@ Docker/CI is part of my handoff evidence; my first lane is backend/internal tool
 Fast proof route: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
 ```
 
-Open-to-Work titles:
+Current live Open-to-Work titles:
 
 ```text
 Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer
 ```
 
-Preferred next Open-to-Work edit target, if the live LinkedIn title picker allows it:
+Recommended Open-to-Work edit target, if the live LinkedIn title picker allows it:
 
 ```text
 Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer
