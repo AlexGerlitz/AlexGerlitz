@@ -135,15 +135,27 @@
     .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
     .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
     .two { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 14px; }
+    .grid > *, .two > * { min-width: 0; }
     ul, ol { margin: 0; padding-left: 20px; }
     li { margin: 7px 0; }
     table { width: 100%; border-collapse: collapse; }
     th, td { border-top: 1px solid var(--line); padding: 10px; text-align: left; vertical-align: top; }
     th { color: var(--muted); font-size: 0.9rem; }
+    .hero, .panel, .card, th, td { overflow-wrap: anywhere; }
     .tag-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
     .tag { border: 1px solid var(--line); border-radius: 999px; padding: 5px 9px; background: var(--soft); color: var(--blue); font-size: 0.86rem; font-weight: 700; }
     .tag.green { background: var(--green); color: var(--accent); }
-    @media (max-width: 920px) { .grid, .two { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .actions { display: grid; } .button, .nav a { width: 100%; } }
+    @media (max-width: 920px) {
+      .grid, .two { grid-template-columns: 1fr; }
+      h1 { font-size: 2rem; }
+      .actions { display: grid; }
+      .button, .nav a { width: 100%; }
+      table, thead, tbody, tr, th, td { display: block; width: 100%; }
+      thead { display: none; }
+      tr { border-top: 1px solid var(--line); padding: 8px 0; }
+      th, td { border-top: 0; padding: 6px 0; }
+      th { font-size: 0.78rem; text-transform: uppercase; }
+    }
   </style>
 </head>
 <body>
@@ -410,7 +422,7 @@
           </tr>
           <tr>
             <th>Profile direction summary</th>
-            <td>I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL backends, admin queues, REST/OpenAPI contracts, CRM/ERP/API adapters, pytest/API smoke checks, Docker/CI handoff, runbooks, and recovery paths. Fastest evidence to review: PDF resume -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> AI Ops Workflow Kit.</td>
+            <td>I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL backends, admin queues, REST/OpenAPI contracts, CRM/ERP/API adapters, pytest/API smoke checks, Docker/CI handoff, runbooks, and recovery paths. Fastest evidence to review: LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume. Open AI Ops Workflow Kit after the backend slice for deeper AI workflow review.</td>
           </tr>
           <tr>
             <th>LinkedIn About replacement</th>

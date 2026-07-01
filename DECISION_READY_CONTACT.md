@@ -21,7 +21,7 @@ fixed-scope project, technical review, or no-fit.
 | --- | --- |
 | Send this | Role title, remote setup, stack, first-month ownership, timeline, compensation band if shareable, and one success condition. |
 | I reply with | Fit read, risky assumptions, smallest responsible first slice, review path to inspect, and the right next route. |
-| Open first | LinkedIn Recruiter Packet -> PDF Resume -> First Backend Role Fit -> Autoschool Intake/Admin work sample. |
+| Open first | LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF Resume. |
 | Do not send first | Vague "do you fit?" messages without a role, stack, ownership surface, or success condition. |
 
 ## Recruiter Offer Triage

@@ -78,7 +78,7 @@ This is the AI-readable review index for my public GitHub/LinkedIn route. It is 
 - First-contact prompts cover remote role screens, workflow projects, and technical reviews.
 - Message prompt anchors: "Can you send the best review path and the smallest first slice you would own?", "Can you map the risks, review path, and first responsible slice?", and "strongest repo, CI/live-smoke evidence".
 - Inbound offer fit: best messages name one remote Python/backend automation role, internal tools role, API/CRM integration boundary, QA automation path, AI workflow, or reliability need plus one success condition, systems involved, ownership boundary, timeline, and compensation band if shareable.
-- Fastest recruiter route: Message on LinkedIn -> Recruiter review pack -> PDF resume -> First Backend Role Fit -> Autoschool Intake/Admin work sample.
+- Fastest recruiter route: Message on LinkedIn -> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter review pack -> PDF resume.
 - First useful result: a verified slice with backend-owned state, tests, logs, docs, and a handoff route.
 - Message reason router: use Start conversation to choose remote role hiring, workflow/project, or technical review before sending LinkedIn context.
 - Recruiter shortcut: send role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable. Best match: Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, or reliability handoff.

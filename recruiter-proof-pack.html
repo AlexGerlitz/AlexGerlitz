@@ -275,11 +275,16 @@
     }
     @media (max-width: 820px) {
       .document { margin: 0; box-shadow: none; }
-      .page { width: auto; min-height: auto; padding: 22px 18px 76px; }
+      .page { width: auto; min-height: auto; padding: 22px 18px 76px; overflow: visible; }
       .hero, .grid, .two, .timeline, .roles, .contact { grid-template-columns: 1fr; }
       .name { font-size: 2.4rem; }
       .statement { font-size: 1.55rem; }
       .footer { position: static; margin-top: 24px; }
+      .panel, .signal, .route, .sample-table, .sample-table th, .sample-table td { overflow-wrap: anywhere; }
+      .sample-table, .sample-table thead, .sample-table tbody, .sample-table tr, .sample-table th, .sample-table td { display: block; width: 100%; }
+      .sample-table thead { display: none; }
+      .sample-table tr { border-top: 1px solid var(--line); padding: 8px 0; }
+      .sample-table th, .sample-table td { border-top: 0; padding: 4px 0; }
     }
   </style>
 </head>
@@ -352,7 +357,7 @@
       </section>
 
       <section class="route">
-        <p><strong>Suggested review path:</strong> LinkedIn message -> PDF resume -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Decision-Ready Contact.</p>
+        <p><strong>Suggested review path:</strong> LinkedIn message -> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume -> Decision-Ready Contact.</p>
       </section>
 
       <footer class="footer">
@@ -440,7 +445,7 @@
       <section class="route">
         <p><strong>Contact:</strong> LinkedIn - linkedin.com/in/alex-gerlitz-a659ab3bb | GitHub - github.com/AlexGerlitz</p>
         <p><strong>Portfolio:</strong> alexgerlitz.github.io/AlexGerlitz | PDF resume - /output/pdf/alex-gerlitz-python-backend-automation-resume.pdf</p>
-        <p><strong>Review path:</strong> /linkedin-recruiter-packet.html -> /decision-ready-contact.html -> /first-backend-role.html</p>
+        <p><strong>Review path:</strong> /linkedin-recruiter-packet.html -> /first-backend-role.html -> /autoschool-intake-admin.html -> /decision-ready-contact.html</p>
       </section>
 
       <footer class="footer">
