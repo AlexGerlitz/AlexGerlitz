@@ -65,24 +65,22 @@ state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
 
 ## Current Experience
 
-### Python Backend Automation / Internal Tools Engineer
+### Python Backend & Application Support Engineer
 
 **Autoschool54 / DriveDesk backend/internal-tools work**
 Remote, March 2024 - Present
 
-Remote AI-assisted backend/internal-tools and digital operations support for a live driving-school operation.
+Remote Python/backend and application-support work for a live driving-school operation.
 
 Scope:
 
-- business workflows and admin/operator support;
+- internal tools, Telegram intake -> admin workflows, API/CRM-style handoff, SQL/data checks, and admin/operator support;
 - student/admin processes, documents, schedules, payments, accounts, access, and troubleshooting;
-- internal documentation, automation, backups, deployment/support thinking, and recovery paths;
+- internal documentation, automation, deployment/support notes, privacy boundaries, and recovery paths;
 - translating unclear non-technical operational problems into technical actions, checklists, fixes,
   and repeatable workflows;
-- using LLMs daily for domain learning, debugging, scripting, implementation review, documentation,
-  comparison of approaches, and root-cause analysis;
-- verifying AI outputs through inspection, tests, logs, smoke checks, docs, and hands-on
-  review before shipping.
+- using AI tools for domain research, implementation options, debugging, tests, documentation, and review;
+- verifying AI-assisted work through inspection, tests or smoke checks, logs, comparison, and written notes before shipping.
 
 Public proof built from the same operational base:
 

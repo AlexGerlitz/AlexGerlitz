@@ -106,7 +106,7 @@ This page mirrors the visible LinkedIn setup I want recruiters to see before sen
 | Surface | Current signal |
 | --- | --- |
 | Headline | Python Backend Developer with FastAPI, PostgreSQL, internal tools, API/CRM integrations, QA Automation Python, and DriveDesk proof routes. |
-| About / Experience | First-person ownership language around backend-owned AI workflow and operations systems, the AI-native delivery loop, proof-slice contact language, real business infrastructure support since March 2024, and remote Autoschool54 work. |
+| About / Experience | First-person ownership language around Python backend/application-support work, backend-owned AI workflow and operations systems, the AI-native delivery loop, proof-slice contact language, real Autoschool54 operations since March 2024, and privacy-safe public proof. |
 | Featured route | LinkedIn Proof Signal first, then Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin Proof, DriveDesk Proof Route, and DriveDesk Core; AI Backend Proof Pack, Verification Pack, LinkedIn Recruiter Packet, Decision-Ready Contact, and PDF Resume are routed from GitHub/Pages. |
 | Open-to-Work | Remote job titles and skill filters aligned with Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, and reliability handoff. |
 | Resume / handoff | Decision-Ready Contact and Start Conversation routes before PDF Resume for internal sharing. |

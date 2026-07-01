@@ -35,7 +35,7 @@ The value is speed through uncertainty with engineering discipline still intact.
 
 ## Current Proof
 
-- **Autoschool54 / DriveDesk private work:** remote digital infrastructure support since March 2024,
+- **Autoschool54 / DriveDesk private work:** remote backend/application-support work since March 2024,
   including business workflows, admin/operator support, automation, PostgreSQL/Docker thinking,
   backups, release/recovery work, and documentation.
 - **DriveDesk Core:** public FastAPI/PostgreSQL SaaS backend foundation with tenant model, RBAC,

@@ -15,7 +15,7 @@ For role-level matching, see [Remote Role Targets](./ROLE_TARGETS.md).
 | Support Engineer with Python | Docker runtime work, CI/CD, deployment control panel proof, health checks, logs, release gates, runbooks, recovery thinking. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
 | Integration Engineer | Explicit adapter contracts, mapping/validation mindset, CRM/ERP/1C/banking boundaries, webhooks, sync and rollout docs. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
 | Internal Tools Engineer | Admin/operator workflow thinking, FastAPI/PostgreSQL backend surfaces, roles, records, tasks, audit, docs, deployment path. | [Proof of Work](./PROOF_OF_WORK.md) |
-| Remote Operator / Builder | Autoschool54 digital infrastructure support since March 2024, remote troubleshooting, workflows, docs, backups, deploy/recovery thinking. | [Role / Project Brief](./ROLE_PROJECT_BRIEF.md) |
+| Remote Operator / Builder | Autoschool54 backend/application-support work since March 2024, remote troubleshooting, workflows, docs, backups, deploy/recovery thinking. | [Role / Project Brief](./ROLE_PROJECT_BRIEF.md) |
 
 ## Skill-To-Proof Map
 

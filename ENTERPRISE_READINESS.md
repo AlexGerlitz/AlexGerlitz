@@ -82,7 +82,7 @@ This is the useful hiring signal: not generic AI tooling, but a rare overlap of 
 
 | Specialist signal | Public proof | Why it matters |
 | --- | --- | --- |
-| Real operations context | Autoschool54 digital infrastructure support since March 2024, DriveDesk backend workflow proof path, and public proof routes | The work is grounded in real admin/operator workflows, not only portfolio exercises. |
+| Real operations context | Autoschool54 backend/application-support work since March 2024, DriveDesk backend workflow proof path, and public proof routes | The work is grounded in real admin/operator workflows, not only portfolio exercises. |
 | Backend-owned AI systems | DriveDesk AI Operator, AI Ops Workflow Kit, FastAPI/PostgreSQL, pgvector, approvals, audit, retries, and idempotency | AI workflows stay reviewable because state, quality checks, and external writes have explicit backend boundaries. |
 | Integration depth | CRM/ERP/API/1C/accounting/banking adapter proof surface, Bitrix dry-run handoff, Telegram approval, and adapter contracts | Business systems need field mapping, validation, retries, idempotency, and rollback notes, not hidden automation glue. |
 | Production review discipline | CI, smoke checks, verification pack, live owner proof, privacy boundary, runbooks, and public-safe evidence | A remote team can inspect risk, behavior, and handoff quality before a live walkthrough. |
