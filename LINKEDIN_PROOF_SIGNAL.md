@@ -150,99 +150,41 @@ Hi, I am interested in this remote Python/backend automation role. I can send a 
 
 Live update order: GitHub bio -> LinkedIn headline -> LinkedIn About replacement -> Open-to-Work titles -> Featured order.
 
-## LinkedIn Update Draft
+## Role Fit Signal
+
+Shortest public summary for LinkedIn profile views, recruiter screens, and hiring-manager forwards.
 
 ```text
-I refreshed my public review path for remote Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability work.
+Remote Junior Python Backend / API Automation.
 
-What to inspect first:
-- Delivery Capability: my current role-market fit, first useful workflow slice, AI-assisted delivery boundary, Docker/CI boundary, and first-job application lane.
-- Application Fit Pack: parser-readable lanes for Python backend/internal tools, Integration/API/CRM, QA Automation Python, and AI workflow automation.
-- First Backend Role Fit: bounded Python/backend tasks I can take under review, with tests or smoke checks, docs, and handoff.
-- LinkedIn profile signal: the first Featured card is LinkedIn Review Signal, and the live Skills surface maps CI/CD, Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, FastAPI, Docker, and PostgreSQL to public evidence while CRM/API integration remains evidence-backed through About, Services, and public routes.
-- Autoschool Intake/Admin work sample: first-job backend evidence for Telegram intake -> backend validation -> database record -> admin queue -> operator status workflow, including a synthetic demo seed at data/autoschool-intake-admin-demo.json.
-- DriveDesk AI Operator route: backend-owned RAG/transcript/approval/CRM handoff with audit, retries, adapter boundaries, CI, and runbooks.
-- AI Backend Review Pack: compact technical screen across FastAPI/PostgreSQL, integrations, Docker/CI, verification, and handoff.
-- Decision-Ready Contact: the shortest route for a role, workflow, or review.
+I build backend-owned workflow slices for real business processes: FastAPI endpoints, PostgreSQL state, REST/OpenAPI contracts, admin queues, API/CRM mappings, pytest/API smoke checks, logs, docs, and handoff notes.
 
-Best first message: send one remote role or one messy workflow, one success condition, and the systems involved. I will reply with fit, risky assumptions, the smallest responsible first slice, the review path to inspect, and the next screen path.
-Docker/CI is supporting handoff evidence, not the main senior DevOps claim.
+Strongest first work sample: Autoschool Intake/Admin, Telegram request -> backend validation -> database record -> admin queue -> operator status, shown with synthetic public evidence only.
+
+AI tooling speeds up research, implementation, debugging, docs, tests, and review; architecture, privacy, state boundaries, verification, and shipped quality stay my responsibility.
+
+Best first message: send the role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable. I will reply with fit risks, the smallest useful first slice, and the review path to inspect.
 ```
 
-## LinkedIn Activation Pack
+Docker/CI remains handoff evidence, not a senior DevOps or platform ownership claim.
 
-I use one of these as the next public post. I do not publish all at once; each one has a different job.
-Selected next post: Post B - role-fit/search signal. It carries the clearest recruiter search surface without sounding like a generic profile update.
+## Role Review Signal
 
-### Post A - profile refresh
+### Best-fit screen
 
-```text
-I refreshed my LinkedIn and public review path for remote Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability work.
+Remote Junior Python Backend / API Automation first. Adjacent lanes: QA/API Python, CRM/API Integration, Application Support Engineer with Python, and Internal Tools when the role is backend/API-heavy.
 
-The first Featured card now points to LinkedIn Review Signal. The live Skills surface already maps CI/CD, Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, FastAPI, Docker, and PostgreSQL to evidence instead of leaving them as a keyword list; CRM/API integration remains evidence-backed through About, Services, and public routes.
+### First review order
 
-Best first work sample:
-- Delivery Capability
-- Application Fit Pack
-- First Backend Role Fit
-- Autoschool Intake/Admin work sample
-- DriveDesk AI Operator route
-- AI Backend Review Pack
-- Decision-Ready Contact
+Recruiter PDF -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> LinkedIn Recruiter Packet -> Decision-Ready Contact.
 
-Best first message: send one remote role or one messy workflow, one success condition, and the systems involved. I will answer with fit, risky assumptions, the smallest responsible first slice, the review path to inspect, and the next screen path.
-```
+### Search keywords
 
-### Post B - role-fit check
+Python, FastAPI, PostgreSQL, REST/OpenAPI, SQL, pytest, Docker Compose, GitHub Actions, CRM/API integration, admin workflows, Telegram workflows, RAG workflow evidence, audit logs, retries, runbooks, and handoff notes.
 
-```text
-A useful role-fit check for my work is not "can you use AI tools?"
+### Message prompt
 
-The better check is: can you turn an incomplete business workflow into backend-owned state, integration boundaries, tests, logs, docs, runbooks, and a handoff path an async team can inspect?
-
-That is what my public review path is organized around:
-- AI workflow / RAG / transcript / approval evidence
-- Python backend/internal-tools evidence, including Autoschool intake/admin
-- CRM/ERP/API integration evidence
-- QA/API verification evidence, with Docker/CI as supporting handoff evidence
-
-Primary target: Junior Python Backend / API Automation. Secondary lanes: QA/API Python, CRM/API Integration, Internal Tools, Support Engineer with Python, and workflow automation roles where the work is backend/API-heavy. AI workflow and RAG stay visible as evidence-backed differentiators, not the first title I need to be screened under.
-
-Skill filters that should find me: Python, FastAPI, PostgreSQL, REST APIs, OpenAPI, Docker, GitHub Actions, pytest, CRM/ERP/API integration, workflow integration, RAG, Vector Databases, audit logs, retries, and runbooks.
-
-If the role is remote Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, or reliability work, send the role, remote setup, first-month ownership surface, and hiring timeline.
-```
-
-### Post C - workflow owner
-
-```text
-The fastest way to evaluate me is to send one workflow, not a broad brief.
-
-Good first context:
-- what currently happens
-- which systems are involved
-- one observable success condition
-- what must not break
-
-I will map the risky assumptions, the first responsible slice, and the review path to inspect.
-
-Best fit: Python/backend workflow slices, CRM/ERP/API adapters, internal operations tools, QA/API verification, AI workflow automation, and production-style handoff.
-```
-
-### First comment
-
-```text
-Review path:
-Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Delivery Capability -> Application Fit Pack -> Hiring Decision -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> DriveDesk AI Operator route -> AI Backend Review Pack.
-
-Start here: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
-```
-
-### Short DM reply
-
-```text
-Thanks. Send the role or workflow, one success condition, the systems involved, and what must not break. I will reply with fit, risks, the smallest responsible first slice, and the review path to inspect.
-```
+Send the role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable. I will reply with fit risks, the smallest useful first slice, and the review path to inspect.
 
 ## Best First Messages
 

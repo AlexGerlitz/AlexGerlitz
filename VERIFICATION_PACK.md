@@ -34,19 +34,17 @@ Headline and About live-checked on 2026-07-02; Open-to-Work still shows the reco
 
 Current/live boundary: LinkedIn headline and About are live-updated and verified on the visible profile. Open-to-Work still shows the recorded backend, Python, QA/API, integration, and application-support title set while AI remains review evidence inside the portfolio. The visible LinkedIn Featured route above is still the last live-checked Featured state. The recommended next first-job Featured order is LinkedIn Review Signal -> Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> DriveDesk AI Operator route; I do not claim this Featured reorder as live until the LinkedIn profile visibly shows it.
 
-## LinkedIn Activation Status
+## LinkedIn Recruiter Signal
 
-Prepared on 2026-06-30, not published without owner confirmation.
-Selected next post: Post B - role-fit/search signal in LinkedIn Review Signal.
-Publication evidence: pending live LinkedIn activity URL after explicit owner approval.
+Public recruiter signal is ready for LinkedIn profile views, role screens, and hiring-manager forwards without depending on a live post.
 
-| Activation item | Current status |
+| Review item | Current public signal |
 | --- | --- |
-| Selected next post | Post B - role-fit/search signal in LinkedIn Review Signal. |
-| Search titles carried by the post | Junior Backend Developer, Junior Python Developer, Back End Developer, Python Developer, Python Automation Engineer, QA Automation Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer. |
-| Skill filters carried by the post | FastAPI, GitHub Actions, RAG, Python, PostgreSQL, Docker, CRM/ERP/API integration, OpenAPI, workflow integration, and QA Automation Python. |
-| First comment route | Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk AI Operator route -> AI Backend Review Pack. |
-| Publication evidence | Pending live LinkedIn activity URL after explicit owner approval. |
+| Role lane | Remote Junior Python Backend / API Automation first; QA/API Python, CRM/API Integration, Application Support Engineer with Python, and Internal Tools are adjacent lanes when the work is backend/API-heavy. |
+| Search title fit | Junior Backend Developer, Junior Python Developer, Back End Developer, Python Developer, Python Automation Engineer, QA Automation Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer. |
+| Skill filters | FastAPI, GitHub Actions, RAG, Python, PostgreSQL, Docker, CRM/ERP/API integration, OpenAPI, workflow integration, and QA Automation Python. |
+| First review route | Decision-Ready Contact -> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> AI Backend Review Pack. |
+| Boundary | AI workflow evidence and Docker/CI handoff support the backend/API claim; they are not presented as senior DevOps, Kubernetes, Terraform, or platform ownership. |
 
 ## Source-Backed Activation Checks
 
