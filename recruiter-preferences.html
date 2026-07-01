@@ -95,17 +95,17 @@
           "@id": "https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html#proof-order",
           "name": "Recruiter review order",
           "itemListElement": [
-            { "@type": "ListItem", "position": 1, "name": "LinkedIn Recruiter Packet", "url": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html" },
-            { "@type": "ListItem", "position": 2, "name": "Delivery Capability", "url": "https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html" },
-            { "@type": "ListItem", "position": 3, "name": "Application Fit Pack", "url": "https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html" },
-            { "@type": "ListItem", "position": 4, "name": "First Backend Role Fit", "url": "https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html" },
-            { "@type": "ListItem", "position": 5, "name": "Backend Role Fit", "url": "https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html" },
-            { "@type": "ListItem", "position": 6, "name": "Autoschool Intake/Admin work sample", "url": "https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html" },
-            { "@type": "ListItem", "position": 7, "name": "AI Automation Role Fit", "url": "https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html" },
-            { "@type": "ListItem", "position": 8, "name": "DriveDesk AI Operator route", "url": "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html" },
-            { "@type": "ListItem", "position": 9, "name": "AI Backend Review Pack", "url": "https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html" },
-            { "@type": "ListItem", "position": 10, "name": "Enterprise Readiness", "url": "https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html" },
-            { "@type": "ListItem", "position": 11, "name": "Decision-Ready Contact", "url": "https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html" },
+            { "@type": "ListItem", "position": 1, "name": "Decision-Ready Contact", "url": "https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html" },
+            { "@type": "ListItem", "position": 2, "name": "LinkedIn Recruiter Packet", "url": "https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html" },
+            { "@type": "ListItem", "position": 3, "name": "Delivery Capability", "url": "https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html" },
+            { "@type": "ListItem", "position": 4, "name": "Application Fit Pack", "url": "https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html" },
+            { "@type": "ListItem", "position": 5, "name": "First Backend Role Fit", "url": "https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html" },
+            { "@type": "ListItem", "position": 6, "name": "Backend Role Fit", "url": "https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html" },
+            { "@type": "ListItem", "position": 7, "name": "Autoschool Intake/Admin work sample", "url": "https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html" },
+            { "@type": "ListItem", "position": 8, "name": "AI Automation Role Fit", "url": "https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html" },
+            { "@type": "ListItem", "position": 9, "name": "DriveDesk AI Operator route", "url": "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html" },
+            { "@type": "ListItem", "position": 10, "name": "AI Backend Review Pack", "url": "https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html" },
+            { "@type": "ListItem", "position": 11, "name": "Enterprise Readiness", "url": "https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html" },
             { "@type": "ListItem", "position": 12, "name": "PDF Resume", "url": "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf" }
           ]
         }
@@ -147,9 +147,15 @@
     .tag.green { background: var(--green); color: var(--accent); }
     @media (max-width: 920px) {
       .grid, .two { grid-template-columns: 1fr; }
-      h1 { font-size: 2rem; }
-      .actions { display: grid; }
-      .button, .nav a { width: 100%; }
+      .shell { padding: 18px 14px 36px; }
+      .nav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .nav a { min-height: 34px; padding: 7px 8px; font-size: 0.88rem; }
+      .hero { padding: 20px; }
+      h1 { font-size: 1.7rem; line-height: 1.08; }
+      .lead { font-size: 0.98rem; }
+      .actions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .button { width: auto; min-height: 40px; padding: 8px; font-size: 0.88rem; }
+      .button.primary { grid-column: 1 / -1; }
       table, thead, tbody, tr, th, td { display: block; width: 100%; }
       thead { display: none; }
       tr { border-top: 1px solid var(--line); padding: 8px 0; }
@@ -162,29 +168,26 @@
   <main class="shell">
     <nav class="nav" aria-label="Profile navigation">
       <a href="./">Portfolio</a>
+      <a href="./decision-ready-contact.html">Decision-ready contact</a>
       <a href="./linkedin-recruiter-packet.html">Recruiter packet</a>
       <a href="./hiring-decision.html">Hiring decision</a>
       <a href="./ai-backend-proof-pack.html">Review pack</a>
-      <a href="./enterprise-readiness.html">Enterprise readiness</a>
-      <a href="./start-conversation.html">Start conversation</a>
+      <a href="./role-targets.html">Role targets</a>
       <a href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">Resume</a>
     </nav>
 
     <section class="hero">
       <div class="eyebrow">Open-to-Work alignment</div>
-      <h1>Recruiter preferences for remote Python/backend automation, internal tools, integrations, and QA/API work.</h1>
-      <p class="lead">I use this page to match a role or project quickly: job titles, remote work mode, employment types, LinkedIn skills search surface, evidence stack by search intent, and first contact fit.</p>
-      <p class="lead">My strongest match is one Python/backend task, internal operations tool, API/CRM integration, QA automation Python bridge, or AI workflow that needs backend-owned state, tests, logs, docs, deployment path, and handoff.</p>
+      <h1>Recruiter preferences for remote Python/backend and QA/API roles.</h1>
+      <p class="lead">I use this page to match a role quickly: target titles, remote setup, evidence route, and first-contact fit.</p>
+      <p class="lead">Fastest recruiter route: Decision-Ready Contact first, then LinkedIn Recruiter Packet, delivery capability, application fit, and work sample before the PDF resume.</p>
       <div class="actions">
         <a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>
+        <a class="button" href="./decision-ready-contact.html">Decision-ready contact</a>
         <a class="button" href="./linkedin-recruiter-packet.html">LinkedIn recruiter packet</a>
         <a class="button" href="./delivery-capability.html">Delivery capability</a>
         <a class="button" href="./application-fit-pack.html">Application fit pack</a>
         <a class="button" href="./autoschool-intake-admin.html">Autoschool intake/admin</a>
-        <a class="button" href="./hiring-decision.html">30-second fit</a>
-        <a class="button" href="./role-targets.html">Role targets</a>
-        <a class="button" href="./decision-ready-contact.html">Decision-Ready Contact</a>
-        <a class="button" href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">PDF resume</a>
       </div>
       <div class="tag-row" aria-label="Recruiter preference tags">
         <span class="tag green">Remote</span>
@@ -271,7 +274,7 @@
           </tr>
           <tr>
             <th>Featured evidence</th>
-            <td>Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin work sample, DriveDesk AI Operator route, DriveDesk Core, AI Backend Review Pack, Verification Pack, Decision-Ready Contact, and PDF Resume.</td>
+            <td>Decision-Ready Contact, LinkedIn Recruiter Packet, Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin work sample, DriveDesk AI Operator route, DriveDesk Core, AI Backend Review Pack, Verification Pack, and PDF Resume after first-contact context is clear.</td>
             <td><a href="./linkedin-recruiter-packet.html">LinkedIn Recruiter Packet</a></td>
           </tr>
           <tr>
@@ -393,7 +396,7 @@
           </tr>
           <tr>
             <th>Featured route</th>
-            <td>LinkedIn Review Signal first, then Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin work sample, DriveDesk AI Operator route, and DriveDesk Core; AI Backend Review Pack, Verification Pack, LinkedIn Recruiter Packet, Decision-Ready Contact, and PDF Resume are routed from GitHub/Pages.</td>
+            <td>Decision-Ready Contact first for inbound roles, then LinkedIn Review Signal, Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin work sample, DriveDesk AI Operator route, and DriveDesk Core; AI Backend Review Pack, Verification Pack, and PDF Resume are routed from GitHub/Pages after the first-contact context is clear.</td>
           </tr>
           <tr>
             <th>Open-to-Work</th>
@@ -422,7 +425,7 @@
           </tr>
           <tr>
             <th>Profile direction summary</th>
-            <td>I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL backends, admin queues, REST/OpenAPI contracts, CRM/ERP/API adapters, pytest/API smoke checks, Docker/CI handoff, runbooks, and recovery paths. Fastest evidence to review: LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume. Open AI Ops Workflow Kit after the backend slice for deeper AI workflow review.</td>
+            <td>I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL backends, admin queues, REST/OpenAPI contracts, CRM/ERP/API adapters, pytest/API smoke checks, Docker/CI handoff, runbooks, and recovery paths. Fastest evidence to review: Decision-Ready Contact -> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume after the evidence route is clear. Open AI Ops Workflow Kit after the backend slice for deeper AI workflow review.</td>
           </tr>
           <tr>
             <th>LinkedIn About replacement</th>
@@ -481,7 +484,7 @@
           </tr>
           <tr>
             <th>First outreach or application message</th>
-            <td>Hi, I am interested in this remote Python/backend automation role. I can send a review path first: Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> DriveDesk AI Operator route. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff.</td>
+            <td>Hi, I am interested in this remote Python/backend automation role. I can send a review path first: Decision-Ready Contact -> LinkedIn Recruiter Packet -> Delivery Capability -> First Backend Role Fit -> Autoschool Intake/Admin work sample. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff.</td>
           </tr>
           <tr>
             <th>Live update order</th>
@@ -531,6 +534,7 @@
       <article class="panel">
         <h2>Evidence Map</h2>
         <ol>
+          <li><a href="./decision-ready-contact.html">Decision-Ready Contact</a>: minimum context, fit read, risk check, smallest responsible first slice, review path, and next route.</li>
           <li><a href="./linkedin-recruiter-packet.html">LinkedIn Recruiter Packet</a>: search fit, review order, and first result.</li>
           <li><a href="./delivery-capability.html">Delivery Capability</a>: current role-market fit, first useful workflow slice, AI-assisted delivery boundary, and Docker/CI handoff boundary.</li>
           <li><a href="./application-fit-pack.html">Application Fit Pack</a>: parser-readable application lanes, exact keywords, first useful result, review path, and not-my-first-lane boundary.</li>
@@ -539,10 +543,8 @@
           <li><a href="./autoschool-intake-admin.html">Autoschool Intake/Admin work sample</a>: first-job backend evidence for Telegram intake, validation, database state, admin queue, status workflow, and privacy boundary.</li>
           <li><a href="./ai-automation-role-fit.html">AI Automation Role Fit</a>: precise role-fit route for AI automation, RAG, structured outputs, approvals, CRM/API handoff, tests, logs, and runbooks.</li>
           <li><a href="./drivedesk-proof-route.html">DriveDesk AI Operator route</a>: flagship backend-owned AI workflow review path.</li>
-          <li><a href="./hiring-decision.html">Hiring Decision</a>: 30-second role fit and first-month ownership.</li>
           <li><a href="./ai-backend-proof-pack.html">AI Backend Review Pack</a>: compact route through Python/backend automation, AI workflow, integration, Docker/CI boundary, verification, and resume evidence.</li>
           <li><a href="./enterprise-readiness.html">Enterprise Readiness</a>: international and Europe-compatible remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.</li>
-          <li><a href="./decision-ready-contact.html">Decision-Ready Contact</a>: minimum context, fit read, risk check, smallest responsible first slice, review path, and next route.</li>
           <li><a href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">PDF Resume</a>: compact resume route after the decision-ready contact context is clear.</li>
         </ol>
       </article>
