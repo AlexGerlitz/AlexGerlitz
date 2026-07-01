@@ -91,9 +91,14 @@
     .muted { color: var(--muted); }
     .screen {
       display: grid;
-      grid-template-columns: 1fr;
-      gap: 4px;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 6px;
       margin: 5px 0 3px;
+    }
+    .route-line {
+      color: var(--muted);
+      font-size: 8.5pt;
+      margin: 0 0 4px;
     }
     .evidence-line {
       border-left: 3px solid var(--accent);
@@ -104,7 +109,7 @@
       border: 1px solid var(--line);
       background: var(--soft);
       border-radius: 6px;
-      padding: 6px 7px;
+      padding: 5px 7px;
       break-inside: avoid;
       page-break-inside: avoid;
     }
@@ -153,14 +158,13 @@
         <span><a href="https://github.com/AlexGerlitz">GitHub: github.com/AlexGerlitz</a></span>
         <span><a href="https://alexgerlitz.github.io/AlexGerlitz/">Portfolio: alexgerlitz.github.io/AlexGerlitz</a></span>
         <span><a href="https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html">Recruiter packet: /linkedin-recruiter-packet.html</a></span>
-        <span><a href="https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html">Autoschool work sample: /autoschool-intake-admin.html</a></span>
-        <span><a href="https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html">Contact route: /decision-ready-contact.html</a></span>
       </div>
     </header>
 
     <section>
       <h2>30-Second Shortlist</h2>
       <p><strong>Target role:</strong> remote Junior Python Backend / API Automation. Adjacent lanes: QA/API Python, CRM/API Integration, and Internal Tools when the work is backend/API-heavy. I ship one reviewed backend/API slice with tests or smoke evidence, docs, and handoff notes.</p>
+      <p class="route-line"><strong>Proof route:</strong> <a href="https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html">Autoschool Intake/Admin</a> | <strong>Contact route:</strong> <a href="https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html">Decision-Ready Contact</a></p>
       <div class="screen">
         <div class="box">
           <p><strong>First proof:</strong> Autoschool Intake/Admin shows Telegram intake -> backend validation -> database record -> admin queue -> operator status, using synthetic public evidence only.</p>
