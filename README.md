@@ -4,7 +4,7 @@ I build **DriveDesk** and public proof routes around Python/backend automation, 
 
 Core stack: Python, FastAPI, PostgreSQL, RAG/LLM workflows, tests, smoke checks, Docker/Compose boundaries, CI, docs, runbooks, and recovery paths.
 
-**I am open for remote-only full-time roles** where the first month can prove one working slice: Junior Backend Developer, Junior Python Developer, QA Automation Python, API Testing / Test Automation Engineer, CRM/API Integration Engineer, Systems Integration, or Internal Tools Engineer.
+**I am open for remote-only full-time roles** where the first month can prove one working slice: Junior Backend Developer, Junior Python Developer, QA Automation Python, API Testing / Test Automation Engineer, CRM/API Integration Engineer, or Internal Tools Engineer.
 
 Public proof is based on workflow shape, not tutorial-only demos: Telegram request intake -> backend validation -> database record -> admin queue -> operator status. Private production data is replaced with synthetic public evidence.
 
@@ -30,15 +30,15 @@ Public proof is based on workflow shape, not tutorial-only demos: Telegram reque
 
 **Fastest recruiter route:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) -> [Recruiter proof pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html). Use the [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) for role lane and truth boundaries; use [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) when sending a real role or workflow.
 
-LinkedIn support routes: [LinkedIn Proof Signal](https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html) for copy-ready update and skill surface, [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for Open-to-Work filters, and [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) for the skill-to-proof map.
+LinkedIn support routes: [LinkedIn Proof Signal](https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html) for the profile-view proof signal, [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for Open-to-Work filters, and [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) for the skill-to-proof map.
 
 AI-native delivery loop: I use AI tooling to compress discovery, implementation, debugging, docs, and review into faster iteration, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality remain my responsibility.
 
 ## Search Fit
 
-Search-fit titles: Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, Internal Tools Engineer, AI Automation Engineer, LLM Workflow / RAG Engineer.
+Search-fit titles: Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer. AI workflow and RAG work stay visible as proof-backed differentiators, not the first title I need to be screened under.
 
-LinkedIn recruiter search alignment: remote-only full-time roles where Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM/ERP/API integration, Systems Integration, QA Automation Python, OpenAPI, n8n, Telegram, or pgvector appear in the role.
+LinkedIn recruiter search alignment: remote-only full-time roles where Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM/ERP/API integration, QA Automation Python, OpenAPI, n8n, Telegram, or pgvector appear in the role.
 
 Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff, or DriveDesk AI Operator-style proof route.
 

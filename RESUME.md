@@ -14,14 +14,14 @@ integration adapters, tests, smoke checks, Docker/Compose boundaries, docs, runb
 notes.
 
 Search-match stack: Python, FastAPI, PostgreSQL, pytest, REST APIs, OpenAPI, Docker, Docker Compose,
-GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, Systems Integration, Backend
+GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, workflow integration, Backend
 Development, QA Automation Python, Workflow Automation, audit logs, runbooks, and PostgreSQL/pgvector-backed workflows.
 
 Search-fit titles: Junior Backend Developer, Junior Python Developer, Back End Developer,
 Python Developer, Python Automation Engineer, Backend Automation Engineer, Quality Assurance
 Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support
-Engineer with Python, Integration Engineer, CRM/API Integration Engineer, Internal Tools Engineer,
-AI Automation Engineer, and LLM Workflow / RAG Engineer.
+Engineer with Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer.
+AI workflow and RAG work are proof-backed differentiators, not the first title I need to be screened under.
 
 AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and
 review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks,
@@ -112,7 +112,7 @@ Public proof built from the same operational base:
 - AI workflows: LLM/RAG systems with OpenAI/Claude/Gemini-ready provider boundaries, vector
   databases / PostgreSQL pgvector, document/call-audio/transcript processing, scoring, routing,
   approvals, operator handoff.
-- Integrations: Systems Integration, Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), APIs, webhooks, custom databases,
+- Integrations: workflow integration, Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), APIs, webhooks, custom databases,
   accounting/banking boundaries, adapter contracts, mapping and validation.
 - Reliability/Docker handoff: Docker Compose, GitHub Actions, release gates, health checks, logs, backups,
   smoke checks, rollback/recovery thinking.
@@ -133,9 +133,6 @@ Best matches:
 - QA Automation Python
 - API Testing / Test Automation Engineer
 - Support Engineer with Python
-- AI Automation Engineer
-- AI Workflow / LLM Integration Engineer
-- AI Workflow / Operations Automation Engineer
 - Integration Engineer
 - CRM/API Integration Engineer
 - Internal Tools / Ops Automation Engineer
