@@ -2027,7 +2027,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "These profile lines keep live GitHub, LinkedIn, Open-to-Work, and first replies aligned around the same first-job signal.",
             "First outreach or application message",
             "I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff.",
-            "Fastest evidence to review: Decision-Ready Contact -&gt; LinkedIn Recruiter Packet -&gt; First Backend Role Fit -&gt; Autoschool Intake/Admin work sample -&gt; PDF resume after the evidence route is clear",
+            "Fastest evidence to review: Decision-Ready Contact -> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume after the evidence route is clear",
             "Open AI Ops Workflow Kit after the backend slice for deeper AI workflow review",
             "Use synthetic screenshots or diagrams only; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.",
             "About / Experience",
