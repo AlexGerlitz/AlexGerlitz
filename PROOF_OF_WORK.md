@@ -83,11 +83,11 @@ Checked on 2026-06-30:
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
 - Profile proof freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
-- Latest recorded recruiter-funnel content snapshot is green on `4544050` before the July 1 LinkedIn live sync; the current commit refreshes LinkedIn Proof Signal, Recruiter Preferences, and this Proof of Work route to the live headline, Open-to-Work titles, and CI/CD-first Skills surface.
-- Profile Funnel Audit succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466631304
-- Profile Pages deployment succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466630461
-- Live Profile Smoke succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466631393
-- Live Pages status is `built`, and direct live snippet checks confirmed LinkedIn Proof Signal, Recruiter Preferences, sitemap lastmod, live LinkedIn skills copy, raw `LINKEDIN_PROOF_SIGNAL.md`, and raw `RECRUITER_PREFERENCES.md`.
+- Latest recorded recruiter-funnel content snapshot is green on `2638632`; the July 1 packaging adds Application Outreach Pack, keeps the outreach route smoke-visible, and refreshes LinkedIn Proof Signal, Recruiter Preferences, and this Proof of Work route to the live headline, Open-to-Work titles, CI/CD-first Skills surface, current Featured order, and next About edit target.
+- Profile Funnel Audit succeeded on `2638632`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28511239860
+- Profile Pages deployment succeeded on `2638632`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28511239199
+- Live Profile Smoke succeeded on `2638632`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28511239779
+- Live Pages status is `built`, and direct live snippet checks confirmed GitHub profile render, portfolio, Application Outreach Pack, LinkedIn Proof Signal, Recruiter Preferences, sitemap, raw proof markdown, PDF resume, images, and public proof routes.
 - GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment

@@ -26,13 +26,13 @@ Live checked on 2026-07-01.
 | --- | --- |
 | Headline | Python Backend Automation Engineer with DriveDesk, internal tools, API/CRM integrations, QA Automation Python, RAG/LLM workflows, FastAPI, and Docker. |
 | Open-to-Work | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, and Integration Engineer. |
-| About | Starts with backend-owned AI workflow and operations systems for real businesses; the public proof route frames the execution signal as an AI-native delivery loop. |
+| About | Starts with backend-owned AI workflow and operations systems for real businesses; the next live edit target is the shorter first-job opening from LinkedIn Proof Signal: Python/backend automation, internal tools, real business operations, Telegram intake/admin workflow, RAG/transcript analysis, CRM/ERP/API adapters, QA/API verification, Docker/CI handoff, runbooks, and recovery paths. |
 | Experience | Profile shows AutoSchool54 / Автошкола 54 remote infrastructure support since March 2024. |
 | Featured route | LinkedIn Proof Signal first, then DriveDesk AI Operator - Proof Route, Fixed-Scope AI Automation Offers, and DriveDesk Core; extended proof stack is routed through GitHub/Pages. |
 | Services | Available remote Services route for concrete backend-owned AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow requests. |
 | Skills surface | All view: Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. |
 
-Current/live boundary: the visible LinkedIn Featured route above is the last live-checked state. The recommended next first-job Featured order is LinkedIn Proof Signal -> Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk AI Operator proof route; I do not claim this as live until the LinkedIn profile visibly shows it.
+Current/live boundary: the visible LinkedIn Featured route above is the last live-checked state. The recommended next first-job Featured order is LinkedIn Proof Signal -> Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk AI Operator proof route; I do not claim this as live until the LinkedIn profile visibly shows it. The next LinkedIn About edit should reduce broad DevOps/fixed-scope wording and foreground first-role Python/backend, QA/API, and integration proof.
 
 ## LinkedIn Activation Status
 
@@ -126,11 +126,11 @@ Repository evidence checked on 2026-06-30; LinkedIn/profile packaging refreshed 
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
 - Profile proof freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
-- Latest recorded recruiter-funnel content snapshot is green on `4544050` before the July 1 LinkedIn live sync; the July 1 profile packaging refreshes LinkedIn Proof Signal, Recruiter Preferences, and this Verification Pack to the live headline, Open-to-Work titles, CI/CD-first Skills surface, and source-backed activation plan.
-- Profile Funnel Audit succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466631304
-- Profile Pages deployment succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466630461
-- Live Profile Smoke succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466631393
-- Live Pages status is `built`, and direct live snippet checks confirmed LinkedIn Proof Signal, Recruiter Preferences, sitemap lastmod, live LinkedIn skills copy, raw `LINKEDIN_PROOF_SIGNAL.md`, and raw `RECRUITER_PREFERENCES.md`.
+- Latest recorded recruiter-funnel content snapshot is green on `2638632`; the July 1 packaging adds Application Outreach Pack, keeps the outreach route smoke-visible, and refreshes LinkedIn Proof Signal, Recruiter Preferences, and this Verification Pack to the live headline, Open-to-Work titles, CI/CD-first Skills surface, current Featured order, next About edit target, and source-backed activation plan.
+- Profile Funnel Audit succeeded on `2638632`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28511239860
+- Profile Pages deployment succeeded on `2638632`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28511239199
+- Live Profile Smoke succeeded on `2638632`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28511239779
+- Live Pages status is `built`, and direct live snippet checks confirmed GitHub profile render, portfolio, Application Outreach Pack, LinkedIn Proof Signal, Recruiter Preferences, sitemap, raw proof markdown, PDF resume, images, and public proof routes.
 - GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
