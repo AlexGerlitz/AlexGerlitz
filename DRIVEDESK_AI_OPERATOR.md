@@ -162,4 +162,4 @@ tests, and review. I still own architecture, verification, logs, deployment, and
 - AI Ops CI workflow: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - DriveDesk Core review: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html
 - Role fit pack: https://alexgerlitz.github.io/AlexGerlitz/application-pack.html
-- PDF resume: https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf
+- PDF resume: https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf

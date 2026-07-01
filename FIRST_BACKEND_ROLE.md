@@ -25,7 +25,7 @@ Fastest proof route:
 4. [First 30 Days Delivery Plan](./FIRST_30_DAYS.md)
 5. [Skill Evidence](./SKILL_EVIDENCE.md)
 6. [Decision-Ready Contact](./DECISION_READY_CONTACT.md)
-7. [PDF Resume](./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+7. [PDF Resume](./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
 
 Best immediate team context:
 

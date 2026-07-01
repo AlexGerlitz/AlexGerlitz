@@ -88,7 +88,7 @@ Hi Alex, I want to review your fit for AI workflow, backend automation, integrat
 - [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html)
 - [proof-backed fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html)
 - [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
-- [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+- [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
 
 ## Fast Fit
 

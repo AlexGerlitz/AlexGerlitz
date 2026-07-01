@@ -93,7 +93,7 @@ and shipped quality stay engineering-owned.
 - Role fit page: https://alexgerlitz.github.io/AlexGerlitz/role-fit.html
 - DriveDesk proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - Resume after contact context: https://alexgerlitz.github.io/AlexGerlitz/resume.html
-- PDF resume after Decision-Ready Contact: https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf
+- PDF resume after Decision-Ready Contact: https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf
 - Verification pack: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html
 - DriveDesk Core review: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html
 

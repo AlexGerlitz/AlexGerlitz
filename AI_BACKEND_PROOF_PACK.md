@@ -19,7 +19,7 @@ I do not just connect workflow nodes. I move state, RAG, approvals, audit, retri
 7. [Live PostgreSQL/pgvector proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt) - runtime storage, RAG quality eval, and restart persistence evidence.
 8. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) - current CI, live smoke, public demos, docs, runbooks, proof freshness, and reviewer links.
 9. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - copy-ready first-contact route with fit read, risk check, smallest responsible first slice, proof path, and next step.
-10. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf) - compact resume for application upload or recruiter handoff after first-contact context is clear.
+10. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) - compact resume for application upload or recruiter handoff after first-contact context is clear.
 
 ## Role Shortlist
 

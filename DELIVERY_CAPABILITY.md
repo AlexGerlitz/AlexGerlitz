@@ -71,7 +71,7 @@ Fastest route for a first-job or remote-role screen:
 5. [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 6. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
 7. [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html)
-8. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+8. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
 
 ## Best Role Conversation
 

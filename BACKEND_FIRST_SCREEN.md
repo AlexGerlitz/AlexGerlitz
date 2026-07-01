@@ -25,7 +25,7 @@ Fastest proof route:
 4. [AI Backend Proof Pack](./AI_BACKEND_PROOF_PACK.md)
 5. [Skill Evidence](./SKILL_EVIDENCE.md)
 6. [Decision-Ready Contact](./DECISION_READY_CONTACT.md)
-7. [PDF Resume](./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+7. [PDF Resume](./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
 
 ## What This Proves
 

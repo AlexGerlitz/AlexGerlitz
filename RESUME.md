@@ -2,12 +2,11 @@
 
 ## Summary
 
-Remote-only Python/backend automation and internal-tools engineer focused on DriveDesk AI Operator:
-a backend-owned AI workflow system for real business operations, integrations, QA/API verification,
-and reviewable handoff.
-The fastest first-job backend/internal-tools proof is Autoschool Intake/Admin: Telegram request
-intake -> backend validation -> database record -> admin queue -> operator status workflow, shown
-with synthetic public evidence only.
+Remote-only Python/backend automation and internal-tools engineer focused on first-role proof:
+backend/admin workflows, API/CRM integration, QA/API verification, and reviewable handoff.
+My fastest first-job proof is Autoschool Intake/Admin: Telegram request intake -> backend
+validation -> database record -> admin queue -> operator status workflow, shown with synthetic
+public evidence only.
 
 I turn messy operational problems into working systems: FastAPI/PostgreSQL backends, RAG/transcript
 workflows, call-audio transcription, transcript/call analysis, approval flows, internal admin panels,
@@ -19,9 +18,10 @@ GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, Systems Integratio
 Development, QA Automation Python, Workflow Automation, audit logs, runbooks, and PostgreSQL/pgvector-backed workflows.
 
 Search-fit titles: Junior Backend Developer, Junior Python Developer, Back End Developer,
-Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python,
-API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer,
-CRM/API Integration Engineer, Internal Tools Engineer, AI Automation Engineer, and LLM Workflow / RAG Engineer.
+Python Developer, Python Automation Engineer, Backend Automation Engineer, Quality Assurance
+Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support
+Engineer with Python, Integration Engineer, CRM/API Integration Engineer, Internal Tools Engineer,
+AI Automation Engineer, and LLM Workflow / RAG Engineer.
 
 AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and
 review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks,
@@ -42,36 +42,35 @@ state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
 
 ## Target Work
 
-- Remote-only Python/backend automation, internal tools, API/CRM integration, QA Automation Python,
-  AI workflow automation, and reliability handoff roles.
-- Junior Backend Developer / Junior Python Developer / Back End Developer roles where business workflows, APIs, data models, tests,
-  Docker/CI, and operational handoff matter.
-- AI sales/support workflow roles around document/transcript/lead intake, RAG, call-audio transcription, transcript analysis, lead scoring, approvals, and CRM
-  actions.
-- AI / operations automation lead roles around workflows, APIs, integrations, documentation,
-  metrics, and human oversight.
-- Fixed-scope AI workflow automation and RAG projects.
+- Junior Backend Developer / Junior Python Developer / Back End Developer roles where business
+  workflows, APIs, data models, tests, docs, and operational handoff matter.
+- Quality Assurance Automation Engineer / QA Automation Python / API Testing roles where Python,
+  pytest, REST/OpenAPI checks, SQL/data checks, logs, smoke routes, and issue notes matter.
+- Integration Engineer / API Integration Engineer / CRM/API Integration roles around field mapping,
+  adapters, webhooks, retries, audit logs, privacy boundaries, and small working sync paths.
 - Internal tools, admin panels, CRM/ops MVPs, and business process automation.
-- Integration adapters for CRM, ERP, 1C, accounting, banking, custom databases, webhooks, and APIs.
-- Docker/Compose boundary, release, health-check, observability, backup, and recovery workflows.
+- AI workflow automation and RAG roles when the AI work is attached to backend, integration, QA,
+  approvals, data quality, and supportable workflow ownership.
+- Docker/Compose boundary, release, health-check, observability, backup, and recovery handoff.
 
 ## Proof By Search Intent
 
 | Search intent | Open first |
 | --- | --- |
-| AI Automation / RAG | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
 | Python / Backend / Internal Tools | [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| QA Automation / API Testing | [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | CRM / ERP / API Integration / Internal Tools | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
+| AI Automation / RAG | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
 | Reliability / Docker / Handoff | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
 
 ## Current Experience
 
-### AI Automation & Digital Infrastructure Engineer
+### Python Backend Automation / Internal Tools Engineer
 
 **Autoschool54 / DriveDesk backend/internal-tools work**
 Remote, March 2024 - Present
 
-Remote AI-native delivery and digital infrastructure support for a live driving-school operation.
+Remote AI-assisted backend/internal-tools and digital operations support for a live driving-school operation.
 
 Scope:
 
@@ -107,6 +106,9 @@ Public proof built from the same operational base:
 ## Core Skills
 
 - Python/backend/internal tools: Python, FastAPI, PostgreSQL, Alembic, OpenAPI, pytest, service contracts.
+- QA/API verification: Quality Assurance Automation Engineer keywords, QA Automation Python, API
+  Testing, Test Automation Engineer, pytest, REST/OpenAPI checks, SQL/data checks, logs, smoke
+  routes, and issue notes.
 - AI workflows: LLM/RAG systems with OpenAI/Claude/Gemini-ready provider boundaries, vector
   databases / PostgreSQL pgvector, document/call-audio/transcript processing, scoring, routing,
   approvals, operator handoff.
@@ -122,9 +124,12 @@ Public proof built from the same operational base:
 Best matches:
 
 - Backend Engineer
+- Junior Backend Developer
+- Junior Python Developer
 - Back End Developer
 - Python Developer
 - Python Automation Engineer
+- Quality Assurance Automation Engineer
 - QA Automation Python
 - API Testing / Test Automation Engineer
 - Support Engineer with Python
@@ -152,7 +157,7 @@ Applied Informatics, 2025 - Present
 - [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
-- [PDF resume for application upload](./output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf)
+- [PDF resume for application upload](./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
 - [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
 - [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
 - [AI Ops Reviewer Acceptance Report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
