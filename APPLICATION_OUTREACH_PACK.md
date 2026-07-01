@@ -2,8 +2,7 @@
 
 Public route: https://alexgerlitz.github.io/AlexGerlitz/application-outreach-pack.html
 
-I use this pack when I need to answer a vacancy, recruiter message, or application form with one
-clear role lane, one proof route, and a truthful boundary. It keeps outreach from becoming a generic
+I use this pack when I need to answer a vacancy, recruiter message, or application form with one clear role lane, one proof route, and a truthful boundary. It keeps outreach from becoming a generic
 intro or an overclaim.
 
 ## Best Use
