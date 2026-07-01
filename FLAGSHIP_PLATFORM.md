@@ -1,9 +1,9 @@
-# DriveDesk Flagship Platform Proof
+# DriveDesk Flagship Backend Workflow Proof
 
 ## Sharpest Current Proof Route: DriveDesk AI Operator
 
 The main flagship proof route is [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md): an AI sales
-and support workflow platform.
+and support workflow backend.
 
 Scenario:
 
@@ -22,17 +22,17 @@ The important selling point: I am not just gluing no-code nodes together. Backen
 audit, retries, idempotency, quality checks, approvals, and integration contracts. n8n is the
 orchestration layer.
 
-DriveDesk is the product path behind my public proof projects: one remote-first operating layer for
+DriveDesk is the product path behind my public proof projects: one remote-first backend workflow layer for
 real business workflows, integrations, AI assistance, deployment, observability, and recovery.
 
-The target is not a vague "integrates with everything" promise. The target is a platform that can
+The target is not a vague "integrates with everything" promise. The target is a backend-owned workflow layer that can
 connect systems like CRM, ERP, 1C, banking/accounting tools, custom databases, documents, operator
 queues, notifications, and admin workflows through explicit adapters, contracts, logs, tests, and
 rollout steps.
 
-## Why This Platform Path Matters
+## Why This Backend Workflow Path Matters
 
-This platform path combines the surfaces remote teams and founders usually need in one technical story:
+This backend workflow path combines the surfaces remote teams and founders usually need in one technical story:
 
 - Python/backend ownership;
 - integration architecture;
@@ -46,9 +46,9 @@ repos are the inspectable proof path.
 
 ## What DriveDesk Is Trying To Become
 
-An operations platform where different roles can work from one reliable layer:
+An operations workflow layer where different roles can work from one reliable backend-owned path:
 
-| Role / user | What the platform should make easier |
+| Role / user | What the workflow layer should make easier |
 | --- | --- |
 | Owner / manager | See current work, risks, money/status signals, unresolved issues, and audit history. |
 | Operator / support | Handle records, tasks, documents, chats, approvals, and exceptions without manual handoff chaos. |

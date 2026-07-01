@@ -58,7 +58,7 @@ a vague automation request.
 | Integration Adapter MVP | CRM/ERP/1C/banking/accounting/API/custom database sync boundary. | 1-4 weeks | USD 4,000-15,000 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) |
 | Docker/CI Release Recovery Sprint | Self-hosted service that is hard to deploy, observe, back up, or recover. | 3-10 days | USD 2,000-8,000 | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
 | Internal Operations Platform Slice | Owned backend/admin workflow instead of spreadsheets, chats, or fragile routines. | 2-6 weeks | USD 8,000-30,000 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
-| DriveDesk-Style Operating Layer | Multi-system operations platform with phased CRM/ERP/1C/bank/admin integrations. | Phased | USD 25,000+ by phase | [flagship platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) |
+| DriveDesk-Style Operating Layer | Multi-system operations layer with phased CRM/ERP/1C/bank/admin integrations. | Phased | USD 25,000+ by phase | [flagship backend workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) |
 
 ## 1. Workflow Teardown + Working Slice
 
@@ -211,7 +211,7 @@ Possible phases:
 5. Deployment, observability, backup, and recovery.
 6. Next adapters and deeper automation.
 
-Detailed route: [DriveDesk flagship platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
+Detailed route: [DriveDesk flagship backend workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
 and [GitHub-readable platform notes](./FLAGSHIP_PLATFORM.md).
 
 ## Scoping The First Slice

@@ -30,7 +30,7 @@ Main proof route:
 [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) ->
 [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) ->
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) -
-AI sales/support workflow platform with document/transcript/lead intake, RAG, OpenAI/Claude/Gemini provider boundary,
+AI sales/support backend workflow with document/transcript/lead intake, RAG, OpenAI/Claude/Gemini provider boundary,
 transcript analysis, lead scoring, Telegram approval, importable n8n workflow artifacts, CRM adapter contracts, audit, retries, Docker,
 CI, RAG quality eval, and runbooks.
 
@@ -88,7 +88,7 @@ Deep review route:
 Current platform anchor:
 [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html),
 [DriveDesk Core repository](https://github.com/AlexGerlitz/drivedesk-core),
-[DriveDesk flagship platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html), and
+[DriveDesk flagship backend workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html), and
 [platform notes](./FLAGSHIP_PLATFORM.md).
 
 ## Choose The Route
@@ -103,7 +103,7 @@ Current platform anchor:
 
 ## Best-Fit Problems
 
-- FastAPI/PostgreSQL backend or internal operations platform.
+- FastAPI/PostgreSQL backend or internal operations backend.
 - QA/API verification path with Python, pytest, REST/OpenAPI checks, SQL/data checks, logs, smoke
   routes, issue notes, and repeatable pass/fail evidence.
 - CRM/ERP/1C/banking/API integration adapter.
@@ -161,7 +161,7 @@ Technical proof signal:
 3. [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
 4. [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
 5. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-6. [Flagship platform proof](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
+6. [Flagship backend workflow proof](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
 7. [Selected proof projects](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
 8. [Skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), and [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
 9. [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) after the contact context is clear
@@ -171,7 +171,7 @@ Technical proof signal:
 ## Deep Review Paths
 
 - [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html)
-- [Flagship Platform](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
+- [Flagship Backend Workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
 - [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md)
 - [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html)
 - [Role Fit Pack](./APPLICATION_PACK.md)

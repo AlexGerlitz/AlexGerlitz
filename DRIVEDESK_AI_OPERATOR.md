@@ -1,6 +1,6 @@
 # DriveDesk AI Operator
 
-Flagship proof route: an AI sales and support workflow platform that turns calls, documents,
+Flagship proof route: an AI sales and support backend workflow that turns calls, documents,
 transcripts, CRM leads, and knowledge-base records into reviewable operator actions.
 
 This is the proof route I want recruiters, founders, and hiring managers to use when they evaluate

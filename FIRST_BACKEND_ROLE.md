@@ -34,7 +34,7 @@ Best immediate team context:
 
 ## Why This Exists
 
-Some proof pages show a broad platform direction. This screen answers the smaller first-role
+Some proof pages show a broad backend workflow direction. This screen answers the smaller first-role
 question: what can a team safely give me first?
 
 | First-role question | Practical answer |
