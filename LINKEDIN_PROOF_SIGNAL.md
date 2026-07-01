@@ -5,10 +5,11 @@ I use this as the short public update route for a LinkedIn profile view, a recru
 ## What Changed
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability proof route.
-- The public Featured route now starts with LinkedIn Proof Signal, then Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core.
+- The recommended first-job Featured route starts with LinkedIn Proof Signal, then Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core. The current live Featured state is tracked separately in Verification Pack so I do not claim a LinkedIn-side edit before it is visible.
 - The live Skills surface is verified instead of assumed: All view starts with Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, and ERP; CRM remains proof-backed through About, Services, and public routes. Tools & Technologies surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.
 - LinkedIn did not expose a clean reorder control; the current safe state is CI/CD first, Python immediately after it, and every visible top skill tied to public proof instead of loose keywords.
 - The public GitHub route connects search-fit signal, proof, contact context, and resume handoff.
+- Docker/CI stays supporting evidence for handoff and reliability, not the main senior DevOps claim.
 
 ## Verified LinkedIn Skill Surface
 
@@ -28,6 +29,17 @@ Live checked on 2026-07-01. The live All skills view currently surfaces:
 Customer Relationship Management (CRM) remains proof-backed through About, Services, recruiter routes, and the public DriveDesk/Autoschool proof stack even when it is not in the first loaded All-skills slice.
 
 The live Tools & Technologies filter currently surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, Software as a Service (SaaS), Docker, FastAPI, and PostgreSQL.
+
+## Source-Backed Activation Rationale
+
+Checked on 2026-07-01. I use this to keep LinkedIn/GitHub edits tied to how recruiters and profile systems actually search.
+
+- LinkedIn Open-to-Work asks for job titles, location type, locations, start date, employment types, and visibility; LinkedIn says these preferences help the profile appear when recruiters search for suitable candidates: https://www.linkedin.com/help/linkedin/answer/a507508/let-recruiters-know-you-re-open-to-work
+- LinkedIn Skills can hold up to 100 skills; LinkedIn says relevant skills help others understand strengths and match the profile with opportunities: https://www.linkedin.com/help/linkedin/answer/a549047/add-and-remove-skills-on-your-profile
+- LinkedIn Featured is for work samples that show skills and experience, so the first visible cards should be proof routes, not decorative links: https://www.linkedin.com/help/linkedin/answer/a552452/featured-section-on-your-profile-faqs
+- GitHub profile README and pinned repositories are the public first-screen proof surface; GitHub shows profile README only from a public username-matching repo, and pins are managed from the profile page: https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme and https://docs.github.com/en/account-and-profile/how-tos/profile-customization/pinning-items-to-your-profile
+- Russia-first market signal: HH currently shows remote/partly remote Python and QA openings around the target entry band, including Junior Python Backend Developer 60,000-120,000 RUB/month, Python Developer 160,000 RUB/month with 1-3 years, and remote QA/test roles around 110,000+ RUB/month. This supports a 100,000+ RUB/month floor for the first serious remote full-time role.
+- Europe/Swiss-market signal: LinkedIn currently shows roughly 198 Junior Python Developer jobs and 208 Python Developer jobs in Switzerland, with Python Developer listings skewing heavily mid-senior and only a smaller remote subset. That supports building English-first async proof now while routing the first job through realistic Russia/remote lanes first.
 
 ## Fast Proof Route
 
@@ -96,6 +108,14 @@ Open-to-Work titles:
 Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer
 ```
 
+Preferred next Open-to-Work edit target, if the live LinkedIn title picker allows it:
+
+```text
+Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer
+```
+
+If only broader LinkedIn titles are available, keep Back End Developer and Python Developer, but avoid using Artificial Intelligence Engineer as the main first-job filter; AI remains the differentiator inside backend, QA/API, and integration work.
+
 First outreach or application message:
 
 ```text
@@ -120,6 +140,7 @@ What to inspect first:
 - Decision-Ready Contact: the shortest route for a role, workflow, or proof review.
 
 Best first message: send one remote role or one messy workflow, one success condition, and the systems involved. I will reply with fit, risky assumptions, the smallest responsible first slice, the proof path to inspect, and the next screen path.
+Docker/CI is supporting handoff evidence, not the main senior DevOps claim.
 ```
 
 ## LinkedIn Activation Pack
@@ -157,7 +178,7 @@ That is what my public proof route is organized around:
 - AI workflow / RAG / transcript / approval proof
 - Python backend/internal-tools proof, including Autoschool intake/admin
 - CRM/ERP/API integration proof
-- QA/API verification, Docker/CI, and operational handoff proof
+- QA/API verification proof, with Docker/CI as supporting handoff evidence
 
 Best-fit titles: Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, AI Automation Engineer, Internal Tools Engineer, and LLM Workflow / RAG Engineer.
 

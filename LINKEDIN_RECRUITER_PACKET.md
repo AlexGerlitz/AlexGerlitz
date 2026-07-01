@@ -9,8 +9,10 @@ I use this packet when a LinkedIn search, profile view, or first message needs a
 - Target LinkedIn Open-to-Work titles: Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer.
 - Search expansion titles: Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, AI Automation Engineer, Internal Tools Engineer, LLM Workflow / RAG Engineer.
 - Strong match: first-job remote Python/backend automation, internal tools, API/CRM integrations, QA automation Python bridge, backend-owned AI workflow, or reliability work around Docker/CI/runbooks.
+- Docker/CI boundary: Docker Compose, GitHub Actions, health checks, and runbooks support handoff proof; I do not lead with senior DevOps, Kubernetes, Terraform, or cloud platform ownership as the main claim.
 - Fastest message route: [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - send one remote role or one workflow, success condition, systems, ownership boundary, and timeline.
 - First proof: [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) -> [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt) -> [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) -> [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf).
+- Lane-first proof for a fast role screen: Python/backend -> [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html); QA/API -> [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html); Integration/API/CRM -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html).
 - Application proof: [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) maps parser-readable application lanes, exact stack keywords, first useful result, proof route, and role boundaries for Python backend/internal tools, Integration/API/CRM, QA Automation Python, and AI workflow automation.
 - First-job backend signal: I use [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) to frame the bounded reviewed task; [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) shows a real business request moving from Telegram intake to backend validation, database state, admin queue, operator status workflow, and a public-safe privacy boundary.
 - Resume handoff: [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf).
@@ -20,6 +22,18 @@ I use this packet when a LinkedIn search, profile view, or first message needs a
 - AI-native execution signal: I use AI tooling to compress discovery, implementation, debugging, docs, and review into faster iteration.
 - AI-native delivery loop: I keep architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality engineering-owned.
 - International and Europe-compatible team fit: I write English-first docs, async proof routes, integration contracts, privacy boundaries, CI, runbooks, and operational handoff notes.
+
+## Source-Backed Market Read
+
+Checked on 2026-07-01. I use this to keep first-job positioning realistic instead of widening the profile into every AI/DevOps title.
+
+| Source signal | What it changes in the packet |
+| --- | --- |
+| LinkedIn Open-to-Work preferences route job titles, location type, locations, employment types, and visibility into recruiter search. | Keep the Open-to-Work title set narrow: backend/Python, QA automation/API testing, and integration. AI stays a differentiator inside those lanes. |
+| LinkedIn Skills and Featured are explicit discovery/proof surfaces. | Keep Python, FastAPI, PostgreSQL, REST/OpenAPI, QA/API, Systems Integration, RAG, and Docker/CI handoff tied to public proof instead of loose keywords. |
+| GitHub profile README and pinned repositories are the public first-screen code/proof route. | Keep pinned repositories ordered as DriveDesk Core, AI Ops Workflow Kit, DeployMate, MPlusForm, and this profile route. |
+| Russia-first market scan shows remote Python backend and QA/test roles around the 100,000+ RUB/month entry target, including Junior Python Backend Developer 60,000-120,000 RUB/month and QA/test remote roles around 110,000+ RUB/month. | Use 100,000+ RUB/month as the useful floor for the first serious remote full-time role in Russia/CIS-facing outreach. |
+| Europe/Swiss-market scan shows Python roles exist but skew mid-senior, hybrid/on-site, and international-screen heavy. | Keep Europe-compatible async proof, English docs, privacy boundaries, CI/live smoke, and runbooks visible, but do not make geography the live public ask. |
 
 ## Inbound Offer Fit
 
@@ -34,7 +48,7 @@ I want this block used when deciding whether to message, shortlist, or forward i
 | Integration work where CRM, ERP, 1C, banking, or APIs need explicit contracts and rollback notes. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md) | Adapter boundary, field map, validation, idempotent handoff, retry/dead-letter path, audit trail, and rollout risk notes. |
 | International distributed team needs async proof before a live screen. | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | Written review path through English-first docs, CI/live smoke, privacy boundaries, runbooks, handoff notes, and resume handoff. |
 
-Best first message: send one role or workflow, one success condition, systems involved, ownership boundary, timeline, and compensation band if shareable. I will route it to fit/no-fit, risks, first slice, proof path, and the right next step.
+Best first message: send one role or workflow, one success condition, systems involved, ownership boundary, timeline, and compensation band if shareable. For Russia-first remote full-time roles, the useful compensation screen starts at 100,000+ RUB/month; fixed-scope and international work should include a band before a call. I will route it to fit/no-fit, risks, first slice, proof path, and the right next step.
 
 ## International Role Screen
 
@@ -99,6 +113,8 @@ I want these filters used when the goal is to find my profile quickly and decide
 - Internal tools ownership: `("Backend Automation Engineer" OR "Internal Tools Engineer") AND (OpenAPI OR audit OR outbox OR "workflow state")`
 - CRM/ERP/API integration: `("Integration Engineer" OR "Systems Integration") AND (CRM OR ERP OR 1C OR banking OR webhooks) AND (idempotency OR retries OR audit)`
 - Docker/CI handoff: `(Docker OR "Docker Compose" OR CI OR "health checks" OR runbooks) AND FastAPI AND Python`
+
+Use the Docker/CI query only as a supporting handoff/reliability filter. It should not be the first screen for senior DevOps, Kubernetes, Terraform, or cloud-platform ownership.
 
 ## Employer Trigger Matrix
 

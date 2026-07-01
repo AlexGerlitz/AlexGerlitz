@@ -32,6 +32,8 @@ Live checked on 2026-07-01.
 | Services | Available remote Services route for concrete backend-owned AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow requests. |
 | Skills surface | All view: Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. |
 
+Current/live boundary: the visible LinkedIn Featured route above is the last live-checked state. The recommended next first-job Featured order is LinkedIn Proof Signal -> Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk AI Operator proof route; I do not claim this as live until the LinkedIn profile visibly shows it.
+
 ## LinkedIn Activation Status
 
 Prepared on 2026-06-30, not published without owner confirmation.
@@ -45,6 +47,19 @@ Publication proof: pending live LinkedIn activity URL after explicit owner appro
 | Skill filters carried by the post | FastAPI, GitHub Actions, RAG, Python, PostgreSQL, Docker, CRM/ERP/API integration, OpenAPI, Systems Integration, and QA Automation Python. |
 | First comment route | Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack. |
 | Publication proof | Pending live LinkedIn activity URL after explicit owner approval. |
+
+## Source-Backed Activation Checks
+
+Checked on 2026-07-01.
+
+| Check | Current decision |
+| --- | --- |
+| LinkedIn Open-to-Work | Current live target titles are recorded above. Preferred next edit target is Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, and Integration Engineer if LinkedIn exposes those titles. |
+| LinkedIn Skills | Keep Python, REST APIs, OpenAPI, GitHub, Systems Integration, FastAPI, Docker, PostgreSQL, and QA/API terms tied to public proof. Do not treat DevOps as the main role claim. |
+| LinkedIn Featured | Use Featured for proof samples: LinkedIn Proof Signal, Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, and DriveDesk proof routes. |
+| GitHub profile | Keep the profile README, pinned repos, Pages routes, and PDF resume aligned because they are the first public proof surface. |
+| Russia-first market | Use 100,000+ RUB/month as the useful floor for serious remote full-time first-role outreach. |
+| Europe/Swiss-market screen | Keep English-first docs, async proof routes, integration contracts, privacy boundaries, CI/live smoke, runbooks, and handoff quality visible for later international screening without making geography the public goal. |
 
 ## Pinned Repository Order
 
@@ -82,7 +97,7 @@ Read-only checked on 2026-06-29. The pinned repositories are not random code sam
 
 ## Current External Verification
 
-Checked on 2026-06-30:
+Repository evidence checked on 2026-06-30; LinkedIn/profile packaging refreshed on 2026-07-01:
 
 - DriveDesk Core public demo returned HTTP 200.
 - DriveDesk Core `main` is green on `228943f`.
@@ -111,7 +126,7 @@ Checked on 2026-06-30:
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
 - Profile proof freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
-- Latest recorded recruiter-funnel content snapshot is green on `4544050` before the July 1 LinkedIn live sync; the current commit refreshes LinkedIn Proof Signal, Recruiter Preferences, and this Verification Pack to the live headline, Open-to-Work titles, and CI/CD-first Skills surface.
+- Latest recorded recruiter-funnel content snapshot is green on `4544050` before the July 1 LinkedIn live sync; the July 1 profile packaging refreshes LinkedIn Proof Signal, Recruiter Preferences, and this Verification Pack to the live headline, Open-to-Work titles, CI/CD-first Skills surface, and source-backed activation plan.
 - Profile Funnel Audit succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466631304
 - Profile Pages deployment succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466630461
 - Live Profile Smoke succeeded on `4544050`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28466631393

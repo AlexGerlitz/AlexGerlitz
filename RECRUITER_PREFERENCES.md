@@ -9,13 +9,25 @@ I use this as the aligned Open-to-Work and recruiter-search preference set for r
 | Field | Preference |
 | --- | --- |
 | Target LinkedIn Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. |
+| Preferred next Open-to-Work edit target | Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, if the live LinkedIn title picker allows it. If not, keep Back End Developer and Python Developer, and route AI through backend/integration/QA proof instead of using Artificial Intelligence Engineer as the main first-job filter. |
 | Search expansion titles | Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, AI Automation Engineer, Internal Tools Engineer, LLM Workflow / RAG Engineer. |
 | Location type | Remote. |
 | Remote locations | Russian-speaking product/backend teams, international remote teams, Europe-compatible remote teams, US-compatible async teams, and distributed product/operations teams. |
 | Employment types | Full-time and contract. |
 | Availability | Open to remote full-time roles and concrete fixed-scope projects. |
+| Compensation screen | Russia-first remote full-time roles should be worth 100,000+ RUB/month; fixed-scope and international roles should include a band before a call. |
 | Strongest match | My strongest match is a bounded first Python/backend task, internal operations tool, API/CRM integration, QA automation Python bridge, or backend-owned AI workflow with tests, logs, docs, deployment path, and handoff. |
 | Europe-compatible signal | Written proof routes, English-first docs, async technical review, privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff. |
+
+## Source-Backed Search Rationale
+
+Checked on 2026-07-01.
+
+- LinkedIn Open-to-Work explicitly uses job titles, location type, locations, employment types, and visibility, so the profile should not spread the first-job surface across unrelated titles.
+- LinkedIn Skills are a matching surface and can include up to 100 skills, so the top visible skills should stay tied to public proof and role keywords.
+- LinkedIn Featured is an evidence surface, so first visible work samples should be proof routes: LinkedIn Proof Signal, Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, and DriveDesk proof.
+- GitHub profile README and pinned repositories remain the fastest public technical proof path, so the README, pins, Pages routes, CI/live smoke, and PDF resume must stay aligned.
+- Russia-first market scan supports a 100,000+ RUB/month floor for serious remote full-time outreach; Europe/Swiss-market scan supports keeping English-first async/team proof visible for later international screening without making it the public ask.
 
 ## Recruiter Filter Map
 
@@ -46,6 +58,8 @@ I use short keyword strings when a recruiter needs to find my profile by technic
 - `("Backend Automation Engineer" OR "Internal Tools Engineer") AND (OpenAPI OR audit OR outbox OR "workflow state")`
 - `("Integration Engineer" OR "Systems Integration") AND (CRM OR ERP OR 1C OR banking OR webhooks) AND (idempotency OR retries OR audit)`
 - `(Docker OR "Docker Compose" OR CI OR "health checks" OR runbooks) AND FastAPI AND Python`
+
+Docker/CI query boundary: use it only for handoff, reliability, health checks, and runbook proof. It is not my first screen for senior DevOps, Kubernetes, Terraform, or cloud-platform ownership.
 
 ## LinkedIn Skills Search Surface
 
@@ -78,6 +92,7 @@ Python immediately after it, and every visible top skill tied to public proof in
 | Surface | Current target | Proof / next check |
 | --- | --- | --- |
 | Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. | Keep these aligned with the headline, About, resume, Delivery Capability, Application Fit Pack, Role Targets, and AI Backend Proof Pack. |
+| Next Open-to-Work edit target | Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. | Use this if the live LinkedIn editor exposes these titles; it better matches first remote Python/backend, QA/API, and integration role screens. |
 | Search expansion titles | Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, AI Automation Engineer, Internal Tools Engineer, LLM Workflow / RAG Engineer. | Use these in posts, proof routes, and recruiter search strings rather than widening into unrelated roles. |
 | Top skills order target | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CRM, ERP, API Integration, Systems Integration, QA Automation Python, n8n, Telegram, audit logs, idempotency, retries, runbooks. | Keep the first visible skills tied to proof, not generic AI claims. |
 | Verified LinkedIn skill filters | All view: Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. | Keep visible skills tied to proof; do not fight LinkedIn reorder controls unless it exposes a clean edit path. |
@@ -131,6 +146,7 @@ I use this as the exact copy layer for live GitHub, LinkedIn, Open-to-Work, and 
 | LinkedIn headline | Python Backend Automation Engineer \| DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG/LLM Workflows, FastAPI, Docker |
 | LinkedIn About opening | I build Python/backend automation, internal tools, AI workflow, and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, QA/API verification, Docker/CI handoff, runbooks, and recovery paths. |
 | Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. |
+| Preferred next Open-to-Work edit target | Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. |
 | First outreach or application message | Hi, I am interested in this remote Python/backend automation role. I can send a proof route first: Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff. |
 | Live update order | GitHub bio -> LinkedIn headline -> LinkedIn About opening -> Open-to-Work titles -> Featured order. |
 
