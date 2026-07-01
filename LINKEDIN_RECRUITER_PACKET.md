@@ -42,8 +42,9 @@ Hi Alex, I am hiring for a remote Python/backend, QA/API, internal-tools, CRM/AP
 
 ## Proof Order
 
-1. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf): one-page recruiter handoff.
-2. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html): bounded first-task proof.
-3. [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html): bot intake -> backend validation -> database state -> admin queue -> operator status.
-4. [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skill-to-proof map across Python, FastAPI, PostgreSQL, QA/API, integrations, RAG, and Docker/CI handoff.
-5. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public routes, and proof freshness.
+1. [Recruiter Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf): two-page fit and proof handoff.
+2. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf): one-page application handoff.
+3. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html): bounded first-task proof.
+4. [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html): bot intake -> backend validation -> database state -> admin queue -> operator status.
+5. [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skill-to-proof map across Python, FastAPI, PostgreSQL, QA/API, integrations, RAG, and Docker/CI handoff.
+6. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public routes, and proof freshness.

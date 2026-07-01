@@ -151,6 +151,7 @@ Applied Informatics, 2025 - Present
 
 - [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
+- [Recruiter proof pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf)
 - [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
 - [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)

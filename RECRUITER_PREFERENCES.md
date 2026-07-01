@@ -188,7 +188,7 @@ I use this as the exact copy layer for live GitHub, LinkedIn, Open-to-Work, and 
 6. [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - first-job backend proof for Telegram intake, validation, database state, admin queue, status workflow, and privacy boundary.
 7. [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) - precise role-fit route for AI automation, RAG, structured outputs, approvals, CRM/API handoff, tests, logs, and runbooks.
 8. [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) - flagship backend-owned AI workflow proof route.
-9. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) - 30-second role screen and first-month ownership.
+9. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) - 30-second role fit and first-month ownership.
 10. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) - compact route through Python/backend automation, AI workflow, integration, Docker/CI boundary, verification, and resume proof.
 11. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international and Europe-compatible remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.
 12. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - minimum context, fit read, risk check, smallest responsible first slice, proof path, and next route.
