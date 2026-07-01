@@ -6,24 +6,24 @@ Use this page when a LinkedIn profile view needs a fast decision: whether to mes
 
 ## 30-Second Decision
 
-- Best-fit screen: Junior Python Backend, QA/API Python, CRM/API Integration, Internal Tools.
+- Best-fit roles: Junior Python Backend, QA/API Python, CRM/API Integration, Internal Tools.
 - Best first assignment: one endpoint, data model, admin queue step, API/CRM mapping, API test, or runbook gap.
-- Do not screen me as: senior DevOps, Kubernetes/Terraform-first platform owner, onsite-only candidate, or pure prompt/content operator.
+- Do not position me as: senior DevOps, Kubernetes/Terraform-first platform owner, onsite-only candidate, or pure prompt/content operator.
 - Useful signal: messy business workflows become backend-owned state, tests or smoke checks, privacy boundaries, docs, and handoff notes.
 
 ## Role Lanes
 
 | Lane | Why it fits | Proof to open |
 | --- | --- | --- |
-| Python backend / internal tools | FastAPI/PostgreSQL workflow slices, endpoints, data models, validation, admin queue steps, docs, and handoff. | [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
-| QA Automation Python / API Testing | pytest, REST/OpenAPI checks, SQL/data checks, smoke routes, logs, issue notes, and repeatable verification. | [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
+| Python backend / internal tools | FastAPI/PostgreSQL workflow slices, endpoints, data models, validation, admin queue steps, docs, and handoff. | [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
+| QA Automation Python / API Testing | pytest, REST/OpenAPI checks, SQL/data checks, smoke routes, logs, issue notes, and repeatable verification. | [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
 | CRM/API integration | Adapter contracts, mappings, validation, retries, idempotency, audit logs, and privacy boundaries. | [Autoschool Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
 | AI workflow / RAG | Retrieval, structured output, approval states, citations/evals, CRM-safe handoff, runbooks, and backend ownership. | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
 
-## Market-Aligned Screen
+## Market-Aligned Fit
 
 - Russia-first entry: lead with Python, FastAPI, PostgreSQL, REST/OpenAPI, pytest, SQL checks, admin workflows, and integrations. Ask for the compensation band privately before a call.
-- International screen: show English-first docs, async proof, privacy boundaries, CI/live smoke, runbooks, and handoff quality without making geography the public headline.
+- International fit: show English-first docs, async proof, privacy boundaries, CI/live smoke, runbooks, and handoff quality without making geography the public headline.
 - AI positioning: AI is a delivery accelerator and workflow differentiator, not a replacement for engineering ownership.
 
 ## Truth Boundaries
@@ -43,7 +43,7 @@ Hi Alex, I am hiring for a remote Python/backend, QA/API, internal-tools, CRM/AP
 ## Proof Order
 
 1. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf): one-page recruiter handoff.
-2. [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html): bounded first-task proof.
+2. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html): bounded first-task proof.
 3. [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html): bot intake -> backend validation -> database state -> admin queue -> operator status.
 4. [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skill-to-proof map across Python, FastAPI, PostgreSQL, QA/API, integrations, RAG, and Docker/CI handoff.
 5. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public routes, and proof freshness.

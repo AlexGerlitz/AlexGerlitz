@@ -5,7 +5,7 @@ I use this as the short public update route for a LinkedIn profile view, a recru
 ## What Changed
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability proof route.
-- The recommended first-job Featured route starts with LinkedIn Proof Signal, then Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core. The current live Featured state is tracked separately in Verification Pack so I do not claim a LinkedIn-side edit before it is visible.
+- The recommended first-job Featured route starts with LinkedIn Proof Signal, then Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core. The current live Featured state is tracked separately in Verification Pack so I do not claim a LinkedIn-side edit before it is visible.
 - The live Skills surface is verified instead of assumed: All view starts with Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, and ERP; CRM remains proof-backed through About, Services, and public routes. Tools & Technologies surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.
 - LinkedIn did not expose a clean reorder control; the current safe state is CI/CD first, Python immediately after it, and every visible top skill tied to public proof instead of loose keywords.
 - The public GitHub route connects search-fit signal, proof, contact context, and resume handoff.
@@ -48,8 +48,8 @@ Checked on 2026-07-01. I use this to keep LinkedIn/GitHub edits tied to how recr
 3. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
 4. [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html)
 5. [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html)
-6. [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
-7. [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
+6. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
+7. [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
 8. [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
 9. [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 10. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
@@ -69,7 +69,7 @@ Short proof direction (not live About copy):
 ```text
 I build Python/backend automation, internal tools, AI workflow, and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, QA/API verification, Docker/CI handoff, runbooks, and recovery paths.
 
-Fastest proof to review: Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof - parser-readable role fit, first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
+Fastest proof to review: Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin Proof - parser-readable role fit, first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
 ```
 
 LinkedIn About replacement:
@@ -92,7 +92,7 @@ Profile alignment checklist:
 
 - Keep LinkedIn Proof Signal as the first Featured route.
 - Keep Delivery Capability and Application Fit Pack visible for parser-readable recruiter and application review.
-- Keep First Backend Role Screen and Autoschool Intake/Admin Proof directly visible for first-job backend proof.
+- Keep First Backend Role Fit and Autoschool Intake/Admin Proof directly visible for first-job backend proof.
 - Keep DriveDesk AI Operator as the flagship AI/backend workflow route.
 - Use only synthetic screenshots or diagrams; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
 
@@ -145,7 +145,7 @@ If only broader LinkedIn titles are available, keep Back End Developer and Pytho
 First outreach or application message:
 
 ```text
-Hi, I am interested in this remote Python/backend automation role. I can send a proof route first: Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff.
+Hi, I am interested in this remote Python/backend automation role. I can send a proof route first: Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff.
 ```
 
 Live update order: GitHub bio -> LinkedIn headline -> LinkedIn About replacement -> Open-to-Work titles -> Featured order.
@@ -158,7 +158,7 @@ I refreshed my public proof route for remote Python/backend automation, internal
 What to inspect first:
 - Delivery Capability: my current role-market fit, first useful workflow slice, AI-assisted delivery boundary, Docker/CI boundary, and first-job application lane.
 - Application Fit Pack: parser-readable lanes for Python backend/internal tools, Integration/API/CRM, QA Automation Python, and AI workflow automation.
-- First Backend Role Screen: bounded Python/backend tasks I can take under review, with tests or smoke checks, docs, and handoff.
+- First Backend Role Fit: bounded Python/backend tasks I can take under review, with tests or smoke checks, docs, and handoff.
 - LinkedIn profile signal: the first Featured card is LinkedIn Proof Signal, and the live Skills surface maps CI/CD, Python, REST APIs, OpenAPI, GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP, FastAPI, Docker, and PostgreSQL to public proof while CRM/API integration remains proof-backed through About, Services, and public routes.
 - Autoschool Intake/Admin Proof: first-job backend proof for Telegram intake -> backend validation -> database record -> admin queue -> operator status workflow, including a synthetic demo seed at data/autoschool-intake-admin-demo.json.
 - DriveDesk AI Operator proof route: backend-owned RAG/transcript/approval/CRM handoff with audit, retries, adapter boundaries, CI, and runbooks.
@@ -184,7 +184,7 @@ The first Featured card now points to LinkedIn Proof Signal. The live Skills sur
 Best first proof:
 - Delivery Capability
 - Application Fit Pack
-- First Backend Role Screen
+- First Backend Role Fit
 - Autoschool Intake/Admin Proof
 - DriveDesk AI Operator proof route
 - AI Backend Proof Pack
@@ -233,7 +233,7 @@ Best fit: Python/backend workflow slices, CRM/ERP/API adapters, internal operati
 
 ```text
 Proof route:
-Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Delivery Capability -> Application Fit Pack -> Hiring Decision -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route -> AI Backend Proof Pack.
+Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Delivery Capability -> Application Fit Pack -> Hiring Decision -> First Backend Role Fit -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route -> AI Backend Proof Pack.
 
 Start here: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
 ```

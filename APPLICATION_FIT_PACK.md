@@ -10,9 +10,9 @@ first useful result, and the public proof that supports the claim.
 
 | Lane | Best-fit titles | Strongest proof |
 | --- | --- | --- |
-| Python backend / internal tools | Junior Python Developer, Junior Backend Developer, Back End Developer, Python Developer, Internal Tools Developer | [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) -> [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
+| Python backend / internal tools | Junior Python Developer, Junior Backend Developer, Back End Developer, Python Developer, Internal Tools Developer | [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
 | Integration / API / CRM | Integration Engineer, API Integration Engineer, CRM Integration Engineer, Systems Integration Engineer | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
-| QA automation bridge | Quality Assurance Automation Engineer, QA Automation Python, API Testing, Test Automation Engineer, Support Engineer with Python | [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| QA automation bridge | Quality Assurance Automation Engineer, QA Automation Python, API Testing, Test Automation Engineer, Support Engineer with Python | [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | AI workflow automation | AI Automation Engineer, LLM Workflow Engineer, RAG Workflow Engineer | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt) |
 
 ## Market-Backed Priority Order
@@ -54,7 +54,7 @@ retries, runbooks.
 I can take a small workflow from request intake to backend-owned state: validation, database record,
 queue or admin handoff, status update, tests or smoke check, and short handoff notes.
 
-Proof route: Delivery Capability -> First Backend Role Screen -> Backend First Screen -> Autoschool
+Proof route: Delivery Capability -> First Backend Role Fit -> Backend Role Fit -> Autoschool
 Intake/Admin Proof -> PDF Resume.
 
 ### Integration / API / CRM
@@ -70,7 +70,7 @@ Backend Proof Pack.
 I can use Python, API checks, SQL/data checks, logs, smoke routes, and issue notes to make a business
 workflow easier to verify and support.
 
-Proof route: Backend First Screen -> Skill Evidence -> Verification Pack -> public CI/live smoke.
+Proof route: Backend Role Fit -> Skill Evidence -> Verification Pack -> public CI/live smoke.
 
 ### AI Workflow Automation
 
@@ -101,7 +101,7 @@ Example:
 Hi, I am interested in this remote Python/backend automation role. The strongest match is internal
 tools plus API workflow ownership: Python, FastAPI, PostgreSQL/SQL, REST API, Docker Compose,
 GitHub Actions, tests or smoke checks, logs, docs, and handoff. My fastest proof route is Delivery
-Capability -> First Backend Role Screen -> Autoschool Intake/Admin Proof. I can start with one
+Capability -> First Backend Role Fit -> Autoschool Intake/Admin Proof. I can start with one
 bounded workflow slice: input, validation, state, output, verification, and handoff.
 ```
 

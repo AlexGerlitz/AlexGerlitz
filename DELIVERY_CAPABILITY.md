@@ -21,7 +21,7 @@ Best first filters:
 I am not using Docker or DevOps words as a senior platform claim. I can work with Docker/Compose,
 ports, env vars, logs, exec, volumes, restarts, CI, smoke checks, runbooks, and handoff when they
 support a backend or automation result. Kubernetes, Terraform, AWS platform ownership, and highload
-infrastructure should not be the first screen.
+infrastructure should not be the first fit test.
 
 ## First Useful Result I Can Own
 
@@ -65,8 +65,8 @@ inspect.
 Fastest route for a first-job or remote-role screen:
 
 1. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
-2. [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
-3. [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
+2. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
+3. [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
 4. [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
 5. [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 6. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)

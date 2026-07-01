@@ -1,4 +1,4 @@
-# First Backend Role Screen
+# First Backend Role Fit
 
 Public HTML route: https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html
 
@@ -19,7 +19,7 @@ Best-fit first role titles:
 
 Fastest proof route:
 
-1. [Backend First Screen](./BACKEND_FIRST_SCREEN.md)
+1. [Backend Role Fit](./BACKEND_FIRST_SCREEN.md)
 2. [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md)
 3. [Synthetic demo seed](./data/autoschool-intake-admin-demo.json)
 4. [First 30 Days Delivery Plan](./FIRST_30_DAYS.md)
@@ -34,7 +34,7 @@ Best immediate team context:
 
 ## Why This Exists
 
-Some proof pages show a broad backend workflow direction. This screen answers the smaller first-role
+Some proof pages show a broad backend workflow direction. This page answers the smaller first-role
 question: what can a team safely give me first?
 
 | First-role question | Practical answer |
@@ -57,12 +57,12 @@ question: what can a team safely give me first?
 
 ## What I Should Not Be Evaluated On First
 
-Do not evaluate me by asking me to own a large architecture alone on day one. A better screen is a
+Do not evaluate me by asking me to own a large architecture alone on day one. A better first assignment is a
 bounded backend task with a real workflow, explicit review, tests or smoke checks, and a clear
 handoff note.
 
 ## Proof Boundary
 
-This first-role screen uses public-safe proof only. It does not include live admin screenshots,
+This first-role fit uses public-safe proof only. It does not include live admin screenshots,
 real learner names, contact details, Telegram IDs, chat IDs, private URLs, raw logs, credentials,
 database dumps, or private repository code.

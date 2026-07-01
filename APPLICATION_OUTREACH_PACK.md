@@ -50,8 +50,8 @@ dumps, record identifiers, tokens, or credentials. Public proof uses synthetic o
 
 | Lane | Titles | Keywords | First proof |
 | --- | --- | --- | --- |
-| Python backend / internal tools | Junior Backend Developer, Junior Python Developer, Back End Developer, Python Developer, Internal Tools Developer | Python, FastAPI, PostgreSQL, SQL, REST API, OpenAPI, pytest, Docker Compose, GitHub Actions, admin workflow, Telegram bot, handoff docs | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
-| QA/API verification | QA Automation Python, API Testing, Test Automation Engineer, Support Engineer with Python | Python, pytest, REST API, OpenAPI, SQL/data checks, logs, smoke checks, reproducible checks, bug notes | [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| Python backend / internal tools | Junior Backend Developer, Junior Python Developer, Back End Developer, Python Developer, Internal Tools Developer | Python, FastAPI, PostgreSQL, SQL, REST API, OpenAPI, pytest, Docker Compose, GitHub Actions, admin workflow, Telegram bot, handoff docs | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
+| QA/API verification | QA Automation Python, API Testing, Test Automation Engineer, Support Engineer with Python | Python, pytest, REST API, OpenAPI, SQL/data checks, logs, smoke checks, reproducible checks, bug notes | [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | Integration / API / CRM | Integration Engineer, API Integration Engineer, CRM Integration Engineer, Systems Integration Engineer | CRM, ERP, API integration, webhooks, adapter contracts, retries, idempotency, audit logs, privacy boundaries, operator handoff | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
 | AI workflow / RAG | AI Automation Engineer, LLM Workflow Engineer, RAG Workflow Engineer | RAG, retrieval, structured output, approvals, citations, eval checks, transcript analysis, CRM-safe handoff, runbooks | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
 
@@ -69,13 +69,13 @@ dumps, record identifiers, tokens, or credentials. Public proof uses synthetic o
 ### Python Backend / Internal Tools
 
 ```text
-Hi, I am interested in this remote Python/backend role. My strongest overlap is Python, FastAPI, PostgreSQL/SQL, REST API, OpenAPI, pytest, Docker Compose/GitHub Actions handoff, and internal admin workflows. Fast proof: Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof. I can start with one bounded workflow slice: input, validation, database state, output, verification, and handoff.
+Hi, I am interested in this remote Python/backend role. My strongest overlap is Python, FastAPI, PostgreSQL/SQL, REST API, OpenAPI, pytest, Docker Compose/GitHub Actions handoff, and internal admin workflows. Fast proof: Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin Proof. I can start with one bounded workflow slice: input, validation, database state, output, verification, and handoff.
 ```
 
 ### QA/API Verification
 
 ```text
-Hi, I am interested in this QA/API automation role. I can use Python, pytest, REST/OpenAPI checks, SQL/data state checks, logs, smoke checks, and issue notes to make one business workflow repeatably verifiable. Fast proof: Backend First Screen -> Skill Evidence -> Verification Pack.
+Hi, I am interested in this QA/API automation role. I can use Python, pytest, REST/OpenAPI checks, SQL/data state checks, logs, smoke checks, and issue notes to make one business workflow repeatably verifiable. Fast proof: Backend Role Fit -> Skill Evidence -> Verification Pack.
 ```
 
 ### Integration / API / CRM

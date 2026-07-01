@@ -32,7 +32,7 @@ Live checked on 2026-07-01.
 | Services | Available remote Services route for concrete backend-owned AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow requests. |
 | Skills surface | All view: Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. |
 
-Current/live boundary: LinkedIn About is live-updated and verified on the visible profile. Open-to-Work still needs an owner-confirmed title cleanup so Artificial Intelligence Engineer stops being the main first-job filter. The visible LinkedIn Featured route above is still the last live-checked Featured state. The recommended next first-job Featured order is LinkedIn Proof Signal -> Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk AI Operator proof route; I do not claim this Featured reorder as live until the LinkedIn profile visibly shows it.
+Current/live boundary: LinkedIn About is live-updated and verified on the visible profile. Open-to-Work still needs an owner-confirmed title cleanup so Artificial Intelligence Engineer stops being the main first-job filter. The visible LinkedIn Featured route above is still the last live-checked Featured state. The recommended next first-job Featured order is LinkedIn Proof Signal -> Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin Proof -> DriveDesk AI Operator proof route; I do not claim this Featured reorder as live until the LinkedIn profile visibly shows it.
 
 ## LinkedIn Activation Status
 
@@ -56,7 +56,7 @@ Checked on 2026-07-01.
 | --- | --- |
 | LinkedIn Open-to-Work | Current live titles are recorded above. Recommended next edit target is Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, and Integration Engineer if LinkedIn exposes those titles; if not, keep Back End Developer and Python Developer, then route AI through backend, QA/API, and integration proof. |
 | LinkedIn Skills | Keep Python, REST APIs, OpenAPI, GitHub, Systems Integration, FastAPI, Docker, PostgreSQL, and QA/API terms tied to public proof. Do not treat DevOps as the main role claim. |
-| LinkedIn Featured | Use Featured for proof samples: LinkedIn Proof Signal, Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, and DriveDesk proof routes. |
+| LinkedIn Featured | Use Featured for proof samples: LinkedIn Proof Signal, Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin Proof, and DriveDesk proof routes. |
 | GitHub profile | Keep the profile README, pinned repos, Pages routes, and PDF resume aligned because they are the first public proof surface. |
 | Russia-first market | Keep Russia-first outreach band-aware: ask for or share the compensation band before a call, and screen the exact minimum privately. |
 | International-market screen | Keep English-first docs, async proof routes, integration contracts, privacy boundaries, CI/live smoke, runbooks, and handoff quality visible for later international screening without making geography the public goal. |

@@ -12,7 +12,7 @@ proof links.
 
 Send one first backend/Python role, remote role, workflow, project, or proof question plus one
 success condition. I will answer with a fit read, risky assumptions, the smallest responsible first
-slice, proof path to inspect, and the right next route: first backend screen, remote role,
+slice, proof path to inspect, and the right next route: first backend fit, remote role,
 fixed-scope project, technical review, or no-fit.
 
 ## Recruiter Offer Triage
@@ -23,7 +23,7 @@ with fit/no-fit, strongest proof route, risky assumptions, smallest first slice,
 
 For a first backend/Python role, send role title, stack, team review path, first ticket shape,
 tests or smoke expectations, onboarding owner, and hiring timeline. I will route the answer through
-Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof before deeper
+Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin Proof before deeper
 AI/backend workflow proof.
 
 Best matches: remote-only backend automation and integration, AI automation, RAG workflow, CRM/ERP/API integration,
@@ -79,8 +79,8 @@ Hi Alex, I want to review your fit for AI workflow, backend automation, integrat
 - [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
 - [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html)
 - [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
-- [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
-- [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
+- [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
+- [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
 - [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
 - [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt)

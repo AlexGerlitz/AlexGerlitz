@@ -1,8 +1,8 @@
-# Backend First Screen
+# Backend Role Fit
 
 Public HTML route: https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html
 
-Use this page when a recruiter or hiring manager needs a fast backend/internal-tools screen before
+Use this page when a recruiter or hiring manager needs a fast backend/internal-tools fit before
 opening the full portfolio.
 
 ## 30-Second Fit
@@ -29,7 +29,7 @@ Fastest proof route:
 
 ## What This Proves
 
-| Screen question | Proof answer |
+| Review question | Proof answer |
 | --- | --- |
 | Can I build a practical API/data workflow? | Telegram-style request becomes API payload, validated business state, database record, and admin queue row. |
 | Can I work with backend state instead of only UI scripts? | The proof centers on records, statuses, timestamps, review state, operator action, and audit events. |
@@ -55,6 +55,6 @@ Given one messy request workflow, I can own the first responsible backend slice:
 
 ## Boundary
 
-This screen intentionally uses public-safe evidence only. It does not use live admin screenshots,
+This page intentionally uses public-safe evidence only. It does not use live admin screenshots,
 real names, contact details, Telegram IDs, chat IDs, private URLs, raw logs, credentials, database
 dumps, or private repository code.
