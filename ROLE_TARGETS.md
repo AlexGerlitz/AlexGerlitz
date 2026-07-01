@@ -14,7 +14,7 @@ conversation.
 | Quality Assurance Automation Engineer / QA Automation Python / API Testing | I can use Python, pytest, REST API/OpenAPI checks, SQL/data checks, logs, smoke routes, and issue notes to verify real backend and business workflows. | [Backend First Screen](./BACKEND_FIRST_SCREEN.md), [Skill Evidence](./SKILL_EVIDENCE.md), [Verification Pack](./VERIFICATION_PACK.md), [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md) |
 | Backend Automation / Internal Tools Engineer | I think in operational boundaries: tenants, adapters, workers, contracts, SDK/OpenAPI surfaces, CI, and public proof paths. | [DriveDesk Core fast review route](https://github.com/AlexGerlitz/drivedesk-core), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
 | AI Automation Engineer | I can turn documents, transcripts, tickets, leads, or operator routines into RAG, summaries, scoring, routing, approvals, and reviewable workflows. | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md), [Remote Services](./SERVICES.md) |
-| Artificial Intelligence Engineer | Best fit when the AI work is workflow/backend/integration oriented: RAG, structured LLM output, approvals, CRM handoff, tests, logs, and reviewable production boundaries. | [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md), [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
+| AI Workflow / LLM Integration Engineer | Best fit when the AI work is workflow/backend/integration oriented: RAG, structured LLM output, approvals, CRM handoff, tests, logs, and reviewable production boundaries. | [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md), [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
 | LLM Workflow / RAG Engineer | I can build backend-owned AI workflows where retrieval, citations, analysis JSON, approvals, quality checks, and audit are inspectable instead of hidden inside no-code nodes. | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
 | AI / Operations Automation Lead | I can combine AI-native delivery, operations workflow analysis, API/integration boundaries, documentation, metrics, and human oversight into one delivery loop. | [Role Fit Pack](./APPLICATION_PACK.md), [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
 | Reliability / Docker Handoff | I can improve deployment, health checks, logs, CI/CD, release gates, backups, smoke checks, runbooks, and recovery paths. | [DeployMate](https://github.com/AlexGerlitz/deploymate), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
@@ -50,7 +50,7 @@ These are the terms that best match the current public proof:
 - Back End Developer
 - Python Developer
 - Python Backend Engineer
-- Artificial Intelligence Engineer with a workflow/backend focus
+- AI Workflow / LLM Integration Engineer
 - FastAPI Engineer
 - Backend Automation Engineer
 - Backend Development
