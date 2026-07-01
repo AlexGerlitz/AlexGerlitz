@@ -59,7 +59,7 @@ Checked on 2026-07-01.
 | LinkedIn Featured | Use Featured for proof samples: LinkedIn Proof Signal, Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, and DriveDesk proof routes. |
 | GitHub profile | Keep the profile README, pinned repos, Pages routes, and PDF resume aligned because they are the first public proof surface. |
 | Russia-first market | Use 100,000+ RUB/month as the useful floor for serious remote full-time first-role outreach. |
-| Europe/Swiss-market screen | Keep English-first docs, async proof routes, integration contracts, privacy boundaries, CI/live smoke, runbooks, and handoff quality visible for later international screening without making geography the public goal. |
+| International-market screen | Keep English-first docs, async proof routes, integration contracts, privacy boundaries, CI/live smoke, runbooks, and handoff quality visible for later international screening without making geography the public goal. |
 
 ## Pinned Repository Order
 

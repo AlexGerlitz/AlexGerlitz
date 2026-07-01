@@ -33,7 +33,7 @@ Checked on 2026-07-01. I use this to keep first-job positioning realistic instea
 | LinkedIn Skills and Featured are explicit discovery/proof surfaces. | Keep Python, FastAPI, PostgreSQL, REST/OpenAPI, QA/API, Systems Integration, RAG, and Docker/CI handoff tied to public proof instead of loose keywords. |
 | GitHub profile README and pinned repositories are the public first-screen code/proof route. | Keep pinned repositories ordered as DriveDesk Core, AI Ops Workflow Kit, DeployMate, MPlusForm, and this profile route. |
 | Russia-first market scan shows remote Python backend and QA/test roles around the 100,000+ RUB/month entry target, including Junior Python Backend Developer 60,000-120,000 RUB/month and QA/test remote roles around 110,000+ RUB/month. | Use 100,000+ RUB/month as the useful floor for the first serious remote full-time role in Russia/CIS-facing outreach. |
-| Europe/Swiss-market scan shows Python roles exist but skew mid-senior, hybrid/on-site, and international-screen heavy. | Keep Europe-compatible async proof, English docs, privacy boundaries, CI/live smoke, and runbooks visible, but do not make geography the live public ask. |
+| International-market scan shows Python/backend roles exist but skew experienced, hybrid, local-market, and international-screen heavy. | Keep Europe-compatible async proof, English docs, privacy boundaries, CI/live smoke, and runbooks visible, but do not make geography the live public ask. |
 
 ## Inbound Offer Fit
 

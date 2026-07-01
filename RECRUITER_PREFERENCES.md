@@ -27,7 +27,7 @@ Checked on 2026-07-01.
 - LinkedIn Skills are a matching surface and can include up to 100 skills, so the top visible skills should stay tied to public proof and role keywords.
 - LinkedIn Featured is an evidence surface, so first visible work samples should be proof routes: LinkedIn Proof Signal, Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, and DriveDesk proof.
 - GitHub profile README and pinned repositories remain the fastest public technical proof path, so the README, pins, Pages routes, CI/live smoke, and PDF resume must stay aligned.
-- Russia-first market scan supports a 100,000+ RUB/month floor for serious remote full-time outreach; Europe/Swiss-market scan supports keeping English-first async/team proof visible for later international screening without making it the public ask.
+- Russia-first market scan supports a 100,000+ RUB/month floor for serious remote full-time outreach; international-market scan supports keeping English-first async/team proof visible for later international screening without making geography the public ask.
 
 ## Recruiter Filter Map
 
@@ -114,7 +114,7 @@ This page mirrors the visible LinkedIn setup I want recruiters to see before sen
 
 ## LinkedIn Profile Copy Pack
 
-I use this copy to keep the profile headline, About direction, Featured order, and proof stack aligned.
+I use this section to keep the profile headline, LinkedIn About replacement, Featured order, and proof stack aligned.
 
 Headline copy:
 
@@ -122,7 +122,7 @@ Headline copy:
 Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG/LLM Workflows, FastAPI, Docker
 ```
 
-About direction copy:
+Profile direction summary (not live About copy):
 
 ```text
 I build Python/backend automation, internal tools, AI workflow, and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, QA/API verification, Docker/CI handoff, runbooks, and recovery paths.
@@ -130,6 +130,22 @@ I build Python/backend automation, internal tools, AI workflow, and operations s
 Fastest proof to review: Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof - Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
 
 Flagship direction: DriveDesk AI Operator - a backend-owned AI sales/support workflow layer for document, call, transcript, and lead intake; RAG; structured analysis; Telegram approval; CRM-safe handoff; audit/outbox; retries; and operational runbooks.
+```
+
+LinkedIn About replacement:
+
+```text
+I build Python/backend automation and internal tools for real business workflows: FastAPI/PostgreSQL APIs, Telegram intake -> admin workflows, REST/OpenAPI contracts, SQL/data checks, QA/API verification, CRM/ERP/API integration boundaries, Docker Compose/GitHub Actions handoff, docs, runbooks, and recovery notes.
+
+My strongest first-role proof is Autoschool Intake/Admin: Telegram request -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only. It connects real Autoschool54 operational context with a public-safe backend proof route.
+
+I use AI tools as an engineering accelerator: domain research, implementation options, debugging, docs, tests, and review. Architecture, privacy, state boundaries, logs, verification, deployment notes, and shipped quality stay my responsibility.
+
+Best fit: remote Junior Backend Developer, Junior Python Developer, Python Developer, QA Automation Python, API Testing, Integration Engineer, or Support Engineer with Python roles where the first useful result is one bounded workflow slice that can be tested, logged, documented, and handed off.
+
+Docker/CI is part of my handoff evidence; my first lane is backend/internal tools/API integration, not senior DevOps or platform ownership.
+
+Fast proof route: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
 ```
 
 Featured order: keep LinkedIn Proof Signal first, keep Delivery Capability, Application Fit Pack, First Backend Role Screen, and Autoschool Intake/Admin Proof immediately visible, then route DriveDesk AI Operator, Fixed-Scope AI Automation Offers, and DriveDesk Core as the deeper proof stack.
@@ -144,11 +160,11 @@ I use this as the exact copy layer for live GitHub, LinkedIn, Open-to-Work, and 
 | --- | --- |
 | GitHub bio | Python Backend Automation Engineer building DriveDesk: internal tools, API/CRM integrations, QA Automation Python, RAG/LLM workflows, FastAPI, Docker. |
 | LinkedIn headline | Python Backend Automation Engineer \| DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG/LLM Workflows, FastAPI, Docker |
-| LinkedIn About opening | I build Python/backend automation, internal tools, AI workflow, and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, QA/API verification, Docker/CI handoff, runbooks, and recovery paths. |
+| LinkedIn About replacement | I build Python/backend automation and internal tools for real business workflows: FastAPI/PostgreSQL APIs, Telegram intake -> admin workflows, REST/OpenAPI contracts, SQL/data checks, QA/API verification, CRM/ERP/API integration boundaries, Docker Compose/GitHub Actions handoff, docs, runbooks, and recovery notes. Fast proof route: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html |
 | Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. |
 | Preferred next Open-to-Work edit target | Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. |
 | First outreach or application message | Hi, I am interested in this remote Python/backend automation role. I can send a proof route first: Delivery Capability -> Application Fit Pack -> First Backend Role Screen -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff. |
-| Live update order | GitHub bio -> LinkedIn headline -> LinkedIn About opening -> Open-to-Work titles -> Featured order. |
+| Live update order | GitHub bio -> LinkedIn headline -> LinkedIn About replacement -> Open-to-Work titles -> Featured order. |
 
 ## Search Intent To Proof Stack
 
