@@ -15,7 +15,7 @@ I use this as the aligned Open-to-Work and recruiter-search preference set for r
 | Remote locations | Russian-speaking product/backend teams, international remote teams, Europe-compatible remote teams, US-compatible async teams, and distributed product/operations teams. |
 | Employment types | Full-time and contract. |
 | Availability | Open to remote full-time roles and concrete fixed-scope projects. |
-| Compensation screen | Russia-first remote full-time roles should be worth 100,000+ RUB/month; fixed-scope and international roles should include a band before a call. |
+| Compensation screen | Remote full-time, fixed-scope, and international roles should include a compensation band before a call; the exact Russia-first minimum screen stays in private outreach. |
 | Strongest match | My strongest match is a bounded first Python/backend task, internal operations tool, API/CRM integration, QA automation Python bridge, or backend-owned AI workflow with tests, logs, docs, deployment path, and handoff. |
 | Europe-compatible signal | Written proof routes, English-first docs, async technical review, privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff. |
 
@@ -27,7 +27,7 @@ Checked on 2026-07-01.
 - LinkedIn Skills are a matching surface and can include up to 100 skills, so the top visible skills should stay tied to public proof and role keywords.
 - LinkedIn Featured is an evidence surface, so first visible work samples should be proof routes: LinkedIn Proof Signal, Delivery Capability, Application Fit Pack, First Backend Role Screen, Autoschool Intake/Admin Proof, and DriveDesk proof.
 - GitHub profile README and pinned repositories remain the fastest public technical proof path, so the README, pins, Pages routes, CI/live smoke, and PDF resume must stay aligned.
-- Russia-first market scan supports a 100,000+ RUB/month floor for serious remote full-time outreach; international-market scan supports keeping English-first async/team proof visible for later international screening without making geography the public ask.
+- Russia-first market scan supports band-aware private screening for serious remote full-time outreach; international-market scan supports keeping English-first async/team proof visible for later international screening without making geography the public ask.
 
 ## Recruiter Filter Map
 

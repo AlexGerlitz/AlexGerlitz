@@ -26,7 +26,8 @@ or vague work where the first result cannot be tested.
 Checked on 2026-07-01.
 
 - Russia-first remote search: prioritize Python backend/internal tools, QA/API verification with
-  Python, support-with-Python, and integration roles around the 100,000+ RUB/month floor.
+  Python, support-with-Python, and integration roles where the compensation band is clear before a
+  call; keep the exact minimum screen in private outreach instead of the public proof route.
 - Europe-compatible search: keep English-first docs, async proof routes, privacy boundaries, CI,
   smoke checks, runbooks, and handoff visible, but do not make geography the public ask.
 - LinkedIn/GitHub search surface: keep job titles, skills, Featured work samples, README, pins,
