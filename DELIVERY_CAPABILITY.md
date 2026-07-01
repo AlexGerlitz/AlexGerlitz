@@ -47,7 +47,7 @@ Role titles and keywords that should find me:
 - Python, FastAPI, PostgreSQL, SQL, REST API, OpenAPI, Docker Compose, GitHub Actions, pytest.
 - RAG, LLM workflow, structured output, approval flow, audit log, outbox, retries, runbooks.
 
-I keep public proof text readable for both people and parsers: exact role titles, exact stack words,
+I keep public evidence text readable for both people and parsers: exact role titles, exact stack words,
 real project routes, and text-based evidence instead of image-only claims.
 
 ## AI-Assisted Delivery Boundary
@@ -56,20 +56,20 @@ I use AI tooling to compress discovery, implementation, debugging, documentation
 engineering ownership stays with me: I inspect generated ideas, adapt them to the repo, protect
 private data, run checks, read logs, verify behavior, and document the result.
 
-The strongest proof is not that I can ask AI tools for code. The strongest proof is that I can turn
+The strongest evidence is not that I can ask AI tools for code. The strongest evidence is that I can turn
 messy workflow context into backend-owned state, checks, logs, docs, and a small result the team can
 inspect.
 
-## Proof Route
+## Review Path
 
 Fastest route for a first-job or remote-role screen:
 
 1. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
 2. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
 3. [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
-4. [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
-5. [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-6. [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
+4. [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
+5. [DriveDesk AI Operator route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+6. [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
 7. [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html)
 8. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
 
@@ -78,5 +78,5 @@ Fastest route for a first-job or remote-role screen:
 The best first conversation is a concrete remote role or one workflow with a success condition,
 systems involved, privacy boundary, stack surface, owner for review, and expected first result.
 
-I can send back the fit read, risky assumptions, smallest responsible first slice, proof route, and
+I can send back the fit read, risky assumptions, smallest responsible first slice, review path, and
 what I would verify before calling the slice done.

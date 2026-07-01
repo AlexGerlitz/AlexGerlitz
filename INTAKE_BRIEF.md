@@ -10,13 +10,13 @@ Fast contact links:
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 - [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
 - [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html)
-- [proof-backed fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html)
+- [evidence-backed fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html)
 - [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt)
-- [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
+- [AI Ops Employer Trigger Evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 
 Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff
-recovery sprint, or DriveDesk AI Operator-style proof route.
+recovery sprint, or DriveDesk AI Operator-style review path.
 
 Fast fit checklist:
 
@@ -30,7 +30,7 @@ Fast fit checklist:
 ## First Reply Promise
 
 Send one remote role, workflow, project, or technical review plus one success condition. I will answer
-with a fit read, risky assumptions, the smallest responsible first slice, proof path to inspect, and
+with a fit read, risky assumptions, the smallest responsible first slice, review path to inspect, and
 the right next route: remote role, fixed-scope project, technical review, or no-fit.
 
 ## For A Role
@@ -50,15 +50,15 @@ Send:
 If you want a concrete menu before writing, start with
 [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md) and
 [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt), then use
-[AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
+[AI Ops Employer Trigger Evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 
 Send:
 
 - business process or problem;
 - current tools, data sources, APIs, databases, spreadsheets, chats, or documents;
 - what "done" means in practical terms;
-- closest proof-backed offer route or employer trigger;
-- proof route to reference first: business scenario replay or DriveDesk proof route;
+- closest evidence-backed offer route or employer trigger;
+- review path to reference first: business scenario replay or DriveDesk AI Operator route;
 - required output: MVP, working slice, integration adapter, AI workflow, internal tool, Docker/CI fix,
   runbook, or recovery plan;
 - deadline and budget range;
@@ -101,6 +101,6 @@ I will usually respond with:
 - [Enterprise Readiness](./ENTERPRISE_READINESS.md)
 - [Remote AI Automation Services](./SERVICES.md)
 - [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md)
-- [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
+- [AI Ops Employer Trigger Evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
 - [Proof of Work](./PROOF_OF_WORK.md)
 - [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)

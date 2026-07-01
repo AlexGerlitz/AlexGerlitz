@@ -1,10 +1,10 @@
 # DriveDesk AI Operator
 
-Flagship proof route: an AI sales and support backend workflow that turns calls, documents,
+Flagship review path: an AI sales and support backend workflow that turns calls, documents,
 transcripts, CRM leads, and knowledge-base records into reviewable operator actions.
 
-This is the proof route I want recruiters, founders, and hiring managers to use when they evaluate
-my work. It combines the strongest parts of the current proof stack:
+This is the review path I want recruiters, founders, and hiring managers to use when they evaluate
+my work. It combines the strongest parts of the current evidence stack:
 
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) for backend automation and integration, tenants,
   audit/outbox, workflow rules, adapters, OpenAPI, Docker, CI, and docs.
@@ -43,7 +43,7 @@ idempotency, retries, error visibility, dead-letter handling, audit log, and cle
 
 ## Minimum Technical Shape
 
-| Layer | Minimum proof |
+| Layer | Minimum evidence |
 | --- | --- |
 | Backend | FastAPI, PostgreSQL/pgvector, documents, transcripts, leads, approvals, audit log. |
 | RAG | Ingestion, chunking, embeddings, retrieval, citations, and quality eval on test questions. |
@@ -51,7 +51,7 @@ idempotency, retries, error visibility, dead-letter handling, audit log, and cle
 | n8n | Importable workflow artifact: document/text export -> API -> approval -> CRM/Telegram route. |
 | Telegram approval | Approve, reject, and edit draft before action is sent to CRM. |
 | CRM adapter | Fake/sandbox first; real contract with retries, idempotency, and dead-letter queue. |
-| Production proof | Docker Compose, CI, tests, screenshots, 2-minute demo video/GIF, runbook, metrics/cost notes. |
+| Production evidence | Docker Compose, CI, tests, screenshots, 2-minute demo video/GIF, runbook, metrics/cost notes. |
 
 ## The Selling Point
 
@@ -153,9 +153,9 @@ tests, and review. I still own architecture, verification, logs, deployment, and
 - Visual page: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html
 - AI Ops Workflow Kit: https://github.com/AlexGerlitz/ai-ops-workflow-kit
 - AI Ops demo walkthrough: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md
-- AI Ops public proof status: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
+- AI Ops public evidence status: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops reviewer acceptance report: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
-- AI Ops live approval proof: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
+- AI Ops live approval evidence: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops role requirements map: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md
 - AI Ops CI workflow: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml
 - DriveDesk Core review: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
   <title id="title">LinkedIn Recruiter Packet - Alex Gerlitz</title>
-  <desc id="desc">LinkedIn recruiter preview card for remote backend, AI automation, copy-ready contact prompts, proof order, and PDF resume routing.</desc>
+  <desc id="desc">LinkedIn recruiter preview card for remote backend, AI automation, copy-ready contact prompts, review order, and PDF resume routing.</desc>
   <rect width="1200" height="630" fill="#f7f8fa"/>
   <rect x="56" y="56" width="1088" height="518" rx="22" fill="#ffffff" stroke="#d8e0e7" stroke-width="2"/>
   <rect x="88" y="92" width="10" height="446" rx="5" fill="#0f766e"/>
@@ -14,7 +14,7 @@
     Recruiter Packet
   </text>
   <text x="126" y="360" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="600" fill="#52616f" letter-spacing="0">
-    30-second fit / proof order / copy-ready prompts
+    30-second fit / review order / copy-ready prompts
   </text>
   <g transform="translate(126 418)">
     <rect x="0" y="0" width="190" height="54" rx="12" fill="#e9f7f4"/>
@@ -24,7 +24,7 @@
     <rect x="436" y="0" width="290" height="54" rx="12" fill="#fff4e5"/>
     <text x="460" y="36" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="760" fill="#b45309">Copy-ready prompts</text>
     <rect x="744" y="0" width="214" height="54" rx="12" fill="#f2f4f7"/>
-    <text x="768" y="36" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="760" fill="#18202a">Live proof</text>
+    <text x="768" y="36" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="760" fill="#18202a">Live evidence</text>
   </g>
   <text x="126" y="524" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="700" fill="#18202a" letter-spacing="0">
     Alex Gerlitz

@@ -2,7 +2,7 @@
 
 Public HTML route: [case-studies.html](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html).
 
-This page is the narrative layer behind the proof links. It shows how I think about messy business
+This page is the narrative layer behind the evidence links. It shows how I think about messy business
 problems, AI-native delivery, backend automation design, integrations, Docker/CI handoff, and operational
 handoff.
 
@@ -20,7 +20,7 @@ documents, integrations, notifications, AI assistance, deployment, observability
 
 ### Build
 
-The public proof is DriveDesk Core: a backend automation and integration foundation that keeps the architecture
+The public evidence is DriveDesk Core: a backend automation and integration foundation that keeps the architecture
 inspectable instead of relying on vague universal-integration claims.
 
 The first-job-readable slice is the Autoschool intake/admin workflow: a Telegram request becomes a
@@ -44,13 +44,13 @@ Built proof includes:
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core)
 - [DriveDesk Core fast review route](https://github.com/AlexGerlitz/drivedesk-core)
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)
-- [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
+- [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
 - [Proof of work summary](./PROOF_OF_WORK.md)
 
-### What This Proves
+### What This Shows
 
 I can turn a vague operational domain into explicit backend boundaries, reviewable contracts,
-runtime checks, docs, public-safe proof, and a request-to-admin workflow that maps directly to
+runtime checks, docs, public-safe evidence, and a request-to-admin workflow that maps directly to
 first backend/integration work.
 
 ## Case 2: AI Ops Workflow Kit
@@ -82,7 +82,7 @@ Built proof includes:
 - [AI Ops Workflow Kit reviewer snapshot](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot)
 - [Skill evidence matrix](./SKILL_EVIDENCE.md)
 
-### What This Proves
+### What This Shows
 
 I can use an AI-native delivery loop while keeping workflow state, approval boundaries, tests, and
 integration surfaces explicit.
@@ -97,7 +97,7 @@ fragile even when features exist.
 
 ### Build
 
-DeployMate is a self-hosted deployment control panel proof surface focused on making deployment and
+DeployMate is a self-hosted deployment control panel evidence surface focused on making deployment and
 operations reviewable.
 
 Built proof includes:
@@ -106,16 +106,16 @@ Built proof includes:
 - Docker app deployment model;
 - VPS/SSH runtime tooling;
 - logs, health checks, admin flows, and release docs;
-- CI/CD and public proof route cleanup;
+- CI/CD and public review path cleanup;
 - repo-first public review path after removing dead external-site dependency.
 
 ### Evidence
 
 - [DeployMate](https://github.com/AlexGerlitz/deploymate)
-- [DeployMate engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot)
+- [DeployMate engineering evidence snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot)
 - [Remote services](./SERVICES.md)
 
-### What This Proves
+### What This Shows
 
 I understand the operational side of shipping: deployability, observability, release discipline,
 health checks, runbooks, and recovery paths matter as much as feature code.
@@ -147,7 +147,7 @@ Built proof includes:
 - [MPlusForm reviewer snapshot](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot)
 - [Skill evidence matrix](./SKILL_EVIDENCE.md)
 
-### What This Proves
+### What This Shows
 
 I can design validation boundaries around untrusted data and document a workflow so another operator
 can inspect and run it.

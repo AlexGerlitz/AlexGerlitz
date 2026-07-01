@@ -56,7 +56,7 @@ Choose the closest trigger, then open the package and work sample that matches i
   [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and
   [Enterprise readiness](./ENTERPRISE_READINESS.md).
 - **Docker/CI reliability:** Docker/CI recovery sprint. Evidence:
-  [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and
+  [DeployMate evidence](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and
   [Verification pack](./VERIFICATION_PACK.md).
 
 Fast first message: send one remote role or one messy workflow with a concrete success condition.
@@ -132,7 +132,7 @@ Output:
 - verification plan;
 - next-step implementation estimate.
 
-### 2. DriveDesk AI Operator Proof Slice
+### 2. DriveDesk AI Operator Pilot Slice
 
 Good for sales/support workflows where calls, transcripts, documents, or CRM leads should become
 RAG-backed analysis, lead scoring, follow-up drafts, approvals, and CRM actions.
@@ -213,7 +213,7 @@ Output can include:
 - [Fixed-scope offers](./FIXED_SCOPE_OFFERS.md) - concrete project menu with expected inputs,
   outputs, timeboxes, and budget signals.
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) - remote-only
-  service page with DriveDesk AI Operator and AI Ops Workflow Kit proof samples.
+  service page with DriveDesk AI Operator and AI Ops Workflow Kit work samples.
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html) - public request-fit filter for
   broad LinkedIn Services labels, Python/backend ownership, AI workflow, integration, data, and
   Docker/CI handoff work.

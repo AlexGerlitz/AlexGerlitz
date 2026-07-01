@@ -23,33 +23,33 @@ Workflow Automation, Docker/CI handoff, GitHub Actions, OpenAPI, and PostgreSQL/
 Main case route:
 [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) for
 AI sales/support workflows with RAG, call-audio transcription, transcript analysis, lead scoring, Telegram approval, n8n,
-CRM adapter contracts, audit, retries, and runbook proof target.
+CRM adapter contracts, audit, retries, and runbook evidence target.
 
 ## Best Role Matches
 
 | Role | Fit | Review first |
 | --- | --- | --- |
-| AI workflow / RAG proof | DriveDesk AI Operator-style systems: document/transcript/lead ingestion, RAG retrieval, summaries, scoring, routing, Telegram approvals, outbox worker handoff, CRM handoff, and auditability. | [AI Ops role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md) |
+| AI workflow / RAG evidence | DriveDesk AI Operator-style systems: document/transcript/lead ingestion, RAG retrieval, summaries, scoring, routing, Telegram approvals, outbox worker handoff, CRM handoff, and auditability. | [AI Ops role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md) |
 | Backend Engineer | FastAPI/PostgreSQL systems, records, roles, workflow state, OpenAPI, tests, Docker, and docs. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
 | Internal Tools Engineer | Tenants, adapters, workers, contracts, audit/outbox, SDK/OpenAPI, CI, docs, and operations. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
 | Integration Engineer | CRM/ERP/1C/banking/API/custom database boundaries, mapping, validation, retries, and logs. | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |
 | Reliability / Docker Handoff | Docker, CI gates, health checks, logs, backups, release notes, recovery paths, and runbooks. | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
-| Internal Tools / Ops Automation Engineer | Admin panels, operator workflows, roles, records, audit, docs, deployment, and support paths. | [Proof of Work](./PROOF_OF_WORK.md) |
+| Internal Tools / Ops Automation Engineer | Admin panels, operator workflows, roles, records, audit, docs, deployment, and support paths. | [Work Evidence](./PROOF_OF_WORK.md) |
 
 ## Fast Review Path
 
 | Step | Open | Why |
 | ---: | --- | --- |
-| 1 | [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) | Fastest route into current positioning, proof repos, runtime-boundary evidence, and contact surface. |
+| 1 | [DriveDesk AI Operator route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) | Fastest route into current positioning, evidence repos, runtime-boundary evidence, and contact surface. |
 | 2 | [Resume](https://alexgerlitz.github.io/AlexGerlitz/resume.html) | Remote experience, target work, skills, and public projects. |
-| 3 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) | Main AI workflow proof route. |
-| 4 | [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) | Current AI Ops CI, local gate, committed evidence, privacy boundary, runtime reachability boundary, Pages route, and public boundary. |
+| 3 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) | Main AI workflow review path. |
+| 4 | [AI Ops public evidence status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) | Current AI Ops CI, local gate, committed evidence, privacy boundary, runtime reachability boundary, Pages route, and public boundary. |
 | 5 | [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) | Live-runtime acceptance pass across API, smoke, GitHub Actions, Pages links, and public PDF when the external edge is reachable. |
-| 6 | [DriveDesk Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) | Backend automation and integration foundation proof. |
+| 6 | [DriveDesk Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) | Backend automation and integration foundation evidence. |
 | 7 | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) | Demos, CI, docs, runbooks, and evidence links. |
 
-Full AI Ops proof stays available from the
-[public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
+Full AI Ops evidence stays available from the
+[public evidence status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
 and [privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md)
 when a technical reviewer wants full drill-down.
 
@@ -79,13 +79,13 @@ Useful questions for a role or project discussion:
 - Visual role-fit page: https://alexgerlitz.github.io/AlexGerlitz/role-fit.html
 - AI automation role fit: https://github.com/AlexGerlitz/AlexGerlitz/blob/main/AI_AUTOMATION_ROLE_FIT.md
 - Start conversation: https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html
-- DriveDesk proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
-- DriveDesk AI Operator proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
+- DriveDesk AI Operator route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
+- DriveDesk AI Operator route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - Resume: https://alexgerlitz.github.io/AlexGerlitz/resume.html
 - Verification pack: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html
 - DriveDesk AI Operator: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html
-- AI Ops public proof status: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
+- AI Ops public evidence status: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops privacy boundary: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md
-- AI Ops live approval proof: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
+- AI Ops live approval evidence: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops reviewer acceptance report: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
 - AI Ops CI workflow: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml

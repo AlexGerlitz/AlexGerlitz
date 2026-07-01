@@ -29,16 +29,16 @@ business workflow where AI has to be useful, inspectable, and operated by people
 | Integration | Push the approved result into CRM/API/webhook boundaries with mapping, validation, retries, and logs. |
 | Operations | Add deterministic tests, smoke checks, Docker/CI paths, docs, and a short runbook for support. |
 
-## Proof Route
+## Review Path
 
 | Signal | Review |
 | --- | --- |
-| Public proof status | [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) |
-| Live owner proof | [Live Telegram approval evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) |
+| Public evidence status | [AI Ops public evidence status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) |
+| Live owner evidence | [Live Telegram approval evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) |
 | Reviewer acceptance report | [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) |
 | Vacancy requirement map | [AI Ops role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md) |
 | AI workflow demo | [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
-| CI proof | [AI Ops CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml) |
+| CI evidence | [AI Ops CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml) |
 | Backend/platform foundation | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
 | Technical verification path | [Verification pack](./VERIFICATION_PACK.md) |
 | Role fit | [Role Fit](./ROLE_FIT.md) |
@@ -55,7 +55,7 @@ business workflow where AI has to be useful, inspectable, and operated by people
 | CRM / Bitrix / API handoff | Adapter contracts, field mapping, validation, retries, logs, and rollout notes. |
 | Production readiness | Docker Compose, GitHub Actions, health/smoke checks, docs, runbooks, recovery thinking. |
 
-## Proof Review Path
+## Evidence Review Path
 
 A useful review starts from one real workflow, not a generic puzzle:
 

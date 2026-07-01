@@ -43,14 +43,14 @@ The value is speed through uncertainty with engineering discipline still intact.
 - **AI Ops Workflow Kit:** document intake, RAG ingestion/retrieval, OpenAI/Claude/Gemini provider boundary, transcript analysis, approval queues,
   Telegram callback approval, dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight, idempotent outbox drain, opt-in worker,
   PostgreSQL/pgvector-backed storage, deterministic tests, Docker, and integration boundaries.
-- **DeployMate:** self-hosted Docker deployment control panel proof with VPS targets, SSH
+- **DeployMate:** self-hosted Docker deployment control panel evidence with VPS targets, SSH
   runtime tooling, logs, health checks, admin flows, CI/CD, and release safety docs.
 - **MPlusForm:** addon and sync pipeline work around validation boundaries, server-side trust
   checks, Windows automation, and operational docs.
 
-Proof links:
+Evidence links:
 
-- [DriveDesk proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+- [DriveDesk AI Operator route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
 - [Role fit](./ROLE_FIT.md)
 - [Contact routes](./INBOUND_RESPONSE_PACK.md)
@@ -68,12 +68,12 @@ Proof links:
 - [DriveDesk Core fast review route](https://github.com/AlexGerlitz/drivedesk-core)
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)
 - [AI Ops Workflow Kit reviewer snapshot](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot)
-- [DeployMate engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot)
+- [DeployMate engineering evidence snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot)
 - [MPlusForm reviewer snapshot](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot)
 
 ## Useful First Context
 
-Fastest route: [Start here](./START_HERE.md). For role surfaces and proof links, use
+Fastest route: [Start here](./START_HERE.md). For role surfaces and evidence links, use
 [Role Fit Pack](./APPLICATION_PACK.md). For a short public role-fit page, use
 [Role Fit](./ROLE_FIT.md). For contact context, use [Contact Routes](./INBOUND_RESPONSE_PACK.md).
 

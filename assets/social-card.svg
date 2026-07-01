@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
-  <title id="title">DriveDesk AI Operator - Proof Route</title>
-  <desc id="desc">Portfolio preview card for DriveDesk AI Operator: backend-owned AI workflow proof with role, project, technical proof, and contact routes.</desc>
+  <title id="title">DriveDesk AI Operator - Review Path</title>
+  <desc id="desc">Portfolio preview card for DriveDesk AI Operator: backend-owned AI workflow evidence with role, project, technical review, and contact routes.</desc>
   <rect width="1200" height="630" fill="#f7f8fa"/>
   <rect x="56" y="56" width="1088" height="518" rx="22" fill="#ffffff" stroke="#d8e0e7" stroke-width="2"/>
   <rect x="88" y="92" width="10" height="446" rx="5" fill="#0f766e"/>
   <text x="126" y="134" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="760" fill="#0b4f4a" letter-spacing="0">
-    DRIVEDESK PROOF ROUTE / AI AUTOMATION + BACKEND PLATFORM
+    DRIVEDESK REVIEW PATH / AI AUTOMATION + BACKEND PLATFORM
   </text>
   <text x="126" y="224" font-family="Inter, Arial, sans-serif" font-size="74" font-weight="820" fill="#18202a" letter-spacing="0">
     DriveDesk AI Operator
   </text>
   <text x="126" y="286" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="760" fill="#18202a" letter-spacing="0">
-    Backend-owned AI workflow proof
+    Backend-owned AI workflow evidence
   </text>
   <text x="126" y="350" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="560" fill="#52616f" letter-spacing="0">
     Start conversation / PDF resume / role fit / verification
@@ -22,7 +22,7 @@
     <rect x="250" y="0" width="244" height="54" rx="12" fill="#eef4ff"/>
     <text x="274" y="36" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="760" fill="#1d4ed8">Project decision</text>
     <rect x="512" y="0" width="256" height="54" rx="12" fill="#fff4e5"/>
-    <text x="536" y="36" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="760" fill="#b45309">Technical proof</text>
+    <text x="536" y="36" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="760" fill="#b45309">Technical review</text>
     <rect x="786" y="0" width="230" height="54" rx="12" fill="#f2f4f7"/>
     <text x="810" y="36" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="760" fill="#18202a">Live smoke</text>
   </g>

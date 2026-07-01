@@ -3,7 +3,7 @@
 Public contact guide for role, project, founder, and technical-review conversations.
 
 Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff
-recovery sprint, or DriveDesk AI Operator-style proof route.
+recovery sprint, or DriveDesk AI Operator-style review path.
 
 Fast fit checklist:
 
@@ -16,15 +16,15 @@ Fast fit checklist:
 
 ## First Reply Promise
 
-Send one remote role, workflow, project, or proof question plus one success condition. I will answer
-with a fit read, risky assumptions, the smallest responsible first slice, proof path to inspect, and
+Send one remote role, workflow, project, or technical review question plus one success condition. I will answer
+with a fit read, risky assumptions, the smallest responsible first slice, review path to inspect, and
 the right next route: remote role, fixed-scope project, technical review, or no-fit.
 
 ## Recruiter Offer Triage
 
 For an inbound role or shortlist screen, send role title, remote setup, product domain, stack, team
 surface, first-month ownership, hiring timeline, and compensation band if shareable. I will reply
-with fit/no-fit, strongest proof route, risky assumptions, smallest first slice, and next screen path.
+with fit/no-fit, strongest review path, risky assumptions, smallest first slice, and next screen path.
 
 Best matches: remote-only backend automation and integration, AI automation, RAG workflow, CRM/ERP/API integration,
 internal tools, QA/API verification, reliability handoff, and international or Europe-compatible async teams that can
@@ -33,21 +33,21 @@ review written proof before a live screen.
 ## First Contact Options
 
 Use one of these when the next step should be a concrete role screen, workflow/project discussion, or
-technical proof review instead of a generic intro.
+technical review instead of a generic intro.
 
 Remote role screen:
 
 ```text
-Hi Alex, I am looking at a remote role. Role title: ..., remote setup: ..., stack/systems: ..., team surface: ..., first-month ownership: ..., hiring timeline: ..., compensation band if shareable: .... Can you send the best proof route and the smallest first slice you would own?
+Hi Alex, I am looking at a remote role. Role title: ..., remote setup: ..., stack/systems: ..., team surface: ..., first-month ownership: ..., hiring timeline: ..., compensation band if shareable: .... Can you send the best review path and the smallest first slice you would own?
 ```
 
 Workflow project:
 
 ```text
-Hi Alex, we have one workflow that needs to become reliable. Workflow: ..., systems to inspect: CRM/ERP/API/database/docs, success condition: ..., what must not break: .... Can you map the risks, proof route, and first responsible slice?
+Hi Alex, we have one workflow that needs to become reliable. Workflow: ..., systems to inspect: CRM/ERP/API/database/docs, success condition: ..., what must not break: .... Can you map the risks, review path, and first responsible slice?
 ```
 
-Technical proof review:
+Technical review:
 
 ```text
 Hi Alex, I want to review your fit for AI workflow, backend automation, integration, or Docker/CI handoff work. Claim or risk to validate: .... Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to prove value.
@@ -68,11 +68,11 @@ Message me when the decision needs a working slice, not a generic intro.
 
 | Conversation type | Best first link | Why |
 | --- | --- | --- |
-| Remote role | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast role/project positioning, proof repos, runtime-boundary evidence, contact route, and current projects. |
+| Remote role | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast role/project positioning, evidence repos, runtime-boundary evidence, contact route, and current projects. |
 | Technical review | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Short route into DriveDesk AI Operator, verification links, repos, demos, CI, docs, and runbooks. |
 | Enterprise review | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` | International employer-grade route for Python/backend ownership, integration discipline, reliability, privacy, and async proof. |
-| AI workflow / RAG | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast route into the DriveDesk AI Operator proof route and AI Ops proof links. |
-| Fixed-scope project | `https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html` -> `https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md` | Proof-backed offer route: choose the closest trigger, inspect repo evidence, then send the workflow, systems, success condition, constraints, and handoff depth. |
+| AI workflow / RAG | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` | Fast route into the DriveDesk AI Operator route and AI Ops evidence links. |
+| Fixed-scope project | `https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html` -> `https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md` | Evidence-backed offer route: choose the closest trigger, inspect repo evidence, then send the workflow, systems, success condition, constraints, and handoff depth. |
 | First conversation | `https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html` | Simple structure for sending role/project context. |
 
 ## Search Intent First Links
@@ -108,7 +108,7 @@ Fixed-scope project:
 
 - manual or fragile workflow and the systems involved;
 - practical success condition and what must not break;
-- closest proof-backed offer route;
+- closest evidence-backed offer route;
 - access, hosting, deadline, budget, and handoff constraints.
 
 Technical review:
@@ -129,7 +129,7 @@ Workflow / integration:
 - decision: whether a practical first slice can ship quickly;
 - send: workflow, systems, data, success condition, and what must not break.
 
-Proof review:
+Review:
 
 - decision: which technical claim or risk should be validated;
 - send: repo, demo, architecture link, logs, current verifier, or expected proof.
@@ -141,7 +141,7 @@ Remote role signal:
 - role title and remote setup;
 - stack, team surface, and ownership boundary;
 - first-month ownership and hiring timeline;
-- best proof route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
+- best review path: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 
 Workflow/integration signal:
 
@@ -150,12 +150,12 @@ Workflow/integration signal:
 - systems that must stay stable;
 - useful first outcome: working slice with tests, docs, and handoff.
 
-Technical proof signal:
+Technical review signal:
 
 - repo, workflow, or architecture to inspect;
 - claim or risk to validate;
 - available evidence: CI, logs, demo, docs, or runbook;
-- expected output: fix plan, proof route, or first slice;
+- expected output: fix plan, review path, or first slice;
 - verification pack: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html
 
 ## What I Can Evaluate Quickly
@@ -171,7 +171,7 @@ Technical proof signal:
 
 I work best when the first step is concrete: one workflow, one owner, one success condition, and a
 verification path. The strongest starting point is a scoped business process with safe access,
-clear ownership, and a practical proof path before any larger production commitment.
+clear ownership, and a practical review path before any larger production commitment.
 
 ## Links
 
@@ -180,8 +180,8 @@ clear ownership, and a practical proof path before any larger production commitm
 - Inbound brief: https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html
 - Enterprise readiness: https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html
 - LinkedIn Services: https://www.linkedin.com/services/page/3153b734507b8a60ab/
-- AI Ops Employer Trigger Proof: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md
-- DriveDesk Proof Route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
+- AI Ops Employer Trigger Evidence: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md
+- DriveDesk AI Operator route: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html
 - First month plan: https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html
 - Role fit: https://alexgerlitz.github.io/AlexGerlitz/role-fit.html
 - DriveDesk AI Operator: https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html

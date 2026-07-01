@@ -1,56 +1,56 @@
-# Proof of Work
+# Work Evidence
 
-This page is a technical proof shortcut. It shows what I can already prove publicly and what the
+This page is a technical review shortcut. It shows the public evidence behind my current claims and what the
 private Autoschool54/DriveDesk work demonstrates without exposing private business data.
 
-## What This Proves
+## What This Shows
 
 | Signal | Evidence |
 | --- | --- |
 | I can turn a messy business domain into a backend automation and integration foundation. | DriveDesk Core: tenant model, RBAC, audit/outbox, business records, workflow rules, adapter boundaries, OpenAPI/SDK, CI, docs, and public demo. |
-| I can use an AI-native delivery loop without losing verification discipline. | AI Ops Workflow Kit: document/CRM/call intake, importable n8n workflow artifact, privacy redaction before RAG/approval/CRM handoff, RAG ingestion/retrieval, deterministic RAG quality eval with citations, LLM/transcription provider boundaries, transcript analysis, lead scoring, approval queue, Telegram callback approval, dry-run CRM handoff, idempotent outbox drain, reviewer acceptance report, reviewer observability snapshot, opt-in worker, live PostgreSQL/pgvector runtime, API restart persistence proof, deterministic tests, Docker and integration boundaries. |
-| I can move a real request from a bot into an admin workflow. | Autoschool Intake/Admin Proof: public-safe route for Telegram intake, backend validation, database record, admin queue handoff, status workflow, and privacy boundary without exposing learner data or live admin screenshots. |
-| I understand operations, deployment, and recovery, not only feature code. | DeployMate: self-hosted deployment control panel proof with Docker apps, VPS targets, SSH runtime tooling, logs, health checks, CI/CD, public-review gate, evidence bundle, review packet, and release safety docs. |
+| I can use an AI-native delivery loop without losing verification discipline. | AI Ops Workflow Kit: document/CRM/call intake, importable n8n workflow artifact, privacy redaction before RAG/approval/CRM handoff, RAG ingestion/retrieval, deterministic RAG quality eval with citations, LLM/transcription provider boundaries, transcript analysis, lead scoring, approval queue, Telegram callback approval, dry-run CRM handoff, idempotent outbox drain, reviewer acceptance report, reviewer observability snapshot, opt-in worker, live PostgreSQL/pgvector runtime, API restart persistence evidence, deterministic tests, Docker and integration boundaries. |
+| I can move a real request from a bot into an admin workflow. | Autoschool Intake/Admin work sample: public-safe route for Telegram intake, backend validation, database record, admin queue handoff, status workflow, and privacy boundary without exposing learner data or live admin screenshots. |
+| I understand operations, deployment, and recovery, not only feature code. | DeployMate: self-hosted deployment control panel evidence with Docker apps, VPS targets, SSH runtime tooling, logs, health checks, CI/CD, public-review gate, evidence bundle, review packet, and release safety docs. |
 | I can design trust and validation boundaries around untrusted client data. | MPlusForm: addon + Python sync pipeline with server-side validation, approved public snapshots, Windows operation scripts, and handoff docs. |
 | I can support real business infrastructure remotely. | Autoschool54 / DriveDesk private work: admin/operator workflows, Telegram bot, web admin, PostgreSQL, Docker Compose, backups, deploy workflow, release preflight, docs, and recovery thinking. |
 
-## Public Proof Links
+## Public Evidence Links
 
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) - backend automation and integration foundation.
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)
-- [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - public-safe route for Telegram request -> backend validation -> database record -> admin queue -> operator status workflow.
-- [DriveDesk Flagship Backend Workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) - larger backend automation proof path that connects the AI Operator slice to adapters, workflows, audit/outbox, admin/operator surfaces, Docker/CI handoff, observability, and recovery.
+- [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - public-safe route for Telegram request -> backend validation -> database record -> admin queue -> operator status workflow.
+- [DriveDesk Flagship Backend Workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) - larger backend automation review path that connects the AI Operator slice to adapters, workflows, audit/outbox, admin/operator surfaces, Docker/CI handoff, observability, and recovery.
 - [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) - document/CRM/call intake, first-slice playbook, importable n8n workflow artifact, privacy redaction boundary, RAG quality eval, LLM/transcription provider boundaries, reviewer acceptance report, reviewer observability snapshot, approvals, Telegram callback, idempotent outbox worker, live PostgreSQL/pgvector persistence, and n8n/Telegram integration boundary.
 - [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) - concrete RAG/transcript, CRM handoff, human approval, and reliability slices.
 - [AI Ops demo walkthrough](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md) - committed GIF route for transcript -> RAG -> approval -> CRM-safe handoff, generated from the public-safe offer demo.
 - [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) - document intake -> call-audio transcription -> transcript -> RAG -> scoring -> approval -> Telegram callback -> outbox drain -> dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight.
-- [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - self-hosted deployment control panel, Docker/CI handoff proof snapshot, evidence bundle, and release discipline.
-- [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) - trust-model, validation-boundary, desktop automation proof.
+- [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - self-hosted deployment control panel, Docker/CI handoff evidence snapshot, evidence bundle, and release discipline.
+- [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) - trust-model, validation-boundary, desktop automation evidence.
 
 ## Reviewer Shortcuts
 
 If you only have a few minutes, review these first:
 
 - [DriveDesk Core README](https://github.com/AlexGerlitz/drivedesk-core) - fast backend automation and integration reviewer route.
-- [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - first-job-ready business workflow proof with synthetic-only public examples and no live admin data.
+- [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - first-job-ready business workflow evidence with synthetic-only public examples and no live admin data.
 - [DriveDesk Core case study](https://github.com/AlexGerlitz/drivedesk-core/blob/main/docs/public/PORTFOLIO_CASE_STUDY.md) - business problem, architecture, integration model, and evidence.
 - [Verification pack](./VERIFICATION_PACK.md) - current CI/demo/recovery verification links.
-- [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international employer-grade review route for Python/backend ownership, integration discipline, reliability, privacy, and async proof.
+- [Enterprise readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international employer-grade review route for Python/backend ownership, integration discipline, reliability, privacy, and async evidence.
 - [AI Ops demo walkthrough](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md) - short visual path for transcript -> RAG -> approval -> CRM-safe handoff.
 - [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) - fastest way to map a role or project need to one inspectable first slice.
-- [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) - current AI Ops CI, reviewer observability snapshot, live smoke, local gate, Pages route, and public boundary.
+- [AI Ops public evidence status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) - current AI Ops CI, reviewer observability snapshot, live smoke, local gate, Pages route, and public boundary.
 - [AI Ops privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md) - PII redaction before RAG retrieval, approval context, and CRM-safe handoff.
 - [AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) - one-command acceptance pass across live API, live smoke, GitHub Actions, Pages links, and public PDF.
-- [AI Ops live Postgres persistence proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt) - live `storage=postgres` proof where a marker survives API container restart.
+- [AI Ops live Postgres persistence evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt) - live `storage=postgres` evidence where a marker survives API container restart.
 - [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) - one-command AI automation reviewer path.
-- [AI Ops live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) - Telegram approval callback and CRM-safe boundary proof.
+- [AI Ops live approval evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) - Telegram approval callback and CRM-safe boundary evidence.
 - [Engineering case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) - narrative problem/build/evidence summaries.
 - [AI Ops Workflow Kit README](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot) - 60-second AI/RAG workflow reviewer path.
-- [DeployMate engineering proof snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - repo-first Docker/CI handoff proof route.
+- [DeployMate engineering evidence snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - repo-first Docker/CI handoff review path.
 - [MPlusForm README](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot) - trust-model and desktop automation reviewer path.
-- [Skill evidence matrix](./SKILL_EVIDENCE.md) - role keywords mapped to public proof.
+- [Skill evidence matrix](./SKILL_EVIDENCE.md) - role keywords mapped to public evidence.
 - [Work with me](./WORK_WITH_ME.md) - fixed-scope project entry points.
-- [Role targets](./ROLE_TARGETS.md) - remote Python/backend automation, internal tools, integration, QA/API, and AI automation roles mapped to proof.
+- [Role targets](./ROLE_TARGETS.md) - remote Python/backend automation, internal tools, integration, QA/API, and AI automation roles mapped to evidence.
 
 ## Current Public Verification
 
@@ -70,39 +70,39 @@ Checked on 2026-06-30:
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
 - AI Ops latest checked CI run succeeded on `0cb94e0`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28344277704
 - AI Ops demo walkthrough is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md
-- AI Ops GitHub repository metadata foregrounds AI sales/support workflow backend proof and routes the repository homepage to the demo walkthrough: https://github.com/AlexGerlitz/ai-ops-workflow-kit
+- AI Ops GitHub repository metadata foregrounds AI sales/support workflow backend evidence and routes the repository homepage to the demo walkthrough: https://github.com/AlexGerlitz/ai-ops-workflow-kit
 - AI Ops live smoke passed on app SHA `1a83406` with `storage=postgres` and `rag_eval=2/2` at https://saleops.duckdns.org.
-- AI Ops live PostgreSQL/pgvector persistence proof survived an API container restart: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt
-- AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
+- AI Ops live PostgreSQL/pgvector persistence evidence survived an API container restart: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt
+- AI Ops public evidence status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops privacy boundary is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md
-- AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
-- AI Ops public proof status tracks live-runtime reachability, 54-pass local public gate, hiring signal brief, reviewer observability snapshot, committed runtime evidence, LLM provider fallback state, and transcription provider state without exposing secrets: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
+- AI Ops live approval evidence is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
+- AI Ops public evidence status tracks live-runtime reachability, 54-pass local public gate, hiring signal brief, reviewer observability snapshot, committed runtime evidence, LLM provider fallback state, and transcription provider state without exposing secrets: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - DeployMate default branch `develop` is green on `b139a9a`.
 - DeployMate CI succeeded on `b139a9a`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28296918571
 - DeployMate latest public evidence bundle succeeded on `b139a9a`: https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
-- Profile proof freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
-- Latest recorded recruiter-funnel content snapshot is green on `593117c`; the July 1 packaging adds LinkedIn About replacement copy, keeps the proof routes smoke-visible, removes direct geography-specific long-term targeting from public copy, refreshes LinkedIn Proof Signal, Recruiter Preferences, and this Proof of Work route to the live headline, current live Open-to-Work boundary, recommended first-job title set, CI/CD-first Skills surface, current Featured order, live About replacement, tightens the AI role-title surface toward AI workflow / LLM integration instead of broad AI Engineer positioning, replaces lead/platform wording with workflow/operations automation and backend operations support wording, and tightens the flagship proof wording toward backend workflow ownership.
-- Live LinkedIn About was saved in Chrome after owner confirmation and verified on the normal profile URL with first-role Python/backend/API/QA automation positioning and the fast proof route.
+- Profile evidence freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
+- Latest recorded recruiter-funnel content snapshot is green on `593117c`; the July 1 packaging adds LinkedIn About replacement copy, keeps the review paths smoke-visible, removes direct geography-specific long-term targeting from public copy, refreshes LinkedIn Review Signal, Recruiter Preferences, and this Work Evidence route to the live headline, current live Open-to-Work boundary, recommended first-job title set, CI/CD-first Skills surface, current Featured order, live About replacement, tightens the AI role-title surface toward AI workflow / LLM integration instead of broad AI Engineer positioning, replaces lead/platform wording with workflow/operations automation and backend operations support wording, and tightens the flagship evidence wording toward backend workflow ownership.
+- Live LinkedIn About was saved in Chrome after owner confirmation and verified on the normal profile URL with first-role Python/backend/API/QA automation positioning and the fast review path.
 - Profile Funnel Audit succeeded on `593117c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28516899562
 - Profile Pages deployment succeeded on `593117c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28516898395
 - Live Profile Smoke succeeded on `593117c` after Pages deployment: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28516899535
-- Live Pages status is `built`, and direct live snippet checks confirmed GitHub profile render, portfolio, Application Outreach Pack, LinkedIn Proof Signal, Recruiter Preferences, sitemap, raw proof markdown, PDF resume, images, and public proof routes.
-- GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
+- Live Pages status is `built`, and direct live snippet checks confirmed GitHub profile render, portfolio, Application Outreach Pack, LinkedIn Review Signal, Recruiter Preferences, sitemap, raw evidence markdown, PDF resume, images, and public review paths.
+- GitHub profile evidence metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
 - Live Profile Smoke workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml?query=branch%3Amain
-- Live Profile Smoke includes rendered GitHub profile checks for the bio, recruiter shortcut, LinkedIn contact path, message reason router, Recruiter Filter Map, Message Triggers, pinned repositories, PDF resume, social cards/images, and proof routes: https://github.com/AlexGerlitz
+- Live Profile Smoke includes rendered GitHub profile checks for the bio, recruiter shortcut, LinkedIn contact path, message reason router, Recruiter Filter Map, Message Triggers, pinned repositories, PDF resume, social cards/images, and review paths: https://github.com/AlexGerlitz
 - Work With Me and Role Targets routes are published: https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html and https://alexgerlitz.github.io/AlexGerlitz/role-targets.html
 - MPlusForm has a public 60-second reviewer snapshot for trust-model and validation-boundary review.
 - MPlusForm `main` is green on `e0e6876`.
 - MPlusForm Public Verification succeeded on `e0e6876`: https://github.com/AlexGerlitz/MPlusForm/actions/runs/28296918568
-- Public proof repositories are reachable.
+- Public evidence repositories are reachable.
 
 ## DriveDesk Core Case Study
 
-DriveDesk Core is the public foundation for the DriveDesk proof path: one operational
+DriveDesk Core is the public foundation for the DriveDesk review path: one operational
 layer for CRM/ERP/accounting/banking integrations, documents, tasks, notifications, AI workflows,
 deployment, observability, and recovery.
 
@@ -121,7 +121,7 @@ That maps directly to the work I want: business-process automation, internal too
 workflows, integration adapters, backend automation systems, Docker/CI handoff, and remote fixed-scope
 projects where the output must be operated after the first working path produces reviewable evidence.
 
-## Fast Proof Review
+## Fast Evidence Review
 
 Give me:
 

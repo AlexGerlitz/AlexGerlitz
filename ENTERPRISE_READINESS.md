@@ -2,38 +2,38 @@
 
 Public route: https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html
 
-This is the proof route for international employer-grade review: teams that need a reliable backend automation and integration owner, not a prompt-only or no-code workflow operator.
+This is the review path for international employer-grade review: teams that need a reliable backend automation and integration owner, not a prompt-only or no-code workflow operator.
 
 ## Structured Review Data
 
 The HTML route now exposes machine-readable enterprise-readiness data for recruiter and AI review tooling:
 
-- ProfilePage: enterprise-readiness proof route, date, language, and main profile entity.
+- ProfilePage: enterprise-readiness review path, date, language, and main profile entity.
 - Person: role, GitHub/LinkedIn identity, and the strongest technical knowledge surface.
 - Decision path: 2-minute fit check, 10-minute technical review, and 30-minute specialist review.
 - Specialist signal: Python/backend automation ownership, AI workflow engineering, CRM/ERP/API integration depth, QA/API verification, reliability handoff, business operations context, Europe-compatible async collaboration, and public verification discipline.
 - Evidence matrix: DriveDesk Core, AI Ops Workflow Kit, privacy boundary, Verification Pack, and DeployMate.
-- International role screen: role context, operating proof, and first-contact decision signal for distributed teams.
+- International role screen: role context, operating evidence, and first-contact decision signal for distributed teams.
 - Next proof targets: observability dashboard, sandbox adapter proof, cloud/IaC proof, data-retention/privacy notes, and short demo media.
 
 ## What To Inspect
 
 | Review signal | Public evidence | Why it matters |
 | --- | --- | --- |
-| Backend automation and integration ownership | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), [Flagship backend workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) | FastAPI/PostgreSQL, roles, records, audit/outbox, adapters, OpenAPI, Docker, tests, CI, and public demo proof route. |
-| AI workflow engineering | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [Public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), [Live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) | RAG quality eval, transcript analysis, Telegram approval, CRM-safe handoff, live PostgreSQL/pgvector storage, and reviewer evidence. |
+| Backend automation and integration ownership | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), [Flagship backend workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html) | FastAPI/PostgreSQL, roles, records, audit/outbox, adapters, OpenAPI, Docker, tests, CI, and public demo review path. |
+| AI workflow engineering | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), [Public evidence status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), [Live owner evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) | RAG quality eval, transcript analysis, Telegram approval, CRM-safe handoff, live PostgreSQL/pgvector storage, and reviewer evidence. |
 | Reliability and operations | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), CI checks, runbooks, and smoke routes | Behavior is checked through commands, CI, health routes, release gates, docs, and recovery-oriented proof. |
 | Privacy and integration discipline | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), Bitrix dry-run contract, Telegram callback evidence, and CRM outbox state | Sensitive input, approvals, and CRM mutations are handled through explicit boundaries instead of hidden workflow glue. |
-| International and Europe-compatible team fit | [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [llms.txt](https://alexgerlitz.github.io/AlexGerlitz/llms.txt), [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), and [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) | English-first docs, async review paths, explicit ownership boundaries, timezone-friendly handoff, contact context, and compact evidence routes make the profile reviewable without a live walkthrough. |
+| International and Europe-compatible team fit | [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [llms.txt](https://alexgerlitz.github.io/AlexGerlitz/llms.txt), [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), and [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) | English-first docs, async review paths, explicit ownership boundaries, timezone-friendly handoff, contact context, and compact evidence routes make the profile reviewable without a live walkthrough. |
 | Remote review clarity | [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [First month plan](https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html), [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | Recruiters, hiring managers, and technical reviewers get a short path from role/project context to verifiable proof before the resume handoff. |
 
 ## Employer Decision Path
 
 | Timebox | What to inspect | Decision signal |
 | --- | --- | --- |
-| 2-minute fit check | [DriveDesk proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [project role signal map](https://alexgerlitz.github.io/AlexGerlitz/projects.html), [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | Fast answer to whether the work needs backend-owned AI workflow, CRM/ERP/API integration, QA/API verification, reliability handoff, or internal tools ownership, with first-contact context before resume handoff. |
+| 2-minute fit check | [DriveDesk AI Operator route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [project role signal map](https://alexgerlitz.github.io/AlexGerlitz/projects.html), [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | Fast answer to whether the work needs backend-owned AI workflow, CRM/ERP/API integration, QA/API verification, reliability handoff, or internal tools ownership, with first-contact context before resume handoff. |
 | 10-minute technical review | [AI Ops reviewer snapshot](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), and [verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) | Proof that RAG, approvals, adapter contracts, state, tests, CI, docs, and public-safe evidence are inspectable. |
-| 30-minute specialist review | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), [live owner proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), and current CI/smoke routes | Evidence for specialist ownership: privacy, audit, retries, idempotency, deployment/recovery thinking, runbooks, and handoff quality. |
+| 30-minute specialist review | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), [live owner evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), [DeployMate evidence](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), and current CI/smoke routes | Evidence for specialist ownership: privacy, audit, retries, idempotency, deployment/recovery thinking, runbooks, and handoff quality. |
 
 ## International Specialist Signal
 
@@ -42,24 +42,24 @@ For high-bar international teams, the strongest signal is not broad availability
 | High-bar question | Evidence to inspect | Signal |
 | --- | --- | --- |
 | Can I own the system of record, not only an automation layer? | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Flagship Backend Workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html), and [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) | FastAPI/PostgreSQL state, roles, records, audit/outbox, adapter contracts, OpenAPI, CI, and demo routes. |
-| Can AI output be reviewed and trusted? | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), RAG quality eval, citations, structured JSON, approval states, and live proof | RAG and transcript workflows have quality checks, human approval, logs, and rollback-aware handoff. |
+| Can AI output be reviewed and trusted? | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit), RAG quality eval, citations, structured JSON, approval states, and live evidence | RAG and transcript workflows have quality checks, human approval, logs, and rollback-aware handoff. |
 | Can integrations survive real business constraints? | [Privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), Bitrix dry-run, Telegram approval, [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), and [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) | External writes are behind contracts, retries, idempotency, dead-letter behavior, CI, smoke checks, and runbooks. |
-| Can a remote team evaluate me asynchronously? | English-first docs, [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html), [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | Reviewers can check role fit, evidence, current proof, first-contact context, and first-month ownership without a live explanation. |
+| Can a remote team evaluate me asynchronously? | English-first docs, [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html), [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), and [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | Reviewers can check role fit, evidence, current proof, first-contact context, and first-month ownership without a live explanation. |
 | Can I turn unclear operations into a first working slice? | [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html), [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html), and [Work With Me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html) | Incomplete context becomes a risk map, smallest responsible slice, test path, docs, and handoff route. |
 
 ## International Employer Signals
 
-- Qualification depth: backend automation and integration work, AI workflow engineering, CRM/ERP/API integration, Docker/CI handoff, and support of real business infrastructure are tied to public proof.
+- Qualification depth: backend automation and integration work, AI workflow engineering, CRM/ERP/API integration, Docker/CI handoff, and support of real business infrastructure are tied to public evidence.
 - Enterprise constraints: privacy boundaries, approvals, audit trail, retries, idempotency, rollback thinking, and runbooks are visible instead of hidden behind workflow glue.
 - Business-system context: DriveDesk focuses on documents, transcripts, leads, operator queues, CRM handoff, records, roles, payments, logs, backups, and recovery paths.
-- Async review quality: English-first docs, proof routes, CI, smoke checks, and compact evidence make it possible to evaluate work across time zones.
+- Async review quality: English-first docs, review paths, CI, smoke checks, and compact evidence make it possible to evaluate work across time zones.
 - Team onboarding signal: first-month ownership, smallest responsible slice, verification plan, and handoff route are explicit before a project or role starts.
 
 ## International Hiring Readiness
 
 These are the signals a distributed product or operations team can inspect before a call:
 
-- Async communication: written context, reviewer links, proof order, first-month ownership, and an explicit next decision.
+- Async communication: written context, reviewer links, review order, first-month ownership, and an explicit next decision.
 - Europe-compatible collaboration: written proof, clear handoff, and async-first review make the first technical decision possible without an onsite walkthrough.
 - Ownership model: backend owns state, contracts, evidence, and handoff; orchestration owns routing; external writes stay behind approval or sandbox boundaries.
 - Risk handling: privacy boundary, audit trail, idempotency, retry/dead-letter state, rollback notes, and runbooks.
@@ -72,29 +72,29 @@ Use this when a recruiter or hiring manager needs to decide whether the profile 
 
 | Role context | Operating proof recruiters can inspect | First-contact decision signal |
 | --- | --- | --- |
-| International backend automation and integration role with AI workflow, internal tools, or integration ownership | English-first docs, CI/live smoke, public proof order, Decision-Ready Contact, and first-month ownership route | Fit can be checked through written proof before scheduling a technical screen. |
+| International backend automation and integration role with AI workflow, internal tools, or integration ownership | English-first docs, CI/live smoke, public review order, Decision-Ready Contact, and first-month ownership route | Fit can be checked through written proof before scheduling a technical screen. |
 | Europe-compatible async product or operations team | Timezone-friendly handoff, privacy/integration boundaries, compact evidence routes, runbooks, and clear ownership model | Team can review risk, handoff quality, and working-slice expectations without an onsite walkthrough. |
-| AI workflow or CRM/ERP/API integration-heavy role | DriveDesk Proof Route, AI Ops Hiring Signal Brief, adapter contracts, eval/approval/audit evidence, and Verification Pack | First slice can be scoped as a backend-owned workflow with tests, logs, docs, and handoff notes. |
+| AI workflow or CRM/ERP/API integration-heavy role | DriveDesk AI Operator route, AI Ops Hiring Signal Brief, adapter contracts, eval/approval/audit evidence, and Verification Pack | First slice can be scoped as a backend-owned workflow with tests, logs, docs, and handoff notes. |
 
 ## Specialist Review Evidence
 
 This is the useful hiring signal: not generic AI tooling, but a rare overlap of business operations, Python/backend automation ownership, AI workflow engineering, integrations, QA/API verification, and reliability discipline.
 
-| Specialist signal | Public proof | Why it matters |
+| Specialist signal | Public evidence | Why it matters |
 | --- | --- | --- |
-| Real operations context | Autoschool54 backend/application-support work since March 2024, DriveDesk backend workflow proof path, and public proof routes | The work is grounded in real admin/operator workflows, not only portfolio exercises. |
+| Real operations context | Autoschool54 backend/application-support work since March 2024, DriveDesk backend workflow review path, and public review paths | The work is grounded in real admin/operator workflows, not only portfolio exercises. |
 | Backend-owned AI systems | DriveDesk AI Operator, AI Ops Workflow Kit, FastAPI/PostgreSQL, pgvector, approvals, audit, retries, and idempotency | AI workflows stay reviewable because state, quality checks, and external writes have explicit backend boundaries. |
-| Integration depth | CRM/ERP/API/1C/accounting/banking adapter proof surface, Bitrix dry-run handoff, Telegram approval, and adapter contracts | Business systems need field mapping, validation, retries, idempotency, and rollback notes, not hidden automation glue. |
-| Production review discipline | CI, smoke checks, verification pack, live owner proof, privacy boundary, runbooks, and public-safe evidence | A remote team can inspect risk, behavior, and handoff quality before a live walkthrough. |
-| International and Europe-compatible async readiness | English-first docs, compact proof order, first-month ownership, timezone-friendly handoff, and explicit next decision routes | The profile can be evaluated across time zones through written evidence instead of personal explanation. |
+| Integration depth | CRM/ERP/API/1C/accounting/banking adapter evidence surface, Bitrix dry-run handoff, Telegram approval, and adapter contracts | Business systems need field mapping, validation, retries, idempotency, and rollback notes, not hidden automation glue. |
+| Production review discipline | CI, smoke checks, verification pack, live owner evidence, privacy boundary, runbooks, and public-safe evidence | A remote team can inspect risk, behavior, and handoff quality before a live walkthrough. |
+| International and Europe-compatible async readiness | English-first docs, compact review order, first-month ownership, timezone-friendly handoff, and explicit next decision routes | The profile can be evaluated across time zones through written evidence instead of personal explanation. |
 
 ## Specialist Review Signal
 
 My strongest surface is not generic AI automation. It is backend-owned business workflow engineering where AI, data, approvals, CRM/ERP/API adapters, Docker/CI handoff, and handoff quality have explicit contracts.
 
-- Rare overlap: real business infrastructure support since March 2024, backend automation and integration implementation, AI-native delivery, CRM/ERP/API integration, Docker/CI recovery, and public proof discipline.
-- Review evidence: code, docs, CI, live smoke, runtime-boundary notes, privacy boundaries, adapter contracts, and proof routes are inspectable before a live walkthrough.
-- First proof task: DriveDesk AI Operator-style slice with document/transcript/lead intake, RAG, structured analysis, human approval, CRM-safe handoff, tests, logs, and runbook.
+- Rare overlap: real business infrastructure support since March 2024, backend automation and integration implementation, AI-native delivery, CRM/ERP/API integration, Docker/CI recovery, and public evidence discipline.
+- Review evidence: code, docs, CI, live smoke, runtime-boundary notes, privacy boundaries, adapter contracts, and review paths are inspectable before a live walkthrough.
+- First work sample task: DriveDesk AI Operator-style slice with document/transcript/lead intake, RAG, structured analysis, human approval, CRM-safe handoff, tests, logs, and runbook.
 - Team value: I reduce hidden automation state, brittle workflow glue, unclear ownership, missing rollback paths, and unverifiable AI outputs.
 
 ## Operating Principle
@@ -105,9 +105,9 @@ The main engineering distinction: n8n can orchestrate events, while backend code
 
 ## International Team Fit
 
-- English-first public docs and proof routes so recruiters, hiring managers, and technical reviewers can inspect work asynchronously.
+- English-first public docs and review paths so recruiters, hiring managers, and technical reviewers can inspect work asynchronously.
 - Europe-compatible remote signal: written proof, handoff notes, privacy boundaries, CI, and runbooks are inspectable before a call.
-- Short evidence path: proof pack, flagship route, enterprise readiness, verification pack, resume, and current CI/live smoke status.
+- Short evidence path: review pack, flagship route, enterprise readiness, verification pack, resume, and current CI/live smoke status.
 - Clear ownership boundaries: what the backend owns, what orchestration owns, what is dry-run/sandboxed, and what must be approved before external writes.
 - Handoff discipline: tests, logs, runbooks, public-safe evidence, and smallest responsible first slice instead of vague "AI automation" claims.
 

@@ -63,6 +63,6 @@ handoff note.
 
 ## Evidence Boundary
 
-This first-role fit uses public-safe proof only. It does not include live admin screenshots,
+This first-role fit uses public-safe evidence only. It does not include live admin screenshots,
 real learner names, contact details, Telegram IDs, chat IDs, private URLs, raw logs, credentials,
 database dumps, or private repository code.

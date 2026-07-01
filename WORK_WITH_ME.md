@@ -8,7 +8,7 @@ and review, while architecture, state boundaries, privacy checks, tests, logs, d
 and shipped quality stay engineering-owned.
 
 Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff
-recovery sprint, or DriveDesk AI Operator-style proof route.
+recovery sprint, or DriveDesk AI Operator-style review path.
 
 Fast fit checklist: remote-only work, one concrete business workflow, one success condition, real
 systems or data, and enough context to prove the first responsible slice. Not my target right now:
@@ -22,14 +22,14 @@ For the live LinkedIn service page, see
 For the fastest contact route, see [Start Here](./START_HERE.md).
 For concrete project packages and budget signals, see
 [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).
-For proof-backed routing from employer pain to repo evidence, use
-[AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
+For evidence-backed routing from employer pain to repo evidence, use
+[AI Ops Employer Trigger Evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 For useful first context, see [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html).
 
 ## First Reply Promise
 
 Send one remote role or one workflow plus one success condition. I will return a fit read, risky
-assumptions, the smallest responsible first slice, proof path, and the right next route: remote role
+assumptions, the smallest responsible first slice, review path, and the right next route: remote role
 conversation, fixed-scope project, technical review, or no-fit.
 
 ## Best Entry Points
@@ -47,7 +47,7 @@ Output:
 
 - Process breakdown and risky assumptions.
 - Minimal data model and integration map.
-- First working slice with a proof route and handoff evidence.
+- First working slice with a review path and handoff evidence.
 - Next-step implementation plan with tradeoffs.
 
 ### 2. AI Ops / RAG Workflow MVP

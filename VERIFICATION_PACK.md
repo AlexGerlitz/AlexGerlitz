@@ -10,10 +10,10 @@ Last checked: 2026-07-01.
 1. Open the DriveDesk Core review route and public demo.
 2. Open the latest DriveDesk Core CI and Pages runs.
 3. Scan the Skill Evidence Matrix for the role keywords that matter.
-4. For AI automation roles, open the AI Ops demo walkthrough, public proof status, reviewer
-   acceptance report, role requirements map, live approval proof, role targets, and CI workflow first.
+4. For AI automation roles, open the AI Ops demo walkthrough, public evidence status, reviewer
+   acceptance report, role requirements map, live approval evidence, role targets, and CI workflow first.
 5. For inbound fit, open Work With Me and Role Targets to check the exact remote/fixed-scope entry points.
-6. Open one proof repo that matches the role: DriveDesk Core, AI Ops Workflow Kit, DeployMate, or
+6. Open one evidence repo that matches the role: DriveDesk Core, AI Ops Workflow Kit, DeployMate, or
    MPlusForm.
 7. Check whether the project has tests, CI, docs, runbooks, demo paths, or explicit reviewer
    snapshots.
@@ -24,29 +24,29 @@ Live checked on 2026-07-01.
 
 | LinkedIn surface | Current public signal |
 | --- | --- |
-| Headline | Python Backend Developer with FastAPI, PostgreSQL, internal tools, API/CRM integrations, QA Automation Python, and DriveDesk proof routes. |
+| Headline | Python Backend Developer with FastAPI, PostgreSQL, internal tools, API/CRM integrations, QA Automation Python, and DriveDesk AI Operator routes. |
 | Current live Open-to-Work | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, and Application Support Engineer. |
-| About | Live About now starts with Python/backend automation and internal tools for real business workflows, foregrounds Autoschool Intake/Admin as first-role proof, states the AI-tools responsibility boundary, targets remote Junior Backend / Python / QA Automation Python / API Testing / Integration / Support Engineer with Python roles, and keeps Docker/CI as handoff evidence, not senior DevOps or platform ownership. |
-| Experience | Profile shows Python Backend & Application Support Engineer at AutoSchool54 / Автошкола 54 since March 2024, with remote backend/application-support work, synthetic public proof, and an Autoschool Intake/Admin proof route. |
-| Featured route | LinkedIn Proof Signal first, then DriveDesk AI Operator - Proof Route, Fixed-Scope AI Automation Offers, and DriveDesk Core; extended proof stack is routed through GitHub/Pages. |
+| About | Live About now starts with Python/backend automation and internal tools for real business workflows, foregrounds Autoschool Intake/Admin as first-role evidence, states the AI-tools responsibility boundary, targets remote Junior Backend / Python / QA Automation Python / API Testing / Integration / Support Engineer with Python roles, and keeps Docker/CI as handoff evidence, not senior DevOps or platform ownership. |
+| Experience | Profile shows Python Backend & Application Support Engineer at AutoSchool54 / Автошкола 54 since March 2024, with remote backend/application-support work, synthetic public evidence, and an Autoschool Intake/Admin review path. |
+| Featured route | LinkedIn Review Signal first, then DriveDesk AI Operator - Review Path, Fixed-Scope AI Automation Offers, and DriveDesk Core; extended evidence stack is routed through GitHub/Pages. |
 | Services | Available remote Services route for concrete backend-owned AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow requests. |
 | Skills surface | All view: Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. |
 
-Current/live boundary: LinkedIn headline and Open-to-Work are live-updated and verified on the visible profile. The saved title set now routes the first-job screen through backend, Python, QA/API, integration, and application-support lanes while AI remains proof evidence inside the portfolio. The visible LinkedIn Featured route above is still the last live-checked Featured state. The recommended next first-job Featured order is LinkedIn Proof Signal -> Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin Proof -> DriveDesk AI Operator proof route; I do not claim this Featured reorder as live until the LinkedIn profile visibly shows it.
+Current/live boundary: LinkedIn headline and Open-to-Work are live-updated and verified on the visible profile. The saved title set now routes the first-job screen through backend, Python, QA/API, integration, and application-support lanes while AI remains review evidence inside the portfolio. The visible LinkedIn Featured route above is still the last live-checked Featured state. The recommended next first-job Featured order is LinkedIn Review Signal -> Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> DriveDesk AI Operator route; I do not claim this Featured reorder as live until the LinkedIn profile visibly shows it.
 
 ## LinkedIn Activation Status
 
 Prepared on 2026-06-30, not published without owner confirmation.
-Selected next post: Post B - role-fit/search signal in LinkedIn Proof Signal.
-Publication proof: pending live LinkedIn activity URL after explicit owner approval.
+Selected next post: Post B - role-fit/search signal in LinkedIn Review Signal.
+Publication evidence: pending live LinkedIn activity URL after explicit owner approval.
 
 | Activation item | Current status |
 | --- | --- |
-| Selected next post | Post B - role-fit/search signal in LinkedIn Proof Signal. |
+| Selected next post | Post B - role-fit/search signal in LinkedIn Review Signal. |
 | Search titles carried by the post | Junior Backend Developer, Junior Python Developer, Back End Developer, Python Developer, Python Automation Engineer, QA Automation Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer. |
 | Skill filters carried by the post | FastAPI, GitHub Actions, RAG, Python, PostgreSQL, Docker, CRM/ERP/API integration, OpenAPI, workflow integration, and QA Automation Python. |
-| First comment route | Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack. |
-| Publication proof | Pending live LinkedIn activity URL after explicit owner approval. |
+| First comment route | Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk AI Operator route -> AI Backend Review Pack. |
+| Publication evidence | Pending live LinkedIn activity URL after explicit owner approval. |
 
 ## Source-Backed Activation Checks
 
@@ -54,12 +54,12 @@ Checked on 2026-07-01.
 
 | Check | Current decision |
 | --- | --- |
-| LinkedIn Open-to-Work | Current live titles are recorded above and verified on the visible profile: Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, and Application Support Engineer. AI remains proof evidence inside backend, QA/API, and integration work rather than the first title filter. |
-| LinkedIn Skills | Keep Python, REST APIs, OpenAPI, GitHub, Systems Integration, FastAPI, Docker, PostgreSQL, and QA/API terms tied to public proof. Do not treat DevOps as the main role claim. |
-| LinkedIn Featured | Use Featured for proof samples: LinkedIn Proof Signal, Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin Proof, and DriveDesk proof routes. |
-| GitHub profile | Keep the profile README, pinned repos, Pages routes, and PDF resume aligned because they are the first public proof surface. |
+| LinkedIn Open-to-Work | Current live titles are recorded above and verified on the visible profile: Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, and Application Support Engineer. AI remains review evidence inside backend, QA/API, and integration work rather than the first title filter. |
+| LinkedIn Skills | Keep Python, REST APIs, OpenAPI, GitHub, Systems Integration, FastAPI, Docker, PostgreSQL, and QA/API terms tied to public evidence. Do not treat DevOps as the main role claim. |
+| LinkedIn Featured | Use Featured for work samples: LinkedIn Review Signal, Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin work sample, and DriveDesk AI Operator routes. |
+| GitHub profile | Keep the profile README, pinned repos, Pages routes, and PDF resume aligned because they are the first public evidence surface. |
 | Russia-first market | Keep Russia-first outreach band-aware: ask for or share the compensation band before a call, and screen the exact minimum privately. |
-| International-market screen | Keep English-first docs, async proof routes, integration contracts, privacy boundaries, CI/live smoke, runbooks, and handoff quality visible for later international screening without making geography the public goal. |
+| International-market screen | Keep English-first docs, async review paths, integration contracts, privacy boundaries, CI/live smoke, runbooks, and handoff quality visible for later international screening without making geography the public goal. |
 
 ## Pinned Repository Order
 
@@ -67,10 +67,10 @@ The GitHub profile pins are intentionally ordered as a review funnel:
 
 | Order | Repository | Review signal |
 | --- | --- | --- |
-| 1 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | Flagship backend automation and integration foundation. Start here for the strongest proof. |
-| 2 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | AI workflow/RAG backend proof with document/CRM/call intake, committed demo GIF/walkthrough, privacy redaction before RAG/approval/CRM handoff, deterministic RAG quality eval (`rag_eval=2/2`), importable n8n workflow artifact, one-command offer demo, reviewer acceptance report, reviewer observability snapshot, LLM/transcription provider boundaries, transcript analysis, approvals, Telegram callback approval, dry-run Bitrix CRM handoff, idempotent outbox drain, opt-in worker, live PostgreSQL/pgvector runtime (`storage=postgres`), API restart persistence proof, Docker, and integration boundaries. |
-| 3 | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) | Docker/CI release discipline proof. Includes release gates, evidence bundle, and a public recovery trail. |
-| 4 | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation, trust-boundary, client/server sync, and Windows automation proof. |
+| 1 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | Flagship backend automation and integration foundation. Start here for the strongest evidence. |
+| 2 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | AI workflow/RAG backend evidence with document/CRM/call intake, committed demo GIF/walkthrough, privacy redaction before RAG/approval/CRM handoff, deterministic RAG quality eval (`rag_eval=2/2`), importable n8n workflow artifact, one-command offer demo, reviewer acceptance report, reviewer observability snapshot, LLM/transcription provider boundaries, transcript analysis, approvals, Telegram callback approval, dry-run Bitrix CRM handoff, idempotent outbox drain, opt-in worker, live PostgreSQL/pgvector runtime (`storage=postgres`), API restart persistence evidence, Docker, and integration boundaries. |
+| 3 | [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) | Docker/CI release discipline evidence. Includes release gates, evidence bundle, and a public recovery trail. |
+| 4 | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation, trust-boundary, client/server sync, and Windows automation evidence. |
 | 5 | [AlexGerlitz profile](https://github.com/AlexGerlitz/AlexGerlitz) | Index for resume, services, role targets, and verification links. |
 
 ## Pinned Repo First-Screen Check
@@ -82,7 +82,7 @@ Read-only checked on 2026-06-29. The pinned repositories are not random code sam
 | DriveDesk Core | Backend automation and integration foundation behind DriveDesk AI Operator: business operations, integrations, workflows, audit/outbox, adapter boundaries, recovery paths, CI, OpenAPI, SDK drift checks, docs, and public demo. | Shows I can own the system of record and integration foundation, not only an AI workflow wrapper. |
 | AI Ops Workflow Kit | Production-minded AI workflow backend: document/CRM/call intake, RAG, transcript analysis, approvals, outbox handoff, n8n/Telegram/CRM boundaries, privacy redaction, CI, reviewer observability snapshot, and reviewer evidence. | Shows I can make AI workflow output reviewable through state, quality checks, approvals, logs, and contracts. |
 | DeployMate | Self-hosted Docker deployment control panel with FastAPI/Next.js/PostgreSQL, SSH runtime tooling, CI/CD, health checks, release gates, evidence bundles, runbooks, backup/restore thinking, and production review flows. | Shows Docker/CI handoff, release discipline, and recovery thinking without making DevOps the primary role target. |
-| MPlusForm | Validation-boundary and desktop-automation proof: untrusted local files, optional Python sync, server-side approval, safe snapshots, Windows operations scripts, and trust-model docs. | Shows I can define trust boundaries around fragile local data and package operator workflows for non-developer environments. |
+| MPlusForm | Validation-boundary and desktop-automation evidence: untrusted local files, optional Python sync, server-side approval, safe snapshots, Windows operations scripts, and trust-model docs. | Shows I can define trust boundaries around fragile local data and package operator workflows for non-developer environments. |
 
 ## Claim To Evidence Map
 
@@ -90,10 +90,10 @@ Read-only checked on 2026-06-29. The pinned repositories are not random code sam
 | --- | --- | --- |
 | Backend automation and integration engineering | DriveDesk Core: tenant model, RBAC, audit/outbox, workflow rules, adapter boundaries, OpenAPI, tests, docs, public demo. | Open the [DriveDesk Core review route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), the [public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/), and the latest checked [CI run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28296918663). |
 | Public demo and release discipline | DriveDesk Core GitHub Pages demo is published from the repo and checked by Actions. | Open the [Pages deployment run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28296918404), the [scheduled validation run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28282542868), the [public demo health run](https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28291540179), and the demo URL. |
-| AI workflow / RAG backend | AI Ops Workflow Kit: document/CRM/call intake, committed demo GIF/walkthrough, privacy redaction before RAG/approval/CRM handoff, importable n8n workflow artifact, offer demo, LLM/transcription provider boundaries, reviewer acceptance report, reviewer observability snapshot, ingestion/retrieval, deterministic RAG quality eval with expected sources and citations, transcript analysis, lead scoring, approvals, Telegram callback approval, dry-run Bitrix CRM handoff, idempotent outbox drain, opt-in worker, live PostgreSQL/pgvector runtime, API restart persistence proof, deterministic tests, Docker, and n8n/Telegram boundaries. | Open the [AI Ops demo walkthrough](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md), the [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), the [live Postgres persistence proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt), the [privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), the [reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md), the [live approval proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), the [role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md), the [repo](https://github.com/AlexGerlitz/ai-ops-workflow-kit), and the [CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml). |
-| Docker/CI handoff and release discipline | DeployMate: self-hosted deployment control panel proof, release gates, production contract checks, strict SSH host-key posture, runbooks, incident automation, and evidence bundle. | Open [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), the [CI run](https://github.com/AlexGerlitz/deploymate/actions/runs/28296918571), the latest [public evidence bundle](https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763), the [release maintenance status](https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309), and the [release-secrets audit](https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779). |
+| AI workflow / RAG backend | AI Ops Workflow Kit: document/CRM/call intake, committed demo GIF/walkthrough, privacy redaction before RAG/approval/CRM handoff, importable n8n workflow artifact, offer demo, LLM/transcription provider boundaries, reviewer acceptance report, reviewer observability snapshot, ingestion/retrieval, deterministic RAG quality eval with expected sources and citations, transcript analysis, lead scoring, approvals, Telegram callback approval, dry-run Bitrix CRM handoff, idempotent outbox drain, opt-in worker, live PostgreSQL/pgvector runtime, API restart persistence evidence, deterministic tests, Docker, and n8n/Telegram boundaries. | Open the [AI Ops demo walkthrough](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md), the [AI Ops public evidence status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md), the [live Postgres persistence evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt), the [privacy boundary](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md), the [reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md), the [live approval evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md), the [role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md), the [repo](https://github.com/AlexGerlitz/ai-ops-workflow-kit), and the [CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml). |
+| Docker/CI handoff and release discipline | DeployMate: self-hosted deployment control panel evidence, release gates, production contract checks, strict SSH host-key posture, runbooks, incident automation, and evidence bundle. | Open [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot), the [CI run](https://github.com/AlexGerlitz/deploymate/actions/runs/28296918571), the latest [public evidence bundle](https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763), the [release maintenance status](https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309), and the [release-secrets audit](https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779). |
 | Validation and trust boundaries | MPlusForm: client-side data is treated as untrusted until server-side validation creates an approved public snapshot. | Open [MPlusForm](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot) and the latest [public verification run](https://github.com/AlexGerlitz/MPlusForm/actions/runs/28296918568). |
-| Remote business infrastructure support | Autoschool54 / DriveDesk private work since March 2024, represented publicly through sanitized architecture, docs, proof repos, and operational case studies. | Read [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html), [Proof of Work](./PROOF_OF_WORK.md), and [Resume](./RESUME.md). |
+| Remote business infrastructure support | Autoschool54 / DriveDesk private work since March 2024, represented publicly through sanitized architecture, docs, evidence repos, and operational case studies. | Read [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html), [Work Evidence](./PROOF_OF_WORK.md), and [Resume](./RESUME.md). |
 
 ## Current External Verification
 
@@ -105,7 +105,7 @@ Repository evidence checked on 2026-06-30; LinkedIn/profile packaging refreshed 
 - DriveDesk Core Pages deployment succeeded on `228943f`: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28296918404
 - DriveDesk Core scheduled public validation remains green: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28282542868
 - DriveDesk Core latest scheduled public demo health succeeded: https://github.com/AlexGerlitz/drivedesk-core/actions/runs/28291540179
-- AI Ops public proof status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
+- AI Ops public evidence status is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - AI Ops Hiring Signal Brief is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt
 - AI Ops Business Scenario Replay is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt
 - AI Ops First Slice Playbook is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md
@@ -113,30 +113,30 @@ Repository evidence checked on 2026-06-30; LinkedIn/profile packaging refreshed 
 - AI Ops reviewer acceptance report is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md
 - AI Ops latest checked CI run succeeded on `0cb94e0`: https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/runs/28344277704
 - AI Ops demo walkthrough is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md
-- AI Ops GitHub repository metadata foregrounds AI sales/support workflow backend proof and routes the repository homepage to the demo walkthrough: https://github.com/AlexGerlitz/ai-ops-workflow-kit
+- AI Ops GitHub repository metadata foregrounds AI sales/support workflow backend evidence and routes the repository homepage to the demo walkthrough: https://github.com/AlexGerlitz/ai-ops-workflow-kit
 - AI Ops live smoke passed on app SHA `1a83406` with `storage=postgres` and `rag_eval=2/2` at https://saleops.duckdns.org.
-- AI Ops live PostgreSQL/pgvector persistence proof survived an API container restart: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt
-- AI Ops live approval proof is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
+- AI Ops live PostgreSQL/pgvector persistence evidence survived an API container restart: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/live-postgres-persistence.txt
+- AI Ops live approval evidence is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md
 - AI Ops privacy boundary is published: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PRIVACY_BOUNDARY.md
-- AI Ops deeper review docs are available from the public proof status when a technical reviewer wants full drill-down.
-- AI Ops public proof status tracks the live-runtime boundary, 54-pass local public gate, hiring signal brief, reviewer observability snapshot, committed runtime evidence, LLM provider fallback state, and transcription provider state: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
+- AI Ops deeper review docs are available from the public evidence status when a technical reviewer wants full drill-down.
+- AI Ops public evidence status tracks the live-runtime boundary, 54-pass local public gate, hiring signal brief, reviewer observability snapshot, committed runtime evidence, LLM provider fallback state, and transcription provider state: https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md
 - DeployMate default branch `develop` is green on `b139a9a`.
 - DeployMate CI succeeded on `b139a9a`, including the production-contract job: https://github.com/AlexGerlitz/deploymate/actions/runs/28296918571
 - DeployMate latest public evidence bundle succeeded on `b139a9a`: https://github.com/AlexGerlitz/deploymate/actions/runs/28296941763
 - DeployMate release maintenance status succeeded: https://github.com/AlexGerlitz/deploymate/actions/runs/28280948309
 - DeployMate release-secrets audit is green for staging and production: https://github.com/AlexGerlitz/deploymate/actions/runs/28280638779
-- Profile proof freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
-- Latest recorded recruiter-funnel content snapshot is green on `593117c`; the July 1 packaging adds LinkedIn About replacement copy, keeps the proof routes smoke-visible, removes direct geography-specific long-term targeting from public copy, refreshes LinkedIn Proof Signal, Recruiter Preferences, and this Verification Pack to the live headline, current live Open-to-Work boundary, recommended first-job title set, CI/CD-first Skills surface, current Featured order, live About replacement, source-backed activation plan, tightens the AI role-title surface toward AI workflow / LLM integration instead of broad AI Engineer positioning, replaces lead/platform wording with workflow/operations automation and backend operations support wording, and tightens the flagship proof wording toward backend workflow ownership.
-- Live LinkedIn About was saved in Chrome after owner confirmation and verified on the normal profile URL: the visible About includes `I build Python/backend automation and internal tools for real business workflows`, `My strongest first-role proof is Autoschool Intake/Admin`, `I use AI tools as an engineering accelerator`, `Best fit: remote Junior Backend Developer`, `not senior DevOps or platform ownership`, and the fast proof route.
+- Profile evidence freshness is checked through the branch workflow pages below and the concrete latest green run IDs.
+- Latest recorded recruiter-funnel content snapshot is green on `593117c`; the July 1 packaging adds LinkedIn About replacement copy, keeps the review paths smoke-visible, removes direct geography-specific long-term targeting from public copy, refreshes LinkedIn Review Signal, Recruiter Preferences, and this Verification Pack to the live headline, current live Open-to-Work boundary, recommended first-job title set, CI/CD-first Skills surface, current Featured order, live About replacement, source-backed activation plan, tightens the AI role-title surface toward AI workflow / LLM integration instead of broad AI Engineer positioning, replaces lead/platform wording with workflow/operations automation and backend operations support wording, and tightens the flagship evidence wording toward backend workflow ownership.
+- Live LinkedIn About was saved in Chrome after owner confirmation and verified on the normal profile URL: the visible About includes `I build Python/backend automation and internal tools for real business workflows`, `My strongest first-role work sample is Autoschool Intake/Admin`, `I use AI tools as an engineering accelerator`, `Best fit: remote Junior Backend Developer`, `not senior DevOps or platform ownership`, and the fast review path.
 - Profile Funnel Audit succeeded on `593117c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28516899562
 - Profile Pages deployment succeeded on `593117c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28516898395
 - Live Profile Smoke succeeded on `593117c` after Pages deployment: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28516899535
-- Live Pages status is `built`, and direct live snippet checks confirmed GitHub profile render, portfolio, Application Outreach Pack, LinkedIn Proof Signal, Recruiter Preferences, sitemap, raw proof markdown, PDF resume, images, and public proof routes.
-- GitHub profile proof metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
+- Live Pages status is `built`, and direct live snippet checks confirmed GitHub profile render, portfolio, Application Outreach Pack, LinkedIn Review Signal, Recruiter Preferences, sitemap, raw evidence markdown, PDF resume, images, and public review paths.
+- GitHub profile evidence metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment
 - Live Profile Smoke workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml?query=branch%3Amain
-- Live Profile Smoke includes rendered GitHub profile checks for the bio, recruiter shortcut, LinkedIn contact path, message reason router, Recruiter Filter Map, Message Triggers, pinned repositories, PDF resume, social cards/images, and proof routes: https://github.com/AlexGerlitz
+- Live Profile Smoke includes rendered GitHub profile checks for the bio, recruiter shortcut, LinkedIn contact path, message reason router, Recruiter Filter Map, Message Triggers, pinned repositories, PDF resume, social cards/images, and review paths: https://github.com/AlexGerlitz
 - Work With Me and Role Targets routes are published: https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html and https://alexgerlitz.github.io/AlexGerlitz/role-targets.html
 - MPlusForm `main` is green on `e0e6876`.
 - MPlusForm Public Verification succeeded on `e0e6876`: https://github.com/AlexGerlitz/MPlusForm/actions/runs/28296918568
@@ -170,6 +170,6 @@ What is intentionally not claimed:
 
 ## What To Take Away
 
-The point is not to hide every system behind a polished screenshot. The useful proof is inspectable:
+The point is not to hide every system behind a polished screenshot. The useful evidence is inspectable:
 code, docs, CI, release gates, runbooks, incidents, and recovery steps are visible enough for a
 technical reviewer to evaluate the engineering behavior.

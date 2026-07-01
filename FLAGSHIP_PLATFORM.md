@@ -1,8 +1,8 @@
-# DriveDesk Flagship Backend Workflow Proof
+# DriveDesk Flagship Backend Workflow Evidence
 
-## Sharpest Current Proof Route: DriveDesk AI Operator
+## Sharpest Current Review Path: DriveDesk AI Operator
 
-The main flagship proof route is [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md): an AI sales
+The main flagship review path is [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md): an AI sales
 and support workflow backend.
 
 Scenario:
@@ -22,7 +22,7 @@ The important selling point: I am not just gluing no-code nodes together. Backen
 audit, retries, idempotency, quality checks, approvals, and integration contracts. n8n is the
 orchestration layer.
 
-DriveDesk is the product path behind my public proof projects: one remote-first backend workflow layer for
+DriveDesk is the product path behind my public evidence projects: one remote-first backend workflow layer for
 real business workflows, integrations, AI assistance, deployment, observability, and recovery.
 
 The target is not a vague "integrates with everything" promise. The target is a backend-owned workflow layer that can
@@ -42,7 +42,7 @@ This backend workflow path combines the surfaces remote teams and founders usual
 
 Since March 2024, I have supported Autoschool54 digital infrastructure remotely and used that
 operational context to shape DriveDesk. The private work is the real business context; the public
-repos are the inspectable proof path.
+repos are the inspectable review path.
 
 ## What DriveDesk Is Trying To Become
 
@@ -67,15 +67,15 @@ An operations workflow layer where different roles can work from one reliable ba
 | Admin / operator UI | Human review, corrections, approval, search, dashboards, and operational controls. |
 | Docker/CI layer | Docker, CI/release gates, health checks, logs, backups, smoke checks, rollback and recovery docs. |
 
-## Current Public Proof
+## Current Public Evidence
 
-| Proof | What it demonstrates |
+| Evidence | What it demonstrates |
 | --- | --- |
 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | FastAPI/PostgreSQL SaaS/backend foundation with tenants, RBAC, audit/outbox, adapter boundaries, OpenAPI, CI, docs, and public demo. |
 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md) | One-command AI workflow demo: document/transcript/lead intake, retrieval, OpenAI/Claude/Gemini provider boundary, transcript/document analysis, lead scoring, approvals, Telegram callback approval, dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight, idempotent outbox drain, opt-in worker, deterministic tests, and integration boundaries. |
-| [DeployMate](https://github.com/AlexGerlitz/deploymate) | Docker/CI release proof: deployment control panel proof, SSH/runtime surface, health checks, release gates, runbooks, and incident handling. |
-| [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Trust-boundary proof around sync, validation, client-side data, server checks, Windows automation, and operator docs. |
-| [Verification Pack](./VERIFICATION_PACK.md) | Reviewer route through demos, CI, docs, role evidence, and operational proof. |
+| [DeployMate](https://github.com/AlexGerlitz/deploymate) | Docker/CI release evidence: deployment control panel evidence, SSH/runtime surface, health checks, release gates, runbooks, and incident handling. |
+| [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Trust-boundary evidence around sync, validation, client-side data, server checks, Windows automation, and operator docs. |
+| [Verification Pack](./VERIFICATION_PACK.md) | Reviewer route through demos, CI, docs, role evidence, and operational evidence. |
 
 ## How I Would Build The First Real Slice
 
@@ -106,7 +106,7 @@ Good first slices:
 - API/webhook/custom database adapters, CRM/ERP/Bitrix/1C/banking/accounting boundaries.
 - Admin/operator UI, roles, audit trail, notifications, reporting, and recovery workflow.
 
-## Proof Review Context
+## Evidence Review Context
 
 For a role, the best fit is remote Python/backend automation, AI automation, integration, QA/API, reliability handoff, or internal
 tools work where I can own one operational slice end to end.

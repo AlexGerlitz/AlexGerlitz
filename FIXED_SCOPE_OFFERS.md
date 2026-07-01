@@ -1,7 +1,7 @@
 # Fixed-Scope AI Automation Offers
 
 Concrete project menu for remote AI automation, backend automation, integration, and Docker/CI handoff work.
-The fastest proof route is [DriveDesk AI Operator - Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html).
+The fastest review path is [DriveDesk AI Operator - Review Path](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html).
 The fastest business-facing proof before scope is [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt).
 
 These are fixed-scope project signals, not employment salary numbers and not hourly rates. Final
@@ -25,35 +25,35 @@ Workflow: what happens today and where it breaks.
 Systems: CRM, ERP, 1C, API, documents, calls, transcripts, database, hosting, or repo involved.
 Success: one observable result.
 Constraints: access, deadline, budget range, and what must not break.
-Proof route: business scenario replay or DriveDesk proof route.
+Review path: business scenario replay or DriveDesk AI Operator route.
 ```
 
-## Proof-Backed Offer Router
+## Offer Router
 
 Use this when the business problem is clear enough to choose a starting package. Each route has a
-public proof map, so the first message can point to an inspectable implementation pattern instead of
+public evidence map, so the first message can point to an inspectable implementation pattern instead of
 a vague automation request.
 
-- **AI workflow / RAG:** choose DriveDesk AI Operator Proof Slice or AI Ops / RAG Workflow MVP. Proof:
+- **AI workflow / RAG:** choose DriveDesk AI Operator Pilot Slice or AI Ops / RAG Workflow MVP. Proof:
   [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt),
   [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt)
-  and [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
+  and [AI Ops Employer Trigger Evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md).
 - **CRM/ERP/API integration:** choose Integration Adapter MVP. Proof:
-  [AI Ops Employer Trigger Proof](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
+  [AI Ops Employer Trigger Evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
   and [Skill Evidence](./SKILL_EVIDENCE.md).
 - **Backend automation and integration ownership:** choose Internal Operations Platform Slice. Proof:
   [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and
   [Enterprise Readiness](./ENTERPRISE_READINESS.md).
 - **Docker/CI reliability:** choose Docker/CI Release Recovery Sprint. Proof:
-  [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and
+  [DeployMate evidence](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and
   [Verification Pack](./VERIFICATION_PACK.md).
 
 ## Fast Menu
 
-| Offer | Best for | Timebox | Budget signal | Public proof |
+| Offer | Best for | Timebox | Budget signal | Public evidence |
 | --- | --- | --- | --- | --- |
 | Workflow Teardown + Working Slice | Messy workflow, unclear requirements, scattered tools, manual operator work. | 2-5 days | USD 750-2,500 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
-| DriveDesk AI Operator Proof Slice | Sales/support call, transcript, document, or CRM lead workflow that needs RAG, scoring, follow-up, approval, and CRM action. | 1-3 weeks | USD 3,000-12,000 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html), [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
+| DriveDesk AI Operator Pilot Slice | Sales/support call, transcript, document, or CRM lead workflow that needs RAG, scoring, follow-up, approval, and CRM action. | 1-3 weeks | USD 3,000-12,000 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html), [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
 | AI Ops / RAG Workflow MVP | Documents, transcripts, tickets, leads, orders, approvals, internal knowledge. | 1-3 weeks | USD 3,000-10,000 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) |
 | Integration Adapter MVP | CRM/ERP/1C/banking/accounting/API/custom database sync boundary. | 1-4 weeks | USD 4,000-15,000 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) |
 | Docker/CI Release Recovery Sprint | Self-hosted service that is hard to deploy, observe, back up, or recover. | 3-10 days | USD 2,000-8,000 | [DeployMate](https://github.com/AlexGerlitz/deploymate) |
@@ -84,7 +84,7 @@ After this slice, one operator can upload/export the current source data, see no
 and run one end-to-end check without manual transfer work.
 ```
 
-## 2. DriveDesk AI Operator Proof Slice
+## 2. DriveDesk AI Operator Pilot Slice
 
 Use this when a sales, support, or operations team needs an AI workflow around calls, transcripts,
 documents, leads, approvals, and CRM follow-up.
@@ -191,7 +191,7 @@ clear recovery notes.
 
 ## 7. DriveDesk-Style Operating Layer
 
-This is the flagship proof path: a phased operating layer that integrates real business workflows
+This is the flagship review path: a phased operating layer that integrates real business workflows
 across CRM/ERP/1C/banking/accounting/admin systems.
 
 The right version is not "connect everything to everything" on day one. The right version is:
@@ -218,7 +218,7 @@ and [GitHub-readable platform notes](./FLAGSHIP_PLATFORM.md).
 
 The strongest first step is one real workflow, the current systems or data involved, and one clear
 success condition. I use that to identify the smallest responsible working slice, the integration
-risks, the verification path, and what should wait until after the first proof slice.
+risks, the verification path, and what should wait until after the first work sample slice.
 
 I will respond with the smallest responsible path to a working result, the risky assumptions, the
-proof needed, and what should wait until after the first slice.
+evidence needed, and what should wait until after the first slice.

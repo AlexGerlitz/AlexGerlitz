@@ -1,9 +1,9 @@
-# Autoschool Intake Admin Proof
+# Autoschool Intake Admin Work Sample
 
 Public HTML route: https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html
 
 This is a public-safe representation of the private Autoschool54 intake/admin workflow. It explains
-the engineering proof without exposing learner data, live admin screenshots, private repository code,
+the engineering evidence without exposing learner data, live admin screenshots, private repository code,
 tokens, logs, internal URLs, or real operator records.
 
 ## 30-Second Proof
@@ -21,7 +21,7 @@ backend validation, database state, operator workflow, and public-safe documenta
 
 ## Public-Safe Demo Contract
 
-Only synthetic examples belong in public proof:
+Only synthetic examples belong in public evidence:
 
 | Surface | Public-safe example |
 | --- | --- |
@@ -37,13 +37,13 @@ names from the real admin panel.
 
 ## Engineering Surface
 
-| Layer | What it proves |
+| Layer | What it shows |
 | --- | --- |
 | Telegram intake | I can collect structured input from a real user-facing channel. |
 | Backend validation | I can normalize messy input before it becomes business state. |
 | Database record | I understand persistence, status fields, timestamps, and review state. |
 | Admin handoff | I can make user input visible and actionable for an operator. |
-| Privacy boundary | I can separate real business data from public proof. |
+| Privacy boundary | I can separate real business data from public evidence. |
 | Operations | I can think about deployment, backups, logs, recovery, and handoff docs. |
 
 ## First-Job Signal
@@ -64,7 +64,7 @@ Start with the public routes:
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) for FastAPI/PostgreSQL backend foundations.
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/) for public-safe admin surface proof.
 - [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) for the Autoschool54 operational context.
-- [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) for CI, smoke, demo, and proof freshness.
+- [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) for CI, smoke, demo, and evidence freshness.
 
 ## Synthetic Demo Seed
 
