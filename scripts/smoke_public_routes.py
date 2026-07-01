@@ -15,8 +15,8 @@ from urllib.request import Request, urlopen
 
 TIMEOUT_SECONDS = 20
 USER_AGENT = "AlexGerlitz-public-profile-smoke/1.0"
-LIVE_RETRY_ATTEMPTS = 6
-LIVE_RETRY_DELAY_SECONDS = 10
+LIVE_RETRY_ATTEMPTS = 12
+LIVE_RETRY_DELAY_SECONDS = 15
 
 
 def current_profile_ref() -> str:
