@@ -4,14 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Alex Gerlitz - Python Backend Automation Resume</title>
-  <meta name="description" content="My print-ready resume source focused on Python/backend automation, internal tools, API/CRM integration, QA Automation Python, Autoschool intake/admin proof, DriveDesk AI Operator, FastAPI, PostgreSQL, Docker/Compose boundary, CI, and remote work.">
+  <meta name="description" content="Print-ready resume for remote Python/backend automation, internal tools, API/CRM integration, QA Automation Python, Autoschool intake/admin proof, DriveDesk AI Operator, FastAPI, PostgreSQL, Docker/Compose boundary, CI, and async handoff.">
   <link rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/resume-pdf.html">
   <style>
     :root {
-      --ink: #18202a;
-      --muted: #52616f;
+      --ink: #17202a;
+      --muted: #536170;
       --line: #d8e0e7;
       --accent: #0f766e;
+      --soft: #eef7f5;
       --paper: #ffffff;
     }
     * { box-sizing: border-box; }
@@ -21,68 +22,81 @@
       color: var(--ink);
       background: var(--paper);
       font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      font-size: 7.45pt;
-      line-height: 1.02;
+      font-size: 9.45pt;
+      line-height: 1.16;
     }
     a { color: #1d4ed8; text-decoration: none; }
     .page {
       width: 210mm;
       min-height: 297mm;
       margin: 0 auto;
-      padding: 11mm 12mm;
+      padding: 12mm 13mm;
     }
     header {
       border-bottom: 2px solid var(--accent);
-      padding-bottom: 3px;
-      margin-bottom: 3px;
+      padding-bottom: 5px;
+      margin-bottom: 6px;
     }
     h1 {
       margin: 0 0 3px;
-      font-size: 17pt;
-      line-height: 1.05;
+      font-size: 20pt;
+      line-height: 1.02;
       letter-spacing: 0;
     }
     .headline {
-      margin: 0 0 3px;
+      margin: 0 0 5px;
       color: var(--accent);
       font-weight: 760;
-      font-size: 8pt;
+      font-size: 9.2pt;
     }
     .contacts {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 1px 12px;
+      gap: 2px 16px;
       color: var(--muted);
-      font-size: 7pt;
-    }
-    .contacts .proof-route {
-      grid-column: 1 / -1;
-    }
-    .contacts .route-link {
-      grid-column: 1 / -1;
-      white-space: nowrap;
+      font-size: 8.15pt;
     }
     h2 {
-      margin: 2.2px 0 0.5px;
+      margin: 7px 0 3px;
       color: var(--ink);
-      font-size: 8.6pt;
+      font-size: 10pt;
       text-transform: uppercase;
       letter-spacing: 0;
       border-bottom: 1px solid var(--line);
-      padding-bottom: 0.5px;
+      padding-bottom: 2px;
     }
     h3 {
-      margin: 1.1px 0 0.4px;
-      font-size: 7.8pt;
-      line-height: 1.02;
+      margin: 3px 0 1px;
+      font-size: 9.15pt;
+      line-height: 1.08;
     }
-    p { margin: 0 0 0.6px; }
+    p { margin: 0 0 3px; }
     ul {
-      margin: 0 0 0.5px 12px;
+      margin: 0 0 2px 13px;
       padding: 0;
     }
-    li { margin: 0.25px 0; }
+    li { margin: 1px 0; }
     .muted { color: var(--muted); }
+    .screen {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 4px;
+      margin: 5px 0 3px;
+    }
+    .proof-line {
+      border-left: 3px solid var(--accent);
+      padding: 3px 7px;
+      margin: 4px 0;
+    }
+    .box {
+      border: 1px solid var(--line);
+      background: var(--soft);
+      border-radius: 6px;
+      padding: 6px 7px;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .box strong { color: var(--accent); }
     .role-head {
       display: flex;
       justify-content: space-between;
@@ -94,14 +108,14 @@
     .two-col {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 3px 9px;
+      gap: 4px 12px;
     }
     .project {
       break-inside: avoid;
       page-break-inside: avoid;
-      margin-bottom: 0.8px;
+      margin-bottom: 4px;
     }
-    .compact li { margin: 0.25px 0; }
+    .compact li { margin: 1px 0; }
     @page {
       size: A4;
       margin: 7mm 9mm;
@@ -123,41 +137,29 @@
       <h1>Alex Gerlitz</h1>
       <p class="headline">Python Backend Automation Engineer | Internal Tools | API/CRM Integrations | QA Automation Python</p>
       <div class="contacts" aria-label="Contact and proof links">
-        <span>Message: linkedin.com/in/alex-gerlitz-a659ab3bb</span>
-        <span>LinkedIn Services: linkedin.com/services/page/3153b734507b8a60ab</span>
-        <span>GitHub: github.com/AlexGerlitz</span>
-        <span>Portfolio: alexgerlitz.github.io/AlexGerlitz</span>
-        <span class="proof-route">Recruiter packet: alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html</span>
-        <span class="route-link">Autoschool proof: alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html</span>
-        <span class="route-link">Proof route: alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html</span>
-        <span class="route-link">Decision-ready contact: alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html</span>
-        <span class="route-link">Start: alexgerlitz.github.io/AlexGerlitz/start-conversation.html</span>
+        <span><a href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb">LinkedIn: linkedin.com/in/alex-gerlitz-a659ab3bb</a></span>
+        <span><a href="https://github.com/AlexGerlitz">GitHub: github.com/AlexGerlitz</a></span>
+        <span><a href="https://alexgerlitz.github.io/AlexGerlitz/">Portfolio: alexgerlitz.github.io/AlexGerlitz</a></span>
+        <span><a href="https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html">Proof packet: /linkedin-recruiter-packet.html</a></span>
+        <span><a href="https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html">Autoschool proof: /autoschool-intake-admin.html</a></span>
+        <span><a href="https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html">Contact route: /decision-ready-contact.html</a></span>
       </div>
     </header>
 
     <section>
-      <h2>Summary</h2>
-      <p>Remote-only Python/backend automation and internal-tools engineer focused on DriveDesk AI Operator and Autoschool Intake/Admin: backend-owned RAG/transcript workflows, CRM/ERP integrations, Telegram intake to admin handoff, FastAPI/PostgreSQL backends, tests, smoke checks, Docker/Compose boundaries, docs, runbooks, and recovery notes.</p>
-      <p>Search-match stack: Python, FastAPI, PostgreSQL, pytest, REST APIs, OpenAPI, Docker, Docker Compose, GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, Systems Integration, Backend Development, QA Automation Python, Workflow Automation, audit logs, runbooks, and PostgreSQL/pgvector-backed workflows.</p>
-      <p>Search-fit titles: Junior Backend Developer, Junior Python Developer, Back End Developer, Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, Internal Tools Engineer, AI Automation Engineer, LLM Workflow / RAG Engineer.</p>
-      <p>Fast fit: remote-only work with a concrete technical outcome, real systems, and a working slice that can be tested, logged, documented, demonstrated, and handed off. Shortlist signal: backend-owned state, integrations, logs, tests, docs, and handoff.</p>
-      <p>Europe-compatible signal: English-first docs, async review paths, privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff.</p>
-      <p>AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and review while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality stay engineering-owned.</p>
-      <p>Ownership signal: incomplete context -> risky boundary -> reviewable outcome with backend-owned state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.</p>
-      <p>First screen answer: give me one endpoint, data model, admin queue step, API/CRM mapping, QA/API check, or runbook gap; I will turn it into a reviewed slice with tests or smoke evidence, docs, and handoff notes.</p>
-      <p>30-day output: workflow/risk map -> one working backend/integration/QA slice -> verification evidence -> next 2-4 slices. Proof route: First Backend Role -> Autoschool Intake/Admin -> Verification Pack.</p>
-    </section>
-
-    <section>
-      <h2>Target Work</h2>
-      <ul class="compact">
-        <li>Remote-only Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, and reliability handoff roles.</li>
-        <li>Junior Backend Developer / Junior Python Developer / Back End Developer roles around APIs, data models, validation, tests, Docker/CI, and handoff docs.</li>
-        <li>Quality Assurance Automation Engineer / QA Automation Python / API Testing roles where Python, pytest, REST/OpenAPI checks, SQL/data checks, logs, smoke routes, and issue notes matter.</li>
-        <li>AI sales/support workflows around document/transcript/lead intake, RAG, call-audio transcription, transcript analysis, lead scoring, approvals, and CRM actions.</li>
-        <li>AI / operations automation work around workflows, APIs, integrations, docs, metrics, and human oversight.</li>
-        <li>Internal tools, admin panels, fixed-scope automation, integration adapters, deployment paths, health checks, backups, observability, and recovery workflows.</li>
-      </ul>
+      <h2>Profile</h2>
+      <p>Remote Python/backend automation engineer for internal tools, API/CRM integrations, and QA/API workflows. I turn messy business processes into FastAPI/PostgreSQL/Telegram/admin slices with tests or smoke evidence, docs, and handoff notes. AI speeds up execution; verification and product boundaries stay mine.</p>
+      <p class="proof-line">Public proof is based on business workflow shape, not tutorials: Telegram intake -> backend validation -> database record -> admin queue -> operator status. Private data is replaced by synthetic public evidence.</p>
+      <div class="screen">
+        <div class="box">
+          <p><strong>Role fit:</strong> Junior Python Backend, QA Automation Python, API Testing, CRM/API Integration, Internal Tools Engineer.</p>
+        </div>
+        <div class="box">
+          <p><strong>Can take on now:</strong> one endpoint, data model, admin queue step, API/CRM mapping, QA/API check, or runbook gap; I will ship a reviewed slice with evidence and handoff.</p>
+        </div>
+      </div>
+      <p><strong>First month:</strong> map workflow/risk -> ship one backend/integration/QA slice -> document evidence -> repeat on the next 2-4 slices. Proof: Autoschool Intake/Admin page and recruiter packet use synthetic public evidence only.</p>
+      <p><strong>Stack:</strong> Python, FastAPI, PostgreSQL, pytest, REST/OpenAPI, Docker Compose, GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, Systems Integration, audit logs, runbooks.</p>
     </section>
 
     <section>
@@ -167,12 +169,10 @@
         <p class="muted">Remote, March 2024 - Present</p>
       </div>
       <p><strong>Autoschool54 / DriveDesk backend/internal-tools work</strong></p>
-      <p>Remote AI-assisted backend/internal-tools and digital operations support for a live driving-school operation.</p>
       <ul>
-        <li>Support live business workflows across admin/operator processes, documents, schedules, payments, accounts, access, and troubleshooting.</li>
-        <li>Translate unclear non-technical problems into technical actions, checklists, repeatable workflows, and documentation.</li>
-        <li>Use AI tooling to compress discovery, implementation, debugging, docs, and review while keeping delivery ownership explicit.</li>
-        <li>Verify AI outputs and AI-accelerated changes through inspection, tests, logs, smoke checks, docs, and hands-on review before shipping.</li>
+        <li>Support live admin/operator workflows across documents, schedules, payments, accounts, access, and troubleshooting.</li>
+        <li>Translate unclear business problems into technical actions, repeatable workflows, documentation, and recovery paths.</li>
+        <li>Use AI tooling for discovery, implementation, debugging, docs, and review while verifying outputs through inspection, tests, logs, smoke checks, and hands-on review.</li>
       </ul>
     </section>
 
@@ -180,46 +180,31 @@
       <h2>Public Proof Projects</h2>
       <div class="project">
         <h3>Autoschool Intake/Admin Proof - alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html</h3>
-        <p>First-job backend/internal-tools proof: Telegram request intake, backend validation, database record, admin queue handoff, operator status workflow, and synthetic-only public evidence.</p>
-        <p class="muted">Surface: Telegram bot boundary, backend validation, records, admin workflow, status states, privacy review.</p>
+        <p>Synthetic public proof of Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow.</p>
       </div>
       <div class="project">
         <h3>DriveDesk AI Operator - alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html</h3>
-        <p>Main flagship proof: document/transcript/CRM lead ingestion, call-audio processing, RAG, call-analysis JSON, Telegram approval, and auditable CRM adapter action.</p>
-        <p class="muted">Stack: FastAPI, PostgreSQL/pgvector, document APIs, RAG, n8n, Telegram, CRM adapter, Docker, CI.</p>
+        <p>Backend-owned AI workflow: document/transcript/CRM lead intake, RAG, call-analysis JSON, Telegram approval, audit, retries, and CRM handoff.</p>
+      </div>
+      <div class="project">
+        <h3>AI Ops Workflow Kit - github.com/AlexGerlitz/ai-ops-workflow-kit</h3>
+        <p>Live FastAPI/PostgreSQL/pgvector backend with privacy redaction, approvals, idempotent outbox, transcript analysis, and dry-run CRM handoff.</p>
       </div>
       <div class="project">
         <h3>DriveDesk Core - github.com/AlexGerlitz/drivedesk-core</h3>
-        <p>Backend/internal-tools foundation: tenants, RBAC, audit/outbox, workers, adapter boundaries, OpenAPI, CI, docs, and public demo.</p>
-        <p class="muted">Stack: Python, FastAPI, PostgreSQL, Alembic, Docker Compose, pytest, OpenAPI.</p>
-      </div>
-      <div class="project">
-        <h3>AI Ops Workflow Kit - github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md</h3>
-        <p>Live FastAPI AI/RAG workflow backend: document/CRM/call intake, privacy redaction before RAG/approval/CRM handoff, transcript analysis, Telegram approvals, dry-run Bitrix CRM handoff, idempotent outbox, live PostgreSQL/pgvector persistence, reviewer acceptance report, production-readiness drill, Docker, and importable n8n workflow artifact.</p>
-        <p class="muted">Stack: FastAPI, PostgreSQL/pgvector, Docker, document APIs, n8n, Telegram.</p>
-      </div>
-      <div class="project">
-        <h3>DeployMate - github.com/AlexGerlitz/deploymate</h3>
-        <p>Self-hosted deployment control panel proof: Docker apps, VPS/SSH tooling, CI/CD, health checks, logs, runbooks, and release discipline.</p>
-        <p class="muted">Stack: FastAPI, Next.js, PostgreSQL, Docker, SSH, CI/CD.</p>
+        <p>FastAPI/PostgreSQL backend foundation: tenants, RBAC, audit/outbox, workers, adapter boundaries, OpenAPI, CI, docs.</p>
       </div>
     </section>
 
     <section>
-      <h2>Core Skills</h2>
-      <div class="two-col">
-        <ul class="compact">
-          <li>Python/backend/internal tools: Python, FastAPI, PostgreSQL, Alembic, OpenAPI, pytest, service contracts.</li>
-          <li>QA/API verification: QA Automation Python, API Testing, pytest, REST/OpenAPI checks, SQL/data checks, logs, smoke routes, and issue notes.</li>
-          <li>AI workflows: LLM/RAG systems, vector databases / PostgreSQL pgvector, OpenAI/Claude/Gemini provider boundary, document/call-audio/transcript processing, n8n artifact, call analysis, scoring, approvals.</li>
-          <li>Integrations: Systems Integration, Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), APIs, webhooks, custom databases, accounting/banking boundaries, mapping, validation.</li>
-        </ul>
-        <ul class="compact">
-          <li>Reliability handoff: Docker Compose, GitHub Actions, release gates, health checks, logs, backups, smoke checks, recovery thinking.</li>
-          <li>Product execution: clarify messy requirements, scope a working slice, verify it, document it, and leave an operation path.</li>
-          <li>English: technical documentation, async writing, and engineering communication.</li>
-        </ul>
-      </div>
+      <h2>Target Work & Stack</h2>
+      <ul class="compact">
+        <li>Backend/internal tools: APIs, data models, admin queues, validation, docs.</li>
+        <li>QA/API verification: pytest, REST/OpenAPI checks, SQL/data checks, smoke routes.</li>
+        <li>Integrations: Telegram, CRM/ERP/API adapters, Systems Integration, webhooks, retries, audit logs.</li>
+        <li>AI workflow automation: RAG/transcript/ticket/lead flows with human approval.</li>
+        <li>Reliability handoff: Docker Compose, GitHub Actions, health checks, runbooks, English technical documentation; Docker/CI as handoff tools, not platform-engineering ownership.</li>
+      </ul>
     </section>
 
     <section>
