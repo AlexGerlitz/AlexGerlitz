@@ -1,15 +1,16 @@
 # Alex Gerlitz
 [![Profile Funnel Audit](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml) [![Live Profile Smoke](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml)
-I build **DriveDesk** and public work samples around Python/backend automation, application support, internal tools, API/CRM integrations, AI workflows, QA Automation Python, and reliability handoff. The useful signal is not "AI can write code"; it is that messy business workflows become FastAPI/PostgreSQL/Telegram/admin slices with tests, logs, docs, and handoff.
+I build **Python backend/API automation** for messy business workflows: FastAPI/PostgreSQL services, admin queues, REST/OpenAPI boundaries, API/CRM integrations, QA/API checks, and handoff docs. DriveDesk and Autoschool Intake/Admin are the proof surfaces, not the whole positioning.
 
-Core stack: Python, FastAPI, PostgreSQL, RAG workflows, tests, smoke checks, Docker/Compose boundaries, CI, docs, runbooks, and recovery paths.
+The useful signal is not "AI can write code"; it is that one real workflow can become a reviewed FastAPI/PostgreSQL/Telegram/admin slice with tests, logs, docs, and handoff.
 
-**I am open for remote-only full-time roles** where the first month can prove one working slice: Junior Backend Developer, Junior Python Developer, QA Automation Python, API Testing / Test Automation Engineer, CRM/API Integration Engineer, or Internal Tools Engineer.
+Core stack: Python, FastAPI, PostgreSQL, REST/OpenAPI, SQL, pytest/API smoke checks, Docker/Compose boundaries, GitHub Actions, docs, runbooks, and recovery notes. RAG/AI workflow evidence is a differentiator after the backend/API fit is clear.
+
+**I am open for remote-only full-time roles** where the first month can prove one working slice: Junior Python Backend Developer, Junior Backend Developer, QA Automation Python, API Testing / Test Automation Engineer, CRM/API Integration Engineer, Application Support Engineer with Python, or Internal Tools Engineer.
 
 Public work samples are based on workflow shape, not tutorial-only demos: Telegram request intake -> backend validation -> database record -> admin queue -> operator status. Private production data is replaced with synthetic public evidence.
 
-**First useful result:** one endpoint, data model, admin queue step, API/CRM mapping, QA/API check, or runbook gap shipped as a reviewed slice with tests or smoke evidence, docs, and handoff notes.
-
+**First useful result:** one FastAPI endpoint, data model, admin queue step, API/CRM mapping, pytest/API smoke check, SQL/data check, or runbook gap shipped as a reviewed slice with docs and handoff notes.
 ## Fast Public Review
 
 | Review first | Why it matters |
@@ -21,7 +22,6 @@ Public work samples are based on workflow shape, not tutorial-only demos: Telegr
 | [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) | First-role backend/internal-tools work sample with synthetic public evidence only. |
 | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) | Work sample for RAG, transcript analysis, approval, CRM handoff, audit, retries, and adapter boundaries. |
 | [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | Deeper technical review for AI workflow, CRM/API handoff, tests, logs, and runbooks. |
-
 ## Recruiter Snapshot
 
 **Message me first when** there is one messy workflow, one risky integration boundary, or one Python/backend automation, API/CRM, QA automation, AI workflow, or reliability slice that should become testable, logged, documented, and handed off.
@@ -41,7 +41,6 @@ Search-fit titles: Junior Backend Developer, Junior Python Developer, Python Aut
 LinkedIn recruiter search alignment: remote-only full-time roles where Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM/ERP/API integration, QA Automation Python, OpenAPI, n8n, Telegram, or pgvector appear in the role.
 
 Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff, or DriveDesk AI Operator-style work sample.
-
 ## Decision Snapshot
 
 | Send me | Best match | Fast review |
