@@ -24,7 +24,7 @@ Live checked on 2026-07-01.
 
 | LinkedIn surface | Current public signal |
 | --- | --- |
-| Headline | Python Backend Automation Engineer with DriveDesk, internal tools, API/CRM integrations, QA Automation Python, RAG/LLM workflows, FastAPI, and Docker. |
+| Headline | Python Backend Automation Engineer with DriveDesk, internal tools, API/CRM integrations, QA Automation Python, RAG workflow proof, FastAPI, and Docker. |
 | Current live Open-to-Work | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, and Integration Engineer. |
 | About | Live About now starts with Python/backend automation and internal tools for real business workflows, foregrounds Autoschool Intake/Admin as first-role proof, states the AI-tools responsibility boundary, targets remote Junior Backend / Python / QA Automation Python / API Testing / Integration / Support Engineer with Python roles, and keeps Docker/CI as handoff evidence, not senior DevOps or platform ownership. |
 | Experience | Profile shows AutoSchool54 / Автошкола 54 remote infrastructure support since March 2024. |
@@ -43,8 +43,8 @@ Publication proof: pending live LinkedIn activity URL after explicit owner appro
 | Activation item | Current status |
 | --- | --- |
 | Selected next post | Post B - role-fit/search signal in LinkedIn Proof Signal. |
-| Search titles carried by the post | Junior Backend Developer, Junior Python Developer, Back End Developer, Python Developer, Python Automation Engineer, QA Automation Python, AI Automation Engineer, Integration Engineer, and LLM Workflow / RAG Engineer. |
-| Skill filters carried by the post | FastAPI, GitHub Actions, RAG, Python, PostgreSQL, Docker, CRM/ERP/API integration, OpenAPI, Systems Integration, and QA Automation Python. |
+| Search titles carried by the post | Junior Backend Developer, Junior Python Developer, Back End Developer, Python Developer, Python Automation Engineer, QA Automation Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer. |
+| Skill filters carried by the post | FastAPI, GitHub Actions, RAG, Python, PostgreSQL, Docker, CRM/ERP/API integration, OpenAPI, workflow integration, and QA Automation Python. |
 | First comment route | Message on LinkedIn -> Decision-Ready Contact -> LinkedIn Recruiter Packet -> Hiring Decision -> DriveDesk Proof Route -> AI Backend Proof Pack. |
 | Publication proof | Pending live LinkedIn activity URL after explicit owner approval. |
 

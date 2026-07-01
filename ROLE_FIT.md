@@ -17,7 +17,7 @@ I am strongest when the work has:
 Current anchor: remote Autoschool54 / DriveDesk digital infrastructure work since March 2024.
 
 Search-match stack: Python, FastAPI, PostgreSQL, Docker, Docker Compose, RAG, n8n, Telegram,
-CRM/ERP/API integrations, Systems Integration, Backend Development, Internal Tools Engineering,
+CRM/ERP/API integrations, workflow integration, Backend Development, Internal Tools Engineering,
 Workflow Automation, Docker/CI handoff, GitHub Actions, OpenAPI, and PostgreSQL/pgvector-backed workflows.
 
 Main case route:
@@ -29,7 +29,7 @@ CRM adapter contracts, audit, retries, and runbook proof target.
 
 | Role | Fit | Review first |
 | --- | --- | --- |
-| AI Automation Engineer | DriveDesk AI Operator-style systems: document/transcript/lead ingestion, RAG retrieval, summaries, scoring, routing, Telegram approvals, outbox worker handoff, CRM handoff, and auditability. | [AI Ops role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md) |
+| AI workflow / RAG proof | DriveDesk AI Operator-style systems: document/transcript/lead ingestion, RAG retrieval, summaries, scoring, routing, Telegram approvals, outbox worker handoff, CRM handoff, and auditability. | [AI Ops role requirements map](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/ROLE_REQUIREMENTS_MAP.md) |
 | Backend Engineer | FastAPI/PostgreSQL systems, records, roles, workflow state, OpenAPI, tests, Docker, and docs. | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) |
 | Internal Tools Engineer | Tenants, adapters, workers, contracts, audit/outbox, SDK/OpenAPI, CI, docs, and operations. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
 | Integration Engineer | CRM/ERP/1C/banking/API/custom database boundaries, mapping, validation, retries, and logs. | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) |

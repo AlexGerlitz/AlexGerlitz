@@ -2,7 +2,7 @@
 [![Profile Funnel Audit](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml) [![Live Profile Smoke](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml)
 I build **DriveDesk** and public proof routes around Python/backend automation, internal tools, API/CRM integrations, AI workflows, QA Automation Python, and reliability handoff. The useful signal is not "AI can write code"; it is that messy business workflows become FastAPI/PostgreSQL/Telegram/admin slices with tests, logs, docs, and handoff.
 
-Core stack: Python, FastAPI, PostgreSQL, RAG/LLM workflows, tests, smoke checks, Docker/Compose boundaries, CI, docs, runbooks, and recovery paths.
+Core stack: Python, FastAPI, PostgreSQL, RAG workflow proof, tests, smoke checks, Docker/Compose boundaries, CI, docs, runbooks, and recovery paths.
 
 **I am open for remote-only full-time roles** where the first month can prove one working slice: Junior Backend Developer, Junior Python Developer, QA Automation Python, API Testing / Test Automation Engineer, CRM/API Integration Engineer, or Internal Tools Engineer.
 

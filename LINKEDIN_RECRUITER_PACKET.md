@@ -17,7 +17,7 @@ Use this page when a LinkedIn profile view needs a fast decision: whether to mes
 | --- | --- | --- |
 | Python backend / internal tools | FastAPI/PostgreSQL workflow slices, endpoints, data models, validation, admin queue steps, docs, and handoff. | [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
 | QA Automation Python / API Testing | pytest, REST/OpenAPI checks, SQL/data checks, smoke routes, logs, issue notes, and repeatable verification. | [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) |
-| CRM/API integration | Adapter contracts, mappings, validation, retries, idempotency, audit logs, and privacy boundaries. | [Autoschool Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
+| CRM/API integration | Adapter contracts, mappings, validation, retries, idempotency, audit logs, and privacy boundaries. | [Autoschool Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
 | AI workflow / RAG | Retrieval, structured output, approval states, citations/evals, CRM-safe handoff, runbooks, and backend ownership. | [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
 
 ## Market-Aligned Fit

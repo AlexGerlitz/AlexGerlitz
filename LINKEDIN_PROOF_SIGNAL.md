@@ -5,7 +5,7 @@ I use this as the short public update route for a LinkedIn profile view, a recru
 ## What Changed
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability proof route.
-- The recommended first-job Featured route starts with LinkedIn Proof Signal, then Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin Proof, DriveDesk AI Operator proof route, Fixed-Scope AI Automation Offers, and DriveDesk Core. The current live Featured state is tracked separately in Verification Pack so I do not claim a LinkedIn-side edit before it is visible.
+- The recommended first-job Featured route starts with LinkedIn Proof Signal, then Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin Proof, DriveDesk Proof Route, and DriveDesk Core. AI Backend Proof Pack, Verification Pack, and fixed-scope routes stay available from GitHub/Pages when deeper review is needed.
 - The live Skills surface is verified instead of assumed: All view starts with Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, and ERP; CRM remains proof-backed through About, Services, and public routes. Tools & Technologies surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.
 - LinkedIn did not expose a clean reorder control; the current safe state is CI/CD first, Python immediately after it, and every visible top skill tied to public proof instead of loose keywords.
 - The public GitHub route connects search-fit signal, proof, contact context, and resume handoff.
@@ -61,7 +61,7 @@ I use this section to keep the profile headline, LinkedIn About replacement, Fea
 Headline copy:
 
 ```text
-Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG/LLM Workflows, FastAPI, Docker
+Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG Workflow Proof, FastAPI, Docker
 ```
 
 Short proof direction (not live About copy):
@@ -96,20 +96,20 @@ Profile alignment checklist:
 - Keep DriveDesk AI Operator as the flagship AI/backend workflow route.
 - Use only synthetic screenshots or diagrams; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
 
-## Manual Live Profile Activation
+## Profile Text Alignment
 
-I use this as the exact copy layer for live GitHub, LinkedIn, Open-to-Work, and first replies.
+These profile lines keep live GitHub, LinkedIn, Open-to-Work, and first replies aligned around the same first-job signal.
 
 GitHub bio:
 
 ```text
-Python Backend Automation Engineer building DriveDesk: internal tools, API/CRM integrations, QA Automation Python, RAG/LLM workflows, FastAPI, Docker.
+Python Backend Automation Engineer building DriveDesk: internal tools, API/CRM integrations, QA Automation Python, RAG workflow proof, FastAPI, Docker.
 ```
 
 LinkedIn headline:
 
 ```text
-Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG/LLM Workflows, FastAPI, Docker
+Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG Workflow Proof, FastAPI, Docker
 ```
 
 LinkedIn About replacement:
@@ -150,7 +150,7 @@ Hi, I am interested in this remote Python/backend automation role. I can send a 
 
 Live update order: GitHub bio -> LinkedIn headline -> LinkedIn About replacement -> Open-to-Work titles -> Featured order.
 
-## Copy-Ready LinkedIn Update
+## LinkedIn Update Draft
 
 ```text
 I refreshed my public proof route for remote Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability work.
@@ -206,11 +206,11 @@ That is what my public proof route is organized around:
 - CRM/ERP/API integration proof
 - QA/API verification proof, with Docker/CI as supporting handoff evidence
 
-Best-fit titles: Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, AI Automation Engineer, Internal Tools Engineer, and LLM Workflow / RAG Engineer.
+Best-fit titles: Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer. AI workflow and RAG stay visible as proof-backed differentiators, not the first title I need to be screened under.
 
-Skill filters that should find me: Python, FastAPI, PostgreSQL, REST APIs, OpenAPI, Docker, GitHub Actions, pytest, CRM/ERP/API integration, Systems Integration, RAG, Vector Databases, audit logs, retries, and runbooks.
+Skill filters that should find me: Python, FastAPI, PostgreSQL, REST APIs, OpenAPI, Docker, GitHub Actions, pytest, CRM/ERP/API integration, workflow integration, RAG, Vector Databases, audit logs, retries, and runbooks.
 
-If the role is remote Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI automation, or reliability work, send the role, remote setup, first-month ownership surface, and hiring timeline.
+If the role is remote Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, or reliability work, send the role, remote setup, first-month ownership surface, and hiring timeline.
 ```
 
 ### Post C - workflow owner

@@ -30,7 +30,7 @@ Best matches: remote-only backend automation and integration, AI automation, RAG
 internal tools, QA/API verification, reliability handoff, and international or Europe-compatible async teams that can
 review written proof before a live screen.
 
-## Copy-Ready First Messages
+## First Contact Options
 
 Use one of these when the next step should be a concrete role screen, workflow/project discussion, or
 technical proof review instead of a generic intro.
