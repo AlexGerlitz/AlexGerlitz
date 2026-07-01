@@ -17,24 +17,24 @@ Best-fit roles:
 - CRM/Admin Tools Developer
 - Internal Tools Engineer when the first month is a concrete backend slice
 
-Fastest proof route:
+Fastest review path:
 
-1. [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md)
+1. [Autoschool Intake/Admin work sample](./AUTOSCHOOL_INTAKE_ADMIN.md)
 2. [Synthetic demo seed](./data/autoschool-intake-admin-demo.json)
 3. [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core)
-4. [AI Backend Proof Pack](./AI_BACKEND_PROOF_PACK.md)
+4. [AI Backend Review Pack](./AI_BACKEND_PROOF_PACK.md)
 5. [Skill Evidence](./SKILL_EVIDENCE.md)
 6. [Decision-Ready Contact](./DECISION_READY_CONTACT.md)
 7. [PDF Resume](./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
 
-## What This Proves
+## What This Shows
 
-| Review question | Proof answer |
+| Review question | Work-sample answer |
 | --- | --- |
 | Can I build a practical API/data workflow? | Telegram-style request becomes API payload, validated business state, database record, and admin queue row. |
-| Can I work with backend state instead of only UI scripts? | The proof centers on records, statuses, timestamps, review state, operator action, and audit events. |
+| Can I work with backend state instead of only UI scripts? | The work sample centers on records, statuses, timestamps, review state, operator action, and audit events. |
 | Can I handle internal tools and CRM/admin workflows? | The Autoschool slice maps user intake to an operator queue and status workflow. |
-| Can I avoid leaking private business data? | The public proof uses only synthetic data and an explicit privacy boundary. |
+| Can I avoid leaking private business data? | The public evidence uses only synthetic data and an explicit privacy boundary. |
 | Can a team review my work async? | The route includes markdown, HTML, JSON seed, CI/live smoke, and handoff links. |
 
 ## Stack Match

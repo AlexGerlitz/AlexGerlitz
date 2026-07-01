@@ -2,9 +2,9 @@
 
 ## Summary
 
-Remote-only Python/backend automation and internal-tools engineer focused on first-role proof:
+Remote-only Python/backend automation and internal-tools engineer focused on first-role evidence:
 backend/admin workflows, API/CRM integration, QA/API verification, and reviewable handoff.
-My fastest first-job proof is Autoschool Intake/Admin: Telegram request intake -> backend
+My fastest first-job work sample is Autoschool Intake/Admin: Telegram request intake -> backend
 validation -> database record -> admin queue -> operator status workflow, shown with synthetic
 public evidence only.
 
@@ -21,7 +21,7 @@ Search-fit titles: Junior Backend Developer, Junior Python Developer, Back End D
 Python Developer, Python Automation Engineer, Backend Automation Engineer, Quality Assurance
 Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support
 Engineer with Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer.
-AI workflow and RAG work are proof-backed differentiators, not the first title I need to be screened under.
+AI workflow and RAG work are evidence-backed differentiators, not the first title I need to be screened under.
 
 AI-native delivery loop: AI tooling compresses discovery, implementation, debugging, docs, and
 review, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks,
@@ -31,7 +31,7 @@ Fast fit checklist: remote-only work with a concrete technical outcome, real sys
 working slice that can be tested, logged, documented, demonstrated, and handed off. Not my target
 right now: onsite-only roles, pure prompt/content tasks, or undefined outcomes.
 
-Europe-compatible remote signal: written proof routes, English-first docs, async technical review,
+Europe-compatible remote signal: written review paths, English-first docs, async technical review,
 privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff.
 
 Shortlist signal: I turn messy business workflows into backend-owned systems with records, state,
@@ -53,14 +53,14 @@ state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
   approvals, data quality, and supportable workflow ownership.
 - Docker/Compose boundary, release, health-check, observability, backup, and recovery handoff.
 
-## Proof By Search Intent
+## Review By Search Intent
 
 | Search intent | Open first |
 | --- | --- |
-| Python / Backend / Internal Tools | [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| Python / Backend / Internal Tools | [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
 | QA Automation / API Testing | [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
-| CRM / ERP / API Integration / Internal Tools | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
-| AI Automation / RAG | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
+| CRM / ERP / API Integration / Internal Tools | [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
+| AI Automation / RAG | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) |
 | Reliability / Docker / Handoff | [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DeployMate proof](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) |
 
 ## Current Experience
@@ -82,23 +82,23 @@ Scope:
 - using AI tools for domain research, implementation options, debugging, tests, documentation, and review;
 - verifying AI-assisted work through inspection, tests or smoke checks, logs, comparison, and written notes before shipping.
 
-Public proof built from the same operational base:
+Public work samples built from the same operational base:
 
-- [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md)
+- [Autoschool Intake/Admin work sample](./AUTOSCHOOL_INTAKE_ADMIN.md)
 - [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
 - [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core)
 - [Engineering case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
-- [Proof of work](./PROOF_OF_WORK.md)
+- [Work summary](./PROOF_OF_WORK.md)
 
-## Public Proof Projects
+## Public Work Samples
 
-| Project | What it proves | Stack / surface |
+| Project | What it shows | Stack / surface |
 | --- | --- | --- |
-| [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md) | First-job backend/internal-tools proof: Telegram request intake, backend validation, database record, admin queue handoff, operator status workflow, and privacy boundary using synthetic public evidence only. | Telegram bot boundary, backend validation, database records, admin workflow, operator status states, privacy review |
-| [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md) | Main flagship proof: ingest documents, call audio, transcripts, or CRM leads; run RAG; produce call-analysis JSON; send Telegram approval; and create CRM action through an auditable adapter. | FastAPI, PostgreSQL/pgvector, document APIs, RAG, n8n, Telegram, CRM/Bitrix adapter, Docker, CI |
+| [Autoschool Intake/Admin work sample](./AUTOSCHOOL_INTAKE_ADMIN.md) | First-job backend/internal-tools evidence: Telegram request intake, backend validation, database record, admin queue handoff, operator status workflow, and privacy boundary using synthetic public evidence only. | Telegram bot boundary, backend validation, database records, admin workflow, operator status states, privacy review |
+| [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md) | Main flagship work sample: ingest documents, call audio, transcripts, or CRM leads; run RAG; produce call-analysis JSON; send Telegram approval; and create CRM action through an auditable adapter. | FastAPI, PostgreSQL/pgvector, document APIs, RAG, n8n, Telegram, CRM/Bitrix adapter, Docker, CI |
 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | Backend/internal-tools foundation for operations and integrations: tenants, RBAC, audit/outbox, workers, adapter boundaries, OpenAPI, CI, docs, public demo. | Python, FastAPI, PostgreSQL, Alembic, Docker Compose, pytest, OpenAPI |
-| [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | Live AI workflow backend proof: document/CRM/call intake, privacy redaction before RAG/approval/CRM handoff, RAG, transcript analysis, Telegram approvals, dry-run Bitrix CRM handoff, idempotent outbox, live PostgreSQL/pgvector persistence, reviewer acceptance report, production-readiness drill, Docker, and importable n8n workflow artifact. | FastAPI, PostgreSQL/pgvector, Docker, document APIs, n8n, Telegram, LLM APIs |
-| [DeployMate](https://github.com/AlexGerlitz/deploymate) | Self-hosted deployment control panel proof: Docker apps, VPS/SSH tooling, CI/CD, health checks, logs, runbooks, release discipline. | FastAPI, Next.js, PostgreSQL, Docker, SSH, CI/CD |
+| [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | Live AI workflow backend evidence: document/CRM/call intake, privacy redaction before RAG/approval/CRM handoff, RAG, transcript analysis, Telegram approvals, dry-run Bitrix CRM handoff, idempotent outbox, live PostgreSQL/pgvector persistence, reviewer acceptance report, production-readiness drill, Docker, and importable n8n workflow artifact. | FastAPI, PostgreSQL/pgvector, Docker, document APIs, n8n, Telegram, LLM APIs |
+| [DeployMate](https://github.com/AlexGerlitz/deploymate) | Self-hosted deployment control panel evidence: Docker apps, VPS/SSH tooling, CI/CD, health checks, logs, runbooks, release discipline. | FastAPI, Next.js, PostgreSQL, Docker, SSH, CI/CD |
 | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation and trust boundaries around client-side data, sync pipeline, Windows automation, operational docs. | Python, Lua, PowerShell |
 
 ## Core Skills
@@ -146,18 +146,18 @@ Applied Informatics, 2025 - Present
 
 - [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
-- [Recruiter proof pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf)
+- [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf)
 - [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
-- [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
+- [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
 - [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
-- [DriveDesk AI Operator proof route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+- [DriveDesk AI Operator work sample](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
 - [PDF resume for application upload](./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
 - [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
-- [AI Ops public proof status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
+- [AI Ops public evidence status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
 - [AI Ops Reviewer Acceptance Report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
-- [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
+- [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
 - [Role Fit](./ROLE_FIT.md)
 - [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md)
 - [Role / Project Brief](./ROLE_PROJECT_BRIEF.md)
