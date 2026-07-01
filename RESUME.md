@@ -1,17 +1,26 @@
 # Alex Gerlitz - Python Backend Automation Engineer
 
-## Summary
+## 30-Second Shortlist
 
 Remote-only Python/backend automation and internal-tools engineer focused on first-role evidence:
 backend/admin workflows, API/CRM integration, QA/API verification, and reviewable handoff.
+
+Target role: remote Junior Python Backend / API Automation. Adjacent lanes: QA/API Python,
+CRM/API Integration, and Internal Tools when the work is backend/API-heavy.
 My fastest first-job work sample is Autoschool Intake/Admin: Telegram request intake -> backend
 validation -> database record -> admin queue -> operator status workflow, shown with synthetic
 public evidence only.
 
-I turn messy operational problems into working systems: FastAPI/PostgreSQL backends, RAG/transcript
-workflows, call-audio transcription, transcript/call analysis, approval flows, internal admin panels,
-integration adapters, tests, smoke checks, Docker/Compose boundaries, docs, runbooks, and recovery
-notes.
+First assignment: one FastAPI endpoint, data model, admin queue step, API/CRM mapping, or
+pytest/API smoke check shipped as a reviewed slice with evidence and handoff.
+
+Risk reduced: hidden automation state, brittle no-code glue, unclear adapter boundaries, missing
+logs, weak handoff, and unverified AI output.
+
+I turn messy operational problems into working systems: FastAPI/PostgreSQL backends,
+RAG/transcript workflows, call-audio transcription, transcript/call analysis, approval flows,
+internal admin panels, integration adapters, tests, smoke checks, Docker/Compose boundaries,
+docs, runbooks, and recovery notes.
 
 Search-match stack: Python, FastAPI, PostgreSQL, pytest, REST APIs, OpenAPI, Docker, Docker Compose,
 GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, workflow integration, Backend
@@ -36,7 +45,7 @@ privacy/integration boundaries, CI, runbooks, and timezone-friendly handoff.
 
 Shortlist signal: I turn messy business workflows into backend-owned systems with records, state,
 integrations, logs, tests, docs, and handoff. Risk I reduce: hidden automation state, brittle
-no-code glue, unclear adapter boundaries, missing logs, and unverified AI output.
+no-code glue, unclear adapter boundaries, missing logs, weak handoff, and unverified AI output.
 Ownership signal: incomplete context -> risky boundary -> reviewable outcome with backend-owned
 state, AI-output checks, CI/smoke, docs, runbooks, and handoff notes.
 
