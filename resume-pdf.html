@@ -72,10 +72,22 @@
     }
     p { margin: 0 0 3px; }
     ul {
-      margin: 0 0 2px 13px;
+      margin: 0 0 2px;
       padding: 0;
+      list-style: none;
     }
-    li { margin: 1px 0; }
+    li {
+      margin: 1px 0;
+      padding-left: 10px;
+      position: relative;
+    }
+    li::before {
+      content: "-";
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-weight: 760;
+    }
     .muted { color: var(--muted); }
     .screen {
       display: grid;
@@ -135,7 +147,7 @@
   <main class="page">
     <header>
       <h1>Alex Gerlitz</h1>
-      <p class="headline">Python Backend Automation Engineer | Internal Tools | API/CRM Integrations | QA Automation Python</p>
+      <p class="headline">Python Backend / QA API Automation | Internal Tools | API/CRM Integrations</p>
       <div class="contacts" aria-label="Contact and proof links">
         <span><a href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb">LinkedIn: linkedin.com/in/alex-gerlitz-a659ab3bb</a></span>
         <span><a href="https://github.com/AlexGerlitz">GitHub: github.com/AlexGerlitz</a></span>
@@ -147,19 +159,19 @@
     </header>
 
     <section>
-      <h2>Profile</h2>
-      <p>Remote Python/backend automation engineer for internal tools, API/CRM integrations, and QA/API workflows. I turn messy business processes into FastAPI/PostgreSQL/Telegram/admin slices with tests or smoke evidence, docs, and handoff notes. AI speeds up execution; verification and product boundaries stay mine.</p>
-      <p class="proof-line">Public proof is based on business workflow shape, not tutorials: Telegram intake -> backend validation -> database record -> admin queue -> operator status. Private data is replaced by synthetic public evidence.</p>
+      <h2>Recruiter Screen</h2>
+      <p><strong>Best-fit first job:</strong> Junior Python Backend, QA Automation Python, API Testing, CRM/API Integration, or Internal Tools Engineer. I turn messy business workflows into FastAPI/PostgreSQL/Telegram/admin slices with tests or smoke evidence, docs, and handoff notes.</p>
       <div class="screen">
         <div class="box">
-          <p><strong>Role fit:</strong> Junior Python Backend, QA Automation Python, API Testing, CRM/API Integration, Internal Tools Engineer.</p>
+          <p><strong>First assignment:</strong> one endpoint, data model, admin queue step, API/CRM mapping, QA/API check, or runbook gap; I will ship a reviewed slice with evidence and handoff.</p>
         </div>
         <div class="box">
-          <p><strong>Can take on now:</strong> one endpoint, data model, admin queue step, API/CRM mapping, QA/API check, or runbook gap; I will ship a reviewed slice with evidence and handoff.</p>
+          <p><strong>Proof route:</strong> Autoschool Intake/Admin shows Telegram intake -> backend validation -> database record -> admin queue -> operator status, using synthetic public evidence only.</p>
         </div>
       </div>
-      <p><strong>First month:</strong> map workflow/risk -> ship one backend/integration/QA slice -> document evidence -> repeat on the next 2-4 slices. Proof: Autoschool Intake/Admin page and recruiter packet use synthetic public evidence only.</p>
-      <p><strong>Stack:</strong> Python, FastAPI, PostgreSQL, pytest, REST/OpenAPI, Docker Compose, GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, Systems Integration, audit logs, runbooks.</p>
+      <p class="proof-line"><strong>Truth boundary:</strong> AI speeds up implementation and debugging; architecture, privacy, verification, logs, docs, and product boundaries stay mine. Private data is replaced by synthetic public evidence.</p>
+      <p><strong>First month:</strong> map workflow/risk -> ship one backend/integration/QA slice -> document evidence -> repeat on the next 2-4 slices.</p>
+      <p><strong>Search-match stack:</strong> Python, FastAPI, PostgreSQL, pytest, REST/OpenAPI, Docker Compose, GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, Systems Integration, audit logs, runbooks.</p>
     </section>
 
     <section>
@@ -170,8 +182,8 @@
       </div>
       <p><strong>Autoschool54 / DriveDesk backend/internal-tools work</strong></p>
       <ul>
-        <li>Support live admin/operator workflows across documents, schedules, payments, accounts, access, and troubleshooting.</li>
-        <li>Translate unclear business problems into technical actions, repeatable workflows, documentation, and recovery paths.</li>
+        <li>Since March 2024, support live admin/operator workflows across documents, schedules, payments, accounts, access, and troubleshooting.</li>
+        <li>Translate unclear business requests into small technical actions, repeatable workflows, documentation, and recovery paths.</li>
         <li>Use AI tooling for discovery, implementation, debugging, docs, and review while verifying outputs through inspection, tests, logs, smoke checks, and hands-on review.</li>
       </ul>
     </section>
