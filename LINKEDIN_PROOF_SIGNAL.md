@@ -186,7 +186,7 @@ Remote Junior Python Backend / API Automation first. Adjacent lanes: QA/API Pyth
 
 ### First review order
 
-Recruiter PDF -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> LinkedIn Recruiter Packet -> Decision-Ready Contact.
+LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter PDF -> Decision-Ready Contact.
 
 ### Search keywords
 
