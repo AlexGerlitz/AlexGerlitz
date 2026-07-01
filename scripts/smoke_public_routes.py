@@ -393,7 +393,6 @@ ROUTES: tuple[RouteCheck, ...] = (
             "skill-evidence.html",
             "verification-pack.html",
         ),
-        content_type="text/plain",
         social_preview=True,
         social_image_prefix="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png",
     ),
