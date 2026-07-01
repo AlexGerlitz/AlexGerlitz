@@ -12,6 +12,15 @@ Use this page when a LinkedIn profile view needs a fast decision: whether to mes
 - Do not position me as: senior DevOps, Kubernetes/Terraform-first platform owner, onsite-only candidate, or pure prompt/content operator.
 - Useful signal: messy business workflows become backend-owned state, tests or smoke checks, privacy boundaries, docs, and handoff notes.
 
+## Screening Decision
+
+| Recruiter question | My answer |
+| --- | --- |
+| First paid-role screen | Screen me first for a reviewed junior backend/Python, QA/API Python, internal-tools, or CRM/API integration role where one working slice proves value. |
+| Fastest proof | Start with First Backend Role Fit and Autoschool Intake/Admin; they show intake, validation, stored state, admin queue, operator status, evidence, and privacy boundary. |
+| International-compatible signal | Written English docs, async review paths, CI/live smoke, Docker Compose handoff, API contracts, SQL/PostgreSQL, and privacy-safe evidence. |
+| No-fit screen | Senior platform/DevOps ownership, Kubernetes/Terraform-first roles, onsite-only roles, pure prompt/content work, or vague roles without a first-month success condition. |
+
 ## Role Lanes
 
 | Lane | Why it fits | Work sample to open |
@@ -23,8 +32,8 @@ Use this page when a LinkedIn profile view needs a fast decision: whether to mes
 
 ## Market-Aligned Fit
 
-- Russia-first entry: lead with Python, FastAPI, PostgreSQL, REST/OpenAPI, pytest, SQL checks, admin workflows, and integrations. Ask for the compensation band privately before a call.
-- International fit: show English-first docs, async review paths, privacy boundaries, CI/live smoke, runbooks, and handoff quality without making geography the public headline.
+- Russia-first entry: lead with Python, FastAPI, PostgreSQL, REST/OpenAPI, pytest, SQL checks, admin workflows, and integrations. For roles above basic trainee scope, lead with a reviewed business slice and ask for the compensation band privately before a call.
+- International fit: show English-first docs, async review paths, privacy boundaries, CI/live smoke, SQL/API contracts, Docker Compose handoff, runbooks, and handoff quality without making geography the public headline.
 - AI positioning: AI is a delivery accelerator and workflow differentiator, not a replacement for engineering ownership.
 
 ## Scope Boundaries
