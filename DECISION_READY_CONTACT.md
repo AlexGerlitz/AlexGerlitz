@@ -15,6 +15,15 @@ success condition. I will answer with a fit read, risky assumptions, the smalles
 slice, review path to inspect, and the right next route: first backend fit, remote role,
 fixed-scope project, technical review, or no-fit.
 
+## Fast Contact Route
+
+| Step | What matters |
+| --- | --- |
+| Send this | Role title, remote setup, stack, first-month ownership, timeline, compensation band if shareable, and one success condition. |
+| I reply with | Fit read, risky assumptions, smallest responsible first slice, review path to inspect, and the right next route. |
+| Open first | LinkedIn Recruiter Packet -> PDF Resume -> First Backend Role Fit -> Autoschool Intake/Admin work sample. |
+| Do not send first | Vague "do you fit?" messages without a role, stack, ownership surface, or success condition. |
+
 ## Recruiter Offer Triage
 
 For an inbound role or shortlist screen, send role title, remote setup, product domain, stack, team
@@ -23,7 +32,7 @@ with fit/no-fit, strongest review path, risky assumptions, smallest first slice,
 
 For a first backend/Python role, send role title, stack, team review path, first ticket shape,
 tests or smoke expectations, onboarding owner, and hiring timeline. I will route the answer through
-Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin work sample before deeper
+First Backend Role Fit -> Backend Role Fit -> Autoschool Intake/Admin work sample before deeper
 AI/backend workflow evidence.
 
 Best matches: remote-only backend automation and integration, AI automation, RAG workflow, CRM/ERP/API integration,

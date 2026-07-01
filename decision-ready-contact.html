@@ -151,6 +151,9 @@
     li { margin: 7px 0; }
     pre { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; border: 1px solid var(--line); border-radius: 8px; padding: 12px; background: #f8fafc; color: var(--ink); font-size: 0.92rem; }
     code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .message-card { border: 1px solid var(--line); border-radius: 8px; padding: 14px; background: #f8fafc; }
+    .message-card p { margin: 0; color: var(--ink); }
+    .message-card strong { color: var(--accent); }
     .card { box-shadow: none; }
     .card p { color: var(--muted); }
     .tag-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
@@ -164,29 +167,20 @@
     <nav class="nav" aria-label="Profile navigation">
       <a href="./">Portfolio</a>
       <a href="./linkedin-recruiter-packet.html">Recruiter packet</a>
-      <a href="./recruiter-preferences.html">Recruiter preferences</a>
       <a href="./hiring-decision.html">Hiring decision</a>
-      <a href="./start-conversation.html">Start conversation</a>
-      <a href="./inbound-response.html">Contact routes</a>
       <a href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">Resume</a>
     </nav>
 
     <section class="hero">
       <div class="eyebrow">Decision-ready contact</div>
       <h1>Turn a profile view into a concrete next step.</h1>
-      <p class="lead">Send one first backend/Python role, remote role, workflow, project, or technical question. I can respond with a fit read, risky assumptions, smallest responsible first slice, review path to inspect, and the right next route.</p>
-      <p class="lead">For recruiter offer triage, include role title, remote setup, product domain, stack, team surface, first-month ownership, hiring timeline, and compensation band if shareable.</p>
-      <p class="lead">For a first backend/Python screen, include stack, review path, first ticket shape, tests or smoke expectations, onboarding owner, and hiring timeline.</p>
-      <p class="lead">This is the shortest route when the decision is whether first backend/Python work, remote Python/backend automation, AI automation, CRM/ERP/API integration, QA/API verification, internal tools, or Docker/CI handoff is a fit.</p>
+      <p class="lead">Send one first backend/Python role, remote role, workflow, project, or technical question plus one success condition. I can send a fit read, risky assumptions, smallest responsible first slice, review path to inspect, and the right next route.</p>
       <div class="actions">
         <a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>
         <a class="button" href="./linkedin-recruiter-packet.html">LinkedIn recruiter packet</a>
-        <a class="button" href="./first-backend-role.html">First backend fit</a>
-        <a class="button" href="./recruiter-preferences.html">Recruiter preferences</a>
-        <a class="button" href="./hiring-decision.html">30-second screen</a>
         <a class="button" href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">PDF resume</a>
-        <a class="button" href="./fixed-scope-offers.html">Scoped offers</a>
-        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md">Employer trigger evidence</a>
+        <a class="button" href="./first-backend-role.html">First backend fit</a>
+        <a class="button" href="./autoschool-intake-admin.html">Autoschool sample</a>
       </div>
       <div class="tag-row" aria-label="Decision-ready contact tags">
         <span class="tag green">First backend roles</span>
@@ -197,6 +191,25 @@
         <span class="tag">First slice</span>
         <span class="tag">Risk check</span>
       </div>
+    </section>
+
+    <section class="grid section" aria-label="Best first contact route">
+      <article class="card">
+        <h2>Send This</h2>
+        <p>Role title, remote setup, stack, first-month ownership, timeline, compensation band if shareable, and one success condition.</p>
+      </article>
+      <article class="card">
+        <h2>I Reply With</h2>
+        <p>Fit read, risky assumptions, smallest responsible first slice, review path to inspect, and the right next route.</p>
+      </article>
+      <article class="card">
+        <h2>Open First</h2>
+        <p><a href="./linkedin-recruiter-packet.html">LinkedIn Recruiter Packet</a> -> <a href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">PDF Resume</a> -> <a href="./first-backend-role.html">First Backend Role Fit</a> -> <a href="./autoschool-intake-admin.html">Autoschool Intake/Admin work sample</a>.</p>
+      </article>
+      <article class="card">
+        <h2>Do Not Send First</h2>
+        <p>Vague "do you fit?" messages without a role, stack, ownership surface, or success condition. That slows the first useful answer.</p>
+      </article>
     </section>
 
     <section class="panel section">
@@ -214,19 +227,19 @@
     <section class="grid section" aria-label="Copy-ready first messages">
       <article class="card">
         <h2>First Backend / Python Role</h2>
-        <pre><code>Hi Alex, we are screening for a first backend/Python role. Role title: ..., stack: Python/FastAPI/PostgreSQL, Docker/Compose if used, team review path: ..., first ticket shape: ..., tests or smoke checks expected: ..., hiring timeline: .... Can you send the first backend review path and the smallest reviewed ticket you would start with?</code></pre>
+        <div class="message-card"><p><strong>Message:</strong> Hi Alex, we are screening for a first backend/Python role. Role title: ..., stack: Python/FastAPI/PostgreSQL, Docker/Compose if used, team review path: ..., first ticket shape: ..., tests or smoke checks expected: ..., hiring timeline: .... Can you send the first backend review path and the smallest reviewed ticket you would start with?</p></div>
       </article>
       <article class="card">
         <h2>Remote Role Screen</h2>
-        <pre><code>Hi Alex, I am looking at a remote role. Role title: ..., remote setup: ..., stack/systems: ..., team surface: ..., first-month ownership: ..., hiring timeline: ..., compensation band if shareable: .... Can you send the best review path and the smallest first slice you would own?</code></pre>
+        <div class="message-card"><p><strong>Message:</strong> Hi Alex, I am looking at a remote role. Role title: ..., remote setup: ..., stack/systems: ..., team surface: ..., first-month ownership: ..., hiring timeline: ..., compensation band if shareable: .... Can you send the best review path and the smallest first slice you would own?</p></div>
       </article>
       <article class="card">
         <h2>Workflow Project</h2>
-        <pre><code>Hi Alex, we have one workflow that needs to become reliable. Workflow: ..., systems to inspect: CRM/ERP/API/database/docs, success condition: ..., what must not break: .... Can you map the risks, review path, and first responsible slice?</code></pre>
+        <div class="message-card"><p><strong>Message:</strong> Hi Alex, we have one workflow that needs to become reliable. Workflow: ..., systems to inspect: CRM/ERP/API/database/docs, success condition: ..., what must not break: .... Can you map the risks, review path, and first responsible slice?</p></div>
       </article>
       <article class="card">
         <h2>Technical Review</h2>
-        <pre><code>Hi Alex, I want to review your fit for AI workflow, backend automation, integration, or Docker/CI handoff work. Claim or risk to validate: .... Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to prove value.</code></pre>
+        <div class="message-card"><p><strong>Message:</strong> Hi Alex, I want to review your fit for AI workflow, backend automation, integration, or Docker/CI handoff work. Claim or risk to validate: .... Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to prove value.</p></div>
       </article>
     </section>
 
