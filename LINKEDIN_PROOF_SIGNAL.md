@@ -64,12 +64,22 @@ Headline copy:
 Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations | QA Automation Python support
 ```
 
+Top card / About first lines:
+
+```text
+Python backend/API automation for real business workflows: FastAPI/PostgreSQL, REST/OpenAPI, admin queues, CRM/API integrations, pytest/API checks, and handoff docs.
+
+Strongest first-role proof: Autoschool Intake/Admin, Telegram request -> backend validation -> database record -> admin queue -> operator status, with synthetic public evidence only.
+
+Target: remote Junior Python Backend / API Automation. Adjacent lanes: QA/API Python, CRM/API Integration, Internal Tools.
+```
+
 Short review direction (not live About copy):
 
 ```text
 I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL backends, admin queues, REST/OpenAPI contracts, CRM/ERP/API adapters, pytest/API smoke checks, Docker/CI handoff, runbooks, and recovery paths.
 
-Fastest evidence to review: PDF resume -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> AI Ops Workflow Kit. That route shows a first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, with synthetic public evidence only.
+Fastest evidence to review: LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume. That route shows a first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, with synthetic public evidence only.
 ```
 
 LinkedIn About replacement:
