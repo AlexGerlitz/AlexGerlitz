@@ -93,8 +93,17 @@
       .shell { padding: 18px 14px 32px; }
       .hero { padding: 22px; }
       .actions { display: grid; }
-      .button,
-      .nav a { width: 100%; }
+      .nav {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        padding-bottom: 4px;
+      }
+      .nav a {
+        flex: 0 0 auto;
+        width: auto;
+      }
+      .button { width: 100%; }
+      .lead { font-size: 1rem; }
       h1 { font-size: 2rem; }
     }
   </style>
@@ -114,18 +123,15 @@
     <section class="hero">
       <div class="eyebrow">Inbound brief</div>
       <h1>Send enough context for a concrete engineering next step.</h1>
-      <p class="lead">The fastest useful message has one decision to make, one success condition, the systems involved, and the evidence-backed offer route that should be checked. I work best on remote Python/backend automation, AI automation, RAG workflows, CRM/ERP/API integrations, internal tools, QA/API verification, Docker/CI handoff, and DriveDesk AI Operator-style builds.</p>
+      <p class="lead">Send one decision, one success condition, the systems involved, and the evidence route to check. Best fit: remote Python/backend automation, AI workflows, CRM/ERP/API integrations, internal tools, QA/API verification, and Docker/CI handoff.</p>
+      <p class="lead">Fastest inbound brief route: send the role or workflow on LinkedIn, use Decision-Ready Contact for the minimum context, then check the LinkedIn Recruiter Packet or fixed-scope offer before resume handoff.</p>
       <div class="actions">
         <a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>
-        <a class="button" href="https://www.linkedin.com/services/page/3153b734507b8a60ab/">LinkedIn Services</a>
-        <a class="button" href="./fixed-scope-offers.html">Evidence-backed offers</a>
-        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt">Business scenario replay</a>
-        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md">Employer trigger proof</a>
+        <a class="button" href="./decision-ready-contact.html">Decision-ready contact</a>
         <a class="button" href="./start-conversation.html">Start conversation</a>
-        <a class="button" href="./inbound-response.html">Contact routes</a>
-        <a class="button" href="./drivedesk-proof-route.html">DriveDesk AI Operator route</a>
-        <a class="button" href="./enterprise-readiness.html">Enterprise readiness</a>
-        <a class="button" href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">PDF resume</a>
+        <a class="button" href="./linkedin-recruiter-packet.html">LinkedIn Recruiter Packet</a>
+        <a class="button" href="./fixed-scope-offers.html">Evidence-backed offers</a>
+        <a class="button" href="https://www.linkedin.com/services/page/3153b734507b8a60ab/">LinkedIn Services</a>
       </div>
     </section>
 

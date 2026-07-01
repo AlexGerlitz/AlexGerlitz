@@ -2352,6 +2352,13 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Inbound Brief - Alex Gerlitz",
             "Send enough context for a concrete engineering next step.",
+            "Fastest inbound brief route: send the role or workflow on LinkedIn",
+            "Decision-Ready Contact for the minimum context",
+            "Decision-ready contact",
+            "LinkedIn Recruiter Packet",
+            "./decision-ready-contact.html",
+            "./linkedin-recruiter-packet.html",
+            "resume handoff",
             "Best Immediate Starts",
             "Good Fit Filter",
             "Not my target right now: onsite-only roles",
