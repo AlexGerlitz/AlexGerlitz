@@ -1344,7 +1344,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         "role-fit",
         "https://alexgerlitz.github.io/AlexGerlitz/role-fit.html",
         (
-            "AI Workflow Proof",
+            "AI Workflow Evidence",
             "Backend / Internal Tools",
             "ai-automation-role-fit.html",
             "AI workflow role fit",
@@ -2769,7 +2769,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "ai-ops-public-proof-status",
         "https://raw.githubusercontent.com/AlexGerlitz/ai-ops-workflow-kit/main/docs/PUBLIC_PROOF_STATUS.md",
-        ("Public Evidence Status", "AI Ops Workflow Kit"),
+        ("Public Proof Status", "AI Ops Workflow Kit"),
     ),
     RouteCheck(
         "ai-ops-hiring-signal-brief",
@@ -2792,7 +2792,7 @@ ROUTES: tuple[RouteCheck, ...] = (
     RouteCheck(
         "ai-ops-reviewer-acceptance",
         "https://raw.githubusercontent.com/AlexGerlitz/ai-ops-workflow-kit/main/docs/REVIEWER_ACCEPTANCE_REPORT.md",
-        ("Reviewer Acceptance Report", "public AI Ops evidence surface"),
+        ("Reviewer Acceptance Report", "public AI Ops proof surface"),
     ),
     RouteCheck(
         "ai-ops-live-postgres-persistence",
