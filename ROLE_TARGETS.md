@@ -16,7 +16,7 @@ conversation.
 | AI Automation Engineer | I can turn documents, transcripts, tickets, leads, or operator routines into RAG, summaries, scoring, routing, approvals, and reviewable workflows. | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md), [Remote Services](./SERVICES.md) |
 | AI Workflow / LLM Integration Engineer | Best fit when the AI work is workflow/backend/integration oriented: RAG, structured LLM output, approvals, CRM handoff, tests, logs, and reviewable production boundaries. | [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md), [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
 | LLM Workflow / RAG Engineer | I can build backend-owned AI workflows where retrieval, citations, analysis JSON, approvals, quality checks, and audit are inspectable instead of hidden inside no-code nodes. | [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) |
-| AI / Operations Automation Lead | I can combine AI-native delivery, operations workflow analysis, API/integration boundaries, documentation, metrics, and human oversight into one delivery loop. | [Role Fit Pack](./APPLICATION_PACK.md), [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
+| AI Workflow / Operations Automation Engineer | I can combine AI-assisted delivery, operations workflow analysis, API/integration boundaries, documentation, metrics, and human oversight into one reviewable delivery loop. | [Role Fit Pack](./APPLICATION_PACK.md), [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md), [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) |
 | Reliability / Docker Handoff | I can improve deployment, health checks, logs, CI/CD, release gates, backups, smoke checks, runbooks, and recovery paths. | [DeployMate](https://github.com/AlexGerlitz/deploymate), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
 | Integration Engineer | I can design explicit API/webhook/database adapter contracts for CRM, ERP, 1C, accounting, banking, and custom internal systems. | [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md), [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core), [Remote Services](./SERVICES.md) |
 | Internal Tools / Ops Automation Engineer | I can turn spreadsheet/chat/manual operations into owned tools with data models, admin flows, roles, status states, docs, deployment, and support paths. | [Autoschool Intake/Admin Proof](./AUTOSCHOOL_INTAKE_ADMIN.md), [Proof of Work](./PROOF_OF_WORK.md), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
@@ -87,7 +87,7 @@ These are the terms that best match the current public proof:
 - Docker Compose
 - GitHub Actions
 - Docker / CI Engineer
-- Platform / Operations Engineer
+- Backend Operations Support Engineer
 
 ## Recruiter Boolean Search Strings
 

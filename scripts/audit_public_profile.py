@@ -2001,7 +2001,7 @@ REQUIRED_TEXT = {
         "Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [PDF Resume",
         "BACKEND_FIRST_SCREEN.md",
         "Python Backend Automation Engineer",
-        "AI-native delivery, operations workflow analysis",
+        "AI-assisted delivery, operations workflow analysis",
         "Backend Development",
         "Internal Tools Engineering",
         "Workflow Automation",
