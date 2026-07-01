@@ -32,7 +32,7 @@
           "name": "LinkedIn Recruiter Packet - Alex Gerlitz",
           "description": "Short recruiter decision page for role lanes, two-page review pack, work samples, first assignment, scope clarity, and contact prompt.",
           "inLanguage": "en",
-          "dateModified": "2026-07-01",
+          "dateModified": "2026-07-02",
           "mainEntity": {
             "@id": "https://alexgerlitz.github.io/AlexGerlitz/#alex-gerlitz"
           },
@@ -118,7 +118,23 @@
     ul, ol { margin: 0; padding-left: 20px; }
     li { margin: 7px 0; }
     code { white-space: normal; }
-    @media (max-width: 820px) { .grid, .two { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .actions { display: grid; } .nav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); } .button, .nav a { width: 100%; } table, tbody, tr, td, th { display: block; width: 100%; } th { border-bottom: 0; } }
+    @media (max-width: 820px) {
+      .grid, .two { grid-template-columns: 1fr; }
+      h1 { font-size: 2rem; }
+      .actions { display: grid; }
+      .nav {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        padding-bottom: 4px;
+      }
+      .nav a {
+        flex: 0 0 auto;
+        width: auto;
+      }
+      .button { width: 100%; }
+      table, tbody, tr, td, th { display: block; width: 100%; }
+      th { border-bottom: 0; }
+    }
   </style>
 </head>
 <body>
@@ -126,32 +142,29 @@
     <nav class="nav" aria-label="Profile navigation">
       <a href="./">Portfolio</a>
       <a href="./resume.html">Web resume</a>
-      <a href="./hiring-decision.html">Hiring decision</a>
       <a href="./first-backend-role.html">First backend fit</a>
       <a href="./autoschool-intake-admin.html">Autoschool sample</a>
       <a href="./output/pdf/alex-gerlitz-recruiter-proof-pack.pdf">Review pack</a>
-      <a href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">PDF resume</a>
+      <a href="./decision-ready-contact.html">Contact route</a>
     </nav>
 
     <section class="hero">
       <div class="eyebrow">LinkedIn recruiter route</div>
       <h1>Remote Python backend/API automation with public work samples.</h1>
       <p class="lead">Use this page when a LinkedIn profile view needs a fast decision: whether to message me, which role lane fits, what work sample to open first, and what first assignment would test real value.</p>
+      <div class="actions">
+        <a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>
+        <a class="button" href="./first-backend-role.html">First backend fit</a>
+        <a class="button" href="./autoschool-intake-admin.html">Autoschool intake/admin</a>
+        <a class="button" href="./output/pdf/alex-gerlitz-recruiter-proof-pack.pdf">Open review pack</a>
+        <a class="button" href="./decision-ready-contact.html">Decision-ready contact</a>
+      </div>
       <div class="callout" id="decision">
         <p><strong>Primary target:</strong> Junior Python Backend / API Automation. Secondary lanes: QA/API Python, CRM/API Integration, Internal Tools.</p>
         <p><strong>Best first assignment:</strong> one FastAPI endpoint, data model, admin queue step, API/CRM mapping, API test, or runbook gap.</p>
         <p><strong>Do not position me as:</strong> senior DevOps, Kubernetes/Terraform-first platform owner, onsite-only candidate, or pure prompt/content operator.</p>
       </div>
       <p class="lead">My useful signal is not that AI writes code. It is that messy business workflows become backend-owned state, tests or smoke checks, privacy boundaries, docs, and handoff notes.</p>
-      <div class="actions">
-        <a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>
-        <a class="button" href="./hiring-decision.html">30-second decision</a>
-        <a class="button" href="./first-backend-role.html">First backend fit</a>
-        <a class="button" href="./autoschool-intake-admin.html">Autoschool intake/admin</a>
-        <a class="button" href="./output/pdf/alex-gerlitz-recruiter-proof-pack.pdf">Open review pack</a>
-        <a class="button" href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">Open PDF resume</a>
-        <a class="button" href="./decision-ready-contact.html">Decision-ready contact</a>
-      </div>
       <div class="tags" aria-label="Recruiter search tags">
         <span class="tag">Python</span>
         <span class="tag">FastAPI</span>
@@ -173,7 +186,7 @@
       </article>
       <article class="card">
         <h2>Open First</h2>
-        <p><a href="./first-backend-role.html">First Backend Role Fit</a> -> <a href="./autoschool-intake-admin.html">Autoschool Intake/Admin work sample</a> -> <a href="./resume.html">Web Resume</a>.</p>
+        <p><a href="./first-backend-role.html">First Backend Role Fit</a> -> <a href="./autoschool-intake-admin.html">Autoschool Intake/Admin work sample</a> -> <a href="./output/pdf/alex-gerlitz-recruiter-proof-pack.pdf">Recruiter Review Pack</a>; use the PDF resume after the evidence route is clear.</p>
       </article>
       <article class="card">
         <h2>First-Month Value</h2>
