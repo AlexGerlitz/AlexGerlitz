@@ -12,8 +12,28 @@ first useful result, and the public proof that supports the claim.
 | --- | --- | --- |
 | Python backend / internal tools | Junior Python Developer, Junior Backend Developer, Back End Developer, Python Developer, Internal Tools Developer | [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) -> [First Backend Role Screen](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
 | Integration / API / CRM | Integration Engineer, API Integration Engineer, CRM Integration Engineer, Systems Integration Engineer | [Autoschool Intake/Admin Proof](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [DriveDesk Proof Route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
-| QA automation bridge | QA Automation Python, API Testing, Test Automation Engineer, Support Engineer with Python | [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| QA automation bridge | Quality Assurance Automation Engineer, QA Automation Python, API Testing, Test Automation Engineer, Support Engineer with Python | [Backend First Screen](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | AI workflow automation | AI Automation Engineer, LLM Workflow Engineer, RAG Workflow Engineer | [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [AI Backend Proof Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [AI Ops Hiring Signal Brief](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/hiring-signal-brief.txt) |
+
+## Market-Backed Priority Order
+
+I use this order for applications:
+
+1. Python backend / internal tools - primary first-job lane where FastAPI, PostgreSQL, SQL,
+   REST API, OpenAPI, pytest, Docker Compose, GitHub Actions, admin workflow, and handoff
+   proof match the strongest public evidence.
+2. QA automation / API verification with Python - practical entry lane for Quality Assurance
+   Automation Engineer, QA Automation Python, API Testing, Test Automation Engineer, and
+   Support Engineer with Python roles where I can prove APIs, SQL/data state, logs, smoke
+   checks, and repeatable verification.
+3. Integration / API / CRM - strong business-workflow lane when the role needs field mapping,
+   adapters, webhooks, retries, audit logs, privacy boundaries, and a small working sync or
+   intake-to-admin path.
+4. AI workflow / RAG - differentiator when the job already has backend, integration, or QA
+   ownership and AI is part of a verifiable workflow instead of a vague prompt/content task.
+
+Docker Compose and GitHub Actions support the proof route; I do not lead with senior DevOps,
+Kubernetes, Terraform, or cloud platform ownership as the main claim.
 
 ## Parser-Readable Summary
 
@@ -23,8 +43,9 @@ docs, runbooks, and handoff.
 
 Primary keywords: Python, FastAPI, PostgreSQL, SQL, REST API, OpenAPI, Docker Compose, GitHub
 Actions, pytest, Telegram bot, CRM integration, ERP integration, API integration, internal tools,
-admin workflows, QA Automation Python, API testing, RAG, LLM workflow, structured output, approval
-flow, audit log, outbox, retries, runbooks.
+admin workflows, Quality Assurance Automation Engineer, QA Automation Python, API Testing, Test
+Automation Engineer, RAG, LLM workflow, structured output, approval flow, audit log, outbox,
+retries, runbooks.
 
 ## Role-Specific Application Blocks
 
@@ -44,7 +65,7 @@ explicit, add idempotency/retry/audit behavior where needed, and leave the resul
 Proof route: Autoschool Intake/Admin Proof -> DriveDesk Proof Route -> Enterprise Readiness -> AI
 Backend Proof Pack.
 
-### QA Automation Python / Support Engineering
+### QA Automation Python / API Testing / Support Engineering
 
 I can use Python, API checks, SQL/data checks, logs, smoke routes, and issue notes to make a business
 workflow easier to verify and support.
