@@ -49,7 +49,21 @@
     .snippet code { display: block; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.92rem; }
     ul { margin: 0; padding-left: 20px; }
     li { margin: 7px 0; }
-    @media (max-width: 760px) { .grid, .three { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .actions { display: grid; } .button, .nav a { width: 100%; } }
+    @media (max-width: 760px) {
+      .grid, .three { grid-template-columns: 1fr; }
+      h1 { font-size: 2rem; }
+      .actions { display: grid; }
+      .nav {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        padding-bottom: 4px;
+      }
+      .nav a {
+        flex: 0 0 auto;
+        width: auto;
+      }
+      .button { width: 100%; }
+    }
   </style>
 </head>
 <body>
@@ -69,22 +83,16 @@
       <div class="eyebrow">Contact routes</div>
       <h1>Choose the shortest route to a technical decision.</h1>
       <p class="lead">The best conversations start with one concrete role, workflow, or technical problem; the systems involved; what should improve first; and what success looks like. I work best on remote Python/backend automation, AI automation, integration, internal tools, QA/API verification, and Docker/CI handoff problems.</p>
-      <p class="lead">Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff, or DriveDesk AI Operator-style work sample.</p>
       <div class="actions">
-        <a class="button primary" href="./start-conversation.html">Start conversation</a>
+        <a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>
         <a class="button" href="./decision-ready-contact.html">Decision-ready contact</a>
-        <a class="button" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>
+        <a class="button" href="./start-conversation.html">Start conversation</a>
+        <a class="button" href="./first-backend-role.html">First backend fit</a>
+        <a class="button" href="./autoschool-intake-admin.html">Autoschool intake/admin</a>
         <a class="button" href="https://www.linkedin.com/services/page/3153b734507b8a60ab/">LinkedIn Services</a>
-        <a class="button" href="./drivedesk-proof-route.html">DriveDesk AI Operator work sample</a>
-        <a class="button" href="./enterprise-readiness.html">Enterprise readiness</a>
-        <a class="button" href="./skill-evidence.html">Skill evidence</a>
-        <a class="button" href="./intake-brief.html">Inbound brief</a>
-        <a class="button" href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">PDF resume</a>
-        <a class="button" href="./first-30-days.html">First month plan</a>
-        <a class="button" href="./INBOUND_RESPONSE_PACK.md">GitHub-readable version</a>
-        <a class="button" href="./drivedesk-ai-operator.html">AI Operator case</a>
-        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md">Employer trigger evidence</a>
       </div>
+      <p class="lead">Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff, or DriveDesk AI Operator-style work sample.</p>
+      <p class="lead"><strong>Fastest inbound route:</strong> send the role or workflow on LinkedIn, use Decision-Ready Contact for context, then open First Backend Role Fit and Autoschool Intake/Admin before resume handoff.</p>
     </section>
 
     <section class="panel">
