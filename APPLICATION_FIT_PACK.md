@@ -38,7 +38,7 @@ Kubernetes, Terraform, or cloud platform ownership as the main claim.
 ## Parser-Readable Summary
 
 I build AI-assisted Python automation, backend/internal tools, CRM/ERP/API integrations, Telegram
-and admin workflows, RAG/LLM workflow systems, and supportable operations slices with tests, logs,
+and admin workflows, RAG workflow systems, and supportable operations slices with tests, logs,
 docs, runbooks, and handoff.
 
 Primary keywords: Python, FastAPI, PostgreSQL, SQL, REST API, OpenAPI, Docker Compose, GitHub

@@ -8,8 +8,8 @@ I use this as the aligned Open-to-Work and recruiter-search preference set for r
 
 | Field | Preference |
 | --- | --- |
-| Current live LinkedIn Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. |
-| Recommended Open-to-Work edit target | Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, if the live LinkedIn title picker allows it. If not, keep Back End Developer and Python Developer, and route AI through backend/integration/QA proof instead of using Artificial Intelligence Engineer as the main first-job filter. |
+| Current live LinkedIn Open-to-Work titles | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. |
+| Live Open-to-Work title set | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. Junior Backend Developer was not available in the live title picker, so junior/backend intent stays in proof routes, posts, and outreach copy instead of an unavailable LinkedIn title. |
 | Search expansion titles | Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer. AI workflow and RAG stay visible as proof-backed differentiators, not the first Open-to-Work title filter. |
 | Location type | Remote. |
 | Remote locations | Russian-speaking product/backend teams, international remote teams, Europe-compatible remote teams, US-compatible async teams, and distributed product/operations teams. |
@@ -91,8 +91,8 @@ Python immediately after it, and every visible top skill tied to public proof in
 
 | Surface | Current target | Proof / next check |
 | --- | --- | --- |
-| Current live Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. | Recorded as the current LinkedIn state; the next live cleanup should stop using Artificial Intelligence Engineer as the main first-job filter. |
-| Recommended Open-to-Work title set | Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. | Use this if the live LinkedIn editor exposes these titles; it better matches first remote Python/backend, QA/API, and integration role screens. |
+| Current live Open-to-Work titles | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. | Live-verified on the visible LinkedIn profile after the title cleanup; the first-job filter is now backend/Python/QA/API/integration/support, not standalone AI. |
+| Live Open-to-Work title set | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. | This is the current saved LinkedIn set. It better matches first remote Python/backend, QA/API, integration, and application-support role screens. |
 | Search expansion titles | Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer. | Use these in posts, proof routes, and recruiter search strings; keep AI/RAG as proof evidence, not a first-title filter. |
 | Top skills order target | Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, pgvector, OpenAPI, CRM, ERP, API Integration, workflow integration, QA Automation Python, n8n, Telegram, audit logs, idempotency, retries, runbooks. | Keep the first visible skills tied to proof, not generic AI claims. |
 | Verified LinkedIn skill filters | All view: Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, ERP. Tools & Technologies: Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, PostgreSQL. | Keep visible skills tied to proof; do not fight LinkedIn reorder controls unless it exposes a clean edit path. |
@@ -105,7 +105,7 @@ This page mirrors the visible LinkedIn setup I want recruiters to see before sen
 
 | Surface | Current signal |
 | --- | --- |
-| Headline | Python Backend Automation Engineer with DriveDesk, internal tools, API/CRM integrations, QA Automation Python, RAG workflow proof, FastAPI, and Docker. |
+| Headline | Python Backend Developer with FastAPI, PostgreSQL, internal tools, API/CRM integrations, QA Automation Python, and DriveDesk proof routes. |
 | About / Experience | First-person ownership language around backend-owned AI workflow and operations systems, the AI-native delivery loop, proof-slice contact language, real business infrastructure support since March 2024, and remote Autoschool54 work. |
 | Featured route | LinkedIn Proof Signal first, then Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin Proof, DriveDesk Proof Route, and DriveDesk Core; AI Backend Proof Pack, Verification Pack, LinkedIn Recruiter Packet, Decision-Ready Contact, and PDF Resume are routed from GitHub/Pages. |
 | Open-to-Work | Remote job titles and skill filters aligned with Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, and reliability handoff. |
@@ -119,7 +119,7 @@ I use this section to keep the profile headline, LinkedIn About replacement, Fea
 Headline copy:
 
 ```text
-Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG Workflow Proof, FastAPI, Docker
+Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations, QA Automation Python | DriveDesk Proof Route
 ```
 
 Profile direction summary (not live About copy):
@@ -158,11 +158,11 @@ These profile lines keep live GitHub, LinkedIn, Open-to-Work, and first replies 
 
 | Surface | Copy |
 | --- | --- |
-| GitHub bio | Python Backend Automation Engineer building DriveDesk: internal tools, API/CRM integrations, QA Automation Python, RAG workflow proof, FastAPI, Docker. |
-| LinkedIn headline | Python Backend Automation Engineer \| DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG Workflow Proof, FastAPI, Docker |
+| GitHub bio | Python backend developer building DriveDesk: internal tools, API/CRM integrations, QA/API automation, RAG workflow proof, FastAPI, PostgreSQL. |
+| LinkedIn headline | Python Backend Developer \| FastAPI, PostgreSQL, API/CRM Integrations, QA Automation Python \| DriveDesk Proof Route |
 | LinkedIn About replacement | I build Python/backend automation and internal tools for real business workflows: FastAPI/PostgreSQL APIs, Telegram intake -> admin workflows, REST/OpenAPI contracts, SQL/data checks, QA/API verification, CRM/ERP/API integration boundaries, Docker Compose/GitHub Actions handoff, docs, runbooks, and recovery notes. Fast proof route: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html |
-| Current live Open-to-Work titles | Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. |
-| Recommended Open-to-Work title set | Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer. |
+| Current live Open-to-Work titles | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. |
+| Live Open-to-Work title set | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. |
 | First outreach or application message | Hi, I am interested in this remote Python/backend automation role. I can send a proof route first: Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin Proof -> DriveDesk Proof Route. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff. |
 | Live update order | GitHub bio -> LinkedIn headline -> LinkedIn About replacement -> Open-to-Work titles -> Featured order. |
 

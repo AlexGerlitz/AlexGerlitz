@@ -61,7 +61,7 @@ I use this section to keep the profile headline, LinkedIn About replacement, Fea
 Headline copy:
 
 ```text
-Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG Workflow Proof, FastAPI, Docker
+Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations, QA Automation Python | DriveDesk Proof Route
 ```
 
 Short proof direction (not live About copy):
@@ -103,13 +103,13 @@ These profile lines keep live GitHub, LinkedIn, Open-to-Work, and first replies 
 GitHub bio:
 
 ```text
-Python Backend Automation Engineer building DriveDesk: internal tools, API/CRM integrations, QA Automation Python, RAG workflow proof, FastAPI, Docker.
+Python backend developer building DriveDesk: internal tools, API/CRM integrations, QA/API automation, RAG workflow proof, FastAPI, PostgreSQL.
 ```
 
 LinkedIn headline:
 
 ```text
-Python Backend Automation Engineer | DriveDesk, Internal Tools, API/CRM Integrations, QA Automation Python, RAG Workflow Proof, FastAPI, Docker
+Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations, QA Automation Python | DriveDesk Proof Route
 ```
 
 LinkedIn About replacement:
@@ -131,16 +131,16 @@ Fast proof route: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signa
 Current live Open-to-Work titles:
 
 ```text
-Back End Developer, Artificial Intelligence Engineer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer
+Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer
 ```
 
-Recommended Open-to-Work edit target, if the live LinkedIn title picker allows it:
+Live Open-to-Work title set:
 
 ```text
-Junior Backend Developer, Junior Python Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer
+Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer
 ```
 
-If only broader LinkedIn titles are available, keep Back End Developer and Python Developer, but avoid using Artificial Intelligence Engineer as the main first-job filter; AI remains the differentiator inside backend, QA/API, and integration work.
+LinkedIn did not expose Junior Backend Developer as a usable title in the live picker. The current set keeps backend, Python, QA/API, integration, and application-support search lanes visible while AI stays a proof-backed differentiator inside the portfolio, not the first title filter.
 
 First outreach or application message:
 
