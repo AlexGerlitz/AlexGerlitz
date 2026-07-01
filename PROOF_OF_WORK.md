@@ -24,7 +24,7 @@ private Autoschool54/DriveDesk work demonstrates without exposing private busine
 - [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) - concrete RAG/transcript, CRM handoff, human approval, and reliability slices.
 - [AI Ops demo walkthrough](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/DEMO_WALKTHROUGH.md) - committed GIF route for transcript -> RAG -> approval -> CRM-safe handoff, generated from the public-safe offer demo.
 - [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md) - document intake -> call-audio transcription -> transcript -> RAG -> scoring -> approval -> Telegram callback -> outbox drain -> dry-run Bitrix CRM contract handoff with live Bitrix24 read-only preflight.
-- [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - self-hosted deployment control panel, Docker/CI handoff evidence snapshot, evidence bundle, and release discipline.
+- [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot) - self-hosted deployment control panel, Docker/CI handoff evidence snapshot, evidence bundle, and release discipline.
 - [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) - trust-model, validation-boundary, desktop automation evidence.
 
 ## Reviewer Shortcuts
@@ -46,7 +46,7 @@ If you only have a few minutes, review these first:
 - [AI Ops live approval evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md) - Telegram approval callback and CRM-safe boundary evidence.
 - [Engineering case studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) - narrative problem/build/evidence summaries.
 - [AI Ops Workflow Kit README](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot) - 60-second AI/RAG workflow reviewer path.
-- [DeployMate engineering evidence snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) - repo-first Docker/CI handoff review path.
+- [DeployMate engineering evidence snapshot](https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot) - repo-first Docker/CI handoff review path.
 - [MPlusForm README](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot) - trust-model and desktop automation reviewer path.
 - [Skill evidence matrix](./SKILL_EVIDENCE.md) - role keywords mapped to public evidence.
 - [Work with me](./WORK_WITH_ME.md) - fixed-scope project entry points.

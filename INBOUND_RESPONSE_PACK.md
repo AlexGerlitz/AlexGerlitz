@@ -62,7 +62,7 @@ Message me when the decision needs a working slice, not a generic intro.
 | Remote role needs ownership | Backend automation and integration, AI automation, integrations, internal tools, or Docker/CI handoff ownership with a first-month outcome. | `https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html` -> `https://alexgerlitz.github.io/AlexGerlitz/role-targets.html` |
 | Workflow needs AI/RAG | Documents, transcripts, leads, tickets, or operator actions need retrieval, structured analysis, approval, and handoff. | `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` -> `https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md` |
 | Integration needs reliability | CRM, ERP, API, 1C, banking, or database handoff needs adapter contracts, retries, idempotency, audit, and rollback notes. | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html` |
-| Docker/CI needs recovery | Docker, CI, health checks, logs, backups, release gates, or runbooks need a verified recovery path. | `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` -> `https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot` |
+| Docker/CI needs recovery | Docker, CI, health checks, logs, backups, release gates, or runbooks need a verified recovery path. | `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` -> `https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot` |
 
 ## Best First Link
 
@@ -82,7 +82,7 @@ Message me when the decision needs a working slice, not a generic intro.
 | AI Automation / RAG | `https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html` -> `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html` |
 | Python / Backend / Internal Tools | `https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html` -> `https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html` -> `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` |
 | CRM / ERP / API Integration | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/case-studies.html` -> `https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html` |
-| Docker/CI / Reliability | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` -> `https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot` |
+| Docker/CI / Reliability | `https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html` -> `https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html` -> `https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot` |
 
 ## Best-Fit Context
 

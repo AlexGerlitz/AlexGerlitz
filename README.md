@@ -65,7 +65,7 @@ Since **March 2024**, I have supported Autoschool54 backend/application-support 
 | [Selected work samples](https://alexgerlitz.github.io/AlexGerlitz/projects.html) | pinned repos: Autoschool Intake/Admin work sample, DriveDesk AI Operator, DriveDesk Core, AI Ops Workflow Kit, DeployMate, and MPlusForm. |
 | [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) | FastAPI/PostgreSQL operations backend foundation behind the public-safe Autoschool Intake/Admin sample: tenants, RBAC, audit/outbox, adapters, OpenAPI, Docker, pytest, CI, docs, public demo. |
 | [AI Ops Workflow Kit](https://github.com/AlexGerlitz/ai-ops-workflow-kit) | RAG workflow backend: business scenario replay, first-slice playbook, privacy redaction, approvals, Telegram callback, dry-run CRM handoff, live PostgreSQL/pgvector persistence, CI, and smoke checks. |
-| [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) | Self-hosted Docker deployment control panel: FastAPI/Next.js/PostgreSQL, SSH runtime tooling, CI/CD, health checks, evidence bundles, review packet, runbooks. |
+| [DeployMate](https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot) | Self-hosted Docker deployment control panel: FastAPI/Next.js/PostgreSQL, SSH runtime tooling, CI/CD, health checks, evidence bundles, review packet, runbooks. |
 | [MPlusForm](https://github.com/AlexGerlitz/MPlusForm) | Validation-boundary automation sample: Python sync pipeline, server-approved snapshots, Windows operations docs, Lua addon, and public verification run. |
 
 ## What I Build

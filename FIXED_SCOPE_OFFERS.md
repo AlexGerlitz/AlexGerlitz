@@ -45,7 +45,7 @@ a vague automation request.
   [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and
   [Enterprise Readiness](./ENTERPRISE_READINESS.md).
 - **Docker/CI reliability:** choose Docker/CI Release Recovery Sprint. Proof:
-  [DeployMate evidence](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and
+  [DeployMate evidence](https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot) and
   [Verification Pack](./VERIFICATION_PACK.md).
 
 ## Fast Menu

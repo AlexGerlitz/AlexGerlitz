@@ -56,7 +56,7 @@ Choose the closest trigger, then open the package and work sample that matches i
   [DriveDesk Core](https://github.com/AlexGerlitz/drivedesk-core) and
   [Enterprise readiness](./ENTERPRISE_READINESS.md).
 - **Docker/CI reliability:** Docker/CI recovery sprint. Evidence:
-  [DeployMate evidence](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot) and
+  [DeployMate evidence](https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot) and
   [Verification pack](./VERIFICATION_PACK.md).
 
 Fast first message: send one remote role or one messy workflow with a concrete success condition.

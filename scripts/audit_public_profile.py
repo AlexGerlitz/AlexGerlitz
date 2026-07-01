@@ -591,7 +591,7 @@ REQUIRED_TEXT = {
         "./enterprise-readiness.html",
         "./case-studies.html",
         "./start-conversation.html",
-        "https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot",
+        "https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot",
         "./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf",
     ],
     "decision-ready-contact.html": [
@@ -1992,7 +1992,7 @@ REQUIRED_TEXT = {
         "./ai-backend-proof-pack.html",
         "./drivedesk-core-review.html",
         "./case-studies.html",
-        "https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot",
+        "https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot",
         "Fast Decision Routes",
         "Fast Decision Signals",
         "fixed-scope offers",
@@ -2591,7 +2591,7 @@ REQUIRED_TEXT = {
         "https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html",
         "https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html",
         "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html",
-        "https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot",
+        "https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot",
         "https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md",
         "Evidence-backed offer route",
         "closest evidence-backed offer route",
@@ -3765,7 +3765,7 @@ def check_legacy_proof_route_references(errors: list[str]) -> None:
         if relative != "ONE_PAGE_BRIEF.md" and "ONE_PAGE_BRIEF.md" in text:
             errors.append(f"{relative}: use drivedesk-proof-route.html instead of ONE_PAGE_BRIEF.md")
         if DEPLOYMATE_LEGACY_ANCHOR in text:
-            errors.append(f"{relative}: use deploymate#engineering-proof-snapshot instead of legacy DeployMate anchor")
+            errors.append(f"{relative}: use deploymate#engineering-evidence-snapshot instead of legacy DeployMate anchor")
 
 
 def check_required_text(errors: list[str]) -> None:

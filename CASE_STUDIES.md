@@ -112,7 +112,7 @@ Built proof includes:
 ### Evidence
 
 - [DeployMate](https://github.com/AlexGerlitz/deploymate)
-- [DeployMate engineering evidence snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot)
+- [DeployMate engineering evidence snapshot](https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot)
 - [Remote services](./SERVICES.md)
 
 ### What This Shows

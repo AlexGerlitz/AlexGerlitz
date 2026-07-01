@@ -68,7 +68,7 @@ Evidence links:
 - [DriveDesk Core fast review route](https://github.com/AlexGerlitz/drivedesk-core)
 - [DriveDesk Core public demo](https://alexgerlitz.github.io/drivedesk-core/apps/admin/public-demo/)
 - [AI Ops Workflow Kit reviewer snapshot](https://github.com/AlexGerlitz/ai-ops-workflow-kit#60-second-reviewer-snapshot)
-- [DeployMate engineering evidence snapshot](https://github.com/AlexGerlitz/deploymate#engineering-proof-snapshot)
+- [DeployMate engineering evidence snapshot](https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot)
 - [MPlusForm reviewer snapshot](https://github.com/AlexGerlitz/MPlusForm#60-second-reviewer-snapshot)
 
 ## Useful First Context
