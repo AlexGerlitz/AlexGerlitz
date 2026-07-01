@@ -96,27 +96,27 @@ Hi, I am interested in this AI workflow role where the output must be reviewed a
 Thanks. Send the role, remote setup, stack, first-month ownership surface, review path, timeline, and compensation band if shareable. I will reply with fit, risks, the smallest responsible first slice, and the proof route to inspect first.
 ```
 
-## Screening Answer Blocks
+## Screening Boundaries
 
-### Can I work without a long formal developer job history?
+### Experience Boundary
 
 Yes. I should be evaluated by a bounded first slice and public proof, not by vague seniority labels.
 Since March 2024 I have supported real business digital operations and turned that context into
 public-safe proof routes: Telegram request intake, backend validation, database state, admin queue,
 operator workflow, AI/RAG workflow, integration boundaries, tests, smoke checks, docs, and handoff.
 
-### Can I use AI tools without losing engineering ownership?
+### AI Ownership Boundary
 
 Yes. I use AI tooling to move faster through discovery, implementation, debugging, docs, and review,
 but I keep the engineering responsibility on my side: architecture, state, privacy, tests, logs,
 runbooks, handoff, and shipped quality.
 
-### Can I handle Docker or CI?
+### Docker/CI Boundary
 
 Yes for backend delivery support: Docker Compose, GitHub Actions, smoke checks, health checks, logs,
 release notes, backup notes, and runbooks. I do not sell this as senior DevOps or platform ownership.
 
-### What first task should I ask for?
+### First Task Shape
 
 Ask for one bounded workflow slice with input, state, output, verification, and handoff. Good examples:
 one API check, one admin queue path, one adapter contract, one RAG evaluation path, one retry/audit
