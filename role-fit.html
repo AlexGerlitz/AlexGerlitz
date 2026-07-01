@@ -47,7 +47,21 @@
     li { margin: 7px 0; }
     .tag-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
     .tag { border: 1px solid var(--line); border-radius: 999px; padding: 5px 9px; background: var(--soft); color: var(--blue); font-size: 0.86rem; font-weight: 700; }
-    @media (max-width: 860px) { .grid, .two { grid-template-columns: 1fr; } h1 { font-size: 2rem; } .actions { display: grid; } .button, .nav a { width: 100%; } }
+    @media (max-width: 860px) {
+      .grid, .two { grid-template-columns: 1fr; }
+      h1 { font-size: 2rem; }
+      .actions { display: grid; }
+      .nav {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        padding-bottom: 4px;
+      }
+      .nav a {
+        flex: 0 0 auto;
+        width: auto;
+      }
+      .button { width: 100%; }
+    }
   </style>
 </head>
 <body>
@@ -67,21 +81,15 @@
       <div class="eyebrow">Public role fit</div>
       <h1>Remote Python/backend automation and AI workflow work around real workflows.</h1>
       <p class="lead">I am strongest where a messy business process needs to become a working system: FastAPI/PostgreSQL backend, RAG/transcript workflow, integration adapter, admin/operator surface, Docker/CI path, logs, docs, and runbook.</p>
-      <p class="lead">Search-match stack: Python, FastAPI, PostgreSQL, pytest, REST APIs, OpenAPI, Docker, Docker Compose, GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, workflow integration, Backend Development, QA Automation Python, Workflow Automation, and PostgreSQL/pgvector-backed workflows.</p>
       <div class="actions">
-        <a class="button primary" href="./drivedesk-proof-route.html">DriveDesk AI Operator route</a>
-        <a class="button" href="./drivedesk-ai-operator.html">Open AI Operator case</a>
-        <a class="button" href="./ai-automation-role-fit.html">AI workflow role fit</a>
-        <a class="button" href="./skill-evidence.html">Skill evidence</a>
-        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md">AI Ops evidence status</a>
-        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/LIVE_OWNER_PROOF.md">Live owner evidence</a>
-        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md">AI Ops acceptance</a>
-        <a class="button" href="https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml">AI Ops CI workflow</a>
-        <a class="button" href="./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf">PDF resume</a>
-        <a class="button" href="./role-targets.html">Role targets</a>
-        <a class="button" href="./ROLE_TARGETS.md">GitHub-readable role targets</a>
-        <a class="button" href="./ROLE_FIT.md">GitHub-readable version</a>
+        <a class="button primary" href="https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/">Message on LinkedIn</a>
+        <a class="button" href="./linkedin-recruiter-packet.html">LinkedIn Recruiter Packet</a>
+        <a class="button" href="./first-backend-role.html">First backend fit</a>
+        <a class="button" href="./autoschool-intake-admin.html">Autoschool intake/admin</a>
+        <a class="button" href="./decision-ready-contact.html">Decision-ready contact</a>
       </div>
+      <p class="lead"><strong>Fastest role-fit route:</strong> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin -> Decision-Ready Contact; use the PDF resume after the evidence route is clear.</p>
+      <p class="lead">Search-match stack: Python, FastAPI, PostgreSQL, pytest, REST APIs, OpenAPI, Docker, Docker Compose, GitHub Actions, RAG, n8n, Telegram, CRM/ERP/API integrations, workflow integration, Backend Development, QA Automation Python, Workflow Automation, and PostgreSQL/pgvector-backed workflows.</p>
       <div class="tag-row" aria-label="Best fit tags">
         <span class="tag">Remote-only</span>
         <span class="tag">Python/FastAPI</span>
