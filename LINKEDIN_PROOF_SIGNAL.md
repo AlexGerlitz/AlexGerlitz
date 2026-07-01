@@ -61,29 +61,29 @@ I use this section to keep the profile headline, LinkedIn About replacement, Fea
 Headline copy:
 
 ```text
-Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations, QA Automation Python | DriveDesk AI Operator route
+Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations | QA Automation Python support
 ```
 
 Short review direction (not live About copy):
 
 ```text
-I build Python/backend automation, internal tools, AI workflow, and operations systems for real businesses: FastAPI/PostgreSQL backends, Telegram intake to admin workflows, RAG/transcript analysis, CRM/ERP/API adapters, QA/API verification, Docker/CI handoff, runbooks, and recovery paths.
+I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL backends, admin queues, REST/OpenAPI contracts, CRM/ERP/API adapters, pytest/API smoke checks, Docker/CI handoff, runbooks, and recovery paths.
 
-Fastest evidence to review: Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin work sample - parser-readable role fit, first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only.
+Fastest evidence to review: PDF resume -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> AI Ops Workflow Kit. That route shows a first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, with synthetic public evidence only.
 ```
 
 LinkedIn About replacement:
 
 ```text
-I build Python/backend automation and internal tools for real business workflows: FastAPI/PostgreSQL APIs, Telegram intake -> admin workflows, REST/OpenAPI contracts, SQL/data checks, QA/API verification, CRM/ERP/API integration boundaries, Docker Compose/GitHub Actions handoff, docs, runbooks, and recovery notes.
+I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL APIs, admin queues, REST/OpenAPI contracts, SQL/data checks, CRM/ERP/API integration boundaries, Telegram intake, pytest/API smoke checks, Docker Compose/GitHub Actions handoff, docs, runbooks, and recovery notes.
 
 My strongest first-role work sample is Autoschool Intake/Admin: Telegram request -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only. It connects real Autoschool54 operational context with a public-safe backend review path.
 
 I use AI tools as an engineering accelerator: domain research, implementation options, debugging, docs, tests, and review. Architecture, privacy, state boundaries, logs, verification, deployment notes, and shipped quality stay my responsibility.
 
-Best fit: remote Junior Backend Developer, Junior Python Developer, Python Developer, QA Automation Python, API Testing, Integration Engineer, or Support Engineer with Python roles where the first useful result is one bounded workflow slice that can be tested, logged, documented, and handed off.
+Primary target: remote Junior Python Backend / API Automation. Secondary lanes: QA/API Python, CRM/API Integration, Internal Tools, and Support Engineer with Python when the role is backend/API-heavy and the first useful result is one bounded workflow slice that can be tested, logged, documented, and handed off.
 
-Docker/CI is part of my handoff evidence; my first lane is backend/internal tools/API integration, not senior DevOps or platform ownership.
+Docker/CI is handoff evidence; I am not selling senior DevOps, Kubernetes, Terraform, or platform ownership as the main claim.
 
 Fast review path: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
 ```
@@ -109,21 +109,21 @@ Python backend developer building DriveDesk: internal tools, API/CRM integration
 LinkedIn headline:
 
 ```text
-Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations, QA Automation Python | DriveDesk AI Operator route
+Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations | QA Automation Python support
 ```
 
 LinkedIn About replacement:
 
 ```text
-I build Python/backend automation and internal tools for real business workflows: FastAPI/PostgreSQL APIs, Telegram intake -> admin workflows, REST/OpenAPI contracts, SQL/data checks, QA/API verification, CRM/ERP/API integration boundaries, Docker Compose/GitHub Actions handoff, docs, runbooks, and recovery notes.
+I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL APIs, admin queues, REST/OpenAPI contracts, SQL/data checks, CRM/ERP/API integration boundaries, Telegram intake, pytest/API smoke checks, Docker Compose/GitHub Actions handoff, docs, runbooks, and recovery notes.
 
 My strongest first-role work sample is Autoschool Intake/Admin: Telegram request -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only. It connects real Autoschool54 operational context with a public-safe backend review path.
 
 I use AI tools as an engineering accelerator: domain research, implementation options, debugging, docs, tests, and review. Architecture, privacy, state boundaries, logs, verification, deployment notes, and shipped quality stay my responsibility.
 
-Best fit: remote Junior Backend Developer, Junior Python Developer, Python Developer, QA Automation Python, API Testing, Integration Engineer, or Support Engineer with Python roles where the first useful result is one bounded workflow slice that can be tested, logged, documented, and handed off.
+Primary target: remote Junior Python Backend / API Automation. Secondary lanes: QA/API Python, CRM/API Integration, Internal Tools, and Support Engineer with Python when the role is backend/API-heavy and the first useful result is one bounded workflow slice that can be tested, logged, documented, and handed off.
 
-Docker/CI is part of my handoff evidence; my first lane is backend/internal tools/API integration, not senior DevOps or platform ownership.
+Docker/CI is handoff evidence; I am not selling senior DevOps, Kubernetes, Terraform, or platform ownership as the main claim.
 
 Fast review path: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
 ```
@@ -206,7 +206,7 @@ That is what my public review path is organized around:
 - CRM/ERP/API integration evidence
 - QA/API verification evidence, with Docker/CI as supporting handoff evidence
 
-Best-fit titles: Junior Backend Developer, Junior Python Developer, Python Automation Engineer, Backend Automation Engineer, QA Automation Python, API Testing / Test Automation Engineer, Support Engineer with Python, Integration Engineer, CRM/API Integration Engineer, and Internal Tools Engineer. AI workflow and RAG stay visible as evidence-backed differentiators, not the first title I need to be screened under.
+Primary target: Junior Python Backend / API Automation. Secondary lanes: QA/API Python, CRM/API Integration, Internal Tools, Support Engineer with Python, and workflow automation roles where the work is backend/API-heavy. AI workflow and RAG stay visible as evidence-backed differentiators, not the first title I need to be screened under.
 
 Skill filters that should find me: Python, FastAPI, PostgreSQL, REST APIs, OpenAPI, Docker, GitHub Actions, pytest, CRM/ERP/API integration, workflow integration, RAG, Vector Databases, audit logs, retries, and runbooks.
 
