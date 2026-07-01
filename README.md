@@ -1,16 +1,17 @@
 # Alex Gerlitz
 [![Profile Funnel Audit](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml) [![Live Profile Smoke](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml)
+## 10-Second Shortlist
 I build **Python backend/API automation** for messy business workflows: FastAPI/PostgreSQL services, admin queues, REST/OpenAPI boundaries, API/CRM integrations, QA/API checks, and handoff docs. DriveDesk and Autoschool Intake/Admin are the proof surfaces, not the whole positioning.
-
-The useful signal is not "AI can write code"; it is that one real workflow can become a reviewed FastAPI/PostgreSQL/Telegram/admin slice with tests, logs, docs, and handoff.
-
-Core stack: Python, FastAPI, PostgreSQL, REST/OpenAPI, SQL, pytest/API smoke checks, Docker/Compose boundaries, GitHub Actions, docs, runbooks, and recovery notes. RAG/AI workflow evidence is a differentiator after the backend/API fit is clear.
 
 **I am open for remote-only full-time roles** where the first month can prove one working slice: Junior Python Backend Developer, Junior Backend Developer, QA Automation Python, API Testing / Test Automation Engineer, CRM/API Integration Engineer, Application Support Engineer with Python, or Internal Tools Engineer.
 
-Public work samples are based on workflow shape, not tutorial-only demos: Telegram request intake -> backend validation -> database record -> admin queue -> operator status. Private production data is replaced with synthetic public evidence.
-
 **First useful result:** one FastAPI endpoint, data model, admin queue step, API/CRM mapping, pytest/API smoke check, SQL/data check, or runbook gap shipped as a reviewed slice with docs and handoff notes.
+
+| Signal | Recruiter read |
+| --- | --- |
+| Proof surface | Public work samples are based on workflow shape, not tutorial-only demos: Telegram request intake -> backend validation -> database record -> admin queue -> operator status. Private production data is replaced with synthetic public evidence. |
+| Delivery boundary | The useful signal is not "AI can write code"; it is that one real workflow can become a reviewed FastAPI/PostgreSQL/Telegram/admin slice with tests, logs, docs, and handoff. |
+| Stack fit | Core stack: Python, FastAPI, PostgreSQL, REST/OpenAPI, SQL, pytest/API smoke checks, Docker/Compose boundaries, GitHub Actions, docs, runbooks, and recovery notes. RAG/AI workflow evidence is a differentiator after the backend/API fit is clear. |
 ## Fast Public Review
 
 | Review first | Why it matters |
