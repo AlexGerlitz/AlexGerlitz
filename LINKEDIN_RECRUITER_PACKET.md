@@ -6,8 +6,9 @@ Use this page when a LinkedIn profile view needs a fast decision: whether to mes
 
 ## 30-Second Decision
 
-- Best-fit roles: Junior Python Backend, QA/API Python, CRM/API Integration, Internal Tools.
-- Best first assignment: one endpoint, data model, admin queue step, API/CRM mapping, API test, or runbook gap.
+- Primary target: Junior Python Backend / API Automation.
+- Secondary lanes: QA/API Python, CRM/API Integration, Internal Tools.
+- Best first assignment: one FastAPI endpoint, data model, admin queue step, API/CRM mapping, API test, or runbook gap.
 - Do not position me as: senior DevOps, Kubernetes/Terraform-first platform owner, onsite-only candidate, or pure prompt/content operator.
 - Useful signal: messy business workflows become backend-owned state, tests or smoke checks, privacy boundaries, docs, and handoff notes.
 
