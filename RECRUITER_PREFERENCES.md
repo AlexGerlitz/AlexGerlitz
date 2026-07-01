@@ -107,7 +107,7 @@ This page mirrors the visible LinkedIn setup I want recruiters to see before sen
 | --- | --- |
 | Headline | Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations | QA Automation Python support |
 | About / Experience | First-person ownership language around Python backend/application-support work, backend-owned AI workflow and operations systems, the AI-native delivery loop, evidence-slice contact language, real Autoschool54 operations since March 2024, and privacy-safe public evidence. |
-| Featured route | LinkedIn Review Signal first, then Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin work sample, DriveDesk AI Operator route, and DriveDesk Core; AI Backend Review Pack, Verification Pack, LinkedIn Recruiter Packet, Decision-Ready Contact, and PDF Resume are routed from GitHub/Pages. |
+| Featured route | Decision-Ready Contact first for inbound roles, then LinkedIn Review Signal, Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin work sample, DriveDesk AI Operator route, and DriveDesk Core; AI Backend Review Pack, Verification Pack, and PDF Resume are routed from GitHub/Pages after the first-contact context is clear. |
 | Open-to-Work | Remote job titles and skill filters aligned with Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, and reliability handoff. |
 | Resume / handoff | Decision-Ready Contact and Start Conversation routes before PDF Resume for internal sharing. |
 | Services | Live LinkedIn Services overview and media route requests toward backend-owned AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow evidence instead of generic web/app work. |
@@ -127,7 +127,7 @@ Profile direction summary (not live About copy):
 ```text
 I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL backends, admin queues, REST/OpenAPI contracts, CRM/ERP/API adapters, pytest/API smoke checks, Docker/CI handoff, runbooks, and recovery paths.
 
-Fastest evidence to review: LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume. That route shows a first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, with synthetic public evidence only. Open AI Ops Workflow Kit after the backend slice for deeper AI workflow review.
+Fastest evidence to review: Decision-Ready Contact -> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume after the evidence route is clear. That route shows a first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, with synthetic public evidence only. Open AI Ops Workflow Kit after the backend slice for deeper AI workflow review.
 
 Flagship direction: DriveDesk AI Operator - a backend-owned AI sales/support workflow layer for document, call, transcript, and lead intake; RAG; structured analysis; Telegram approval; CRM-safe handoff; audit/outbox; retries; and operational runbooks.
 ```
@@ -163,7 +163,7 @@ These profile lines keep live GitHub, LinkedIn, Open-to-Work, and first replies 
 | LinkedIn About replacement | I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL APIs, admin queues, REST/OpenAPI contracts, SQL/data checks, CRM/ERP/API integration boundaries, Telegram intake, pytest/API smoke checks, Docker Compose/GitHub Actions handoff, docs, runbooks, and recovery notes. Fast review path: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html |
 | Current live Open-to-Work titles | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. |
 | Live Open-to-Work title set | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. |
-| First outreach or application message | Hi, I am interested in this remote Python/backend automation role. I can send a review path first: Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> DriveDesk AI Operator route. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff. |
+| First outreach or application message | Hi, I am interested in this remote Python/backend automation role. I can send a review path first: Decision-Ready Contact -> LinkedIn Recruiter Packet -> Delivery Capability -> First Backend Role Fit -> Autoschool Intake/Admin work sample. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff. |
 | Live update order | GitHub bio -> LinkedIn headline -> LinkedIn About replacement -> Open-to-Work titles -> Featured order. |
 
 ## Search Intent To Evidence Stack
@@ -180,19 +180,18 @@ These profile lines keep live GitHub, LinkedIn, Open-to-Work, and first replies 
 
 ## Evidence Map
 
-1. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) - search fit, review order, and first result.
-2. [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) - current role-market fit, first useful workflow slice, AI-assisted delivery boundary, and Docker/CI handoff boundary.
-3. [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) - parser-readable application lanes, exact keywords, first useful result, review path, and not-my-first-lane boundary.
-4. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) - first-role backend evidence for bounded tickets, reviewable diffs, tests or smoke checks, docs, and handoff.
-5. [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) - fast backend/internal-tools review path before deeper portfolio review.
-6. [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - first-job backend evidence for Telegram intake, validation, database state, admin queue, status workflow, and privacy boundary.
-7. [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) - precise role-fit route for AI automation, RAG, structured outputs, approvals, CRM/API handoff, tests, logs, and runbooks.
-8. [DriveDesk AI Operator route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) - flagship backend-owned AI workflow review path.
-9. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) - 30-second role fit and first-month ownership.
+1. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - minimum context, fit read, risk check, smallest responsible first slice, review path, and next route.
+2. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) - search fit, review order, and first result.
+3. [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) - current role-market fit, first useful workflow slice, AI-assisted delivery boundary, and Docker/CI handoff boundary.
+4. [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) - parser-readable application lanes, exact keywords, first useful result, review path, and not-my-first-lane boundary.
+5. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) - first-role backend evidence for bounded tickets, reviewable diffs, tests or smoke checks, docs, and handoff.
+6. [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) - fast backend/internal-tools review path before deeper portfolio review.
+7. [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) - first-job backend evidence for Telegram intake, validation, database state, admin queue, status workflow, and privacy boundary.
+8. [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) - precise role-fit route for AI automation, RAG, structured outputs, approvals, CRM/API handoff, tests, logs, and runbooks.
+9. [DriveDesk AI Operator route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) - flagship backend-owned AI workflow review path.
 10. [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) - compact route through Python/backend automation, AI workflow, integration, Docker/CI boundary, verification, and resume evidence.
 11. [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) - international and Europe-compatible remote-team review of architecture, reliability, privacy, CI, runbooks, and handoff quality.
-12. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) - minimum context, fit read, risk check, smallest responsible first slice, review path, and next route.
-13. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) - compact resume route after the decision-ready contact context is clear.
+12. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) - compact resume route after the decision-ready contact context is clear.
 
 ## First Contact Fit
 

@@ -79,7 +79,7 @@ Short review direction (not live About copy):
 ```text
 I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL backends, admin queues, REST/OpenAPI contracts, CRM/ERP/API adapters, pytest/API smoke checks, Docker/CI handoff, runbooks, and recovery paths.
 
-Fastest evidence to review: LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume. That route shows a first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, with synthetic public evidence only.
+Fastest evidence to review: Decision-Ready Contact -> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume after the evidence route is clear. That route shows a first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, with synthetic public evidence only.
 ```
 
 LinkedIn About replacement:
@@ -155,7 +155,7 @@ LinkedIn did not expose Junior Backend Developer as a usable title in the live p
 First outreach or application message:
 
 ```text
-Hi, I am interested in this remote Python/backend automation role. I can send a review path first: Delivery Capability -> Application Fit Pack -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> DriveDesk AI Operator route. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff.
+Hi, I am interested in this remote Python/backend automation role. I can send a review path first: Decision-Ready Contact -> LinkedIn Recruiter Packet -> Delivery Capability -> First Backend Role Fit -> Autoschool Intake/Admin work sample. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff.
 ```
 
 Live update order: GitHub bio -> LinkedIn headline -> LinkedIn About replacement -> Open-to-Work titles -> Featured order.
@@ -186,7 +186,7 @@ Remote Junior Python Backend / API Automation first. Adjacent lanes: QA/API Pyth
 
 ### First review order
 
-LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter PDF -> Decision-Ready Contact.
+Decision-Ready Contact -> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter Review Pack -> PDF resume after first-contact context is clear.
 
 ### Search keywords
 
