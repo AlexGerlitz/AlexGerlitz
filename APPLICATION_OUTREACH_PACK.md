@@ -33,6 +33,37 @@ Checked on 2026-07-01.
 - LinkedIn/GitHub search surface: keep job titles, skills, Featured work samples, README, pins,
   and work samples aligned around the same role lanes.
 
+## Fast Apply Messages
+
+Use one short note per application. Pick the closest lane, keep one proof route, and do not stack
+every project link into the first message. Write in the vacancy language: Russian for HH/Telegram
+Russian-language roles, English for English-language roles, with the same proof links and scope
+boundary.
+
+### Python Backend / Internal Tools
+
+```text
+Hi, I am applying for the remote Python/backend role. My fit is FastAPI/PostgreSQL, REST/OpenAPI, pytest/API smoke checks, internal admin workflows, and handoff docs. I would start with one reviewed slice: input -> validation -> database state -> output -> verification. Fast proof: First Backend Role Fit -> Autoschool Intake/Admin.
+```
+
+### QA/API Python
+
+```text
+Hi, I am applying for the QA/API Python role. I can make backend workflows repeatably verifiable with Python, pytest, REST/OpenAPI checks, SQL/data checks, logs, smoke checks, and issue notes. Fast proof: Backend Role Fit -> Skill Evidence -> Verification Pack.
+```
+
+### Integration / API / CRM
+
+```text
+Hi, I am applying for the integration/API role. I can map one source and one target system, define the adapter contract, validation, privacy boundary, retries/idempotency/audit needs, and leave a small verifiable sync or intake/admin slice. Fast proof: Autoschool Intake/Admin -> DriveDesk AI Operator.
+```
+
+### Recruiter Reply
+
+```text
+Thanks. Send the role title, remote setup, stack/systems, first-month ownership surface, hiring timeline, and compensation band if shareable. I will reply with fit, risks, the smallest responsible first slice, and the best review path.
+```
+
 ## Scope Boundary
 
 I can work with Docker Compose, GitHub Actions, health checks, smoke checks, logs, backup notes,

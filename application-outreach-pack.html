@@ -39,6 +39,7 @@
             "@id": "https://alexgerlitz.github.io/AlexGerlitz/#alex-gerlitz"
           },
           "hasPart": [
+            { "@id": "https://alexgerlitz.github.io/AlexGerlitz/application-outreach-pack.html#fast-apply-messages" },
             { "@id": "https://alexgerlitz.github.io/AlexGerlitz/application-outreach-pack.html#ats-keywords" },
             { "@id": "https://alexgerlitz.github.io/AlexGerlitz/application-outreach-pack.html#vacancy-triage" },
             { "@id": "https://alexgerlitz.github.io/AlexGerlitz/application-outreach-pack.html#message-blocks" },
@@ -136,7 +137,8 @@
     @media (max-width: 980px) {
       .grid, .two { grid-template-columns: 1fr; }
       h1 { font-size: 2rem; }
-      .actions { display: grid; }
+      .actions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .nav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
       .button, .nav a { width: 100%; }
       th, td { display: block; width: 100%; }
       th { padding-bottom: 4px; }
@@ -172,6 +174,29 @@
         <span class="tag">Integration/API/CRM</span>
         <span class="tag">AI workflow</span>
         <span class="tag">Band-aware outreach</span>
+      </div>
+    </section>
+
+    <section class="band section" id="fast-apply-messages">
+      <h2>Fast Apply Messages</h2>
+      <p>Use one short note per application. Pick the closest lane, keep one proof route, and do not stack every project link into the first message. Write in the vacancy language: Russian for HH/Telegram Russian-language roles, English for English-language roles, with the same proof links and scope boundary.</p>
+      <div class="two">
+        <article class="panel copy-block">
+          <h3>Python Backend / Internal Tools</h3>
+          <pre><code>Hi, I am applying for the remote Python/backend role. My fit is FastAPI/PostgreSQL, REST/OpenAPI, pytest/API smoke checks, internal admin workflows, and handoff docs. I would start with one reviewed slice: input -> validation -> database state -> output -> verification. Fast proof: First Backend Role Fit -> Autoschool Intake/Admin.</code></pre>
+        </article>
+        <article class="panel copy-block">
+          <h3>QA/API Python</h3>
+          <pre><code>Hi, I am applying for the QA/API Python role. I can make backend workflows repeatably verifiable with Python, pytest, REST/OpenAPI checks, SQL/data checks, logs, smoke checks, and issue notes. Fast proof: Backend Role Fit -> Skill Evidence -> Verification Pack.</code></pre>
+        </article>
+        <article class="panel copy-block">
+          <h3>Integration / API / CRM</h3>
+          <pre><code>Hi, I am applying for the integration/API role. I can map one source and one target system, define the adapter contract, validation, privacy boundary, retries/idempotency/audit needs, and leave a small verifiable sync or intake/admin slice. Fast proof: Autoschool Intake/Admin -> DriveDesk AI Operator.</code></pre>
+        </article>
+        <article class="panel copy-block">
+          <h3>Recruiter Reply</h3>
+          <pre><code>Thanks. Send the role title, remote setup, stack/systems, first-month ownership surface, hiring timeline, and compensation band if shareable. I will reply with fit, risks, the smallest responsible first slice, and the best review path.</code></pre>
+        </article>
       </div>
     </section>
 
