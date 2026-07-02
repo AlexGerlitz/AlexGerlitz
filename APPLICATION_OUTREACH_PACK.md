@@ -1,13 +1,14 @@
-# Application Outreach Pack
+# Role Fit Message Examples
 
 Public route: https://alexgerlitz.github.io/AlexGerlitz/application-outreach-pack.html
 
-I use this pack when I need to answer a vacancy, recruiter message, or application form with one clear role lane, one work sample, and a scope boundary. It keeps outreach from becoming a generic
-intro or an overclaim.
+This page shows how I frame vacancy fit with one clear role lane, one work sample, and a scope
+boundary. It is public communication evidence: short, role-specific, and evidence-backed instead of
+generic or overclaimed.
 
 ## Best Use
 
-Use this when the role is remote and asks for one of these surfaces:
+Best fit when the role is remote and asks for one of these surfaces:
 
 - Python backend, internal tools, admin workflows, FastAPI, PostgreSQL, REST API, OpenAPI, pytest,
   Docker Compose, GitHub Actions, docs, or handoff.
@@ -17,9 +18,9 @@ Use this when the role is remote and asks for one of these surfaces:
 - AI workflow work where retrieval, structured output, approvals, logs, CRM-safe handoff, and
   supportable runbooks matter more than prompt-only work.
 
-Do not use it as the main route for senior DevOps, Kubernetes, Terraform, cloud platform ownership,
-onsite-only roles, pure prompt/content work, isolated static sites, generic mobile/ecommerce apps,
-or vague work where the first result cannot be tested.
+Not my main route: senior DevOps, Kubernetes, Terraform, cloud platform ownership, onsite-only
+roles, pure prompt/content work, isolated static sites, generic mobile/ecommerce apps, or vague work
+where the first result cannot be tested.
 
 ## Market-Backed Priority
 
@@ -33,12 +34,12 @@ Checked on 2026-07-01.
 - LinkedIn/GitHub search surface: keep job titles, skills, Featured work samples, README, pins,
   and work samples aligned around the same role lanes.
 
-## Fast Apply Messages
+## Short Fit Messages
 
-Use one short note per application. Pick the closest lane, keep one proof route, and do not stack
-every project link into the first message. Write in the vacancy language: Russian for HH/Telegram
-Russian-language roles, English for English-language roles, with the same proof links and scope
-boundary.
+These are representative first messages. I keep each message to the closest lane, one proof route,
+and one first useful result instead of stacking every project link into the first contact. For
+Russian-language roles I answer in Russian; for English-language roles I use the same structure in
+English.
 
 ### Python Backend / Internal Tools
 
@@ -64,10 +65,10 @@ Hi, I am applying for the integration/API role. I can map one source and one tar
 Thanks. Send the role title, remote setup, stack/systems, first-month ownership surface, hiring timeline, and compensation band if shareable. I will reply with fit, risks, the smallest responsible first slice, and the best review path.
 ```
 
-## Russian HH / Telegram Short Replies
+## Russian HH / Telegram Fit Notes
 
-Use these for Russian-language vacancies and recruiter chats. Keep one proof route and do not paste
-the full portfolio into the first message.
+For Russian-language vacancies and recruiter chats, I keep one proof route and avoid pasting the full
+portfolio into the first message.
 
 ### Python Backend / Internal Tools
 
@@ -124,7 +125,7 @@ dumps, record identifiers, tokens, or credentials. Public evidence uses syntheti
 | Stack overlap | Python, FastAPI, PostgreSQL/SQL, REST/OpenAPI, pytest, Docker Compose, GitHub Actions | Adjacent stack with enough API/data workflow ownership | No Python/API/data/backend ownership |
 | Review path | One public work sample directly matches the vacancy | Review path needs a short framing note | Evidence would require private data or fake claims |
 
-## Application Message Blocks
+## Role Message Examples
 
 ### Python Backend / Internal Tools
 
@@ -182,10 +183,10 @@ Ask for one bounded workflow slice with input, state, output, verification, and 
 one API check, one admin queue path, one adapter contract, one RAG evaluation path, one retry/audit
 path, or one smoke-checked backend route.
 
-## Application Loop
+## Communication Loop
 
 1. Pick one lane: Python backend/internal tools, QA/API verification, integration/API/CRM, or backend-owned AI workflow.
-2. Use one work sample, not a pile of links.
+2. Lead with one work sample, not a pile of links.
 3. State one first useful result with input, state, output, verification, and handoff.
 4. Keep Docker/CI and AI as supporting evidence unless the role clearly asks for them.
 5. Ask for the first task shape, review owner, success check, timeline, and compensation band if shareable.
