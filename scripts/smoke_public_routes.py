@@ -813,7 +813,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Autoschool Intake/Admin work sample",
             "public-safe first-job evidence for Telegram request intake, backend validation, database record, admin queue handoff, operator status workflow, and privacy boundary",
             "Recruiter review pack",
-            "two-page role-fit handoff with first-month ownership",
+            "two-page role-fit handoff for forwarding after role fit is clear",
             "PDF resume",
             "one-page application handoff with Python/backend automation",
             "ATS plain-text resume",
