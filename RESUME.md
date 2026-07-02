@@ -177,7 +177,7 @@ Applied Informatics, 2025 - Present
 - [Work Evidence](./PROOF_OF_WORK.md)
 - [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
 - [Skill Evidence Matrix](./SKILL_EVIDENCE.md)
-- [Remote AI Automation Services](./SERVICES.md)
+- [Python Backend & AI Workflow Services](./SERVICES.md)
 - [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md)
 
 ## Contact

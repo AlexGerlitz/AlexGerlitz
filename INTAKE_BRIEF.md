@@ -99,7 +99,7 @@ I will usually respond with:
 - [Resume](./RESUME.md)
 - [Remote Role Targets](./ROLE_TARGETS.md)
 - [Enterprise Readiness](./ENTERPRISE_READINESS.md)
-- [Remote AI Automation Services](./SERVICES.md)
+- [Python Backend & AI Workflow Services](./SERVICES.md)
 - [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md)
 - [AI Ops Employer Trigger Evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md)
 - [Proof of Work](./PROOF_OF_WORK.md)

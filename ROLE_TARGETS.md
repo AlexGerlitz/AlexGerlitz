@@ -150,7 +150,7 @@ If the conversation is not a full-time role, the strongest project shapes are:
 - internal operations platform;
 - Docker/CI release/recovery hardening.
 
-Details: [Remote AI Automation Services](./SERVICES.md).
+Details: [Python Backend & AI Workflow Services](./SERVICES.md).
 
 ## What I Do Not Need To Be Productive
 
@@ -179,4 +179,4 @@ Fastest review order:
 9. [Work Evidence](./PROOF_OF_WORK.md)
 10. [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
 11. [Skill Evidence Matrix](./SKILL_EVIDENCE.md)
-12. [Remote AI Automation Services](./SERVICES.md)
+12. [Python Backend & AI Workflow Services](./SERVICES.md)

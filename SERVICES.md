@@ -1,9 +1,9 @@
-# Remote AI Automation Services
+# Python Backend & AI Workflow Services
 
-I build remote-only backend, AI automation, integration, and Docker/CI handoff systems for business
+I build remote-only Python/backend automation, AI workflow, integration, and Docker/CI handoff systems for business
 operations.
 
-Clean web route: [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
+Clean web route: [Python Backend & AI Workflow Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
 Fastest business-facing evidence before scope:
 [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt).
 Decision route for LinkedIn Services:
@@ -243,7 +243,7 @@ I will respond with the smallest responsible path to a working result: what can 
 what is risky, what should wait, and what evidence will show that the result actually works.
 
 The fastest route is the
-[Remote AI Automation Services page](https://alexgerlitz.github.io/AlexGerlitz/services.html),
+[Python Backend & AI Workflow Services page](https://alexgerlitz.github.io/AlexGerlitz/services.html),
 the [LinkedIn Services page](https://www.linkedin.com/services/page/3153b734507b8a60ab/), or the
 [Decision-Ready Contact page](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html).
 For a concrete project menu, use the [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md).

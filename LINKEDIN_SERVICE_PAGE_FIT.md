@@ -89,7 +89,7 @@ and what must not break.
 ## Review Path
 
 - [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
-- [Remote AI Automation Services](./SERVICES.md)
+- [Python Backend & AI Workflow Services](./SERVICES.md)
 - [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
 - [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html)
 - [DriveDesk AI Operator route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)

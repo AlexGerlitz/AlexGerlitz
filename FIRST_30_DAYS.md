@@ -116,4 +116,4 @@ Relevant proof:
 - [DeployMate](https://github.com/AlexGerlitz/deploymate)
 - [Verification Pack](./VERIFICATION_PACK.md)
 - [Remote Role Targets](./ROLE_TARGETS.md)
-- [Remote AI Automation Services](./SERVICES.md)
+- [Python Backend & AI Workflow Services](./SERVICES.md)

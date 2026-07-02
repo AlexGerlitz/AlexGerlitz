@@ -16,7 +16,7 @@ onsite-only roles, pure prompt/content tasks, isolated static websites, student/
 standalone game clones, generic mobile/ecommerce apps without backend/integration ownership, or
 undefined outcomes with no way to verify success.
 
-For the shortest service overview, see [Remote AI Automation Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
+For the shortest service overview, see [Python Backend & AI Workflow Services](https://alexgerlitz.github.io/AlexGerlitz/services.html).
 For the live LinkedIn service page, see
 [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/).
 For the fastest contact route, see [Start Here](./START_HERE.md).
