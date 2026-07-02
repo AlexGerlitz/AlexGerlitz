@@ -1,7 +1,7 @@
 # Alex Gerlitz
 [![Profile Funnel Audit](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml) [![Live Profile Smoke](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml)
 ## 10-Second Shortlist
-I build **Python backend/API automation** for messy business workflows: FastAPI/PostgreSQL services, admin queues, REST/OpenAPI boundaries, API/CRM integrations, QA/API checks, and handoff docs. DriveDesk and Autoschool Intake/Admin are the proof surfaces, not the whole positioning.
+I build **Python backend/API automation** for messy business workflows: FastAPI/PostgreSQL services, admin queues, REST/OpenAPI boundaries, API/CRM integrations, QA/API checks, and handoff docs. Key work samples: DriveDesk and Autoschool Intake/Admin show how I turn business workflows into reviewable backend/API slices.
 
 **I am open for remote-only full-time roles** where the first month can prove one working slice: Junior Python Backend Developer, Junior Backend Developer, QA Automation Python, API Testing / Test Automation Engineer, CRM/API Integration Engineer, Application Support Engineer with Python, or Internal Tools Engineer.
 
@@ -9,7 +9,7 @@ I build **Python backend/API automation** for messy business workflows: FastAPI/
 
 | Signal | Recruiter read |
 | --- | --- |
-| Proof surface | Public work samples are based on workflow shape, not tutorial-only demos: Telegram request intake -> backend validation -> database record -> admin queue -> operator status. Private production data is replaced with synthetic public evidence. |
+| Work sample | Public work samples show a business workflow from request intake to backend validation, database record, admin queue, and operator status. Private production data is replaced with synthetic public evidence. |
 | Delivery boundary | The useful signal is not "AI can write code"; it is that one real workflow can become a reviewed FastAPI/PostgreSQL/Telegram/admin slice with tests, logs, docs, and handoff. |
 | Stack fit | Core stack: Python, FastAPI, PostgreSQL, REST/OpenAPI, SQL, pytest/API smoke checks, Docker/Compose boundaries, GitHub Actions, docs, runbooks, and recovery notes. RAG/AI workflow evidence is a differentiator after the backend/API fit is clear. |
 ## Fast Public Review

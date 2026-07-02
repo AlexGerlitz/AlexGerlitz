@@ -112,59 +112,30 @@ This page mirrors the visible LinkedIn setup I want recruiters to see before sen
 | Resume / handoff | Decision-Ready Contact and Start Conversation routes before PDF Resume for internal sharing. |
 | Services | Live LinkedIn Services overview and media route requests toward Python/backend automation, AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow evidence instead of generic web/app work. |
 
-## LinkedIn Profile Copy Pack
+## Recruiter Decision Fit
 
-I use this section to keep the profile headline, LinkedIn About replacement, Featured order, and evidence stack aligned.
+Use this section to decide which role lane, review path, and first assignment are worth discussing.
 
-Headline copy:
-
-```text
-Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations | QA Automation Python support
-```
-
-Profile direction summary (not live About copy):
-
-```text
-I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL backends, admin queues, REST/OpenAPI contracts, CRM/ERP/API adapters, pytest/API smoke checks, Docker/CI handoff, runbooks, and recovery paths.
-
-Fastest evidence to review: LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter Review Pack -> PDF resume. That route shows a first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, with synthetic public evidence only. Open DriveDesk AI Operator route after the backend slice for deeper AI workflow review.
-
-Flagship direction: DriveDesk AI Operator - a backend-owned AI sales/support workflow layer for document, call, transcript, and lead intake; RAG; structured analysis; Telegram approval; CRM-safe handoff; audit/outbox; retries; and operational runbooks.
-```
-
-LinkedIn About replacement:
-
-```text
-I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL APIs, admin queues, REST/OpenAPI contracts, SQL/data checks, CRM/ERP/API integration boundaries, Telegram intake, pytest/API smoke checks, Docker Compose/GitHub Actions handoff, docs, runbooks, and recovery notes.
-
-My strongest first-role work sample is Autoschool Intake/Admin: Telegram request -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only. It connects real Autoschool54 operational context with a public-safe backend review path.
-
-I use AI tools as an engineering accelerator: domain research, implementation options, debugging, docs, tests, and review. Architecture, privacy, state boundaries, logs, verification, deployment notes, and shipped quality stay my responsibility.
-
-Primary target: remote Junior Python Backend / API Automation. Secondary lanes: QA/API Python, CRM/API Integration, Internal Tools, and Support Engineer with Python when the role is backend/API-heavy and the first useful result is one bounded workflow slice that can be tested, logged, documented, and handed off.
-
-Docker/CI is handoff evidence; I am not selling senior DevOps, Kubernetes, Terraform, or platform ownership as the main claim.
-
-Fast review path: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
-```
-
-Featured order: keep LinkedIn Recruiter Review Path, LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack immediately visible; route Delivery Capability, Application Fit Pack, DriveDesk AI Operator, Python Backend & AI Workflow Services, and DriveDesk Core as the deeper evidence stack.
-
-Public evidence boundary: Use synthetic screenshots or diagrams only; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
-
-## Profile Text Alignment
-
-These profile lines keep live GitHub, LinkedIn, Open-to-Work, and first replies aligned around the same first-job signal.
-
-| Surface | Copy |
+| Screen | Signal |
 | --- | --- |
-| GitHub bio | Python backend developer building DriveDesk: internal tools, API/CRM integrations, QA/API automation, RAG workflow evidence, FastAPI, PostgreSQL. |
-| LinkedIn headline | Python Backend Developer \| FastAPI, PostgreSQL, API/CRM Integrations \| QA Automation Python support |
-| LinkedIn About replacement | I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL APIs, admin queues, REST/OpenAPI contracts, SQL/data checks, CRM/ERP/API integration boundaries, Telegram intake, pytest/API smoke checks, Docker Compose/GitHub Actions handoff, docs, runbooks, and recovery notes. Fast review path: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html |
-| Current live Open-to-Work titles | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. |
-| Live Open-to-Work title set | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. |
-| First outreach or application message | Hi, I am interested in this remote Python/backend role. Best first proof: LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin. I am strongest on backend/API slices, internal tools, API/CRM integration, QA/API verification, and AI workflow only when it has backend-owned state, tests, logs, docs, and handoff. |
-| Live update order | GitHub bio -> LinkedIn headline -> LinkedIn About replacement -> Open-to-Work titles -> Featured order. |
+| Best-fit role lane | Python Backend Developer with FastAPI, PostgreSQL, API/CRM Integrations, and QA Automation Python support |
+| First useful assignment | One FastAPI endpoint, data model, admin queue step, API/CRM mapping, API smoke check, SQL/data check, or runbook gap that can be reviewed as a bounded shipped slice. |
+| Fastest evidence | LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter Review Pack -> PDF resume. Open DriveDesk AI Operator after the backend/API fit is clear. |
+| Why the sample matters | Autoschool Intake/Admin shows request intake, backend validation, stored state, admin review, operator status, tests or smoke checks, and handoff notes using synthetic public evidence. |
+| Public evidence boundary | Public work samples use synthetic or redacted evidence only: no real names, phone numbers, chat IDs, admin URLs, logs, dumps, tokens, credentials, or live admin screenshots. |
+
+## Public Profile Focus
+
+The public profile is intentionally narrow: remote backend/API-heavy roles where one useful workflow slice can prove value quickly.
+
+| Surface | Current signal |
+| --- | --- |
+| Primary focus | Remote Junior Python Backend / API Automation. |
+| Adjacent lanes | QA/API Python, CRM/API Integration, Internal Tools, and Support Engineer with Python when the role is backend/API-heavy. |
+| Strongest first proof | Autoschool Intake/Admin: Telegram request -> backend validation -> database record -> admin queue -> operator status workflow, shown with synthetic public evidence only. |
+| Current Open-to-Work titles | Back End Developer, Python Developer, Quality Assurance Automation Engineer, Integration Engineer, Application Support Engineer. |
+| AI positioning | AI tooling accelerates research, implementation, debugging, docs, tests, and review; architecture, privacy, state boundaries, verification, and shipped quality remain engineering-owned. |
+| Scope boundary | Docker/CI is handoff evidence; I am not selling senior DevOps, Kubernetes, Terraform, or platform ownership as the main claim. |
 
 ## Search Intent To Evidence Stack
 
