@@ -153,32 +153,16 @@ Applied Informatics, 2025 - Present
 
 ## Review Links
 
-- [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
-- [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
-- [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf)
-- [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
-- [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
-- [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
-- [DriveDesk AI Operator work sample](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-- [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
-- [LinkedIn Services Fit](https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html)
-- [PDF resume for application upload](./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
-- [DriveDesk AI Operator](./DRIVEDESK_AI_OPERATOR.md)
-- [AI Ops public evidence status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md)
-- [AI Ops Reviewer Acceptance Report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md)
-- [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-- [Role Fit](./ROLE_FIT.md)
-- [AI Automation Role Fit](./AI_AUTOMATION_ROLE_FIT.md)
-- [Role / Project Brief](./ROLE_PROJECT_BRIEF.md)
-- [Remote Role Targets](./ROLE_TARGETS.md)
-- [Role Fit Pack](./APPLICATION_PACK.md)
-- [First Month Delivery Plan](./FIRST_30_DAYS.md)
-- [Inbound Brief](./INTAKE_BRIEF.md)
-- [Work Evidence](./PROOF_OF_WORK.md)
-- [Engineering Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html)
-- [Skill Evidence Matrix](./SKILL_EVIDENCE.md)
-- [Python Backend & AI Workflow Services](./SERVICES.md)
-- [Fixed-Scope AI Automation Offers](./FIXED_SCOPE_OFFERS.md)
+Best review path for a fast technical screen:
+
+1. [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
+2. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
+3. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
+4. [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
+5. [PDF resume for application upload](./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
+6. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
+7. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html)
+8. [DriveDesk AI Operator work sample](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) - deeper backend/AI workflow evidence after the backend/API fit is clear.
 
 ## Contact
 
