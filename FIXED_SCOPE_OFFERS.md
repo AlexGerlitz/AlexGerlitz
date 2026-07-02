@@ -1,6 +1,6 @@
 # Fixed-Scope AI Automation Offers
 
-Concrete project menu for remote AI automation, backend automation, integration, and Docker/CI handoff work.
+Concrete project menu for Python/backend automation, AI workflow, integration, and Docker/CI handoff work.
 The fastest review path is [DriveDesk AI Operator - Review Path](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html).
 The fastest business-facing proof before scope is [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt).
 

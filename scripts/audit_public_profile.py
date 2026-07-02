@@ -35,6 +35,10 @@ BAD_FILENAMES = {
     marker("hiring", "-screen.html"),
 }
 
+FORBIDDEN_PUBLIC_FILES = {
+    "output/pdf/alex-gerlitz-remote-ai-automation-resume.pdf",
+}
+
 BAD_PATTERNS = [
     marker(r"Forwardable", r" summary"),
     marker(r"first", r"-message"),
@@ -345,7 +349,7 @@ REQUIRED_TEXT = {
         'property="og:image:width" content="1200"',
         'property="og:image:height" content="630"',
         'name="twitter:card" content="summary_large_image"',
-        '"dateModified": "2026-06-29"',
+        '"dateModified": "2026-07-02"',
         '"@id": "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html#screening-answer"',
         '"@id": "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html#shortlist-scorecard"',
         '"@id": "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html#specialist-reason"',
@@ -1322,7 +1326,7 @@ REQUIRED_TEXT = {
         '"AI backend review order"',
         '"AI backend role shortlist"',
         '"AI backend offer-fit matrix"',
-        '"dateModified": "2026-06-29"',
+        '"dateModified": "2026-07-02"',
         "Public evidence pack",
         "AI workflow and backend automation evidence in one route.",
         "First Slice Playbook, live evidence, CI, runbooks",
@@ -3137,7 +3141,7 @@ SOCIAL_PREVIEW_PAGE_SNIPPETS = {
 
 SITEMAP_LASTMOD_REQUIREMENTS = {
     "https://alexgerlitz.github.io/AlexGerlitz/": "2026-07-02",
-    "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html": "2026-06-29",
+    "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html": "2026-07-01",
     "https://alexgerlitz.github.io/AlexGerlitz/recruiter-proof-pack.html": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html": "2026-07-02",
@@ -3153,12 +3157,12 @@ SITEMAP_LASTMOD_REQUIREMENTS = {
     "https://alexgerlitz.github.io/AlexGerlitz/llms.txt": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html": "2026-06-30",
     "https://alexgerlitz.github.io/AlexGerlitz/ENTERPRISE_READINESS.md": "2026-06-30",
-    "https://alexgerlitz.github.io/AlexGerlitz/role-fit.html": "2026-06-29",
+    "https://alexgerlitz.github.io/AlexGerlitz/role-fit.html": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/role-targets.html": "2026-07-01",
     "https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html": "2026-06-29",
-    "https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html": "2026-06-29",
+    "https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html": "2026-06-29",
-    "https://alexgerlitz.github.io/AlexGerlitz/projects.html": "2026-06-29",
+    "https://alexgerlitz.github.io/AlexGerlitz/projects.html": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html": "2026-06-30",
     "https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html": "2026-07-01",
     "https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html": "2026-07-01",
@@ -3178,7 +3182,7 @@ SITEMAP_LASTMOD_REQUIREMENTS = {
     "https://alexgerlitz.github.io/AlexGerlitz/INBOUND_RESPONSE_PACK.md": "2026-06-29",
     "https://alexgerlitz.github.io/AlexGerlitz/ROLE_FIT.md": "2026-06-29",
     "https://alexgerlitz.github.io/AlexGerlitz/FLAGSHIP_PLATFORM.md": "2026-06-29",
-    "https://alexgerlitz.github.io/AlexGerlitz/ROLE_PROJECT_BRIEF.md": "2026-06-29",
+    "https://alexgerlitz.github.io/AlexGerlitz/ROLE_PROJECT_BRIEF.md": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/START_HERE.md": "2026-07-01",
     "https://alexgerlitz.github.io/AlexGerlitz/LINKEDIN_RECRUITER_PACKET.md": "2026-07-01",
     "https://alexgerlitz.github.io/AlexGerlitz/RECRUITER_PREFERENCES.md": "2026-07-02",
@@ -3190,10 +3194,10 @@ SITEMAP_LASTMOD_REQUIREMENTS = {
     "https://alexgerlitz.github.io/AlexGerlitz/RESUME.md": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/application-pack.html": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/APPLICATION_PACK.md": "2026-06-30",
-    "https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html": "2026-06-29",
+    "https://alexgerlitz.github.io/AlexGerlitz/first-30-days.html": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/FIRST_30_DAYS.md": "2026-07-02",
-    "https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html": "2026-06-29",
-    "https://alexgerlitz.github.io/AlexGerlitz/FIXED_SCOPE_OFFERS.md": "2026-06-29",
+    "https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html": "2026-07-02",
+    "https://alexgerlitz.github.io/AlexGerlitz/FIXED_SCOPE_OFFERS.md": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/services.html": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/linkedin-service-page-fit.html": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/SERVICES.md": "2026-07-02",
@@ -3818,6 +3822,12 @@ def check_bad_filenames(errors: list[str]) -> None:
             errors.append(f"{relative}: weak public filename")
 
 
+def check_forbidden_public_files(errors: list[str]) -> None:
+    for relative in sorted(FORBIDDEN_PUBLIC_FILES):
+        if (ROOT / relative).exists():
+            errors.append(f"{relative}: stale public artifact")
+
+
 def check_bad_patterns(errors: list[str]) -> None:
     compiled = [(pattern, re.compile(pattern, re.IGNORECASE)) for pattern in BAD_PATTERNS]
     for path in iter_public_text_files():
@@ -4035,6 +4045,7 @@ def main() -> int:
     check_required_text_key_shape(errors)
     check_required_files(errors)
     check_bad_filenames(errors)
+    check_forbidden_public_files(errors)
     check_bad_patterns(errors)
     check_legacy_proof_route_references(errors)
     check_required_text(errors)

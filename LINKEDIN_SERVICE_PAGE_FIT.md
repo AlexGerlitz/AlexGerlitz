@@ -12,7 +12,7 @@ the contact context is clear.
 The visible LinkedIn Services categories are broad routing labels: Cloud Application Development,
 Web Development, Application Development, Custom Software Development, Information Management, and
 IT Consulting. The actual offer is narrower:
-remote AI automation, backend automation and integration systems, CRM/ERP/API integration, internal tools, data
+Python/backend automation, AI workflow systems, CRM/ERP/API integration, internal tools, data
 workflows, and Docker/CI recovery work for real business operations.
 
 ## Best-Fit Service Requests

@@ -59,7 +59,7 @@ Evidence links:
 - [Role fit pack](./APPLICATION_PACK.md)
 - [Remote role targets](./ROLE_TARGETS.md)
 - [First 30 days delivery plan](./FIRST_30_DAYS.md)
-- [Remote AI automation services](./SERVICES.md)
+- [Python Backend & AI Workflow Services](./SERVICES.md)
 - [Fixed-scope AI automation offers](./FIXED_SCOPE_OFFERS.md)
 - [Inbound brief](./INTAKE_BRIEF.md)
 - [Proof of work summary](./PROOF_OF_WORK.md)

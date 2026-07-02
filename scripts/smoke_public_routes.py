@@ -747,7 +747,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Hiring Decision - Alex Gerlitz",
             "One-minute hiring decision route",
-            '"dateModified": "2026-06-29"',
+            '"dateModified": "2026-07-02"',
             '"@id": "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html#screening-answer"',
             '"@id": "https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html#shortlist-scorecard"',
             '"30-second screening answer"',

@@ -2,7 +2,7 @@
 
 Public route: https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html
 
-This is the compact review path for remote AI automation, backend automation and integration, CRM/ERP/API integration, Docker/CI handoff, internal tools, and technical review. It routes technical review into Decision-Ready Contact before the PDF resume handoff.
+This is the compact review path for Python/backend automation, AI workflow, CRM/ERP/API integration, Docker/CI handoff, internal tools, and technical review. It routes technical review into Decision-Ready Contact before the PDF resume handoff.
 
 ## Core Signal
 
