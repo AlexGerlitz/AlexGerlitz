@@ -13,25 +13,24 @@ I build **Python backend/API automation** for messy business workflows: FastAPI/
 | Delivery boundary | The useful signal is not "AI can write code"; it is that one real workflow can become a reviewed FastAPI/PostgreSQL/Telegram/admin slice with tests, logs, docs, and handoff. |
 | Stack fit | Core stack: Python, FastAPI, PostgreSQL, REST/OpenAPI, SQL, pytest/API smoke checks, Docker/Compose boundaries, GitHub Actions, docs, runbooks, and recovery notes. RAG/AI workflow evidence is a differentiator after the backend/API fit is clear. |
 ## Fast Public Review
-| Review first | Why it matters |
+| Open in this order | Why it matters |
 | --- | --- |
-| [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) | Role lane, first work sample, scope clarity, and contact prompt. |
-| [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) | Minimum role/project context: role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable. |
-| [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) | Bounded first-task screen before deeper portfolio review. |
-| [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) | First-role backend/internal-tools work sample with synthetic public evidence only. |
-| [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) | Two-page recruiter handoff after the evidence route is clear: role match, first-month ownership, work samples, scope clarity, and contact path. |
-| [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | One-page recruiter-readable fit summary for application upload or internal forwarding. |
-| [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) | Work sample for RAG, transcript analysis, approval, CRM handoff, audit, retries, and adapter boundaries. |
-| [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) | Deeper technical review for AI workflow, CRM/API handoff, tests, logs, and runbooks. |
+| [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) | 30-second role lane, first work sample, scope boundary, and recruiter prompt. |
+| [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) | The practical first-job question: what can a team safely give me first? |
+| [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) | First-role backend/internal-tools proof with synthetic public evidence only. |
+| [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) | Two-page handoff for forwarding after the role fit is clear. |
+| [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | One-page application upload or internal ATS handoff. |
+
+Deeper technical review after the first-role fit is clear: [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) for RAG/transcript/approval/CRM workflow evidence and [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) for tests, logs, runbooks, adapter boundaries, and AI workflow review.
 ## Recruiter Snapshot
 
 **Message me first when** there is one messy workflow, one risky integration boundary, or one Python/backend automation, API/CRM, QA automation, AI workflow, or reliability slice that should become testable, logged, documented, and handed off.
 
 **First reply promise:** I will answer with a fit read, risky assumptions, the smallest responsible first slice, the work sample to inspect, and the right next path: remote role, fixed-scope project, technical review, or no-fit.
 
-**Suggested recruiter path:** [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) after the evidence route is clear.
+**Suggested recruiter path:** [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf). Message on [LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) with role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable.
 
-LinkedIn support routes: [LinkedIn profile signal](https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html) for the profile-view signal, [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for Open-to-Work filters, and [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) for the skill-to-work-sample map.
+LinkedIn support routes: [LinkedIn Recruiter Review Path](https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html) for the profile-view signal, [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for Open-to-Work filters, [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) for first-contact context, and [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) for the skill-to-work-sample map.
 
 AI-native delivery loop: I use AI tooling to compress discovery, implementation, debugging, docs, and review into faster iteration, while architecture, state boundaries, privacy checks, tests, logs, deployment, runbooks, and shipped quality remain my responsibility.
 

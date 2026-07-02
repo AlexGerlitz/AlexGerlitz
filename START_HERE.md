@@ -1,198 +1,82 @@
 # Start Here
 
-Use this as a 2-minute decision route: remote role, fixed-scope project, or technical review.
+Use this as a 2-minute decision route for a remote role, fixed-scope project, or technical review.
 
 I build remote-first Python/backend automation, internal tools, QA/API verification, and API/CRM
 integration workflows for business operations. AI/RAG is a differentiator when it is attached to
 backend state, integration contracts, reviewable outputs, approvals, data quality, and supportable
-handoff. The best conversations start with a real workflow, a success condition, and enough context
-to choose the first responsible slice.
+handoff.
 
 Best immediate starts: Junior Backend / Python workflow slice, QA/API verification path, CRM/ERP/API
-adapter, internal operations tool, AI workflow automation tied to backend/integration/QA, reliability
-handoff recovery sprint, or DriveDesk AI Operator-style work sample.
+adapter, internal operations tool, or backend-owned AI workflow only when it has state, tests,
+logs, docs, and handoff.
 
 Fast fit checklist: message me when the work is remote-only and needs a Python/backend workflow,
-QA/API verification path, CRM/ERP/API integration, internal operations tool, backend-owned AI
-workflow, Docker/CI recovery/hardening path, or one first working slice with tests, logs, docs, and
-handoff. Not my target right now: onsite-only roles,
+QA/API verification path, CRM/ERP/API integration, internal operations tool, Docker/CI handoff, or
+one first working slice with tests, logs, docs, and handoff. Not my target right now: onsite-only roles,
 pure prompt/content tasks, isolated static websites, student/course assignments, standalone game
 clones, generic mobile/ecommerce apps without backend/integration ownership, or undefined outcomes
 with no way to verify success.
 
-Main review path:
-[Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) ->
-[Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) ->
-[First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) ->
-[Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) ->
-[Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) ->
-[AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) ->
-[DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) ->
-[AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) ->
-[DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html) -
-AI sales/support backend workflow with document/transcript/lead intake, RAG, OpenAI/Claude/Gemini provider boundary,
-transcript analysis, lead scoring, Telegram approval, importable n8n workflow artifacts, CRM adapter contracts, audit, retries, Docker,
-CI, RAG quality eval, and runbooks.
-
 ## Fast Decision Route
 
-| Time available | Start with | Decision signal |
+| Time available | Open first | Decision signal |
 | --- | --- | --- |
-| 30 seconds | [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [Recruiter Review Pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) -> [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html) | Message-first route, recruiter offer triage, 30-second fit, review order, shortlist signal, risk reduction, initial contact context, and next review path. Supporting routes: [LinkedIn profile signal](https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html) for the profile-view signal and [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for focused LinkedIn title/skills alignment. |
-| 60 seconds | [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) -> [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) | Role-market fit, parser-readable first-job lanes, exact stack keywords, Python/backend automation, QA/API verification, integration, AI workflow, Docker/CI boundary, runbooks, contact context, and resume evidence. |
-| 2 minutes | [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) -> [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [Role Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-pack.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | Focused review of first-job fit, application fit, architecture, backend state, integration contracts, English-first docs, async review, reliability, privacy, CI, runbooks, contact context, and handoff quality. |
-| Project request | [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html) -> [fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html) -> [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) -> [AI Ops Employer Trigger Evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md) -> [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/) -> [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) | Proposal-ready Services request: choose the closest trigger, inspect the evidence map and business scenario replay, then send current workflow, systems involved, one observable success condition, constraints, and what must not break. |
+| 30 seconds | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) | Role lane, first safe assignment, and public-safe work sample. Supporting routes: [LinkedIn Recruiter Review Path](https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html) and [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for focused LinkedIn title/skills alignment. |
+| 60 seconds | 30-second path -> [Recruiter Review Pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | Role-market fit, parser-readable first-job lanes, exact stack keywords, Python/backend automation, QA/API verification, integration, Docker/CI boundary, contact context, and resume evidence. |
+| Technical review | [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) | CI, live smoke, adapter contracts, privacy boundary, runbooks, QA/API verification, backend state, and what should be deferred until the first working path proves the direction. |
+| Project request | [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html) -> [fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html) -> [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html) -> [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) | Choose the closest trigger, inspect the evidence map and business scenario replay, then send current workflow, systems involved, one observable success condition, constraints, and what must not break. Optional deeper signal: [AI Ops Employer Trigger Evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md). |
 
-Useful first context: a remote role, project, or messy workflow plus one success condition.
-
-Ownership-first context: incomplete business context is enough when the message names the risky
-boundary, the systems involved, the first useful outcome, and what must be reviewable through
-code, CI, smoke checks, docs, runbooks, or handoff notes.
+Message reason router: use [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
+only when you need to choose between remote role hiring, workflow/project, and technical review
+before sending LinkedIn context.
 
 ## Search Intent Router
 
 | If your search starts with | Open first |
 | --- | --- |
-| Python Backend, Internal Tools, or Integration Engineer | [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) -> [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) -> [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
-| QA Automation Python, API Testing, or Quality Assurance Automation Engineer | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) |
-| CRM, ERP, API Integration, or Internal Tools | [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) -> [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) |
+| Python Backend, Internal Tools, or Integration Engineer | [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) |
+| QA Automation Python, API Testing, or Quality Assurance Automation Engineer | [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) -> [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) -> [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
+| CRM, ERP, API Integration, or Internal Tools | [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) -> [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) |
 | AI workflow, RAG, or automation review | [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) -> [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
-| Application upload, resume parser, or quick shortlist | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) -> [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html) -> [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) |
 | Reliability, Docker/CI, or operational handoff | [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) -> [DeployMate evidence](https://github.com/AlexGerlitz/deploymate#engineering-evidence-snapshot) -> [Enterprise Readiness](https://alexgerlitz.github.io/AlexGerlitz/enterprise-readiness.html) |
 
-Message reason router: use [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html)
-to choose remote role hiring, workflow/project, or technical review before sending LinkedIn context.
+## First-Contact Anchors
 
-First-contact anchors:
+- Remote role screen: "Can you send the best review path and the smallest first slice you would own?"
+- Workflow project: "Can you map the risks, review path, and first responsible slice?"
+- Technical review: "Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to create value."
 
-- remote role screen: "Can you send the best review path and the smallest first slice you would own?"
-- workflow project: "Can you map the risks, review path, and first responsible slice?"
-- technical review: "Please point me to the strongest repo, CI/live-smoke evidence, and the first slice you would use to create value."
-
-Deep review route:
-[First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) ->
-[Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html) ->
-[Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) ->
-[AI Backend Review Pack](./AI_BACKEND_PROOF_PACK.md) ->
-[AI Automation Role Fit](https://alexgerlitz.github.io/AlexGerlitz/ai-automation-role-fit.html) ->
-[AI Automation Role Fit Markdown](./AI_AUTOMATION_ROLE_FIT.md) ->
-[AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt) ->
-[AI Ops public evidence status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) ->
-[AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md) ->
-[AI Ops reviewer acceptance report](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/REVIEWER_ACCEPTANCE_REPORT.md) ->
-[AI Ops CI workflow](https://github.com/AlexGerlitz/ai-ops-workflow-kit/actions/workflows/ci.yml) ->
-[DriveDesk Core review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html) ->
-[Verification Pack](./VERIFICATION_PACK.md) ->
-[Enterprise Readiness](./ENTERPRISE_READINESS.md).
-
-Current platform anchor:
-[Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html),
-[DriveDesk Core repository](https://github.com/AlexGerlitz/drivedesk-core),
-[DriveDesk flagship backend workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html), and
-[platform notes](./FLAGSHIP_PLATFORM.md).
-
-## Choose The Route
-
-| If you are | Useful first context | Start with |
-| --- | --- | --- |
-| Recruiter | Role title, remote setup, stack, product domain, first-month ownership, hiring timeline. | [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html), [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html), [Recruiter Review Pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf), [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html), [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html), [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html), [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html), [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role Fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), [PDF Resume](./output/pdf/alex-gerlitz-python-backend-automation-resume.pdf), [Role Fit Pack](./APPLICATION_PACK.md) |
-| Hiring manager | Current technical/business pain, systems involved, what should improve first. | [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html), [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt), [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html), [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md), [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md), [Verification Pack](./VERIFICATION_PACK.md) |
-| Founder / client | Workflow, tools/data, success condition, deadline, budget range, handoff depth. | [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html), [fixed-scope offers](./FIXED_SCOPE_OFFERS.md), [AI Ops Business Scenario Replay](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/evidence/business-scenario-replay.txt), [AI Ops Employer Trigger Evidence](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/EMPLOYER_TRIGGER_PROOF.md), [AI Ops First Slice Playbook](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/FIRST_SLICE_PLAYBOOK.md), [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/), [Inbound Brief](./intake-brief.html) |
-| Technical reviewer | Repo/system link, failure mode, logs/error text, what must not break, current verification. | [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html), [Verification Pack](./VERIFICATION_PACK.md), [Enterprise Readiness](./ENTERPRISE_READINESS.md), [Case Studies](https://alexgerlitz.github.io/AlexGerlitz/case-studies.html) |
-| Warm inbound | Message context, role/project link, success condition, next step. | [Contact Routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html) |
+Ownership-first context: incomplete business context is enough when the message names the risky
+boundary, the systems involved, the first useful outcome, and what must be reviewable through code,
+CI, smoke checks, docs, runbooks, or handoff notes.
 
 ## Best-Fit Problems
 
 - FastAPI/PostgreSQL backend or internal operations backend.
 - QA/API verification path with Python, pytest, REST/OpenAPI checks, SQL/data checks, logs, smoke
   routes, issue notes, and repeatable pass/fail evidence.
-- CRM/ERP/1C/banking/API integration adapter.
-- AI/RAG workflow around documents, transcripts, tickets, leads, approvals, or operator queues.
-- Docker/CI/deployment/recovery hardening.
-- Admin tools, audit trails, workflow state, validation, logs, runbooks, and handoff docs.
+- CRM/ERP/API integration adapter.
+- AI/RAG workflow around documents, transcripts, tickets, leads, approvals, or operator queues when
+  the AI output is attached to backend state and review.
+- Docker/CI/deployment/recovery handoff as delivery support, not senior platform ownership.
 
-## Not A Fit Right Now
+## Direction
 
-- onsite-only roles;
-- pure prompt/content tasks without engineering ownership;
-- isolated static websites;
-- student/course assignments;
-- standalone game clones;
-- generic mobile/ecommerce apps without backend/integration ownership;
-- undefined outcomes where success cannot be tested, demonstrated, or handed off.
+Current proof base: DriveDesk / Autoschool Intake/Admin is the current business-workflow proof
+base. DriveDesk AI Operator is the sharpest current deeper work sample after the first-role fit is
+clear.
 
-## Useful First Context
+Longer backend workflow path: grow from one public-safe Autoschool intake/admin slice toward
+backend workflow ownership: roles, records, workflows, adapters, audit/outbox, admin/operator
+surfaces, Docker/CI handoff, observability, backups, and recovery paths.
 
-- role or project surface;
-- remote setup and expected ownership;
-- stack or systems involved;
-- current workflow or technical pain;
-- what should improve first;
-- deadline, timeline, or first-month success condition.
-
-## Fast Decision Signals
-
-Remote role signal:
-
-- role title and remote setup;
-- stack, team surface, and ownership boundary;
-- first-month ownership and hiring timeline;
-- best review path: https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html
-
-Workflow/integration signal:
-
-- business process and current tools/data;
-- success condition and constraints;
-- systems that must stay stable;
-- useful first outcome: working slice with tests, docs, and handoff.
-
-Technical review signal:
-
-- repo, workflow, or architecture to inspect;
-- claim or risk to validate;
-- available evidence: CI, logs, demo, docs, or runbook;
-- expected output: fix plan, review path, or first slice;
-- verification pack: https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html
-
-## Fast Review Path
-
-1. [Portfolio page](https://alexgerlitz.github.io/AlexGerlitz/)
-2. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
-3. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
-4. [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
-5. [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-6. [Flagship backend workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
-7. [Selected work samples](https://alexgerlitz.github.io/AlexGerlitz/projects.html)
-8. [Skill evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Role fit](https://alexgerlitz.github.io/AlexGerlitz/role-fit.html), and [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
-9. [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) after the contact context is clear
-10. [Start Conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html), [Inbound Brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html), or [LinkedIn Services](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
-11. [Proposal-ready Services request](https://alexgerlitz.github.io/AlexGerlitz/services.html) and [fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html) when LinkedIn Services asks for a short project request or proposal context
-
-## Deep Review Paths
-
-- [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-ai-operator.html)
-- [Flagship Backend Workflow](https://alexgerlitz.github.io/AlexGerlitz/flagship-platform.html)
-- [AI Ops offer demo](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/OFFER_DEMO.md)
-- [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html)
-- [Role Fit Pack](./APPLICATION_PACK.md)
-- [DriveDesk Core Review](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-core-review.html)
-- [Verification Pack](./VERIFICATION_PACK.md)
-- [Fixed-Scope Offers](./FIXED_SCOPE_OFFERS.md)
-- [Services](https://alexgerlitz.github.io/AlexGerlitz/services.html)
-- [First Month Delivery Plan](./FIRST_30_DAYS.md)
-
-## What You Can Expect Back
-
-- risky assumptions and missing information;
-- smallest responsible first slice;
-- likely data model / integration boundary;
-- verification plan;
-- what can ship first;
-- what should wait until the first working path produces reviewable evidence.
+Wait until the first working path is proven before claiming senior DevOps ownership,
+Kubernetes/Terraform-first platform ownership, or AI-first capability that is not tied to backend
+state, verification, privacy, logs, docs, and handoff.
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/alex-gerlitz-a659ab3bb](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)
 - LinkedIn Services: [linkedin.com/services/page/3153b734507b8a60ab](https://www.linkedin.com/services/page/3153b734507b8a60ab/)
-- Services: https://alexgerlitz.github.io/AlexGerlitz/services.html
 - GitHub: [github.com/AlexGerlitz](https://github.com/AlexGerlitz)
