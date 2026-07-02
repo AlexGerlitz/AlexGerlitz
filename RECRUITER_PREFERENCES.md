@@ -25,7 +25,7 @@ Checked on 2026-07-01.
 
 - LinkedIn Open-to-Work explicitly uses job titles, location type, locations, employment types, and visibility, so the profile should not spread the first-job surface across unrelated titles.
 - LinkedIn Skills are a matching surface and can include up to 100 skills, so the top visible skills should stay tied to public evidence and role keywords.
-- LinkedIn Featured is an evidence surface, so first visible work samples should be short review paths: LinkedIn Review Signal, LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack before deeper routes.
+- LinkedIn Featured is an evidence surface, so first visible work samples should be short review paths: LinkedIn Recruiter Review Path, LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack before deeper routes.
 - GitHub profile README and pinned repositories remain the fastest public technical review path, so the README, pins, Pages routes, CI/live smoke, and PDF resume must stay aligned.
 - Russia-first market scan supports band-aware private screening for serious remote full-time outreach; international-market scan supports keeping English-first async/team evidence visible for later international screening without making geography the public ask.
 
@@ -107,7 +107,7 @@ This page mirrors the visible LinkedIn setup I want recruiters to see before sen
 | --- | --- |
 | Headline | Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations | QA Automation Python support |
 | About / Experience | First-person ownership language around Python backend/application-support work, backend-owned AI workflow and operations systems, the AI-native delivery loop, evidence-slice contact language, real Autoschool54 operations since March 2024, and privacy-safe public evidence. |
-| Featured route | LinkedIn Review Signal first, then LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack. Decision-Ready Contact is the message route after a concrete role or workflow appears; Delivery Capability, Application Fit Pack, DriveDesk AI Operator route, DriveDesk Core, AI Backend Review Pack, Verification Pack, and PDF Resume are deeper routes after first context. |
+| Featured route | LinkedIn Recruiter Review Path first, then LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack. Decision-Ready Contact is the message route after a concrete role or workflow appears; Delivery Capability, Application Fit Pack, DriveDesk AI Operator route, DriveDesk Core, AI Backend Review Pack, Verification Pack, and PDF Resume are deeper routes after first context. |
 | Open-to-Work | Remote job titles and skill filters aligned with Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, and reliability handoff. |
 | Resume / handoff | Decision-Ready Contact and Start Conversation routes before PDF Resume for internal sharing. |
 | Services | Live LinkedIn Services overview and media route requests toward Python/backend automation, AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow evidence instead of generic web/app work. |
@@ -148,7 +148,7 @@ Docker/CI is handoff evidence; I am not selling senior DevOps, Kubernetes, Terra
 Fast review path: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html
 ```
 
-Featured order: keep LinkedIn Review Signal, LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack immediately visible; route Delivery Capability, Application Fit Pack, DriveDesk AI Operator, Python Backend & AI Workflow Services, and DriveDesk Core as the deeper evidence stack.
+Featured order: keep LinkedIn Recruiter Review Path, LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack immediately visible; route Delivery Capability, Application Fit Pack, DriveDesk AI Operator, Python Backend & AI Workflow Services, and DriveDesk Core as the deeper evidence stack.
 
 Public evidence boundary: Use synthetic screenshots or diagrams only; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
 

@@ -1,11 +1,11 @@
-# LinkedIn Review Signal
+# LinkedIn Recruiter Review Path
 
-I use this as the short public update route for a LinkedIn profile view, a recruiter share, or a first message handoff. It points reviewers to the strongest review path without asking them to read the whole portfolio first.
+I use this as the open-first public route for a LinkedIn profile view, a recruiter share, or a first message handoff. It points reviewers to the strongest backend-first review path without asking them to read the whole portfolio first.
 
 ## What Changed
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability review path.
-- The recommended first-job Featured route starts with LinkedIn Review Signal, then LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack. Delivery Capability, Application Fit Pack, DriveDesk AI Operator route, AI Backend Review Pack, Verification Pack, and fixed-scope routes stay available from GitHub/Pages when deeper review is needed.
+- The recommended first-job Featured route starts with LinkedIn Recruiter Review Path, then LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack. Delivery Capability, Application Fit Pack, DriveDesk AI Operator route, AI Backend Review Pack, Verification Pack, and fixed-scope routes stay available from GitHub/Pages when deeper review is needed.
 - The live Skills surface is verified instead of assumed: All view starts with Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, and ERP; CRM remains evidence-backed through About, Services, and public routes. Tools & Technologies surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.
 - LinkedIn did not expose a clean reorder control; the current safe state is CI/CD first, Python immediately after it, and every visible top skill tied to public evidence instead of loose keywords.
 - The public GitHub route connects search-fit signal, public evidence, contact context, and resume handoff.
@@ -97,7 +97,7 @@ Fast review path: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signa
 
 Profile alignment checklist:
 
-- Keep LinkedIn Review Signal as the first Featured route.
+- Keep LinkedIn Recruiter Review Path as the first Featured route.
 - Keep LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack visible before deeper portfolio routes.
 - Keep Delivery Capability, Application Fit Pack, Skill Evidence, and Verification Pack as parser-readable recruiter/application review routes.
 - Keep DriveDesk AI Operator as the deeper AI/backend workflow route, not the first proof a cold recruiter has to parse.
