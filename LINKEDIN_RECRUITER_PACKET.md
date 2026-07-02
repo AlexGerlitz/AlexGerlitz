@@ -47,7 +47,7 @@ Use this page when a LinkedIn profile view needs a fast decision: whether to mes
 Send one remote role or one workflow, one success condition, systems involved, ownership boundary, timeline, and compensation band if shareable.
 
 ```text
-Hi Alex, I am hiring for a remote Python/backend, QA/API, internal-tools, CRM/API integration, or AI workflow role. Role: ... Stack/systems: ... First-month ownership: ... Can you send the best review path and smallest first slice you would own? Please include fit risks.
+Hi Alex, I am hiring for a remote Python/backend, QA/API, internal-tools, CRM/API integration, or backend-owned AI workflow role. Role: ... Stack/systems: ... First-month ownership: ... Can you send the best review path and smallest first slice you would own? Please include fit risks.
 ```
 
 ## Review Order

@@ -147,7 +147,7 @@ Hi, I am interested in this integration/API role. I can map one source and one t
 ### AI Workflow / RAG
 
 ```text
-Hi, I am interested in this AI workflow role where the output must be reviewed and handed off. I can build a backend-owned flow around retrieval, structured output, approvals, logs, CRM-safe handoff, tests, and runbooks. Fast review path: AI Automation Role Fit -> AI Backend Review Pack -> DriveDesk AI Operator.
+Hi, I am interested in this backend-owned AI workflow role where the output must be reviewed and handed off. I can build a flow around retrieval, structured output, approvals, logs, CRM-safe handoff, tests, and runbooks. Fast review path: AI Automation Role Fit -> AI Backend Review Pack -> DriveDesk AI Operator.
 ```
 
 ### Short Recruiter Reply
