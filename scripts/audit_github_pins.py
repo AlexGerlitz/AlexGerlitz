@@ -149,7 +149,7 @@ EXPECTED_PINS: tuple[ExpectedPin, ...] = (
         ),
         (
             "I build **Python backend/API automation** for messy business workflows",
-            "DriveDesk and Autoschool Intake/Admin are the proof surfaces",
+            "Key work samples: DriveDesk and Autoschool Intake/Admin show how I turn business workflows into reviewable backend/API slices",
             "Fast Public Review",
             "Decision Snapshot",
             "DriveDesk AI Operator",
