@@ -1,27 +1,26 @@
 # Alex Gerlitz
 [![Profile Funnel Audit](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml) [![Live Profile Smoke](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml/badge.svg?branch=main)](https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/live-profile-smoke.yml)
 ## 10-Second Shortlist
-I build **Python backend/API automation** for messy business workflows: FastAPI/PostgreSQL services, admin queues, REST/OpenAPI boundaries, API/CRM integrations, QA/API checks, and handoff docs. Key work samples: DriveDesk and Autoschool Intake/Admin show how I turn business workflows into reviewable backend/API slices.
+I build **Python backend/API automation** for messy business workflows: FastAPI/PostgreSQL services, admin queues, REST/OpenAPI boundaries, API/CRM integrations, QA/API checks, and handoff docs. Primary proof: Autoschool Intake/Admin shows a private workflow turned into a public-safe backend/API slice; DriveDesk is the deeper technical proof after the first-role fit is clear.
 
 **I am open for remote-only full-time roles** where the first month can prove one working slice: Junior Python Backend Developer, Junior Backend Developer, QA Automation Python, API Testing / Test Automation Engineer, CRM/API Integration Engineer, Application Support Engineer with Python, or Internal Tools Engineer.
 
 **First useful result:** one FastAPI endpoint, data model, admin queue step, API/CRM mapping, pytest/API smoke check, SQL/data check, or runbook gap shipped as a reviewed slice with docs and handoff notes.
 
-| Signal | Recruiter read |
-| --- | --- |
-| Work sample | Public work samples show a business workflow from request intake to backend validation, database record, admin queue, and operator status. Private production data is replaced with synthetic public evidence. |
-| Delivery boundary | The useful signal is not "AI can write code"; it is that one real workflow can become a reviewed FastAPI/PostgreSQL/Telegram/admin slice with tests, logs, docs, and handoff. |
-| Stack fit | Core stack: Python, FastAPI, PostgreSQL, REST/OpenAPI, SQL, pytest/API smoke checks, Docker/Compose boundaries, GitHub Actions, docs, runbooks, and recovery notes. RAG/AI workflow evidence is a differentiator after the backend/API fit is clear. |
+**Recruiter read:** public work samples show request intake -> backend validation -> database record -> admin queue -> operator status, with private production data replaced by synthetic evidence.
+
+**Delivery boundary:** the useful signal is not "AI can write code"; it is that one real workflow can become a reviewed FastAPI/PostgreSQL/Telegram/admin slice with tests, logs, docs, and handoff.
+
+**Stack fit:** Python, FastAPI, PostgreSQL, REST/OpenAPI, SQL, pytest/API smoke checks, Docker/Compose boundaries, GitHub Actions, docs, runbooks, and recovery notes. RAG/AI workflow evidence stays visible only after the backend/API fit is clear.
 ## Fast Public Review
 | Open in this order | Why it matters |
 | --- | --- |
 | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) | 30-second role lane, first work sample, scope boundary, and recruiter prompt. |
 | [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) | The practical first-job question: what can a team safely give me first? |
 | [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) | First-role backend/internal-tools proof with synthetic public evidence only. |
-| [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) | Two-page handoff for forwarding after the role fit is clear. |
 | [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | One-page application upload or internal forwarding. |
 
-Deeper technical review after the first-role fit is clear: [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) for RAG/transcript/approval/CRM workflow evidence and [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) for tests, logs, runbooks, adapter boundaries, and AI workflow review.
+Forwarding after fit is clear: [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf). Deeper technical review: [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) and [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html).
 For application parsers and plain-text uploads: [ATS plain-text resume](https://alexgerlitz.github.io/AlexGerlitz/output/txt/alex-gerlitz-ats-resume.txt).
 ## Recruiter Snapshot
 
@@ -29,7 +28,7 @@ For application parsers and plain-text uploads: [ATS plain-text resume](https://
 
 **First reply promise:** I will answer with a fit read, risky assumptions, the smallest responsible first slice, the work sample to inspect, and the right next path: remote full-time screen, technical review, scoped project, or no-fit.
 
-**Suggested recruiter path:** [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf). [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) with role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable.
+**Suggested recruiter path:** [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf). Use the recruiter review pack only after the role fit is clear. [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) with role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable.
 
 LinkedIn support routes: [LinkedIn Recruiter Review Path](https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html) for the profile-view signal, [Recruiter Preferences](https://alexgerlitz.github.io/AlexGerlitz/recruiter-preferences.html) for Open-to-Work filters, [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) for first-contact context, and [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html) for the skill-to-work-sample map.
 
@@ -41,7 +40,7 @@ Search-fit titles: Junior Backend Developer, Junior Python Developer, Python Aut
 
 LinkedIn recruiter search alignment: remote-only full-time roles where Python, FastAPI, PostgreSQL, Docker, GitHub Actions, RAG, Vector Databases, CRM/ERP/API integration, QA Automation Python, OpenAPI, n8n, Telegram, or pgvector appear in the role.
 
-Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, AI workflow automation, reliability handoff, or DriveDesk AI Operator-style work sample.
+Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, internal operations tool, QA/API verification path, or reliability handoff. AI workflow automation is a differentiator after backend/API ownership is established.
 ## Decision Snapshot
 
 | Send me | Best match | Fast review |
