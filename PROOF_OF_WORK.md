@@ -88,7 +88,7 @@ Checked on 2026-06-30:
 - Profile Funnel Audit succeeded on `593117c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28516899562
 - Profile Pages deployment succeeded on `593117c`: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28516898395
 - Live Profile Smoke succeeded on `593117c` after Pages deployment: https://github.com/AlexGerlitz/AlexGerlitz/actions/runs/28516899535
-- Live Pages status is `built`, and direct live snippet checks confirmed GitHub profile render, portfolio, Application Outreach Pack, LinkedIn Review Signal, Recruiter Preferences, sitemap, raw evidence markdown, PDF resume, images, and public review paths.
+- Live Pages status is `built`, and direct live snippet checks confirmed GitHub profile render, portfolio, Application Outreach Pack, Backend/API Work Samples, Recruiter Preferences, sitemap, raw evidence markdown, PDF resume, images, and public review paths.
 - GitHub profile evidence metadata audit runs inside Live Profile Smoke for pinned repositories: `drivedesk-core`, `ai-ops-workflow-kit`, `deploymate`, `AlexGerlitz`, and `MPlusForm`.
 - Profile Funnel Audit workflow: https://github.com/AlexGerlitz/AlexGerlitz/actions/workflows/profile-audit.yml?query=branch%3Amain
 - Profile Pages deployment history: https://github.com/AlexGerlitz/AlexGerlitz/actions?query=branch%3Amain+workflow%3Apages-build-deployment

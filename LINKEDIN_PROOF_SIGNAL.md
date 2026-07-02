@@ -7,7 +7,6 @@ I use this as the open-first public route for a LinkedIn profile view, a recruit
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability review path.
 - Start with the recruiter packet, first backend role fit, and Autoschool Intake/Admin sample. They show the target role, first assignment, public-safe backend evidence, and a compact path into deeper technical review.
 - Skills are tied to public evidence instead of loose keywords: Python, REST/OpenAPI, GitHub, Docker, FastAPI, PostgreSQL, QA/API checks, systems integration, CRM/ERP/API boundaries, and handoff quality.
-- The public GitHub route connects search fit, work samples, verification, contact context, and resume handoff.
 - The public GitHub route connects search-fit signal, public evidence, contact context, and resume handoff.
 - Docker/CI stays supporting evidence for handoff and reliability, not the main senior DevOps claim.
 
