@@ -2,7 +2,7 @@
 
 I use this as the open-first public route for a LinkedIn profile view, a recruiter share, or a first message handoff. It points reviewers to the strongest backend-first review path without asking them to read the whole portfolio first.
 
-## What Changed
+## Why This Fits
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability review path.
 - Start with the recruiter packet, first backend role fit, and Autoschool Intake/Admin sample. They show the target role, first assignment, public-safe backend evidence, and a compact path into deeper technical review.
