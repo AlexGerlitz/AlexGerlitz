@@ -5,7 +5,7 @@ I use this as the short public update route for a LinkedIn profile view, a recru
 ## What Changed
 
 - LinkedIn profile positioning, Services, Featured work samples, About, English profile path, and visible skill context point to the same Python/backend automation, internal tools, API/CRM integration, QA automation Python, AI workflow, and reliability review path.
-- The recommended first-job Featured route starts with LinkedIn Review Signal, then Delivery Capability, Application Fit Pack, First Backend Role Fit, Autoschool Intake/Admin work sample, DriveDesk AI Operator route, and DriveDesk Core. AI Backend Review Pack, Verification Pack, and fixed-scope routes stay available from GitHub/Pages when deeper review is needed.
+- The recommended first-job Featured route starts with LinkedIn Review Signal, then LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack. Delivery Capability, Application Fit Pack, DriveDesk AI Operator route, AI Backend Review Pack, Verification Pack, and fixed-scope routes stay available from GitHub/Pages when deeper review is needed.
 - The live Skills surface is verified instead of assumed: All view starts with Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, and ERP; CRM remains evidence-backed through About, Services, and public routes. Tools & Technologies surfaces Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.
 - LinkedIn did not expose a clean reorder control; the current safe state is CI/CD first, Python immediately after it, and every visible top skill tied to public evidence instead of loose keywords.
 - The public GitHub route connects search-fit signal, public evidence, contact context, and resume handoff.
@@ -43,16 +43,13 @@ Checked on 2026-07-01. I use this to keep LinkedIn/GitHub edits tied to how recr
 
 ## Fast Review Path
 
-1. [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html)
-2. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
-3. [Hiring Decision](https://alexgerlitz.github.io/AlexGerlitz/hiring-decision.html)
-4. [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html)
-5. [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html)
-6. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
-7. [Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/backend-first-screen.html)
-8. [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
-9. [DriveDesk AI Operator route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html)
-10. [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html)
+1. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
+2. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
+3. [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
+4. [Recruiter Review Pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf)
+5. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
+
+[Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) is the first contact route when a recruiter already has a concrete role or workflow. [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html), [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html), [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [DriveDesk AI Operator route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), and [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) are deeper technical review, not the first screen.
 
 ## LinkedIn Profile Copy Pack
 
@@ -79,7 +76,7 @@ Short review direction (not live About copy):
 ```text
 I build Python backend/API automation and internal tools for real business workflows: FastAPI/PostgreSQL backends, admin queues, REST/OpenAPI contracts, CRM/ERP/API adapters, pytest/API smoke checks, Docker/CI handoff, runbooks, and recovery paths.
 
-Fastest evidence to review: Decision-Ready Contact -> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume after the evidence route is clear. That route shows a first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, with synthetic public evidence only.
+Fastest evidence to review: LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter Review Pack -> PDF resume. That route shows a first useful workflow slice, Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow, with synthetic public evidence only.
 ```
 
 LinkedIn About replacement:
@@ -101,9 +98,9 @@ Fast review path: https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signa
 Profile alignment checklist:
 
 - Keep LinkedIn Review Signal as the first Featured route.
-- Keep Delivery Capability and Application Fit Pack visible for parser-readable recruiter and application review.
-- Keep First Backend Role Fit and Autoschool Intake/Admin work sample directly visible for first-job backend evidence.
-- Keep DriveDesk AI Operator as the flagship AI/backend workflow route.
+- Keep LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack visible before deeper portfolio routes.
+- Keep Delivery Capability, Application Fit Pack, Skill Evidence, and Verification Pack as parser-readable recruiter/application review routes.
+- Keep DriveDesk AI Operator as the deeper AI/backend workflow route, not the first proof a cold recruiter has to parse.
 - Use only synthetic screenshots or diagrams; do not use live admin captures, real names, internal labels, contact details, record identifiers, logs, private routes, or credentials.
 
 ## Profile Text Alignment
@@ -155,7 +152,7 @@ LinkedIn did not expose Junior Backend Developer as a usable title in the live p
 First outreach or application message:
 
 ```text
-Hi, I am interested in this remote Python/backend automation role. I can send a review path first: Decision-Ready Contact -> LinkedIn Recruiter Packet -> Delivery Capability -> First Backend Role Fit -> Autoschool Intake/Admin work sample. I am strongest on internal tools, API/CRM integration, QA/API verification, AI workflow automation, and one verified working slice with tests, logs, docs, and handoff.
+Hi, I am interested in this remote Python/backend role. Best first proof: LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin. I am strongest on backend/API slices, internal tools, API/CRM integration, QA/API verification, and AI workflow only when it has backend-owned state, tests, logs, docs, and handoff.
 ```
 
 Live update order: GitHub bio -> LinkedIn headline -> LinkedIn About replacement -> Open-to-Work titles -> Featured order.
@@ -186,7 +183,7 @@ Remote Junior Python Backend / API Automation first. Adjacent lanes: QA/API Pyth
 
 ### First review order
 
-Decision-Ready Contact -> LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter Review Pack -> PDF resume after first-contact context is clear.
+LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter Review Pack -> PDF resume. Use Decision-Ready Contact after a concrete role or workflow is already on the table.
 
 ### Search keywords
 
