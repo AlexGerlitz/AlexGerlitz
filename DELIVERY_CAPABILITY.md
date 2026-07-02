@@ -2,11 +2,11 @@
 
 Public route: https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html
 
-I build the strongest first-job fit around AI-assisted Python automation, internal tools,
-backend integration, and supportable operations workflows. My current advantage is not a claim
-that I already know every platform deeply. My advantage is that I can take an unclear business
-workflow, use AI tooling as an engineering accelerator, reduce it to a safe first slice, ship a
-working result, verify it, and leave the handoff readable.
+I build the strongest first-job fit around Python backend/internal-tools automation, API
+integration, QA/API verification, and supportable operations workflows. My current advantage is
+not a claim that I already know every platform deeply. My advantage is that I can take an unclear
+business workflow, use AI tooling as an engineering accelerator, reduce it to a safe first slice,
+ship a working result, verify it, and leave the handoff readable.
 
 ## Current Role-Market Fit
 

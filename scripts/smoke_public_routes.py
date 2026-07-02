@@ -620,7 +620,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         "https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html",
         (
             "Delivery Capability - Alex Gerlitz",
-            "I build AI-assisted Python automation, internal tools, backend integration, and supportable operations workflows",
+            "I build Python backend/internal-tools automation, API integration, QA/API verification, and supportable operations workflows",
             '"@context": "https://schema.org"',
             '"@type": "ProfilePage"',
             '"@type": "Person"',
@@ -663,7 +663,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         "https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html",
         (
             "Application Fit Pack - Alex Gerlitz",
-            "Parser-readable application fit pack for AI-assisted Python automation, internal tools, API/CRM integration, QA Automation Python bridge",
+            "Parser-readable application fit pack for Python backend/internal-tools automation, API/CRM integration, QA Automation Python bridge",
             '"@context": "https://schema.org"',
             '"@type": "ProfilePage"',
             '"@type": "Person"',
@@ -843,7 +843,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Backend/API Work Samples",
             "backend/API work samples",
             "Delivery Capability",
-            "deeper role-market fit for AI-assisted Python automation, internal tools, backend integration, QA Automation Python bridge",
+            "deeper role-market fit for Python backend/internal-tools automation, API integration, QA Automation Python bridge",
             "Application Outreach Pack",
             "role-specific application and recruiter-message layer with first-person English outreach blocks, Russian HH/Telegram short replies, ATS keyword bundles, vacancy triage, truthful Docker/CI and AI boundaries, privacy limits, and work samples",
             "AI Ops Employer Trigger Evidence",
@@ -1908,7 +1908,7 @@ ROUTES: tuple[RouteCheck, ...] = (
         (
             "Delivery Capability",
             "Public route: https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html",
-            "I build the strongest first-job fit around AI-assisted Python automation, internal tools,",
+            "I build the strongest first-job fit around Python backend/internal-tools automation, API",
             "Current Role-Market Fit",
             "Python Automation Engineer / Backend Automation Engineer.",
             "Internal Tools Developer.",

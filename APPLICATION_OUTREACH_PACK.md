@@ -119,7 +119,7 @@ dumps, record identifiers, tokens, or credentials. Public evidence uses syntheti
 
 | Signal | Apply now | Adapt first | Skip |
 | --- | --- | --- | --- |
-| Role lane | Python/backend, QA/API Python, integration/API/CRM, AI workflow with backend ownership | Backend role with unclear first task or broad AI wording | Senior platform, Kubernetes/Terraform-first, onsite-only, pure content |
+| Role lane | Python/backend, QA/API Python, integration/API/CRM, backend-owned AI workflow | Backend role with unclear first task or broad AI wording | Senior platform, Kubernetes/Terraform-first, onsite-only, pure content |
 | First result | One workflow slice, API check, adapter, admin path, or verification route | Team wants a broad system but can name the first slice | Success cannot be tested or handed off |
 | Stack overlap | Python, FastAPI, PostgreSQL/SQL, REST/OpenAPI, pytest, Docker Compose, GitHub Actions | Adjacent stack with enough API/data workflow ownership | No Python/API/data/backend ownership |
 | Review path | One public work sample directly matches the vacancy | Review path needs a short framing note | Evidence would require private data or fake claims |
@@ -184,7 +184,7 @@ path, or one smoke-checked backend route.
 
 ## Application Loop
 
-1. Pick one lane: Python backend/internal tools, QA/API verification, integration/API/CRM, or AI workflow.
+1. Pick one lane: Python backend/internal tools, QA/API verification, integration/API/CRM, or backend-owned AI workflow.
 2. Use one work sample, not a pile of links.
 3. State one first useful result with input, state, output, verification, and handoff.
 4. Keep Docker/CI and AI as supporting evidence unless the role clearly asks for them.

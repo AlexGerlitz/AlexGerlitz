@@ -699,7 +699,7 @@ REQUIRED_TEXT = {
     ],
     "delivery-capability.html": [
         "<title>Delivery Capability - Alex Gerlitz</title>",
-        "I build AI-assisted Python automation, internal tools, backend integration, and supportable operations workflows",
+        "I build Python backend/internal-tools automation, API integration, QA/API verification, and supportable operations workflows",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html"',
         'property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html"',
         'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-29-recruiter-route"',
@@ -743,7 +743,7 @@ REQUIRED_TEXT = {
     "DELIVERY_CAPABILITY.md": [
         "# Delivery Capability",
         "Public route: https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html",
-        "I build the strongest first-job fit around AI-assisted Python automation, internal tools,",
+        "I build the strongest first-job fit around Python backend/internal-tools automation, API",
         "Current Role-Market Fit",
         "Python Automation Engineer / Backend Automation Engineer.",
         "Internal Tools Developer.",
@@ -767,7 +767,7 @@ REQUIRED_TEXT = {
     ],
     "application-fit-pack.html": [
         "<title>Application Fit Pack - Alex Gerlitz</title>",
-        "Parser-readable application fit pack for AI-assisted Python automation, internal tools, API/CRM integration, QA Automation Python bridge",
+        "Parser-readable application fit pack for Python backend/internal-tools automation, API/CRM integration, QA Automation Python bridge",
         'rel="canonical" href="https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html"',
         'property="og:url" content="https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html"',
         'property="og:image" content="https://alexgerlitz.github.io/AlexGerlitz/assets/recruiter-card.png?v=2026-06-29-recruiter-route"',
@@ -2779,7 +2779,7 @@ REQUIRED_TEXT = {
         "Backend/API Work Samples",
         "backend/API work samples",
         "Delivery Capability",
-        "deeper role-market fit for AI-assisted Python automation, internal tools, backend integration, QA Automation Python bridge",
+        "deeper role-market fit for Python backend/internal-tools automation, API integration, QA Automation Python bridge",
         "Application Fit Pack",
         "parser-readable role application lanes for Python backend/internal tools, Integration/API/CRM, QA Automation Python",
         "LinkedIn profile",
