@@ -2757,7 +2757,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Message Triggers",
             "PDF resume",
             "social cards/images",
-            "Featured route: public Featured target starts with Backend/API Work Samples",
+            "Featured route: published Backend/API Work Samples route starts the LinkedIn-facing review path",
             "routes to LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and PDF resume",
             "Skills surface: All view shows Continuous Integration and Continuous Delivery (CI/CD), Python, REST APIs, OpenAPI Specification (OAS), GitHub, DevOps, Platform Architecture, Systems Integration, Vector Databases, and ERP; Tools & Technologies shows Python, REST APIs, GitHub, Telegram, pytest, OpenAPI, SaaS, Docker, FastAPI, and PostgreSQL.",
             "Services route concrete backend-owned AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow requests.",
