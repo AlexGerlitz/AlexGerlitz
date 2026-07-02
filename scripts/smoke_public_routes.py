@@ -2922,6 +2922,7 @@ def fetch(route: RouteCheck) -> tuple[int, str, bytes]:
 
 def check_route(route: RouteCheck) -> list[str]:
     errors: list[str] = []
+    print(f"checking {route.name}: {route.url}", flush=True)
     try:
         status, content_type, body = fetch(route)
     except HTTPError as exc:
