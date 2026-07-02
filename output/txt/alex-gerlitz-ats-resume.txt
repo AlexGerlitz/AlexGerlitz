@@ -1,0 +1,61 @@
+Alex Gerlitz
+Python Backend / API Automation
+
+LinkedIn: https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/
+GitHub: https://github.com/AlexGerlitz
+Portfolio: https://alexgerlitz.github.io/AlexGerlitz/
+Recruiter packet: https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html
+PDF resume: https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf
+
+SUMMARY
+Remote-only Python/backend automation candidate focused on first-role evidence: FastAPI/PostgreSQL workflow slices, internal tools, REST/OpenAPI APIs, API/CRM integration, QA/API verification, admin queues, SQL/data checks, Docker Compose handoff, GitHub Actions, docs, runbooks, and public-safe work samples.
+
+Target roles: Junior Python Backend Developer, Junior Backend Developer, Back End Developer, Python Developer, QA Automation Python, API Testing / Test Automation Engineer, CRM/API Integration Engineer, Integration Engineer, Internal Tools Developer, Application Support Engineer with Python.
+
+First useful assignment: one FastAPI endpoint, data model, admin queue step, API/CRM mapping, SQL/data check, pytest/API smoke check, or runbook gap shipped as a reviewed slice with evidence and handoff.
+
+CORE SKILLS
+Python, FastAPI, PostgreSQL, SQL, REST APIs, OpenAPI, pytest, API testing, QA Automation Python, SQL/data checks, Docker Compose, GitHub Actions, Telegram workflows, CRM/API integration, ERP/API integration, adapter contracts, webhooks, audit logs, retries, idempotency, admin workflows, internal tools, runbooks, documentation, privacy boundaries, RAG workflow evidence, PostgreSQL/pgvector.
+
+WORK EXPERIENCE
+Python Backend and Application Support Engineer
+Autoschool54 / DriveDesk backend and internal-tools work
+Remote, March 2024 - Present
+
+- Support live admin/operator workflows across internal tools, Telegram intake, API/CRM-style handoff, SQL/data checks, documents, schedules, payments, accounts, access, and troubleshooting.
+- Translate unclear business requests into small technical actions, repeatable workflows, documentation, privacy boundaries, and recovery paths.
+- Work with Telegram request intake, backend validation, database-style records, admin queue handoff, operator status states, and application support routines.
+- Use AI tooling for domain research, implementation options, debugging, tests, documentation, and review while verifying outputs through inspection, tests or smoke checks, logs, comparison, and written notes.
+- Keep public evidence synthetic or redacted: no real names, phone numbers, chat IDs, admin URLs, logs, dumps, tokens, credentials, or private repository code.
+
+PUBLIC WORK SAMPLES
+Autoschool Intake/Admin work sample
+https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html
+First-job backend/internal-tools evidence: Telegram request intake -> backend validation -> database record -> admin queue -> operator status workflow. Public evidence is synthetic only.
+
+First Backend Role Fit
+https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html
+Practical first-role screen for bounded Python/backend tasks: endpoint, model, admin workflow step, integration mapping, smoke check, docs, and handoff.
+
+DriveDesk Core
+https://github.com/AlexGerlitz/drivedesk-core
+FastAPI/PostgreSQL backend foundation for operations and integrations: tenants, RBAC, audit/outbox, adapter boundaries, OpenAPI, Docker Compose, pytest, CI, docs, and public demo.
+
+AI Ops Workflow Kit
+https://github.com/AlexGerlitz/ai-ops-workflow-kit
+FastAPI/PostgreSQL/pgvector backend evidence with privacy redaction, RAG retrieval, transcript analysis, approvals, Telegram callback, dry-run CRM handoff, idempotent outbox, Docker, CI, and reviewer acceptance report.
+
+DeployMate
+https://github.com/AlexGerlitz/deploymate
+Self-hosted Docker deployment control panel evidence: FastAPI, Next.js, PostgreSQL, SSH runtime tooling, CI/CD, health checks, logs, evidence bundles, and runbooks.
+
+MPlusForm
+https://github.com/AlexGerlitz/MPlusForm
+Validation-boundary automation sample: Python sync pipeline, server-approved snapshots, Windows operations docs, Lua addon boundary, and public verification run.
+
+EDUCATION
+Novosibirsk State Technical University (NSTU)
+Applied Informatics, 2025 - Present
+
+WORK MODE
+Remote-only full-time roles or concrete fixed-scope projects with a clear first useful outcome, review path, tests or smoke evidence, docs, and handoff. Best fit is backend/API-heavy work. Not positioning for senior DevOps, Kubernetes/Terraform-first platform ownership, onsite-only roles, pure prompt/content tasks, isolated static websites, student/course assignments, or vague work where success cannot be verified.

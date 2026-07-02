@@ -19,9 +19,10 @@ I build **Python backend/API automation** for messy business workflows: FastAPI/
 | [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) | The practical first-job question: what can a team safely give me first? |
 | [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) | First-role backend/internal-tools proof with synthetic public evidence only. |
 | [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) | Two-page handoff for forwarding after the role fit is clear. |
-| [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | One-page application upload or internal ATS handoff. |
+| [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) | One-page application upload or internal forwarding. |
 
 Deeper technical review after the first-role fit is clear: [DriveDesk AI Operator](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html) for RAG/transcript/approval/CRM workflow evidence and [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) for tests, logs, runbooks, adapter boundaries, and AI workflow review.
+For application parsers and plain-text uploads: [ATS plain-text resume](https://alexgerlitz.github.io/AlexGerlitz/output/txt/alex-gerlitz-ats-resume.txt).
 ## Recruiter Snapshot
 
 **Message me first when** there is one messy workflow, one risky integration boundary, or one Python/backend automation, API/CRM, QA automation, AI workflow, or reliability slice that should become testable, logged, documented, and handed off.

@@ -154,6 +154,7 @@ REQUIRED_FILES = [
     "CASE_STUDIES.md",
     "output/pdf/alex-gerlitz-python-backend-automation-resume.pdf",
     "output/pdf/alex-gerlitz-recruiter-proof-pack.pdf",
+    "output/txt/alex-gerlitz-ats-resume.txt",
     "assets/linkedin-banner.png",
     "assets/linkedin-banner.svg",
     "assets/social-card.png",
@@ -194,6 +195,8 @@ REQUIRED_TEXT = {
         "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf",
         "PDF resume",
         "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf",
+        "ATS plain-text resume",
+        "https://alexgerlitz.github.io/AlexGerlitz/output/txt/alex-gerlitz-ats-resume.txt",
         "LinkedIn Recruiter Packet",
         "https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html",
         "30-second role lane, first work sample, scope boundary, and recruiter prompt.",
@@ -1026,6 +1029,8 @@ REQUIRED_TEXT = {
         "Public work samples are based on workflow shape, not tutorial-only demos",
         "Private production data is replaced with synthetic public evidence.",
         "Open PDF resume",
+        "Open ATS text resume",
+        "output/txt/alex-gerlitz-ats-resume.txt",
         "LinkedIn Recruiter Packet",
         "Autoschool Intake/Admin work sample",
         "Decision-Ready Contact",
@@ -2735,6 +2740,8 @@ REQUIRED_TEXT = {
         "two-page role-fit handoff with first-month ownership",
         "PDF resume",
         "one-page application handoff with Python/backend automation",
+        "ATS plain-text resume",
+        "single-column parser-friendly resume with standard headings",
         "Decision-Ready Contact",
         "fastest message route after the role context is clear",
         "Deeper Technical / Project Review",
@@ -3194,6 +3201,7 @@ SITEMAP_LASTMOD_REQUIREMENTS = {
     "https://alexgerlitz.github.io/AlexGerlitz/resume.html": "2026-07-01",
     "https://alexgerlitz.github.io/AlexGerlitz/resume-pdf.html": "2026-07-01",
     "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf": "2026-07-01",
+    "https://alexgerlitz.github.io/AlexGerlitz/output/txt/alex-gerlitz-ats-resume.txt": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/RESUME.md": "2026-07-02",
     "https://alexgerlitz.github.io/AlexGerlitz/application-pack.html": "2026-07-02",
@@ -3523,6 +3531,47 @@ PDF_ARTIFACTS = {
             "Users/alexgerlitz",
             "Documents/Codex",
             "AI-assisted output",
+        ],
+    },
+}
+
+TXT_ARTIFACTS = {
+    "output/txt/alex-gerlitz-ats-resume.txt": {
+        "min_chars": 3500,
+        "required": [
+            "Alex Gerlitz",
+            "Python Backend / API Automation",
+            "SUMMARY",
+            "CORE SKILLS",
+            "WORK EXPERIENCE",
+            "PUBLIC WORK SAMPLES",
+            "EDUCATION",
+            "WORK MODE",
+            "Junior Python Backend Developer",
+            "FastAPI",
+            "PostgreSQL",
+            "REST APIs",
+            "OpenAPI",
+            "pytest",
+            "Docker Compose",
+            "GitHub Actions",
+            "Autoschool54 / DriveDesk backend and internal-tools work",
+            "Remote, March 2024 - Present",
+            "Autoschool Intake/Admin work sample",
+            "First Backend Role Fit",
+            "DriveDesk Core",
+            "AI Ops Workflow Kit",
+            "Public evidence is synthetic only.",
+            "no real names, phone numbers, chat IDs, admin URLs, logs, dumps, tokens, credentials",
+            "Not positioning for senior DevOps",
+        ],
+        "forbidden": [
+            "file://",
+            "Users/alexgerlitz",
+            "Documents/Codex",
+            "new-chat",
+            "AI-generated",
+            "Kubernetes/Terraform-first platform ownership as a target",
         ],
     },
 }
@@ -4046,6 +4095,23 @@ def check_pdf_artifacts(errors: list[str]) -> None:
                 errors.append(f"{relative}: forbidden PDF text marker: {needle}")
 
 
+def check_txt_artifacts(errors: list[str]) -> None:
+    for relative, spec in TXT_ARTIFACTS.items():
+        path = ROOT / relative
+        if not path.exists():
+            errors.append(f"missing TXT artifact: {relative}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        if len(text) < int(spec["min_chars"]):
+            errors.append(f"{relative}: unexpectedly short TXT artifact")
+        for needle in spec["required"]:
+            if needle not in text:
+                errors.append(f"{relative}: missing TXT marker: {needle}")
+        for needle in spec["forbidden"]:
+            if needle in text:
+                errors.append(f"{relative}: forbidden TXT marker: {needle}")
+
+
 def main() -> int:
     errors: list[str] = []
     check_required_text_key_shape(errors)
@@ -4062,6 +4128,7 @@ def main() -> int:
     check_json_ld_blocks(errors)
     check_png_size(errors)
     check_pdf_artifacts(errors)
+    check_txt_artifacts(errors)
     check_sitemap_lastmods(errors)
     check_current_evidence_snippets(errors)
 

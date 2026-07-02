@@ -11,6 +11,7 @@ This is the AI-readable review index for my public GitHub/LinkedIn route. It is 
 - [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html): public-safe first-job evidence for Telegram request intake, backend validation, database record, admin queue handoff, operator status workflow, and privacy boundary without exposing learner data or live admin screenshots.
 - [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf): two-page role-fit handoff with first-month ownership, work samples, truthful Docker/CI and AI boundaries, contact route, and public-safe privacy boundary.
 - [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf): one-page application handoff with Python/backend automation, internal tools, API/CRM integration, QA Automation Python, Autoschool intake/admin work sample, public work samples, AI-native delivery loop, Europe-compatible async signal, review-by-intent routes, and contact paths.
+- [ATS plain-text resume](https://alexgerlitz.github.io/AlexGerlitz/output/txt/alex-gerlitz-ats-resume.txt): single-column parser-friendly resume with standard headings, role targets, skills, work experience, public work samples, education, and work-mode boundary.
 - [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html): fastest message route after the role context is clear: recruiter offer triage, minimum first context, fit read, risk check, smallest responsible first slice, next step, structured contact-route data, and best first review links.
 
 ## Deeper Technical / Project Review
@@ -98,6 +99,7 @@ This is the AI-readable review index for my public GitHub/LinkedIn route. It is 
 - [Inbound brief](https://alexgerlitz.github.io/AlexGerlitz/intake-brief.html): role, project, offer route, success condition, systems involved, constraints, and verification context.
 - [Contact routes](https://alexgerlitz.github.io/AlexGerlitz/inbound-response.html)
 - [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
+- [ATS plain-text resume](https://alexgerlitz.github.io/AlexGerlitz/output/txt/alex-gerlitz-ats-resume.txt)
 
 ## Review Notes
 
