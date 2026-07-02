@@ -25,7 +25,7 @@ Checked on 2026-07-01.
 
 - LinkedIn Open-to-Work explicitly uses job titles, location type, locations, employment types, and visibility, so the profile should not spread the first-job surface across unrelated titles.
 - LinkedIn Skills are a matching surface and can include up to 100 skills, so the top visible skills should stay tied to public evidence and role keywords.
-- LinkedIn Featured is an evidence surface, so first visible work samples should be short review paths: LinkedIn Recruiter Review Path, LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack before deeper routes.
+- LinkedIn Featured is an evidence surface, so first visible work samples should be short review paths: Backend/API Work Samples, LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and PDF Resume before deeper routes.
 - GitHub profile README and pinned repositories remain the fastest public technical review path, so the README, pins, Pages routes, CI/live smoke, and PDF resume must stay aligned.
 - Russia-first market scan supports band-aware private screening for serious remote full-time outreach; international-market scan supports keeping English-first async/team evidence visible for later international screening without making geography the public ask.
 
@@ -40,7 +40,7 @@ I use this as the public filter map for LinkedIn Recruiter-style searches and fa
 | Remote / location | Remote-only, distributed teams, Europe-compatible async review, and written handoff. | [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | Language / review | Russian-speaking product review or English-first public docs, async review paths, CI, smoke checks, runbooks, diagrams, and handoff notes. | [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html) |
 | Application / ATS shortlist | Parser-readable lanes for Python backend/internal tools, Integration/API/CRM, QA Automation Python, and AI workflow automation. | [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html) |
-| Featured evidence | LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, Recruiter Review Pack, and PDF Resume first; Delivery Capability, Application Fit Pack, DriveDesk AI Operator route, DriveDesk Core, AI Backend Review Pack, Verification Pack, and Decision-Ready Contact after first context. | [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) |
+| Featured evidence | Backend/API Work Samples, LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and PDF Resume first; Recruiter Review Pack, Delivery Capability, Application Fit Pack, DriveDesk AI Operator route, DriveDesk Core, AI Backend Review Pack, Verification Pack, and Decision-Ready Contact after first context. | [Backend/API Work Samples](https://alexgerlitz.github.io/AlexGerlitz/linkedin-proof-signal.html) |
 | Seniority / specialist signal | Backend-owned state, AI-output review, CRM/ERP/API adapter contracts, privacy boundary, audit, retries, idempotency, smoke checks, and runbooks. | [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) |
 
 ## Recruiter Search Keywords
@@ -107,7 +107,7 @@ This page mirrors the visible LinkedIn setup I want recruiters to see before sen
 | --- | --- |
 | Headline | Python Backend Developer | FastAPI, PostgreSQL, API/CRM Integrations | QA Automation Python support |
 | About / Experience | First-person ownership language around Python backend/application-support work, backend-owned AI workflow and operations systems, the AI-native delivery loop, evidence-slice contact language, real Autoschool54 operations since March 2024, and privacy-safe public evidence. |
-| Featured route | LinkedIn Recruiter Review Path first, then LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and Recruiter Review Pack. Decision-Ready Contact is the message route after a concrete role or workflow appears; Delivery Capability, Application Fit Pack, DriveDesk AI Operator route, DriveDesk Core, AI Backend Review Pack, Verification Pack, and PDF Resume are deeper routes after first context. |
+| Featured route | Backend/API Work Samples first, then LinkedIn Recruiter Packet, First Backend Role Fit, Autoschool Intake/Admin work sample, and PDF Resume. Recruiter Review Pack and Decision-Ready Contact are for forwarding or next-step context after a concrete role or workflow appears; Delivery Capability, Application Fit Pack, DriveDesk AI Operator route, DriveDesk Core, AI Backend Review Pack, and Verification Pack are deeper routes after first context. |
 | Open-to-Work | Remote job titles and skill filters aligned with Python/backend automation, internal tools, API/CRM integration, QA Automation Python, AI workflow automation, and reliability handoff. |
 | Resume / handoff | Decision-Ready Contact and Start Conversation routes before PDF Resume for internal sharing. |
 | Services | Live LinkedIn Services overview and media route requests toward Python/backend automation, AI workflow, integration, internal tools, QA/API verification, Docker/CI handoff, or data-workflow evidence instead of generic web/app work. |
@@ -120,7 +120,7 @@ Use this section to decide which role lane, review path, and first assignment ar
 | --- | --- |
 | Best-fit role lane | Python Backend Developer with FastAPI, PostgreSQL, API/CRM Integrations, and QA Automation Python support |
 | First useful assignment | One FastAPI endpoint, data model, admin queue step, API/CRM mapping, API smoke check, SQL/data check, or runbook gap that can be reviewed as a bounded shipped slice. |
-| Fastest evidence | LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter Review Pack -> PDF resume. Open DriveDesk AI Operator after the backend/API fit is clear. |
+| Fastest evidence | LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume. Use Recruiter Review Pack and DriveDesk AI Operator after the backend/API fit is clear. |
 | Why the sample matters | Autoschool Intake/Admin shows request intake, backend validation, stored state, admin review, operator status, tests or smoke checks, and handoff notes using synthetic public evidence. |
 | Public evidence boundary | Public work samples use synthetic or redacted evidence only: no real names, phone numbers, chat IDs, admin URLs, logs, dumps, tokens, credentials, or live admin screenshots. |
 

@@ -52,11 +52,11 @@ Hi Alex, I am hiring for a remote Python/backend, QA/API, internal-tools, CRM/AP
 
 ## Review Order
 
-Evidence before PDFs: First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter Review Pack -> PDF Resume.
+Fast screen: First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF Resume. Use Recruiter Review Pack for forwarding after role fit is clear.
 
 1. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html): bounded first-task sample.
 2. [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html): bot intake -> backend validation -> database state -> admin queue -> operator status.
-3. [Recruiter Review Pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf): two-page fit and handoff.
-4. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf): one-page application handoff.
+3. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf): one-page application handoff.
+4. [Recruiter Review Pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf): two-page fit and handoff for forwarding after fit.
 5. [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html): skill-to-evidence map across Python, FastAPI, PostgreSQL, QA/API, integrations, RAG, and Docker/CI handoff.
 6. [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html): CI, live smoke, public routes, and evidence freshness.

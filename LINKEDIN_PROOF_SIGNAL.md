@@ -1,4 +1,4 @@
-# LinkedIn Recruiter Review Path
+# Backend/API Work Samples - Alex Gerlitz
 
 I use this as the open-first public route for a LinkedIn profile view, a recruiter share, or a first message handoff. It points reviewers to the strongest backend-first review path without asking them to read the whole portfolio first.
 
@@ -36,7 +36,7 @@ This section maps my target roles, skills, and public work samples to the search
 
 - LinkedIn Open-to-Work asks for job titles, location type, locations, start date, employment types, and visibility; LinkedIn says these preferences help the profile appear when recruiters search for suitable candidates: https://www.linkedin.com/help/linkedin/answer/a507508/let-recruiters-know-you-re-open-to-work
 - LinkedIn Skills can hold up to 100 skills; LinkedIn says relevant skills help others understand strengths and match the profile with opportunities: https://www.linkedin.com/help/linkedin/answer/a549047/add-and-remove-skills-on-your-profile
-- LinkedIn Featured is for work samples that show skills and experience, so the first visible cards should be review paths, not decorative links: https://www.linkedin.com/help/linkedin/answer/a552452/featured-section-on-your-profile-faqs
+- LinkedIn Featured is for work samples that show skills and experience, so the first visible card should read like a backend/API work-sample route, not like an internal proof label: https://www.linkedin.com/help/linkedin/answer/a550399/feature-samples-of-your-work-on-your-linkedin-profile
 - GitHub profile README and pinned repositories are the public first-screen evidence surface; GitHub shows profile README only from a public username-matching repo, and pins are managed from the profile page: https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme and https://docs.github.com/en/account-and-profile/how-tos/profile-customization/pinning-items-to-your-profile
 - Russia-first market signal: HH currently shows remote/partly remote Python and QA openings across a wide junior/1-3 year band, including postings that cross the target entry threshold. This supports private compensation screening and public band-aware outreach instead of putting an exact floor into the review path.
 - International-market signal: current Python/backend searches show real demand but skew heavily toward experienced, hybrid, and local-market screens. That supports building English-first async evidence now while routing the first job through realistic Russia/remote lanes first.
@@ -46,8 +46,8 @@ This section maps my target roles, skills, and public work samples to the search
 1. [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html)
 2. [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html)
 3. [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html)
-4. [Recruiter Review Pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf)
-5. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
+4. [PDF Resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf)
+5. [Recruiter Review Pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf)
 
 [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html) is the first contact route when a recruiter already has a concrete role or workflow. [Delivery Capability](https://alexgerlitz.github.io/AlexGerlitz/delivery-capability.html), [Application Fit Pack](https://alexgerlitz.github.io/AlexGerlitz/application-fit-pack.html), [Skill Evidence](https://alexgerlitz.github.io/AlexGerlitz/skill-evidence.html), [Verification Pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [DriveDesk AI Operator route](https://alexgerlitz.github.io/AlexGerlitz/drivedesk-proof-route.html), and [AI Backend Review Pack](https://alexgerlitz.github.io/AlexGerlitz/ai-backend-proof-pack.html) are deeper technical review, not the first screen.
 
@@ -77,7 +77,7 @@ Junior Python backend, QA/API Python, CRM/API integration, support engineer with
 
 ### First review order
 
-LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> Recruiter Review Pack -> PDF resume. Use Decision-Ready Contact after a concrete role or workflow is already on the table.
+LinkedIn Recruiter Packet -> First Backend Role Fit -> Autoschool Intake/Admin work sample -> PDF resume. Use Recruiter Review Pack and Decision-Ready Contact after a concrete role or workflow is already on the table.
 
 ### Search keywords
 
