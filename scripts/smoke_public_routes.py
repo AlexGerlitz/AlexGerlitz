@@ -840,7 +840,7 @@ ROUTES: tuple[RouteCheck, ...] = (
             "Delivery Capability",
             "deeper role-market fit for AI-assisted Python automation, internal tools, backend integration, QA Automation Python bridge",
             "Application Outreach Pack",
-            "role-specific application and recruiter-message layer with first-person outreach blocks, ATS keyword bundles, vacancy triage, truthful Docker/CI and AI boundaries, privacy limits, and work samples",
+            "role-specific application and recruiter-message layer with first-person English outreach blocks, Russian HH/Telegram short replies, ATS keyword bundles, vacancy triage, truthful Docker/CI and AI boundaries, privacy limits, and work samples",
             "AI Ops Employer Trigger Evidence",
             "maps employer triggers to concrete repo evidence, verification commands, first-result evidence, and backend-owned workflow boundaries.",
             "Recruiter Preferences",
