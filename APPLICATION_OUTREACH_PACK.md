@@ -64,6 +64,35 @@ Hi, I am applying for the integration/API role. I can map one source and one tar
 Thanks. Send the role title, remote setup, stack/systems, first-month ownership surface, hiring timeline, and compensation band if shareable. I will reply with fit, risks, the smallest responsible first slice, and the best review path.
 ```
 
+## Russian HH / Telegram Short Replies
+
+Use these for Russian-language vacancies and recruiter chats. Keep one proof route and do not paste
+the full portfolio into the first message.
+
+### Python Backend / Internal Tools
+
+```text
+Здравствуйте! Откликаюсь на удаленную Python backend / internal tools роль. Мое основное совпадение со стеком: Python, FastAPI, PostgreSQL/SQL, REST/OpenAPI, pytest/API smoke checks, админские workflow и интеграции. Быстрый proof: First Backend Role Fit -> Autoschool Intake/Admin. Готов начать с небольшого проверяемого среза: входные данные -> валидация -> состояние в БД -> результат -> проверка и handoff.
+```
+
+### QA/API Python
+
+```text
+Здравствуйте! Откликаюсь на QA/API automation с Python. Могу делать backend-процессы повторяемо проверяемыми через pytest, REST/OpenAPI checks, SQL/data checks, логи, smoke checks и понятные issue notes. Быстрый proof: Backend Role Fit -> Skill Evidence -> Verification Pack.
+```
+
+### Integration / API / CRM
+
+```text
+Здравствуйте! Откликаюсь на integration/API/CRM роль. Могу разобрать один источник и одну целевую систему, описать контракт адаптера, privacy boundary, retries/idempotency/audit и оставить проверяемый первый sync или intake/admin slice. Быстрый proof: Autoschool Intake/Admin -> DriveDesk AI Operator.
+```
+
+### Recruiter Reply
+
+```text
+Спасибо. Пришлите, пожалуйста, роль, формат удаленки, стек/системы, зону ответственности на первый месяц, этапы и вилку компенсации, если можно. Я отвечу fit/no-fit, риски, первый ответственный срез и ссылку для проверки.
+```
+
 ## Scope Boundary
 
 I can work with Docker Compose, GitHub Actions, health checks, smoke checks, logs, backup notes,
