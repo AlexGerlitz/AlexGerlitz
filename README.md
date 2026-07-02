@@ -27,7 +27,7 @@ For application parsers and plain-text uploads: [ATS plain-text resume](https://
 
 **Message me first when** there is one messy workflow, one risky integration boundary, or one Python/backend automation, API/CRM, QA automation, AI workflow, or reliability slice that should become testable, logged, documented, and handed off.
 
-**First reply promise:** I will answer with a fit read, risky assumptions, the smallest responsible first slice, the work sample to inspect, and the right next path: remote role, fixed-scope project, technical review, or no-fit.
+**First reply promise:** I will answer with a fit read, risky assumptions, the smallest responsible first slice, the work sample to inspect, and the right next path: remote full-time screen, technical review, scoped project, or no-fit.
 
 **Suggested recruiter path:** [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf). [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/) with role title, remote setup, stack, first-month ownership, timeline, and compensation band if shareable.
 
@@ -47,8 +47,8 @@ Best immediate starts: Python/backend workflow slice, CRM/ERP/API adapter, inter
 | Send me | Best match | Fast review |
 | --- | --- | --- |
 | Remote full-time role | Junior Python backend, QA/API automation, integrations, internal tools, Python/FastAPI/PostgreSQL, Docker/CI handoff. | [Decision-Ready Contact](https://alexgerlitz.github.io/AlexGerlitz/decision-ready-contact.html), [LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html), [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html), [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html), [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf) |
-| Fixed-scope project | One messy workflow, one success condition, and a working slice with tests, logs, docs, and handoff path. | [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html), [fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html), [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) |
 | Technical review | Code, CI, live smoke, runtime boundaries, privacy redaction, adapter contracts, runbooks, and public-safe evidence. | [Verification pack](https://alexgerlitz.github.io/AlexGerlitz/verification-pack.html), [AI Ops evidence status](https://github.com/AlexGerlitz/ai-ops-workflow-kit/blob/main/docs/PUBLIC_PROOF_STATUS.md) |
+| Scoped project after role fit | One messy workflow, one success condition, and a working slice with tests, logs, docs, and handoff path. | [Work with me](https://alexgerlitz.github.io/AlexGerlitz/work-with-me.html), [fixed-scope offers](https://alexgerlitz.github.io/AlexGerlitz/fixed-scope-offers.html), [Start conversation](https://alexgerlitz.github.io/AlexGerlitz/start-conversation.html) |
 
 ## Flagship Direction
 
