@@ -213,7 +213,7 @@ REQUIRED_TEXT = {
         "smallest responsible first slice, the work sample to inspect",
         "right next path: remote role, fixed-scope project, technical review, or no-fit",
         "Suggested recruiter path",
-        "LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf). Message on [LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)",
+        "LinkedIn Recruiter Packet](https://alexgerlitz.github.io/AlexGerlitz/linkedin-recruiter-packet.html) -> [First Backend Role Fit](https://alexgerlitz.github.io/AlexGerlitz/first-backend-role.html) -> [Autoschool Intake/Admin work sample](https://alexgerlitz.github.io/AlexGerlitz/autoschool-intake-admin.html) -> [Recruiter review pack](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-recruiter-proof-pack.pdf) -> [PDF resume](https://alexgerlitz.github.io/AlexGerlitz/output/pdf/alex-gerlitz-python-backend-automation-resume.pdf). [Message on LinkedIn](https://www.linkedin.com/in/alex-gerlitz-a659ab3bb/)",
         "LinkedIn support routes",
         "profile-view signal",
         "LinkedIn Recruiter Review Path",
